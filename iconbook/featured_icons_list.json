@@ -33,7 +33,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574309-b01b0bfe-73b3-11e8-98cb-f6421b507961.png",
       "name" : "1Player",
       "category" : "Video",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/1player\/id825344341?at=1l3vtCx"
+      "link" : "https:\/\/apps.apple.com\/app\/id825344341"
     },
     {
       "developer" : "Beehive Innovations",
@@ -99,6 +99,27 @@
       "link" : "https:\/\/zippr.app\/"
     },
     {
+      "developer" : "OakTree Software, Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732048-ea63ce80-1165-11ea-9713-afc9507b6ee6.png",
+      "name" : "Accordance 9",
+      "category" : "Reference",
+      "link" : "http:\/\/www.accordancebible.com\/"
+    },
+    {
+      "developer" : "OakTree Software, Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732047-ea63ce80-1165-11ea-8c9c-e0cc2ad07425.png",
+      "name" : "Accordance 10-11",
+      "category" : "Reference",
+      "link" : "http:\/\/www.accordancebible.com\/"
+    },
+    {
+      "developer" : "OakTree Software, Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732051-eafc6500-1165-11ea-9546-bce82b75554f.png",
+      "name" : "Accordance 12",
+      "category" : "Reference",
+      "link" : "http:\/\/www.accordancebible.com\/"
+    },
+    {
       "developer" : "Oranged Software",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68546117-7360d300-040e-11ea-9ac2-f5a7230233e4.png",
       "name" : "Accounted",
@@ -160,6 +181,13 @@
       "name" : "Aether",
       "category" : "Lifestyle",
       "link" : "http:\/\/www.aetherlog.com"
+    },
+    {
+      "developer" : "Night School Studio",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69645375-0a7d8a00-10a1-11ea-997f-b76c6d77b32c.png",
+      "name" : "Afterparty",
+      "category" : "Games",
+      "link" : "http:\/\/nightschoolstudio.com\/"
     },
     {
       "developer" : "Guilherme Rambo",
@@ -484,11 +512,25 @@
       "link" : "https:\/\/rogueamoeba.com\/audiohijack"
     },
     {
+      "developer" : "Music Topia",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74102937-ecdd9e00-4b82-11ea-92c5-43b6ffae3d7f.png",
+      "name" : "Audio Library Collection",
+      "category" : "Lifestyle",
+      "link" : "https:\/\/apps.apple.com\/app\/id1041868293"
+    },
+    {
       "developer" : "Audulus LLC",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798848-deb7a200-ef41-11e9-84f6-f0d0f56c2d1d.png",
       "name" : "Audulus 3",
       "category" : "Music",
       "link" : "http:\/\/audulus.com"
+    },
+    {
+      "developer" : "Apple",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/72813689-c07ae400-3c9e-11ea-9e26-6825d69c1170.png",
+      "name" : "Automator",
+      "category" : "Productivity",
+      "link" : "https:\/\/www.apple.com"
     },
     {
       "developer" : "Eagleapp",
@@ -537,7 +579,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574366-bbfed342-73b3-11e8-9573-1fdaa627c9af.png",
       "name" : "Bass System Test",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/bass-system-test\/id1321812604?mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1321812604"
     },
     {
       "developer" : "Han Lin Yap",
@@ -649,7 +691,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037483-00594248-8d40-11e8-8688-57621526b720.png",
       "name" : "Bellhop",
       "category" : "Travel",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/bellhop\/id448016695?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id448016695"
     },
     {
       "developer" : "Filemaker",
@@ -838,7 +880,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574392-c1a3c2e4-73b3-11e8-8552-6aaf88fcb37b.png",
       "name" : "Books Expert - Templates for iBooks Author",
       "category" : "Graphics & Design",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/books-expert-templates-for-ibooks-author\/id497704085?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id497704085"
     },
     {
       "developer" : "Global Delight Technologies Pvt. Ltd",
@@ -915,7 +957,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574398-c2ceca88-73b3-11e8-8b91-a79aa833a1eb.png",
       "name" : "Briefs File",
       "category" : "Developer Tools",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/briefs\/id626221782?at=1l3vtCx"
+      "link" : "http:\/\/martiancraft.com\/products"
     },
     {
       "developer" : "Briefs, LC",
@@ -1073,6 +1115,13 @@
     },
     {
       "developer" : "Mailr Tech LLP",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71015386-78f8b980-212e-11ea-8f90-b2583b063ea6.png",
+      "name" : "Canary Mail 2",
+      "category" : "Productivity",
+      "link" : "https:\/\/canarymail.io"
+    },
+    {
+      "developer" : "Mailr Tech LLP",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574416-c6d105ba-73b3-11e8-9c8b-6187621576c6.png",
       "name" : "Canary Mail",
       "category" : "Productivity",
@@ -1139,7 +1188,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574422-c85316da-73b3-11e8-804b-f4ddec3fa135.png",
       "name" : "Capturer",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/capturer-auto-screen-captures\/id1200585553?mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1200585553"
     },
     {
       "developer" : "Ben Software Ltd",
@@ -1457,6 +1506,13 @@
       "link" : "https:\/\/claritywallpaper.com"
     },
     {
+      "developer" : "Apple",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732046-e9cb3800-1165-11ea-897c-331ed321973e.png",
+      "name" : "Classroom",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.apple.com"
+    },
+    {
       "developer" : "Synium Software",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574460-d0f07c10-73b3-11e8-8890-72717b114f5c.png",
       "name" : "CleanApp",
@@ -1702,6 +1758,13 @@
       "link" : "https:\/\/mac.eltima.com\/file-manager.html"
     },
     {
+      "developer" : "treeinspired GmbH",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846388-bc83c700-1e93-11ea-8e90-daea0782a279.png",
+      "name" : "Compendium - Pharma Dictionary",
+      "category" : "Medical",
+      "link" : "https:\/\/www.treeinspired.com"
+    },
+    {
       "developer" : "BZG Inc.",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574484-d62529f6-73b3-11e8-97b1-a214a3f98ff4.png",
       "name" : "Compress",
@@ -1769,7 +1832,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/47725201-170f9300-dc93-11e8-87f4-bad969ccf703.png",
       "name" : "Converto",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/cn\/app\/converto-the-unit-converter\/id576421334?mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id576421334"
     },
     {
       "developer" : "Barracuda Networks, Inc.",
@@ -1860,7 +1923,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036836-543cc16a-8d3a-11e8-87a1-ff7cb207a9b8.png",
       "name" : "Cream",
       "category" : "News",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/cream\/id563511066?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id563511066"
     },
     {
       "developer" : "Creolabs Inc.",
@@ -1916,7 +1979,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574503-db0f3da8-73b3-11e8-8655-cf5854da9067.png",
       "name" : "Cut Out Shapes",
       "category" : "Photography",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/cut-out-shapes-erase-elements\/id1044545923?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1044545923"
     },
     {
       "developer" : "DoubleDog Software",
@@ -2182,7 +2245,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574538-e170624e-73b3-11e8-8e79-b0fa10850c60.png",
       "name" : "Desk",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/desk-pm-writing-blogging-notetaking\/id915839505?mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id915839505"
     },
     {
       "developer" : "Neomobili",
@@ -2197,6 +2260,13 @@
       "name" : "Deskovery 3",
       "category" : "Utilities",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/36082\/deskovery"
+    },
+    {
+      "developer" : "green&slimy",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846389-bd1c5d80-1e93-11ea-808a-91a6c8c0eef9.png",
+      "name" : "Deskscribble",
+      "category" : "Graphics & Design",
+      "link" : "http:\/\/deskscribbleapp.com"
     },
     {
       "developer" : "Many Tricks",
@@ -2455,7 +2525,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574571-e8c853e4-73b3-11e8-95da-cdc83399b441.png",
       "name" : "Dolly",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/dolly-lite-the-duplicate-finder\/id1060955380?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1060955380"
     },
     {
       "developer" : "Klei",
@@ -2609,14 +2679,21 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036874-8e4bcf40-8d3a-11e8-9f92-940d50881d97.png",
       "name" : "Dropzone 2",
       "category" : "Productivity",
-      "link" : "https:\/\/aptoniac.com"
+      "link" : "https:\/\/aptonic.com"
     },
     {
       "developer" : "Aptonic Limited",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574586-ec6627ba-73b3-11e8-9af8-bfa038fcea01.png",
       "name" : "Dropzone 3",
       "category" : "Productivity",
-      "link" : "https:\/\/aptoniac.com"
+      "link" : "https:\/\/aptonic.com"
+    },
+    {
+      "developer" : "Aptonic Limited",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74034944-45326580-49f4-11ea-9005-928f48d570cd.png",
+      "name" : "Dropzone 4",
+      "category" : "Productivity",
+      "link" : "https:\/\/aptonic.com"
     },
     {
       "developer" : "Due Pte. Ltd.",
@@ -2686,7 +2763,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036878-92b0be74-8d3a-11e8-9516-334946fc8091.png",
       "name" : "Eggscellent",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/eggscellent\/id522294492?l=en&mt=12"
+      "link" : "https:\/\/github.com\/devon\/eggscellent"
     },
     {
       "developer" : "El Loco LLC",
@@ -2715,6 +2792,13 @@
       "name" : "Elmedia Player",
       "category" : "Video",
       "link" : "https:\/\/mac.eltima.com\/elmedia-appletv.html"
+    },
+    {
+      "developer" : "Surge Networks LLC",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846387-bbeb3080-1e93-11ea-8c45-de779e2466a2.png",
+      "name" : "Elpass",
+      "category" : "Productivity",
+      "link" : "https:\/\/elpass.app"
     },
     {
       "developer" : "Ironic Software",
@@ -2917,14 +3001,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574616-f3748b3c-73b3-11e8-9b23-c484ef37b526.png",
       "name" : "Expert Designs for Adobe Photoshop and inDesign",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/expert-designs-for-adobe-photoshop-and-indesign\/id925680537?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id925680537"
     },
     {
       "developer" : "Alungu",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574617-f3b09f50-73b3-11e8-8cbd-0be53f1731a1.png",
       "name" : "Expert Set - Templates for Pages, Keynote, Numbers",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/expert-set-templates-for-pages-keynote-numbers\/id1001567256?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1001567256"
     },
     {
       "developer" : "Kitestack Software",
@@ -2938,7 +3022,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574619-f444322e-73b3-11e8-92d3-d05fa308e357.png",
       "name" : "Extractor",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/extractor-unarchive-rar-zip\/id971826370?mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id971826370"
     },
     {
       "developer" : "Geniatech Inc., Ltd.",
@@ -2965,6 +3049,13 @@
       "developer" : "Flexibits Inc.",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574624-f567983a-73b3-11e8-8791-20ff7158c42a.png",
       "name" : "Fantastical - Blank",
+      "category" : "Productivity",
+      "link" : "https:\/\/flexibits.com\/fantastical"
+    },
+    {
+      "developer" : "Flexibits Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74098804-24ceec00-4b57-11ea-86c8-6349d6286da3.png",
+      "name" : "Fantastical 3",
       "category" : "Productivity",
       "link" : "https:\/\/flexibits.com\/fantastical"
     },
@@ -3225,7 +3316,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036892-99459f7a-8d3a-11e8-8c1a-91ea949cf482.png",
       "name" : "Focusbar",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/focusbar\/id443439127?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id443439127"
+    },
+    {
+      "developer" : "Andrea Gelati",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74034954-48c5ec80-49f4-11ea-9a0c-e02081a2efd2.png",
+      "name" : "Focusplan",
+      "category" : "Productivity",
+      "link" : "https:\/\/focusplan.app"
     },
     {
       "developer" : "FIPLAB Limited",
@@ -3246,7 +3344,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574649-fae71a6a-73b3-11e8-9a02-e511c1e6a068.png",
       "name" : "Foldery",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/foldery\/id815333099?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id815333099"
     },
     {
       "developer" : "Emiel van Liere & Hanno ten Hoor",
@@ -3288,7 +3386,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574652-fbc1cf70-73b3-11e8-9b68-df97b5124130.png",
       "name" : "FontSieve",
       "category" : "Graphics & Design",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/fontsieve\/id804381747?at=1l3vtCx"
+      "link" : "https:\/\/apps.apple.com\/app\/id804381747"
     },
     {
       "developer" : "Fork",
@@ -3330,7 +3428,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574659-fd11e9aa-73b3-11e8-8f17-98c5fb79f568.png",
       "name" : "FotoCleaner",
       "category" : "Photography",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/fotocleaner-lite-remove-similar-or-duplicate-photos\/id1049658892?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1049658892"
     },
     {
       "developer" : "Chronos",
@@ -3483,6 +3581,13 @@
       "developer" : "Primate Labs Inc.",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574680-01f98a7c-73b4-11e8-9aa0-55072aba0c3c.png",
       "name" : "Geekbench 4",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.geekbench.com"
+    },
+    {
+      "developer" : "Primate Labs Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71412668-ae029000-2689-11ea-8732-b8d3010fdfe3.png",
+      "name" : "Geekbench 5",
       "category" : "Utilities",
       "link" : "https:\/\/www.geekbench.com"
     },
@@ -3652,7 +3757,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574698-06545584-73b4-11e8-9fd6-8ecef01a7bf6.png",
       "name" : "Grand Piano Keys 5K - Learn To Play",
       "category" : "Music",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/grand-piano-keys-5k-learn-to-play\/id1049623607?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1049623607"
+    },
+    {
+      "developer" : "Music Breath",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104530-970ff280-4b90-11ea-85d4-95685eae4120.png",
+      "name" : "Grand Piano Keys",
+      "category" : "Music",
+      "link" : "https:\/\/apps.apple.com\/app\/id1049623607"
     },
     {
       "developer" : "GraphPad Software",
@@ -4023,7 +4135,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036913-a4ef6cca-8d3a-11e8-8dce-01b87b1aa833.png",
       "name" : "Icon Maker",
       "category" : "Developer Tools",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/icon-maker-asset-catalog-for-app-store-icons\/id1047139450?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1047139450"
     },
     {
       "developer" : "Jérémy Marchand",
@@ -4114,14 +4226,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574748-12bd0f78-73b4-11e8-985b-09c87a840ad7.png",
       "name" : "Image Exif Editor",
       "category" : "Photography",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/image-exif-editor\/id574607554?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id574607554"
     },
     {
       "developer" : "IcyBlaze Software Inc",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036919-a6e03474-8d3a-11e8-959f-73e627d380e7.png",
       "name" : "iMage Tools",
       "category" : "Photography",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/image-tools\/id493949693"
+      "link" : "https:\/\/apps.apple.com\/app\/id493949693"
     },
     {
       "developer" : "Icosasoft Software Inc.",
@@ -4226,7 +4338,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574758-15b766ba-73b4-11e8-8fd2-d260b5831efe.png",
       "name" : "Inspire Finance 4 Home Budget",
       "category" : "Finance",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/inspire-finance-4-home-budget\/id1268393946?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1268393946"
     },
     {
       "developer" : "Higher Bar, LLC",
@@ -4495,6 +4607,13 @@
       "link" : "http:\/\/karaoketubeapp.com"
     },
     {
+      "developer" : "Askiisoft",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71015385-78602300-212e-11ea-94cb-e9f855405124.png",
+      "name" : "Katana ZERO",
+      "category" : "Games",
+      "link" : "https:\/\/katanazero.com\/"
+    },
+    {
       "developer" : "Reinvented Software",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574791-1e87df86-73b4-11e8-9438-86002ca2313b.png",
       "name" : "Keep It",
@@ -4761,6 +4880,13 @@
       "link" : "https:\/\/lilyviewapp.com"
     },
     {
+      "developer" : "The Iconfactory",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71360155-d75be700-25c9-11ea-9df8-3900f5985c01.png",
+      "name" : "Linea Link",
+      "category" : "Productivity",
+      "link" : "https:\/\/linea-app.com"
+    },
+    {
       "developer" : "Noun Project",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798909-f68f2600-ef41-11e9-9ccd-eb02551f8d73.png",
       "name" : "Lingo Alpha",
@@ -4824,6 +4950,27 @@
       "link" : "https:\/\/livelylogic.com"
     },
     {
+      "developer" : "The Localization Suite",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71412667-ae029000-2689-11ea-9d9c-efe6d3987fa6.png",
+      "name" : "Localization Dictionary",
+      "category" : "Utilities",
+      "link" : "http:\/\/www.loc-suite.org"
+    },
+    {
+      "developer" : "The Localization Suite",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71412666-ad69f980-2689-11ea-95c3-a285e5416f86.png",
+      "name" : "Localization Manager",
+      "category" : "Utilities",
+      "link" : "http:\/\/www.loc-suite.org"
+    },
+    {
+      "developer" : "The Localization Suite",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71412669-ae9b2680-2689-11ea-8595-6608973a8865.png",
+      "name" : "Localizer",
+      "category" : "Utilities",
+      "link" : "http:\/\/www.loc-suite.org\/"
+    },
+    {
       "developer" : "BinaryNights LLC",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037294-f9a4dc38-8d3e-11e8-8748-887c846a527a.png",
       "name" : "Locko",
@@ -4863,14 +5010,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574832-28f9466c-73b4-11e8-80f7-8170b1ce58e8.png",
       "name" : "Loop Mash Up",
       "category" : "Music",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/loop-mash-up\/id1339022073?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1339022073"
     },
     {
       "developer" : "Music Topia",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574834-29401808-73b4-11e8-9c07-118e98830fb3.png",
       "name" : "Loop Piano",
       "category" : "Music",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/loop-piano\/id1345209199?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1345209199"
     },
     {
       "developer" : "Rogue Amoeba Software, Inc.",
@@ -5139,11 +5286,32 @@
       "link" : "https:\/\/mailpilothq.com"
     },
     {
+      "developer" : "Apple",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524166-79a8a300-4f59-11ea-9689-228867ac2144.png",
+      "name" : "Mail",
+      "category" : "Productivity",
+      "link" : "www.apple.com"
+    },
+    {
       "developer" : "MailBar",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574862-3134e408-73b4-11e8-9ff3-5a635f73e636.png",
       "name" : "MailBar",
       "category" : "Productivity",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/51517\/mailbar"
+    },
+    {
+      "developer" : "Freron Software",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524174-7d3c2a00-4f59-11ea-8228-854a167781cf.png",
+      "name" : "MailMate",
+      "category" : "Productivity",
+      "link" : "https:\/\/freron.com\/"
+    },
+    {
+      "developer" : "Mailplane GmbH",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71780085-286fd000-2ff9-11ea-86e9-a408bfd8db7f.png",
+      "name" : "Mailplane 4",
+      "category" : "Business",
+      "link" : "https:\/\/mailplaneapp.com"
     },
     {
       "developer" : "Mailplane GmbH",
@@ -5221,6 +5389,13 @@
       "name" : "MarsEdit",
       "category" : "Productivity",
       "link" : "https:\/\/www.red-sweater.com\/marsedit"
+    },
+    {
+      "developer" : "MediaHuman",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/73661361-e78cd900-46d4-11ea-888f-d4ffbe327a93.png",
+      "name" : "MediaTube",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.mediahuman.com\/mediatube\/"
     },
     {
       "developer" : "Giancarlo Mariot",
@@ -5392,10 +5567,17 @@
     },
     {
       "developer" : "Music Breath",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104529-95dec580-4b90-11ea-9cb3-84ae173d951b.png",
+      "name" : "Midi Keyboard - Play & Record 2",
+      "category" : "Music",
+      "link" : "https:\/\/apps.apple.com\/app\/id1221266801"
+    },
+    {
+      "developer" : "Music Breath",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574882-376a9b92-73b4-11e8-97a3-e4ee34db7a70.png",
       "name" : "Midi Keyboard - Play & Record",
       "category" : "Music",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/midi-keyboard-play-record\/id1221266801?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1221266801"
     },
     {
       "developer" : "Tatami Software",
@@ -5465,7 +5647,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574893-3a1e12ce-73b4-11e8-9547-d0c79a5dcb19.png",
       "name" : "Mines",
       "category" : "Games",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/mines\/id602009455?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id602009455"
     },
     {
       "developer" : "Dinosaur Polo Club",
@@ -5595,15 +5777,15 @@
     },
     {
       "developer" : "SilverWiz",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68086564-6715cc80-fe88-11e9-8b09-9fa5ed9193e9.png",
-      "name" : "MoneyWiz 3.5",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037485-11d51db2-8d40-11e8-8774-7cdec5eb7aab.png",
+      "name" : "MoneyWiz 3",
       "category" : "Finance",
       "link" : "https:\/\/wiz.money\/mac"
     },
     {
       "developer" : "SilverWiz",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037485-11d51db2-8d40-11e8-8774-7cdec5eb7aab.png",
-      "name" : "MoneyWiz 3",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68086564-6715cc80-fe88-11e9-8b09-9fa5ed9193e9.png",
+      "name" : "MoneyWiz 3.5",
       "category" : "Finance",
       "link" : "https:\/\/wiz.money\/mac"
     },
@@ -5662,6 +5844,13 @@
       "name" : "Mou",
       "category" : "Developer Tools",
       "link" : "http:\/\/25.io\/mou"
+    },
+    {
+      "developer" : "überclub",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/73661363-e8256f80-46d4-11ea-9e0c-8db08719f2f9.png",
+      "name" : "Mouseless",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/mouseless.app"
     },
     {
       "developer" : "Boinx Software",
@@ -5760,6 +5949,13 @@
       "name" : "Napkin",
       "category" : "Graphics & Design",
       "link" : "http:\/\/aged-and-distilled.com"
+    },
+    {
+      "developer" : "NativeConnect Team",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524178-7f05ed80-4f59-11ea-869c-ca1d882fa1b3.png",
+      "name" : "NativeConnect",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/nativeconnect.app"
     },
     {
       "developer" : "NearLock",
@@ -6445,7 +6641,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575003-5a057bea-73b4-11e8-96e9-964d13d8849b.png",
       "name" : "Piano Virtuoso",
       "category" : "Music",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/piano-virtuoso\/id1338700219?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id133870021"
+    },
+    {
+      "developer" : "Creatable",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69645372-09e4f380-10a1-11ea-8de4-8ec2261db538.png",
+      "name" : "Pichi",
+      "category" : "Productivity",
+      "link" : "https:\/\/pichiapp.com\/"
     },
     {
       "developer" : "Picktorial Innovations LTD",
@@ -6459,7 +6662,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037324-191e8a32-8d3f-11e8-9cce-d89d81be9357.png",
       "name" : "Pictary",
       "category" : "Lifestyle",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/pictary\/id483600230?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id483600230"
     },
     {
       "developer" : "Acqualia Software",
@@ -6519,6 +6722,13 @@
     },
     {
       "developer" : "Pixelmator Team",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71360154-d75be700-25c9-11ea-929b-6be7b6a56fd8.png",
+      "name" : "Pixelmator Pro",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/www.pixelmator.com\/pro"
+    },
+    {
+      "developer" : "Pixelmator Team",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575012-5d7fe530-73b4-11e8-9b65-c6ab5973f35e.png",
       "name" : "Pixelmator",
       "category" : "Graphics & Design",
@@ -6564,7 +6774,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575015-5ee5d45c-73b4-11e8-9b6d-c4612719457b.png",
       "name" : "Player for YouTube",
       "category" : "Video",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/player-for-youtube-lite\/id1038369020?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1038369020"
     },
     {
       "developer" : "Fat Cat Software",
@@ -6600,6 +6810,13 @@
       "name" : "Poedit",
       "category" : "Developer Tools",
       "link" : "https:\/\/poedit.net"
+    },
+    {
+      "developer" : "CJM Solutions, LLC",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/72813690-c1137a80-3c9e-11ea-90b9-668917bf1814.png",
+      "name" : "Poker Copilot",
+      "category" : "Productivity",
+      "link" : "https:\/\/pokercopilot.com\/"
     },
     {
       "developer" : "Polarr, Inc",
@@ -6796,6 +7013,13 @@
       "name" : "ProCSSor",
       "category" : "Developer Tools",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/41666\/procssor"
+    },
+    {
+      "developer" : "Music Topia",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74102601-f6b1d200-4b7f-11ea-9f35-ea1c6252f71d.png",
+      "name" : "Professional Recorder",
+      "category" : "Music",
+      "link" : "https:\/\/apps.apple.com\/app\/id975818620"
     },
     {
       "developer" : "Ross Tulloch",
@@ -7092,7 +7316,7 @@
       "link" : "http:\/\/buildtoconnect.com\/zh\/products\/recordit"
     },
     {
-      "developer" : "Records Team",
+      "developer" : "Andrea Gelati",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575074-6f5e5ae8-73b4-11e8-9064-7778a326761c.png",
       "name" : "Records",
       "category" : "Productivity",
@@ -7645,6 +7869,13 @@
       "link" : "https:\/\/setapp.com"
     },
     {
+      "developer" : "Apple",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732053-eafc6500-1165-11ea-97a3-357e6b5b53f4.png",
+      "name" : "SF Symbols",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/developer.apple.com\/design\/human-interface-guidelines\/sf-symbols\/overview\/"
+    },
+    {
       "developer" : "Mimimi Productions",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798954-00188e00-ef42-11e9-9a07-db5b65cac956.png",
       "name" : "Shadow Tactics Blades of the Shogun 2",
@@ -8002,6 +8233,13 @@
       "link" : "https:\/\/solisapp.com"
     },
     {
+      "developer" : "Music Breath",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104527-94ad9880-4b90-11ea-9998-96084585cd10.png",
+      "name" : "Song Writer - Lyrics Memo Plus",
+      "category" : "Music",
+      "link" : "https:\/\/apps.apple.com\/app\/id1047993597"
+    },
+    {
       "developer" : "Sonos. Inc",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575188-8c2e8062-73b4-11e8-9db6-37d2816bbfa5.png",
       "name" : "Sonos",
@@ -8069,7 +8307,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037379-514421d8-8d3f-11e8-854f-1f4abf554089.png",
       "name" : "Sparkbox",
       "category" : "Graphics & Design",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/sparkbox\/id488652149?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id509099536"
     },
     {
       "developer" : "River SRL",
@@ -8077,6 +8315,13 @@
       "name" : "Sparkle",
       "category" : "Graphics & Design",
       "link" : "https:\/\/sparkleapp.com"
+    },
+    {
+      "developer" : "RedBlueGames",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69645374-0a7d8a00-10a1-11ea-9319-3c5eac897fac.png",
+      "name" : "Sparklite",
+      "category" : "Games",
+      "link" : "http:\/\/redbluegames.com\/games\/sparklite\/"
     },
     {
       "developer" : "Sparrow",
@@ -8112,6 +8357,13 @@
       "name" : "Spectre",
       "category" : "Music",
       "link" : "http:\/\/spectre.aurchitect.com"
+    },
+    {
+      "developer" : "Music Breath",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104891-34205a80-4b94-11ea-86cd-077694f7df2c.png",
+      "name" : "Spectrum Analyzer",
+      "category" : "Music",
+      "link" : "https:\/\/apps.apple.com\/app\/id1049212349"
     },
     {
       "developer" : "Eigenlogik LLC",
@@ -8216,7 +8468,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575212-92fd6638-73b4-11e8-8cf1-22d18c1e3520.png",
       "name" : "Stationery Expert - Templates Bundle for Mail",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/stationery-expert-templates-bundle-for-mail\/id632612692?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id632612692"
     },
     {
       "developer" : "equinux",
@@ -8238,6 +8490,13 @@
       "name" : "SteerMouse",
       "category" : "Utilities",
       "link" : "http:\/\/www.plentycom.jp\/en\/steermouse\/index.html"
+    },
+    {
+      "developer" : "https:\/\/steuererklärung-app.de",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846384-bb529a00-1e93-11ea-8699-10f02b9d5b27.png",
+      "name" : "Steuererklärung",
+      "category" : "Finance",
+      "link" : "https:\/\/steuererklärung-app.de"
     },
     {
       "developer" : "Digualu Studio",
@@ -8427,6 +8686,13 @@
       "name" : "Switchem",
       "category" : "Utilities",
       "link" : "https:\/\/www.switchem.co"
+    },
+    {
+      "developer" : "DoYourData",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732055-eb94fb80-1165-11ea-9ed2-3c8aeec75b72.png",
+      "name" : "SwitchManager",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.doyourdata.com\/mac-manager\/switch-manager.html"
     },
     {
       "developer" : "Irradiated Software",
@@ -8695,6 +8961,13 @@
       "link" : "http:\/\/the-witness.net"
     },
     {
+      "developer" : "Semibits LLC",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846386-bbeb3080-1e93-11ea-8d05-529b5ca0e301.png",
+      "name" : "theBin",
+      "category" : "Productivity",
+      "link" : "https:\/\/www.semibits.com\/thebin"
+    },
+    {
       "developer" : "There™",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/55804220-7610e800-5b0e-11e9-9e92-045f77b3ac83.png",
       "name" : "There",
@@ -8832,7 +9105,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575277-a930229c-73b4-11e8-9030-86990d41641e.png",
       "name" : "Timork Focus Timer",
       "category" : "Lifestyle",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/timork-focus-timer\/id1195964402?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id1195964402"
     },
     {
       "developer" : "Eastgate Systems, Inc",
@@ -8916,7 +9189,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037406-6c1bdec4-8d3f-11e8-971c-98854f53c1bf.png",
       "name" : "Tomato One",
       "category" : "Productivity",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/tomato-one-free-focus-timer\/id907364780?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id907364780"
     },
     {
       "developer" : "Célio Cidral Junior",
@@ -9371,7 +9644,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575321-b6fe90d4-73b4-11e8-8619-bc323e0e9186.png",
       "name" : "Unarchive Expander",
       "category" : "Utilities",
-      "link" : "https:\/\/itunes.apple.com\/us\/app\/unarchive-expander\/id823990427?l=en&mt=12"
+      "link" : "https:\/\/apps.apple.com\/app\/id823990427"
     },
     {
       "developer" : "Eugene Krupnov, UJ.Labs",
@@ -9395,6 +9668,13 @@
       "link" : "https:\/\/www.noteifyapp.com\/undistracted-self-control"
     },
     {
+      "developer" : "Xuanyang Wu",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71015110-038ce900-212e-11ea-8e6d-ad8c328f5f47.png",
+      "name" : "Unfolder",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/www.unfolder.app"
+    },
+    {
       "developer" : "eightloops GmbH",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575324-b8159832-73b4-11e8-8936-0f05e431d0bc.png",
       "name" : "Unibox",
@@ -9414,6 +9694,13 @@
       "name" : "Unison",
       "category" : "Utilities",
       "link" : "https:\/\/panic.com\/blog\/the-future-of-unison"
+    },
+    {
+      "developer" : "BZG Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/73661359-e6f44280-46d4-11ea-947e-05723ae4d13e.png",
+      "name" : "Unite",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.bzgapps.com\/unite"
     },
     {
       "developer" : "Eltima Software",
@@ -9808,6 +10095,13 @@
       "link" : "http:\/\/mac.weixin.qq.com\/?lang=en"
     },
     {
+      "developer" : "Triband",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69645369-09e4f380-10a1-11ea-90d0-e437b8a474ba.png",
+      "name" : "WHAT THE GOLF",
+      "category" : "Games",
+      "link" : "http:\/\/whatthegolf.com\/"
+    },
+    {
       "developer" : "Nothing Magical Inc.",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575369-c7c278cc-73b4-11e8-899a-bda4b6e606e2.png",
       "name" : "Whiskey - Document",
@@ -9946,6 +10240,13 @@
       "name" : "Wunderlist",
       "category" : "Productivity",
       "link" : "https:\/\/www.wunderlist.com\/mac"
+    },
+    {
+      "developer" : "Apple",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524180-7f9e8400-4f59-11ea-904d-a150aac5921d.png",
+      "name" : "Xcode 5",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/developer.apple.com\/xcode"
     },
     {
       "developer" : "Apple",
@@ -10116,6 +10417,13 @@
       "link" : "http:\/\/www.yurigame.com"
     },
     {
+      "developer" : "Zen Studios Ltd.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/73750880-f63cc400-4798-11ea-94ef-c3612f70d5b4.png",
+      "name" : "Zen Pinball 2",
+      "category" : "Games",
+      "link" : "http:\/\/www.zenpinball.com"
+    },
+    {
       "developer" : "Yaroslav Glushchenko",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037441-96cc40f0-8d3f-11e8-800a-92f6c76fa3ea.png",
       "name" : "Zepheer",
@@ -10151,5 +10459,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2019-11-26 01:27:13 GMT+8"
+  "update_time" : "2020-02-14 18:42:01 GMT+8"
 }
