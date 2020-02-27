@@ -2577,6 +2577,13 @@
       "link" : "http:\/\/software.charliemonroe.net\/downie"
     },
     {
+      "developer" : "Charlie Monroe Software",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75469331-c82e5680-59c9-11ea-850c-1c80aa7a7759.png",
+      "name" : "Downie 4",
+      "category" : "Utilities",
+      "link" : "http:\/\/software.charliemonroe.net\/downie"
+    },
+    {
       "developer" : "FIPLAB Limited",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574576-e9cee974-73b3-11e8-9c03-5f31a1ecfc0a.png",
       "name" : "Download Shuttle",
@@ -7225,6 +7232,20 @@
       "link" : "http:\/\/catpigstudios.com"
     },
     {
+      "developer" : "Isle of the Kakapo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75469426-ee53f680-59c9-11ea-969e-dd3b56686c9f.png",
+      "name" : "RailModeller Express Document",
+      "category" : "Graphics & Design",
+      "link" : "http:\/\/www.railmodeller.com"
+    },
+    {
+      "developer" : "Isle of the Kakapo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75469420-ec8a3300-59c9-11ea-95ae-10b63aadbd99.png",
+      "name" : "RailModeller Express",
+      "category" : "Graphics & Design",
+      "link" : "http:\/\/www.railmodeller.com"
+    },
+    {
       "developer" : "Realmac Software",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575051-6b22f56a-73b4-11e8-9bb5-64843249906f.png",
       "name" : "RapidWeaver 5",
@@ -7804,6 +7825,13 @@
       "name" : "Script Debugger 2",
       "category" : "Developer Tools",
       "link" : "https:\/\/latenightsw.com"
+    },
+    {
+      "developer" : "Apple",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75469324-c5cbfc80-59c9-11ea-930d-75003c95d117.png",
+      "name" : "Script Editor",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.apple.com"
     },
     {
       "developer" : "Literature & Latte Ltd.",
@@ -10473,5 +10501,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-02-28 01:05:43 GMT+8"
+  "update_time" : "2020-02-28 01:31:19 GMT+8"
 }
