@@ -765,6 +765,13 @@
     },
     {
       "developer" : "BitTorrent Inc.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75466673-80a5cb80-59c5-11ea-9fc3-dce04c182c0d.png",
+      "name" : "BitTorrent Web",
+      "category" : "Utilities",
+      "link" : "http:\/\/www.bittorrent.com"
+    },
+    {
+      "developer" : "BitTorrent Inc.",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574380-bee675a6-73b3-11e8-8542-0af0e499d363.png",
       "name" : "BitTorrent",
       "category" : "Utilities",
@@ -2560,14 +2567,14 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574574-e948fe0e-73b3-11e8-970e-33a85cae0e6c.png",
       "name" : "Downie 2",
       "category" : "Utilities",
-      "link" : "http:\/\/software.charliemonroe.net\/downie.php"
+      "link" : "http:\/\/software.charliemonroe.net\/downie"
     },
     {
       "developer" : "Charlie Monroe Software",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574575-e987cb5c-73b3-11e8-8b6c-90b44e90b7dc.png",
       "name" : "Downie 3",
       "category" : "Utilities",
-      "link" : "http:\/\/software.charliemonroe.net\/downie.php"
+      "link" : "http:\/\/software.charliemonroe.net\/downie"
     },
     {
       "developer" : "FIPLAB Limited",
@@ -5550,6 +5557,13 @@
       "name" : "Microsoft Outlook",
       "category" : "Productivity",
       "link" : "https:\/\/www.office.com"
+    },
+    {
+      "developer" : "Microsoft Corp.",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75466439-2a388d00-59c5-11ea-80ef-27c54560c52d.png",
+      "name" : "Microsoft Remote Desktop",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.microsoft.com"
     },
     {
       "developer" : "Microsoft Corp.",
@@ -10459,5 +10473,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-02-14 18:42:01 GMT+8"
+  "update_time" : "2020-02-28 01:05:43 GMT+8"
 }
