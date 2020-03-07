@@ -9513,6 +9513,14 @@
       "link" : "https:\/\/felttip.com\/ss"
     },
     {
+      "developer" : "Rogue Amoeba Software, Inc.",
+      "created_at" : "2020-03-07 20:08:04",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/76143142-a90d8400-60af-11ea-94c7-28d457849cef.png",
+      "name" : "SoundSource",
+      "category" : "Utilities",
+      "link" : "https:\/\/rogueamoeba.com\/soundsource"
+    },
+    {
       "developer" : "FIPLAB Limited",
       "created_at" : "2018-10-30 11:00:49",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575195-8dbad66a-73b4-11e8-9f8e-fb9f615dc83f.png",
@@ -12009,5 +12017,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-02-29 13:48:35 GMT+8"
+  "update_time" : "2020-03-07 20:13:55 GMT+8"
 }
