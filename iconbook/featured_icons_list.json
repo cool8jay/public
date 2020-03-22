@@ -5865,6 +5865,14 @@
       "link" : "https:\/\/maccy.app"
     },
     {
+      "developer" : "Electronic Team, Inc",
+      "created_at" : "2020-03-22 15:47:02",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/77244851-cbc59e00-6c54-11ea-895f-99ac95f8d9f1.png",
+      "name" : "MacDroid",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.macdroid.app\/"
+    },
+    {
       "developer" : "Synium Software",
       "created_at" : "2019-10-05 00:12:00",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798916-f858e980-ef41-11e9-8337-74f343c1c6b7.png",
@@ -10617,6 +10625,14 @@
       "link" : "http:\/\/www.jumsoft.com\/toolbox-for-pages\/"
     },
     {
+      "developer" : "The Iconfactory",
+      "created_at" : "2020-03-22 15:39:16",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/77244852-cff1bb80-6c54-11ea-80e5-36b7385a7652.png",
+      "name" : "Tot",
+      "category" : "Productivity",
+      "link" : "http:\/\/tot.rocks\/"
+    },
+    {
       "developer" : "BinaryAge",
       "created_at" : "2018-10-30 10:28:14",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575284-ab9f0322-73b4-11e8-8fdd-32c25c6165cc.png",
@@ -12017,5 +12033,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-03-07 20:13:55 GMT+8"
+  "update_time" : "2020-03-22 15:50:47 GMT+8"
 }
