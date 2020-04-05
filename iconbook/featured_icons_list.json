@@ -7321,6 +7321,14 @@
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/38126\/palua"
     },
     {
+      "developer" : "Apple",
+      "created_at" : "2020-04-06 00:08:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/78503714-f2c6b880-779a-11ea-9277-db3b4eb857a5.png",
+      "name" : "Panel Editor",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.apple.com"
+    },
+    {
       "developer" : "Hindsight Labs LLC",
       "created_at" : "2019-09-11 18:00:12",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574970-4f0487a4-73b4-11e8-99b3-85c80832667b.png",
@@ -12033,5 +12041,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-03-22 15:50:47 GMT+8"
+  "update_time" : "2020-04-06 00:15:22 GMT+8"
 }
