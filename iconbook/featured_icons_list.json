@@ -3297,6 +3297,14 @@
       "link" : "http:\/\/software.charliemonroe.net\/eon.php"
     },
     {
+      "developer" : "Bitgapp Ltd",
+      "created_at" : "2020-04-06 14:29:43",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/78529037-555b9b00-7813-11ea-8313-b10e997857ff.png",
+      "name" : "eqMac",
+      "category" : "Music",
+      "link" : "https:\/\/eqmac.app\/"
+    },
+    {
       "developer" : "Tao Effect",
       "created_at" : "2019-09-12 03:21:25",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574607-f147f538-73b3-11e8-9719-b2317c1ddc49.png",
@@ -12041,5 +12049,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-06 00:15:22 GMT+8"
+  "update_time" : "2020-04-06 14:32:35 GMT+8"
 }
