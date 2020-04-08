@@ -3302,7 +3302,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/78529037-555b9b00-7813-11ea-8313-b10e997857ff.png",
       "name" : "eqMac",
       "category" : "Music",
-      "link" : "https:\/\/eqmac.app\/"
+      "link" : "https:\/\/eqmac.app"
     },
     {
       "developer" : "Tao Effect",
@@ -4575,6 +4575,14 @@
       "name" : "Home",
       "category" : "Lifestyle",
       "link" : "https:\/\/www.apple.com\/macos\/mojave"
+    },
+    {
+      "developer" : "Ryan Hanson",
+      "created_at" : "2020-04-08 22:49:57",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/78798434-8f7f9500-79eb-11ea-84ba-ea44559b59fd.png",
+      "name" : "Hookshot",
+      "category" : "Productivity",
+      "link" : "https:\/\/hookshot.app"
     },
     {
       "developer" : "Suhas Sharma",
@@ -8433,6 +8441,14 @@
       "link" : "https:\/\/records.team"
     },
     {
+      "developer" : "Ryan Hanson",
+      "created_at" : "2020-04-08 22:56:26",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/78799276-7f1bea00-79ec-11ea-9be3-e5dc88310ce2.png",
+      "name" : "Rectangle",
+      "category" : "Productivity",
+      "link" : "https:\/\/rectangleapp.com"
+    },
+    {
       "developer" : "Cobra Mobile",
       "created_at" : "2019-09-11 17:43:45",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43038478-e017d6dc-8d4b-11e8-9fce-513c8444a8af.png",
@@ -12049,5 +12065,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-06 14:32:35 GMT+8"
+  "update_time" : "2020-04-08 23:00:23 GMT+8"
 }
