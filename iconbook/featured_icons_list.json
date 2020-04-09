@@ -4969,6 +4969,14 @@
       "link" : "http:\/\/inform7.com\/"
     },
     {
+      "developer" : "Apple",
+      "created_at" : "2020-04-09 10:19:35",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/78851413-51ff2400-7a4c-11ea-804a-f79fd4841a60.png",
+      "name" : "Ink",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/www.apple.com"
+    },
+    {
       "developer" : "Inkscape",
       "created_at" : "2019-09-11 14:54:25",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036923-a9ecc29a-8d3a-11e8-9ce7-4218eaa7f86c.png",
@@ -12065,5 +12073,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-08 23:00:23 GMT+8"
+  "update_time" : "2020-04-09 10:26:00 GMT+8"
 }
