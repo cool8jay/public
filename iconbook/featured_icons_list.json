@@ -513,6 +513,14 @@
       "link" : "https:\/\/www.cusaro.it\/aquarelo"
     },
     {
+      "developer" : "Araxis Ltd",
+      "created_at" : "2020-04-11 22:59:23",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79047295-555eff00-7c48-11ea-9034-98fd2764aa88.png",
+      "name" : "Araxis Merge",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/www.araxis.com"
+    },
+    {
       "developer" : "Incredible Bee Ltd.",
       "created_at" : "2018-10-30 11:05:54",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574347-b838e338-73b3-11e8-958b-8a34d39bcebc.png",
@@ -12073,5 +12081,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-09 10:26:00 GMT+8"
+  "update_time" : "2020-04-08 23:00:23 GMT+8"
 }
