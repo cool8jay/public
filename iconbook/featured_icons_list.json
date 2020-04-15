@@ -2881,6 +2881,14 @@
       "link" : "https:\/\/www.araelium.com\/dmgcanvas"
     },
     {
+      "developer" : "Zoho Corporation",
+      "created_at" : "2020-04-16 00:09:20",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79361731-49d94400-7f78-11ea-9148-3ed759fbe7f4.png",
+      "name" : "Doc Scanner",
+      "category" : "Productivity",
+      "link" : "https:\/\/www.zoho.com\/"
+    },
+    {
       "developer" : "Docker Inc.",
       "created_at" : "2018-10-30 10:22:07",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/47725165-0828e080-dc93-11e8-933e-c66125c4c19a.png",
@@ -3785,6 +3793,14 @@
       "link" : "https:\/\/www.flinto.com"
     },
     {
+      "developer" : "Kevin Reutter",
+      "created_at" : "2020-04-16 00:05:37",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79361756-5067bb80-7f78-11ea-9fdf-236ec643309f.png",
+      "name" : "Flippy",
+      "category" : "Education",
+      "link" : "https:\/\/www.kevinreutter.de"
+    },
+    {
       "developer" : "Morten Just Petersen",
       "created_at" : "2019-09-12 03:18:29",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798885-eb3bfa80-ef41-11e9-8766-29c20289b915.png",
@@ -4511,6 +4527,14 @@
       "name" : "Hider 2",
       "category" : "Utilities",
       "link" : "https:\/\/macpaw.com\/hider"
+    },
+    {
+      "developer" : "Jonas Myren Ribe",
+      "created_at" : "2020-04-16 00:07:20",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79361750-4e9df800-7f78-11ea-812e-755877b70d1a.png",
+      "name" : "Highlights",
+      "category" : "Productivity",
+      "link" : "https:\/\/highlightsapp.net"
     },
     {
       "developer" : "Tyler Hall",
@@ -7783,6 +7807,14 @@
       "name" : "PixelSnap",
       "category" : "Developer Tools",
       "link" : "https:\/\/getpixelsnap.com"
+    },
+    {
+      "developer" : "Kevin Reutter",
+      "created_at" : "2020-04-16 00:04:49",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79361759-5198e880-7f78-11ea-8323-64645ef60f05.png",
+      "name" : "Planny",
+      "category" : "Productivity",
+      "link" : "https:\/\/www.kevinreutter.de"
     },
     {
       "developer" : "PlantLabs Inc.",
@@ -12081,5 +12113,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-08 23:00:23 GMT+8"
+  "update_time" : "2020-04-16 00:25:01 GMT+8"
 }
