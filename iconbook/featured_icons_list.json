@@ -2425,6 +2425,14 @@
       "link" : "https:\/\/www.marketcircle.com"
     },
     {
+      "developer" : "Limbua",
+      "created_at" : "2020-04-17 01:38:19",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79488982-32b85600-804d-11ea-9123-049cd6a49285.png",
+      "name" : "Days",
+      "category" : "Productivity",
+      "link" : "http:\/\/www.limbua.com"
+    },
+    {
       "developer" : "SC Devstorm SRL",
       "created_at" : "2019-02-26 20:56:55",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68546126-765bc380-040e-11ea-9bc7-a7ed74b3b644.png",
@@ -7039,6 +7047,14 @@
       "name" : "Night Owl",
       "category" : "Social Networking",
       "link" : "https:\/\/sites.google.com\/site\/yorufukurou\/home-en"
+    },
+    {
+      "developer" : "iCandi Apps",
+      "created_at" : "2020-04-17 01:36:56",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79488989-35b34680-804d-11ea-9bea-8cc2a5db6344.png",
+      "name" : "Night Sky",
+      "category" : "Reference",
+      "link" : "http:\/\/nightsky.com\/"
     },
     {
       "developer" : "Skylum",
@@ -12129,5 +12145,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-16 00:44:00 GMT+8"
+  "update_time" : "2020-04-17 01:47:33 GMT+8"
 }
