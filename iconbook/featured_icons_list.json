@@ -6402,6 +6402,14 @@
     },
     {
       "developer" : "Microsoft Corp.",
+      "created_at" : "2020-04-19 21:15:10",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79688784-3d5c3080-8283-11ea-901d-3194ace0f18e.png",
+      "name" : "Microsoft Edge",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.microsoft.com\/edge\/"
+    },
+    {
+      "developer" : "Microsoft Corp.",
       "created_at" : "2019-09-11 18:05:04",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798929-fa22ad00-ef41-11e9-9f4e-3278635191c5.png",
       "name" : "Microsoft Excel",
@@ -12145,5 +12153,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-17 01:47:33 GMT+8"
+  "update_time" : "2020-04-19 21:19:37 GMT+8"
 }
