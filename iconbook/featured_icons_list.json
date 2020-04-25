@@ -3185,6 +3185,14 @@
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/31817\/ecoute"
     },
     {
+      "developer" : "Edison Software Inc.",
+      "created_at" : "2020-04-25 17:08:04",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80275939-7713b800-8717-11ea-8160-712a64c72e03.png",
+      "name" : "Edison Mail",
+      "category" : "Business",
+      "link" : "https:\/\/www.edison.tech\/"
+    },
+    {
       "developer" : "divergent media",
       "created_at" : "2019-09-12 03:18:50",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574593-ee2a4bd0-73b3-11e8-9d30-48ebb8104815.png",
@@ -12153,5 +12161,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-19 21:19:37 GMT+8"
+  "update_time" : "2020-04-25 17:09:36 GMT+8"
 }
