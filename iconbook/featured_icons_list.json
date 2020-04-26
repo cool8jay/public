@@ -10113,6 +10113,14 @@
       "link" : "https:\/\/www.switchem.co"
     },
     {
+      "developer" : "Hypercritical",
+      "created_at" : "2020-04-26 20:58:35",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80308338-08ab2480-8801-11ea-875f-acc27900cc57.png",
+      "name" : "SwitchGlass",
+      "category" : "Productivity",
+      "link" : "http:\/\/hypercritical.co\/switchglass\/"
+    },
+    {
       "developer" : "DoYourData",
       "created_at" : "2019-11-20 10:37:55",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732055-eb94fb80-1165-11ea-9ed2-3c8aeec75b72.png",
@@ -12161,5 +12169,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-25 17:09:36 GMT+8"
+  "update_time" : "2020-04-26 21:01:41 GMT+8"
 }
