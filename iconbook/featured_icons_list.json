@@ -11033,6 +11033,14 @@
       "link" : "https:\/\/www.atebits.com"
     },
     {
+      "developer" : "Twitch Interactive, Inc.",
+      "created_at" : "2020-05-02 11:36:55",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80854282-585a7780-8c69-11ea-954c-1ce50bc165f0.png",
+      "name" : "Twitch",
+      "category" : "Entertainment",
+      "link" : "https:\/\/www.twitch.tv"
+    },
+    {
       "developer" : "Twitter, Inc",
       "created_at" : "2018-10-30 11:04:07",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037416-7b00bd38-8d3f-11e8-9fc0-a4dcd79ee579.png",
@@ -12169,5 +12177,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-04-26 21:01:41 GMT+8"
+  "update_time" : "2020-05-02 11:38:18 GMT+8"
 }
