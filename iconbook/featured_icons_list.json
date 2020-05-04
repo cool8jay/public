@@ -1409,6 +1409,14 @@
       "link" : "http:\/\/www.meetcarrot.com\/weather\/mac"
     },
     {
+      "developer" : "Michael Freuden",
+      "created_at" : "2020-04-18 17:35:43",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80993569-ddae7980-8e6d-11ea-8c8d-4e2d8987327b.png",
+      "name" : "Cascadea",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/cascadea.app\/"
+    },
+    {
       "developer" : "SimpleRocket LLC",
       "created_at" : "2018-10-30 10:22:50",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574428-c952bfcc-73b3-11e8-99b2-df9c25a3f51c.png",
@@ -5801,6 +5809,14 @@
       "link" : "http:\/\/www.syniumsoftware.com\/logoist"
     },
     {
+      "developer" : "Synium Software",
+      "created_at" : "2020-05-04 23:21:42",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80985252-8acec500-8e61-11ea-841c-f4ad1c1de71e.png",
+      "name" : "Logoist 4",
+      "category" : "Graphics & Design",
+      "link" : "http:\/\/www.syniumsoftware.com\/logoist"
+    },
+    {
       "developer" : "QMUI Team",
       "created_at" : "2019-09-11 16:31:05",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798913-f7c05300-ef41-11e9-906f-3572829524be.png",
@@ -7573,6 +7589,14 @@
       "created_at" : "2019-09-11 15:06:51",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574985-53fa70a2-73b4-11e8-9785-b6b1d689ca6d.png",
       "name" : "PDFpen",
+      "category" : "Productivity",
+      "link" : "https:\/\/smilesoftware.com\/pdfpen"
+    },
+    {
+      "developer" : "SmileOnMyMac, LLC",
+      "created_at" : "2020-05-04 23:20:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80985240-85717a80-8e61-11ea-9665-0f42e65093d6.png",
+      "name" : "PDFpenPro",
       "category" : "Productivity",
       "link" : "https:\/\/smilesoftware.com\/pdfpen"
     },
@@ -12177,5 +12201,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-05-02 11:38:18 GMT+8"
+  "update_time" : "2020-05-05 01:16:02 GMT+8"
 }
