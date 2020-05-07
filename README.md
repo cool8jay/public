@@ -1,3 +1,3 @@
 # Readme
 
-Public data are stored here.
+Public resources are stored here.
