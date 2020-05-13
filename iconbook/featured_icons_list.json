@@ -697,6 +697,14 @@
       "link" : "http:\/\/www.barebones.com\/products\/bbedit"
     },
     {
+      "developer" : "Denys Yevenko",
+      "created_at" : "2020-05-10 23:59:12",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836874-a4b18b80-9576-11ea-9c67-9208dff0d1b4.png",
+      "name" : "Be Focused",
+      "category" : "Productivity",
+      "link" : "https:\/\/xwavesoft.com\/be-focused-pro-for-iphone-ipad-mac-os-x.html"
+    },
+    {
       "developer" : "Tidal Pool Software",
       "created_at" : "2018-10-30 10:13:03",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036781-08802a6e-8d3a-11e8-852b-7062b5c16244.png",
@@ -1799,6 +1807,14 @@
       "name" : "CleanMyMac",
       "category" : "Utilities",
       "link" : "https:\/\/macpaw.com\/cleanmymac"
+    },
+    {
+      "developer" : "MakeTheWeb",
+      "created_at" : "2020-05-14 00:02:51",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836857-9fecd780-9576-11ea-9d70-c1448abc0dc0.png",
+      "name" : "CleanShot X",
+      "category" : "Productivity",
+      "link" : "https:\/\/getcleanshot.com"
     },
     {
       "developer" : "MakeTheWeb",
@@ -3842,6 +3858,14 @@
     },
     {
       "developer" : "Flume",
+      "created_at" : "2020-05-10 23:57:44",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836878-a5e2b880-9576-11ea-961b-33040cdbb971.png",
+      "name" : "Flume 2",
+      "category" : "Photography",
+      "link" : "https:\/\/flumeapp.com"
+    },
+    {
+      "developer" : "Flume",
       "created_at" : "2019-09-12 03:18:53",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574645-fa1a6650-73b3-11e8-8554-74f4935add5f.png",
       "name" : "Flume",
@@ -5811,7 +5835,7 @@
     {
       "developer" : "Synium Software",
       "created_at" : "2020-05-04 23:21:42",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80985252-8acec500-8e61-11ea-841c-f4ad1c1de71e.png",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836898-aa0ed600-9576-11ea-9010-c78a3c3f2d07.png",
       "name" : "Logoist 4",
       "category" : "Graphics & Design",
       "link" : "http:\/\/www.syniumsoftware.com\/logoist"
@@ -5877,6 +5901,14 @@
       "created_at" : "2019-09-11 18:07:37",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798914-f7c05300-ef41-11e9-8881-7cd943eed923.png",
       "name" : "Luminar 3",
+      "category" : "Photography",
+      "link" : "https:\/\/skylum.com\/luminar"
+    },
+    {
+      "developer" : "Skylum",
+      "created_at" : "2020-05-11 00:08:54",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836871-a3805e80-9576-11ea-9ea0-ae9ba9c6b643.png",
+      "name" : "Luminar Catalog Icon",
       "category" : "Photography",
       "link" : "https:\/\/skylum.com\/luminar"
     },
@@ -7841,6 +7873,14 @@
       "link" : "http:\/\/www.littlehj.com\/mac"
     },
     {
+      "developer" : "Andrey Tsarkov",
+      "created_at" : "2020-05-07 23:55:01",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836887-a7ac7c00-9576-11ea-841b-dd79542106d6.png",
+      "name" : "Pixea",
+      "category" : "Photography",
+      "link" : "https:\/\/www.imagetasks.com\/pixea\/"
+    },
+    {
       "developer" : "Pixelmator Team",
       "created_at" : "2019-12-23 21:12:07",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71360154-d75be700-25c9-11ea-929b-6be7b6a56fd8.png",
@@ -8897,6 +8937,14 @@
       "link" : "http:\/\/salesx.in"
     },
     {
+      "developer" : "Salmon app team",
+      "created_at" : "2020-05-07 22:20:19",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836894-a8451280-9576-11ea-96df-db7154ede2e3.png",
+      "name" : "Salmon",
+      "category" : "Utilities",
+      "link" : "https:\/\/salmon-app.com"
+    },
+    {
       "developer" : "Amanita Design",
       "created_at" : "2018-10-30 10:17:04",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037365-40bfbb42-8d3f-11e8-9c96-6dcfb7bc8732.png",
@@ -9479,6 +9527,14 @@
       "name" : "Slack",
       "category" : "Business",
       "link" : "https:\/\/www.slack.com"
+    },
+    {
+      "developer" : "InchWest",
+      "created_at" : "2020-05-07 22:05:57",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836881-a67b4f00-9576-11ea-9337-373c6f991d31.png",
+      "name" : "Slacker",
+      "category" : "Utilities",
+      "link" : "https:\/\/inchwest.com\/slacker\/"
     },
     {
       "developer" : "Fitness22",
@@ -10551,6 +10607,14 @@
       "name" : "Time Tracker - Zoho Books",
       "category" : "Business",
       "link" : "https:\/\/www.zoho.com"
+    },
+    {
+      "developer" : "Danger Cove",
+      "created_at" : "2020-05-07 22:12:18",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836896-a9763f80-9576-11ea-8343-4fae8a6a8833.png",
+      "name" : "Timeless - Danger Cove",
+      "category" : "Productivity",
+      "link" : "https:\/\/www.usetimeless.app\/"
     },
     {
       "developer" : "FIPLAB Limited",
@@ -12201,5 +12265,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-05-05 01:16:02 GMT+8"
+  "update_time" : "2020-05-14 00:06:21 GMT+8"
 }
