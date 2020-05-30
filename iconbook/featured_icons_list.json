@@ -2721,6 +2721,22 @@
       "link" : "https:\/\/www.devontechnologies.com\/support\/download"
     },
     {
+      "developer" : "Structured Path GmbH",
+      "created_at" : "2020-05-30 11:08:09",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318555-95b22500-a268-11ea-8dd4-9108ccf1937d.png",
+      "name" : "Diagrams - Document",
+      "category" : "Productivity",
+      "link" : "https:\/\/diagrams.app"
+    },
+    {
+      "developer" : "Structured Path GmbH",
+      "created_at" : "2020-05-30 11:08:09",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318556-964abb80-a268-11ea-96f7-d93103c55d2f.png",
+      "name" : "Diagrams",
+      "category" : "Productivity",
+      "link" : "https:\/\/diagrams.app"
+    },
+    {
       "developer" : "Jelle Ages",
       "created_at" : "2018-10-30 10:28:26",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036868-882c0fb2-8d3a-11e8-9a12-5db8bab6fe40.png",
@@ -8425,6 +8441,14 @@
       "link" : "https:\/\/quidsapp.com"
     },
     {
+      "developer" : "Quill",
+      "created_at" : "2020-05-30 11:14:53",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318550-9054da80-a268-11ea-88a8-0cac97e91ec9.png",
+      "name" : "Quill",
+      "category" : "Productivity",
+      "link" : "https:\/\/quill.chat"
+    },
+    {
       "developer" : "Salesforce",
       "created_at" : "2019-09-11 17:45:14",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45405945-52301580-b697-11e8-9365-76e60b5391ad.png",
@@ -11857,6 +11881,22 @@
       "link" : "http:\/\/whatthegolf.com\/"
     },
     {
+      "developer" : "Tumult Inc.",
+      "created_at" : "2020-05-30 11:11:37",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318553-9480f800-a268-11ea-8587-ce4ef9b33fce.png",
+      "name" : "Whisk - Document",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/tumult.com\/whisk\/"
+    },
+    {
+      "developer" : "Tumult Inc.",
+      "created_at" : "2020-05-30 11:11:37",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318552-93e86180-a268-11ea-995c-4113ad4cbf4b.png",
+      "name" : "Whisk",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/tumult.com\/whisk"
+    },
+    {
       "developer" : "Nothing Magical Inc.",
       "created_at" : "2018-10-30 11:18:11",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575369-c7c278cc-73b4-11e8-899a-bda4b6e606e2.png",
@@ -12007,6 +12047,14 @@
       "name" : "Writer Pro",
       "category" : "Productivity",
       "link" : "http:\/\/writer.pro"
+    },
+    {
+      "developer" : "Smmall Inc.",
+      "created_at" : "2020-05-30 11:04:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318557-96e35200-a268-11ea-996d-33b9f76708c9.png",
+      "name" : "Wunderbucket",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/wunderbucket.io\/"
     },
     {
       "developer" : "6 Wunderkinder",
@@ -12265,5 +12313,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-05-14 00:06:21 GMT+8"
+  "update_time" : "2020-05-30 11:28:35 GMT+8"
 }
