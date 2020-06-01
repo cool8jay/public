@@ -1417,6 +1417,14 @@
       "link" : "http:\/\/www.meetcarrot.com\/weather\/mac"
     },
     {
+      "developer" : "Cascable AB",
+      "created_at" : "2020-06-01 22:54:59",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83421800-37996380-a45b-11ea-8011-71514ae84774.png",
+      "name" : "Cascable Pro Webcam",
+      "category" : "Utilities",
+      "link" : "https:\/\/cascable.se\/pro-webcam\/"
+    },
+    {
       "developer" : "Michael Freuden",
       "created_at" : "2020-04-18 17:35:43",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/80993569-ddae7980-8e6d-11ea-8c8d-4e2d8987327b.png",
@@ -12313,5 +12321,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-05-30 11:28:35 GMT+8"
+  "update_time" : "2020-06-01 22:57:59 GMT+8"
 }
