@@ -118,7 +118,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732048-ea63ce80-1165-11ea-9713-afc9507b6ee6.png",
       "name" : "Accordance 9",
       "category" : "Reference",
-      "link" : "http:\/\/www.accordancebible.com\/"
+      "link" : "http:\/\/www.accordancebible.com"
     },
     {
       "developer" : "OakTree Software, Inc.",
@@ -126,7 +126,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732047-ea63ce80-1165-11ea-8c9c-e0cc2ad07425.png",
       "name" : "Accordance 10-11",
       "category" : "Reference",
-      "link" : "http:\/\/www.accordancebible.com\/"
+      "link" : "http:\/\/www.accordancebible.com"
     },
     {
       "developer" : "OakTree Software, Inc.",
@@ -134,7 +134,15 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732051-eafc6500-1165-11ea-9546-bce82b75554f.png",
       "name" : "Accordance 12",
       "category" : "Reference",
-      "link" : "http:\/\/www.accordancebible.com\/"
+      "link" : "http:\/\/www.accordancebible.com"
+    },
+    {
+      "developer" : "OakTree Software, Inc.",
+      "created_at" : "2020-06-05 22:58:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898631-c377fc00-a789-11ea-9e0b-639f3a74e62a.png",
+      "name" : "Accordance 13",
+      "category" : "Reference",
+      "link" : "http:\/\/www.accordancebible.com"
     },
     {
       "developer" : "Oranged Software",
@@ -2613,7 +2621,7 @@
       "created_at" : "2019-01-11 11:12:29",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/55804222-7610e800-5b0e-11e9-94c8-cda3d5e4f56d.png",
       "name" : "Design Camera",
-      "category" : "Productivity",
+      "category" : "Graphics & Design",
       "link" : "https:\/\/www.designcamera.app"
     },
     {
@@ -5185,6 +5193,14 @@
       "link" : "http:\/\/www.kedisoft.com\/invoice"
     },
     {
+      "developer" : "Stojanowski Consulting Ltd.",
+      "created_at" : "2020-06-03 20:50:18",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898733-e30f2480-a789-11ea-9785-fa14ded83ebb.png",
+      "name" : "Invoice",
+      "category" : "Business",
+      "link" : "https:\/\/invoice.app"
+    },
+    {
       "developer" : "Apple",
       "created_at" : "2019-09-11 18:11:29",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036925-aafcf830-8d3a-11e8-9477-b7966fff7808.png",
@@ -5311,6 +5327,14 @@
       "name" : "JazzUp",
       "category" : "Utilities",
       "link" : "https:\/\/www.irradiatedsoftware.com\/labs\/#jazzup"
+    },
+    {
+      "developer" : "bgreenlee",
+      "created_at" : "2020-06-05 23:20:51",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898628-c2df6580-a789-11ea-8d17-06fd44132fd3.png",
+      "name" : "JobTracker",
+      "category" : "Utilities",
+      "link" : "https:\/\/footle.org\/JobTracker"
     },
     {
       "developer" : "Jinx",
@@ -5511,6 +5535,14 @@
       "name" : "KeyShade",
       "category" : "Utilities",
       "link" : "http:\/\/raynersoftware.com\/netshade.php"
+    },
+    {
+      "developer" : "IXEAU UG (haftungsbeschränkt)",
+      "created_at" : "2020-06-03 22:43:48",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898721-e1456100-a789-11ea-981a-12964318a2f8.png",
+      "name" : "Keystroke Pro",
+      "category" : "Utilities",
+      "link" : "https:\/\/www.ixeau.com\/keystroke-pro\/"
     },
     {
       "developer" : "Irradiated Software",
@@ -6329,6 +6361,14 @@
       "link" : "https:\/\/www.red-sweater.com\/marsedit"
     },
     {
+      "developer" : "Makeblock Co., Ltd.",
+      "created_at" : "2020-06-05 23:23:07",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898626-c246cf00-a789-11ea-93fa-cd6cbcb82a0d.png",
+      "name" : "mBlock",
+      "category" : "Education",
+      "link" : "https:\/\/www.mblock.cc"
+    },
+    {
       "developer" : "MediaHuman",
       "created_at" : "2020-01-27 00:17:48",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/73661361-e78cd900-46d4-11ea-888f-d4ffbe327a93.png",
@@ -6705,6 +6745,14 @@
       "link" : "https:\/\/mockuuups.studio\/"
     },
     {
+      "developer" : "Moleskine Srl",
+      "created_at" : "2020-06-03 20:55:03",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898730-e2768e00-a789-11ea-9e46-c37a0ab7c257.png",
+      "name" : "Moleskine Journey",
+      "category" : "Health & Fitness",
+      "link" : "https:\/\/moleskinejourney.com"
+    },
+    {
       "developer" : "Bombservice",
       "created_at" : "2018-10-25 18:51:01",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/67620515-7a96b700-f83a-11e9-9c69-ba398345f8c9.png",
@@ -6743,6 +6791,14 @@
       "name" : "MoneyBag",
       "category" : "Utilities",
       "link" : "https:\/\/www.macappstudio.com\/apps\/moneybag"
+    },
+    {
+      "developer" : "MoneyCoach UG",
+      "created_at" : "2020-06-03 20:56:57",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898724-e1ddf780-a789-11ea-9392-19b1b7480611.png",
+      "name" : "MoneyCoach",
+      "category" : "Finance",
+      "link" : "https:\/\/moneycoach-app.com"
     },
     {
       "developer" : "MRH applications GmbH",
@@ -6865,7 +6921,7 @@
       "link" : "http:\/\/25.io\/mou"
     },
     {
-      "developer" : "überclub",
+      "developer" : "überdosis",
       "created_at" : "2020-02-03 20:36:29",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/73661363-e8256f80-46d4-11ea-9e0c-8db08719f2f9.png",
       "name" : "Mouseless",
@@ -6987,7 +7043,7 @@
     {
       "developer" : "NativeConnect Team",
       "created_at" : "2020-02-12 22:35:41",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524178-7f05ed80-4f59-11ea-869c-ca1d882fa1b3.png",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898717-df7b9d80-a789-11ea-98ac-4f505c6e01ff.png",
       "name" : "NativeConnect",
       "category" : "Developer Tools",
       "link" : "https:\/\/nativeconnect.app"
@@ -8004,7 +8060,7 @@
       "developer" : "Apple",
       "created_at" : "2019-11-21 23:02:52",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69351096-b3993e80-0cb5-11ea-8169-5f85e15ba368.png",
-      "name" : "Podcast",
+      "name" : "Podcasts",
       "category" : "Utilities",
       "link" : "https:\/\/www.apple.com"
     },
@@ -8943,6 +8999,14 @@
       "name" : "Rosetta Stone",
       "category" : "Utilities",
       "link" : "https:\/\/www.rosettastone.com"
+    },
+    {
+      "developer" : "Rotato",
+      "created_at" : "2020-06-05 23:24:02",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898621-bf4bde80-a789-11ea-88e0-0cba858504e9.png",
+      "name" : "Rotato",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/www.rotato.xyz"
     },
     {
       "developer" : "Charlie Monroe Software",
@@ -10001,12 +10065,12 @@
       "link" : "http:\/\/www.plentycom.jp\/en\/steermouse\/index.html"
     },
     {
-      "developer" : "https:\/\/steuererklärung-app.de",
+      "developer" : "fedoco Development",
       "created_at" : "2019-12-14 16:57:39",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846384-bb529a00-1e93-11ea-8699-10f02b9d5b27.png",
       "name" : "Steuererklärung",
       "category" : "Finance",
-      "link" : "https:\/\/steuererklärung-app.de"
+      "link" : "https:\/\/www.steuererklärung-app.de"
     },
     {
       "developer" : "Digualu Studio",
@@ -12321,5 +12385,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-01 22:57:59 GMT+8"
+  "update_time" : "2020-06-06 00:14:22 GMT+8"
 }
