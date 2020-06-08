@@ -2193,6 +2193,14 @@
       "link" : "https:\/\/cornerstone.assembla.com"
     },
     {
+      "developer" : "Shihab Mehboob",
+      "created_at" : "2020-06-08 23:58:10",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84053297-4ac0ac00-a9e4-11ea-970b-0a15634649e3.png",
+      "name" : "Cosmicast",
+      "category" : "News",
+      "link" : "https:\/\/www.pnguin.app"
+    },
+    {
       "developer" : "Mineko IMANISHI",
       "created_at" : "2018-10-30 11:06:20",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574495-d8a8005e-73b3-11e8-8d23-a2e15de35976.png",
@@ -9817,6 +9825,14 @@
       "link" : "https:\/\/felttip.com\/ss"
     },
     {
+      "developer" : "David Estes",
+      "created_at" : "2020-06-08 23:45:22",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84051817-3e3b5400-a9e2-11ea-9d2e-718e1db76f85.png",
+      "name" : "SoundNote",
+      "category" : "Productivity",
+      "link" : "https:\/\/soundnote.com"
+    },
+    {
       "developer" : "Rogue Amoeba Software, Inc.",
       "created_at" : "2020-03-07 20:08:04",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/76143142-a90d8400-60af-11ea-94c7-28d457849cef.png",
@@ -10023,6 +10039,14 @@
       "name" : "SSH Tunnel Manager 2",
       "category" : "Utilities",
       "link" : "https:\/\/www.tynsoe.org\/v2\/stm"
+    },
+    {
+      "developer" : "Red Davis",
+      "created_at" : "2020-06-08 23:11:43",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84047889-2e217580-a9de-11ea-8fcb-e4f46d3a6198.png",
+      "name" : "Stand",
+      "category" : "Health & Fitness",
+      "link" : "https:\/\/getstandapp.com"
     },
     {
       "developer" : "MKLab Co., Ltd.",
@@ -11417,6 +11441,14 @@
       "link" : "https:\/\/ulyssesapp.com"
     },
     {
+      "developer" : "Replay",
+      "created_at" : "2020-06-08 23:11:25",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84047837-29f55800-a9de-11ea-89de-a1b81cdb12d0.png",
+      "name" : "Umbra",
+      "category" : "Utilities",
+      "link" : "https:\/\/umbra.replay.software"
+    },
+    {
       "developer" : "Guo Bing",
       "created_at" : "2018-10-30 10:32:10",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575321-b6fe90d4-73b4-11e8-8619-bc323e0e9186.png",
@@ -12385,5 +12417,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-06 00:14:22 GMT+8"
+  "update_time" : "2020-06-09 00:01:31 GMT+8"
 }
