@@ -5401,6 +5401,14 @@
       "link" : "http:\/\/www.jpegmini.com\/mac"
     },
     {
+      "developer" : "SpaceCan",
+      "created_at" : "2020-05-16 21:28:51",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318558-98147f00-a268-11ea-83b6-5031eff0360b.png",
+      "name" : "Juicy Realm",
+      "category" : "Games",
+      "link" : "https:\/\/www.facebook.com\/JuicyRealm"
+    },
+    {
       "developer" : "Nightbirdsevolve Software",
       "created_at" : "2019-09-11 18:10:02",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574786-1d70e426-73b4-11e8-94e7-6ccf1639de3e.png",
@@ -7693,6 +7701,14 @@
       "created_at" : "2019-09-11 16:32:04",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574983-5338d6ae-73b4-11e8-9f73-6b4d4cff2205.png",
       "name" : "PDF Squeezer 3",
+      "category" : "Productivity",
+      "link" : "https:\/\/witt-software.com\/pdfsqueezer"
+    },
+    {
+      "developer" : "Witt Software",
+      "created_at" : "2020-06-09 01:18:47",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84150884-19ec7f80-aa95-11ea-9c0e-6fed84f7f30f.png",
+      "name" : "PDF Squeezer 4",
       "category" : "Productivity",
       "link" : "https:\/\/witt-software.com\/pdfsqueezer"
     },
@@ -11105,6 +11121,14 @@
       "link" : "https:\/\/www.apparentsoft.com\/trickster"
     },
     {
+      "developer" : "WeirdBeard Games",
+      "created_at" : "2020-06-09 21:02:54",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84150876-178a2580-aa95-11ea-8474-faa0dd8cb011.png",
+      "name" : "Tricky Towers",
+      "category" : "Games",
+      "link" : "https:\/\/www.trickytowers.com"
+    },
+    {
       "developer" : "Cindori AB",
       "created_at" : "2018-10-30 10:55:18",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575293-ae7c79c6-73b4-11e8-96ee-b6a2fe632664.png",
@@ -12417,5 +12441,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-09 00:01:31 GMT+8"
+  "update_time" : "2020-06-09 21:10:23 GMT+8"
 }
