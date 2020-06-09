@@ -345,6 +345,22 @@
       "link" : "http:\/\/alternoteapp.com"
     },
     {
+      "developer" : "Snowman",
+      "created_at" : "2020-06-09 20:35:12",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84150890-1b1dac80-aa95-11ea-83a1-e71c16db5e71.png",
+      "name" : "Alto's Adventure",
+      "category" : "Games",
+      "link" : "http:\/\/altosadventure.com"
+    },
+    {
+      "developer" : "Snowman",
+      "created_at" : "2020-06-09 20:35:12",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84150893-1bb64300-aa95-11ea-9e50-c9f78ca6c158.png",
+      "name" : "Alto's Odyssey",
+      "category" : "Games",
+      "link" : "http:\/\/www.altosodyssey.com"
+    },
+    {
       "developer" : "HairerSoft",
       "created_at" : "2018-10-30 11:07:30",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574330-b4e2ae58-73b3-11e8-90d6-2d26370b2426.png",
@@ -4383,6 +4399,14 @@
       "name" : "Glimpses",
       "category" : "Video",
       "link" : "https:\/\/eternalstorms.at\/glimpses"
+    },
+    {
+      "developer" : "überdosis",
+      "created_at" : "2020-06-03 20:58:22",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84156591-45bf3380-aa9c-11ea-88c1-ad7409654d85.png",
+      "name" : "Glyphfinder",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/www.glyphfinder.com\/"
     },
     {
       "developer" : "Ignazio Lacitignola",
@@ -10321,6 +10345,14 @@
       "link" : "https:\/\/swiftybeaver.com"
     },
     {
+      "developer" : "Christian Renninger",
+      "created_at" : "2020-06-05 23:16:37",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84156536-33dd9080-aa9c-11ea-9093-2005fba50b0f.png",
+      "name" : "Swish",
+      "category" : "Productivity",
+      "link" : "https:\/\/highlyopinionated.co\/swish\/"
+    },
+    {
       "developer" : "Fardini Media LLC",
       "created_at" : "2018-10-30 10:56:19",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575232-99e1c566-73b4-11e8-9e8e-1444550af9be.png",
@@ -12441,5 +12473,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-09 21:10:23 GMT+8"
+  "update_time" : "2020-06-09 22:31:06 GMT+8"
 }
