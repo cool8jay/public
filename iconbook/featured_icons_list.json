@@ -2481,6 +2481,14 @@
       "link" : "https:\/\/www.marketcircle.com"
     },
     {
+      "developer" : "Clover",
+      "created_at" : "2020-06-19 23:39:55",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85151898-e96fc700-b286-11ea-8d60-cf38a5d6c681.png",
+      "name" : "Days Matter",
+      "category" : "Utilities",
+      "link" : "http:\/\/daysmatter.com"
+    },
+    {
       "developer" : "Limbua",
       "created_at" : "2020-04-17 01:38:19",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79488982-32b85600-804d-11ea-9123-049cd6a49285.png",
@@ -12465,5 +12473,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-12 08:43:41 GMT+8"
+  "update_time" : "2020-06-19 23:45:51 GMT+8"
 }
