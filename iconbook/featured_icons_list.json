@@ -4505,6 +4505,14 @@
       "link" : "https:\/\/www.chronosnet.com\/downloads\/old"
     },
     {
+      "developer" : "Nomada Studio",
+      "created_at" : "2020-06-19 00:05:10",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85155970-03f86f00-b28c-11ea-8ea0-fb72c8f76a1e.png",
+      "name" : "GRIS",
+      "category" : "Games",
+      "link" : "https:\/\/nomada.studio"
+    },
+    {
       "developer" : "Batoul Apps",
       "created_at" : "2018-10-30 11:07:31",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036905-a0e056c6-8d3a-11e8-9917-b549a779b0e5.png",
@@ -12497,5 +12505,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-20 00:18:30 GMT+8"
+  "update_time" : "2020-06-20 00:22:22 GMT+8"
 }
