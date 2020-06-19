@@ -345,6 +345,22 @@
       "link" : "http:\/\/alternoteapp.com"
     },
     {
+      "developer" : "Snowman",
+      "created_at" : "2020-06-09 20:35:12",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84150890-1b1dac80-aa95-11ea-83a1-e71c16db5e71.png",
+      "name" : "Alto's Adventure",
+      "category" : "Games",
+      "link" : "http:\/\/altosadventure.com"
+    },
+    {
+      "developer" : "Snowman",
+      "created_at" : "2020-06-09 20:35:12",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84150893-1bb64300-aa95-11ea-9e50-c9f78ca6c158.png",
+      "name" : "Alto's Odyssey",
+      "category" : "Games",
+      "link" : "http:\/\/www.altosodyssey.com"
+    },
+    {
       "developer" : "HairerSoft",
       "created_at" : "2018-10-30 11:07:30",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574330-b4e2ae58-73b3-11e8-90d6-2d26370b2426.png",
@@ -554,8 +570,8 @@
     },
     {
       "developer" : "BeLight Software Ltd.",
-      "created_at" : "2020-06-12 08:37:36",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84452539-a57a3200-ac88-11ea-8dce-aaf813adb15e.png",
+      "created_at" : "2020-06-19 23:49:26",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85155245-1a51fb00-b28b-11ea-8575-7fae8546009a.png",
       "name" : "Art Text 4",
       "category" : "Graphics & Design",
       "link" : "https:\/\/www.belightsoft.com\/art-text"
@@ -9345,6 +9361,14 @@
       "link" : "http:\/\/zipzapmac.com\/SecurityCamera"
     },
     {
+      "developer" : "Splash Colors MChJ",
+      "created_at" : "2020-06-19 23:49:26",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85154159-aebb5e00-b289-11ea-85dc-6c5f9e0df456.png",
+      "name" : "Separation Studio",
+      "category" : "Utilities",
+      "link" : "https:\/\/splashroad.com\/separation-studio"
+    },
+    {
       "developer" : "Open Source Contributor",
       "created_at" : "2018-10-30 11:06:25",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575133-7f700b48-73b4-11e8-9b00-8f7c9603b9f7.png",
@@ -12473,5 +12497,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-19 23:45:51 GMT+8"
+  "update_time" : "2020-06-20 00:18:30 GMT+8"
 }
