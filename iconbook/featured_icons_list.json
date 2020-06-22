@@ -1129,6 +1129,14 @@
       "link" : "http:\/\/braid-game.com"
     },
     {
+      "developer" : "Lighthouse16",
+      "created_at" : "2020-06-22 22:54:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303134-ae66d100-b4dc-11ea-9b47-a98e04100bd3.png",
+      "name" : "BrandBook",
+      "category" : "Business",
+      "link" : "https:\/\/lighthouse16.com\/brandbook\/"
+    },
+    {
       "developer" : "InspiringLife",
       "created_at" : "2018-10-30 10:18:18",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036793-0cc6a8f0-8d3a-11e8-87d4-50ac396aeacc.png",
@@ -2719,6 +2727,14 @@
       "name" : "Desktopr",
       "category" : "Utilities",
       "link" : "https:\/\/www.desktopr.link"
+    },
+    {
+      "developer" : "Apple",
+      "created_at" : "2020-06-22 22:54:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303141-af97fe00-b4dc-11ea-8808-f601859a3152.png",
+      "name" : "Developer",
+      "category" : "Developer Tools",
+      "link" : "https:\/\/www.apple.com"
     },
     {
       "developer" : "DEVONtechnologies, LLC",
@@ -7065,7 +7081,7 @@
       "link" : "http:\/\/www.mweb.im"
     },
     {
-      "developer" : "Music Music Paradise",
+      "developer" : "Music Paradise",
       "created_at" : "2019-09-11 16:31:34",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037308-05b9a31e-8d3f-11e8-9fd5-7af8d60c9c55.png",
       "name" : "My Metronome 1.0.2",
@@ -7495,6 +7511,14 @@
       "name" : "Orbis",
       "category" : "Weather",
       "link" : "http:\/\/orbisapp.com"
+    },
+    {
+      "developer" : "Triple Glazed Studios",
+      "created_at" : "2020-06-22 22:54:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303137-aeff6780-b4dc-11ea-81cc-8f6f0ed9e70f.png",
+      "name" : "Orbit",
+      "category" : "Business",
+      "link" : "https:\/\/timeinorbit.com\/"
     },
     {
       "developer" : "Facebook",
@@ -8159,6 +8183,14 @@
       "name" : "Polarr Photo Editor Pro",
       "category" : "Photography",
       "link" : "https:\/\/www.polarr.co\/mac"
+    },
+    {
+      "developer" : "Steven J. Selcuk",
+      "created_at" : "2020-06-22 22:54:38",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303131-ad35a400-b4dc-11ea-9385-ab980c966aa6.png",
+      "name" : "Pomosh",
+      "category" : "Utilities",
+      "link" : "https:\/\/pomosh.netlify.app\/"
     },
     {
       "developer" : "Pilotmoon Software",
@@ -12505,5 +12537,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-20 00:22:22 GMT+8"
+  "update_time" : "2020-06-22 23:04:39 GMT+8"
 }
