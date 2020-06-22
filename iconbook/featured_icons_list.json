@@ -5881,6 +5881,14 @@
       "link" : "https:\/\/www.araelium.com\/linkshot"
     },
     {
+      "developer" : "LiquidText Inc",
+      "created_at" : "2020-06-22 23:22:57",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85305340-8331b100-b4df-11ea-91df-6a91d96eedbd.png",
+      "name" : "LiquidText",
+      "category" : "Productivity",
+      "link" : "http:\/\/liquidtext.net"
+    },
+    {
       "developer" : "Objective Development Software GmbH",
       "created_at" : "2019-09-11 18:08:13",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574824-26d3d190-73b4-11e8-9d1b-3d74161856a3.png",
@@ -6910,7 +6918,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574901-3c8b4eb4-73b4-11e8-8d7d-3d958d2ff024.png",
       "name" : "MoneyWell 2",
       "category" : "Finance",
-      "link" : "https:\/\/moneywellapp.com\/overview"
+      "link" : "https:\/\/moneywellapp.com"
     },
     {
       "developer" : "Kevin LaCoste",
@@ -6918,7 +6926,7 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574902-3cd84142-73b4-11e8-9cc8-b85c81964c66.png",
       "name" : "MoneyWell 3",
       "category" : "Finance",
-      "link" : "https:\/\/moneywellapp.com\/overview"
+      "link" : "https:\/\/moneywellapp.com"
     },
     {
       "developer" : "SilverWiz",
@@ -12569,5 +12577,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-22 23:16:01 GMT+8"
+  "update_time" : "2020-06-22 23:24:51 GMT+8"
 }
