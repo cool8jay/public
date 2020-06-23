@@ -1529,6 +1529,14 @@
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/26706\/changes"
     },
     {
+      "developer" : "ZOYI Corporation",
+      "created_at" : "2020-06-23 09:19:36",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85350142-e6006800-b532-11ea-9eae-30f239c066eb.png",
+      "name" : "Channel.io",
+      "category" : "Productivity",
+      "link" : "https:\/\/channel.io"
+    },
+    {
       "developer" : "Regular SIA",
       "created_at" : "2018-10-30 11:05:55",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036802-1014a5de-8d3a-11e8-86fe-6bf381a6446b.png",
@@ -12577,5 +12585,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-22 23:24:51 GMT+8"
+  "update_time" : "2020-06-23 09:22:14 GMT+8"
 }
