@@ -6865,6 +6865,14 @@
       "link" : "https:\/\/moleskinejourney.com"
     },
     {
+      "developer" : "Fireball",
+      "created_at" : "2020-07-01 10:01:31",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/86194831-2048b580-bb82-11ea-9937-807c3b2f91b1.png",
+      "name" : "Moment",
+      "category" : "Utilities",
+      "link" : "https:\/\/fireball.studio\/moment"
+    },
+    {
       "developer" : "Bombservice",
       "created_at" : "2018-10-25 18:51:01",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/67620515-7a96b700-f83a-11e9-9c69-ba398345f8c9.png",
@@ -12585,5 +12593,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-23 09:22:14 GMT+8"
+  "update_time" : "2020-07-01 10:18:44 GMT+8"
 }
