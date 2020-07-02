@@ -5209,6 +5209,14 @@
       "link" : "http:\/\/instacalapp.com"
     },
     {
+      "developer" : "Playwing Ltd.",
+      "created_at" : "2020-07-02 20:59:37",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/86362414-d0fca500-bca7-11ea-95a5-4d73f5420b34.png",
+      "name" : "Instant War",
+      "category" : "Games",
+      "link" : "https:\/\/www.instantwar.com"
+    },
+    {
       "developer" : "ThinkTime Creations LLC",
       "created_at" : "2018-10-30 10:31:17",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574760-1652572e-73b4-11e8-8286-0b8fa3de8001.png",
@@ -12593,5 +12601,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-07-01 10:18:44 GMT+8"
+  "update_time" : "2020-06-22 23:24:51 GMT+8"
 }
