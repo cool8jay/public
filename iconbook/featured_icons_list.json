@@ -945,6 +945,14 @@
       "link" : "https:\/\/red-sweater.com\/blackink"
     },
     {
+      "developer" : "Sindre Sorhus",
+      "created_at" : "2020-07-04 13:11:51",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/86505540-80e12800-bdf8-11ea-953b-1d9958639763.png",
+      "name" : "Black Out",
+      "category" : "Graphics & Design",
+      "link" : "https:\/\/sindresorhus.com\/black-out"
+    },
+    {
       "developer" : "Secret Geometry, Inc.",
       "created_at" : "2018-10-30 10:30:54",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574382-bf5e3122-73b3-11e8-9a67-232419e68cf7.png",
@@ -12601,5 +12609,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-06-22 23:24:51 GMT+8"
+  "update_time" : "2020-07-04 13:16:48 GMT+8"
 }
