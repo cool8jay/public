@@ -6129,6 +6129,14 @@
       "link" : "https:\/\/sindresorhus.com\/lungo"
     },
     {
+      "developer" : "Elton Nallbati",
+      "created_at" : "2020-07-16 20:52:26",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/87673094-86e6e980-c7a6-11ea-9c65-cfcff92b663e.png",
+      "name" : "Lux",
+      "category" : "Weather",
+      "link" : "http:\/\/lionsapp.com"
+    },
+    {
       "developer" : "Mirko Viviani",
       "created_at" : "2019-09-11 18:07:08",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574842-2b4eede0-73b4-11e8-8d10-3cdc7bba70f3.png",
@@ -12609,5 +12617,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-07-04 13:16:48 GMT+8"
+  "update_time" : "2020-07-16 20:55:04 GMT+8"
 }
