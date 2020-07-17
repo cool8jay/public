@@ -11564,7 +11564,15 @@
       "developer" : "Lars Gerckens",
       "created_at" : "2018-10-30 11:00:46",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45405948-52c8ac00-b697-11e8-8ee5-e21cd7655e0c.png",
-      "name" : "Tyme2",
+      "name" : "Tyme 2",
+      "category" : "Productivity",
+      "link" : "https:\/\/www.tyme-app.com"
+    },
+    {
+      "developer" : "Lars Gerckens",
+      "created_at" : "2020-07-17 11:35:44",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/87745972-f64def00-c821-11ea-82f3-9b3a60da7e9a.png",
+      "name" : "Tyme 3",
       "category" : "Productivity",
       "link" : "https:\/\/www.tyme-app.com"
     },
@@ -12617,5 +12625,5 @@
       "link" : "https:\/\/www.zotero.org\/"
     }
   ],
-  "update_time" : "2020-07-16 20:55:04 GMT+8"
+  "update_time" : "2020-07-17 11:42:37 GMT+8"
 }
