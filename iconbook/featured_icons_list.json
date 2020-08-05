@@ -271,6 +271,36 @@
       "name" : "Aether"
     },
     {
+      "category" : "Graphics & Design",
+      "color" : "blue",
+      "created_at" : "2020-08-05 22:43:30",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/designer",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89427124-7acec600-d76d-11ea-957c-d37432acbf5a.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Designer"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "black,white,brown,blue",
+      "created_at" : "2020-08-05 22:40:35",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/photo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89427138-7e624d00-d76d-11ea-8f5d-8937e100c093.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Photo"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "red,yellow",
+      "created_at" : "2020-08-05 22:39:07",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/publisher",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89427132-7d312000-d76d-11ea-954e-32ebac54dc55.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Publisher"
+    },
+    {
       "category" : "Games",
       "color" : "orange,purple,black",
       "created_at" : "2019-11-26 22:50:08",
@@ -15961,5 +15991,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-08-05 22:26:22 GMT+8"
+  "update_time" : "2020-08-05 22:47:22 GMT+8"
 }
