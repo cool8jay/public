@@ -41,7 +41,7 @@
       "name" : "1Password 7"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 16:32:59",
       "developer" : "Guo Bing",
@@ -97,7 +97,7 @@
       "developer" : "Evgeny Cherpak",
       "link" : "https:\/\/cherpake.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45987735-b4c8de80-c0a5-11e8-866e-879951da0e8d.png",
-      "tag" : "Hammer",
+      "tag" : "Tool,Document,Hammer",
       "name" : "18 Strings"
     },
     {
@@ -311,13 +311,13 @@
       "name" : "Airfoil"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,white,silver,brown",
       "created_at" : "2019-09-12 03:13:17",
       "developer" : "Skylum",
       "link" : "https:\/\/skylum.com\/airmagic",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798843-dcedde80-ef41-11e9-97c7-e3843100b182.png",
-      "tag" : "Animal,Lemur,Round",
+      "tag" : "Animal,Round",
       "name" : "AirMagic"
     },
     {
@@ -387,7 +387,7 @@
       "developer" : "Koingo Software, Inc",
       "link" : "http:\/\/www.koingosw.com\/products\/alarmclockpro",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574326-b3f53e16-73b3-11e8-82dd-57c2fe586ffa.png",
-      "tag" : "Round",
+      "tag" : "Round,3D",
       "name" : "Alarm Clock Pro"
     },
     {
@@ -477,7 +477,7 @@
       "developer" : "Kai Aras",
       "link" : "http:\/\/getambify.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/49271282-e09e8100-f4a7-11e8-98e2-976a49f85af6.png",
-      "tag" : "Sound",
+      "tag" : "Device",
       "name" : "Ambify"
     },
     {
@@ -511,7 +511,7 @@
       "name" : "AmpKit"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,green,blue,purple",
       "created_at" : "2018-10-30 10:17:43",
       "developer" : "Realmac Software",
@@ -521,7 +521,7 @@
       "name" : "Analog"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2018-10-30 10:58:48",
       "developer" : "BrainFeverMedia",
@@ -581,7 +581,7 @@
       "name" : "AnyDrop"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2019-09-12 03:13:17",
       "developer" : "AnyMP4 Studio",
@@ -591,7 +591,7 @@
       "name" : "AnyMP4 Mac Blu-ray Player"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 15:54:44",
       "developer" : "Apple",
@@ -601,7 +601,7 @@
       "name" : "Aperture"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,yellow,green,blue,purple",
       "created_at" : "2019-09-12 03:13:17",
       "developer" : "Anogeissus Limited",
@@ -637,7 +637,7 @@
       "developer" : "Koingo Software, Inc",
       "link" : "https:\/\/www.koingosw.com\/products\/discontinued",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574343-b72852bc-73b3-11e8-85be-f55fa92c43fb.png",
-      "tag" : "Portal,Round",
+      "tag" : "Round",
       "name" : "AppBolish"
     },
     {
@@ -787,7 +787,7 @@
       "developer" : "Music Topia",
       "link" : "https:\/\/apps.apple.com\/app\/id1041868293",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74102937-ecdd9e00-4b82-11ea-92c5-43b6ffae3d7f.png",
-      "tag" : "Book",
+      "tag" : "Book,Headphones",
       "name" : "Audio Library Collection"
     },
     {
@@ -811,7 +811,7 @@
       "name" : "Automator"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,yellow,white,brown",
       "created_at" : "2018-10-30 10:34:12",
       "developer" : "Eagleapp",
@@ -947,11 +947,11 @@
       "developer" : "Shiny Frog Ltd.",
       "link" : "http:\/\/www.bear-writer.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574370-bcb61084-73b3-11e8-9158-af968b51c029.png",
-      "tag" : "Animal,Bear,Round",
+      "tag" : "Animal,Round",
       "name" : "Bear"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "purple",
       "created_at" : "2018-10-30 10:10:47",
       "developer" : "Everimaging Ltd",
@@ -997,7 +997,7 @@
       "developer" : "Kent Place Software Limited",
       "link" : "https:\/\/www.beeralchemyapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574372-bd2a0be2-73b3-11e8-9f0f-825b6cee7ef7.png",
-      "tag" : "Drink,Tilt",
+      "tag" : "Drink,Document",
       "name" : "BeerAlchemy 2"
     },
     {
@@ -1007,7 +1007,7 @@
       "developer" : "BeerSmith LLC",
       "link" : "http:\/\/beersmith.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68219630-42089180-0021-11ea-8931-8976471e5baf.png",
-      "tag" : "Beer,Cup",
+      "tag" : "Cup,Drink",
       "name" : "BeerSmith 2"
     },
     {
@@ -1017,7 +1017,7 @@
       "developer" : "BeerSmith LLC",
       "link" : "http:\/\/beersmith.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68219633-4339be80-0021-11ea-8570-abc30ad8fa01.png",
-      "tag" : "Beer,Cup",
+      "tag" : "Cup,Drink",
       "name" : "BeerSmith 3"
     },
     {
@@ -1241,7 +1241,7 @@
       "name" : "BlogTouch"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,green,blue,white",
       "created_at" : "2018-10-30 10:30:27",
       "developer" : "Macgo International Limited",
@@ -1251,7 +1251,7 @@
       "name" : "Blu-ray Player Pro"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver",
       "created_at" : "2018-10-30 10:29:14",
       "developer" : "Macgo International Limited",
@@ -1397,7 +1397,7 @@
       "developer" : "Francesco Di Lorenzo & Fabrizio Rinaldi",
       "link" : "https:\/\/twitterformac.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/49270138-3b81a980-f4a3-11e8-9447-6ad9f13ef14f.png",
-      "tag" : "Bird,Round,Wing",
+      "tag" : "Bird,Round,Animal",
       "name" : "Boxy for Twitter"
     },
     {
@@ -1617,7 +1617,7 @@
       "developer" : "Bruno Philipe",
       "link" : "https:\/\/www.cakebrew.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574411-c5898574-73b3-11e8-8f17-6208cb5f163e.png",
-      "tag" : "Cake,Food",
+      "tag" : "Food",
       "name" : "Cakebrew"
     },
     {
@@ -1651,7 +1651,7 @@
       "name" : "Calories Counter 2"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2018-10-30 10:55:26",
       "developer" : "Nevercenter Ltd. Co.",
@@ -1661,7 +1661,7 @@
       "name" : "CameraBag Cinema"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,silver,black",
       "created_at" : "2018-10-30 10:38:28",
       "developer" : "Nevercenter Ltd. Co.",
@@ -1671,7 +1671,17 @@
       "name" : "CameraBag"
     },
     {
-      "category" : "Photography",
+      "category" : "Utilities",
+      "color" : "silver,black",
+      "created_at" : "2020-07-23 21:11:45",
+      "developer" : "Reincubate",
+      "link" : "https:\/\/reincubate.com\/camo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294975-6c28ed80-cd2f-11ea-95dc-ab33b6a3caa6.png",
+      "tag" : "Camera,Round",
+      "name" : "Camo Studio"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "green,white",
       "created_at" : "2018-10-30 11:12:16",
       "developer" : "TechSmith Corporation",
@@ -1761,7 +1771,7 @@
       "name" : "Cappuccino"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,blue,purple",
       "created_at" : "2018-10-30 10:10:44",
       "developer" : "Global Delight Technologies Pvt. Ltd",
@@ -1791,7 +1801,7 @@
       "name" : "Capturer"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "yellow,green,blue,purple,white,silver",
       "created_at" : "2019-11-13 20:27:49",
       "developer" : "Ben Software Ltd",
@@ -1867,7 +1877,7 @@
       "developer" : "Bastien & Julien",
       "link" : "https:\/\/cashnotify.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036801-0fc183f4-8d3a-11e8-901d-7322dbebc8a1.png",
-      "tag" : "Bell,Money,Symbol",
+      "tag" : "Money,Symbol",
       "name" : "CashNotify"
     },
     {
@@ -1907,7 +1917,7 @@
       "developer" : "Midnight Apps",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/22913\/cha-ching",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68086583-6d0bad80-fe88-11e9-91ac-5f87934b981d.png",
-      "tag" : "Coin,Pig,Toy",
+      "tag" : "Coin,Toy,Animal",
       "name" : "Cha-Ching"
     },
     {
@@ -2101,7 +2111,7 @@
       "name" : "Chill Pill"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,brown",
       "created_at" : "2018-10-30 10:54:34",
       "developer" : "Yaroslav Glushchenko",
@@ -2221,7 +2231,7 @@
       "name" : "Cinema 4D Studio"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "purple,white,black",
       "created_at" : "2019-10-22 22:57:58",
       "developer" : "Flixel Photos Inc.",
@@ -2231,7 +2241,7 @@
       "name" : "Cinemagraph Pro 1"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "purple,white,black",
       "created_at" : "2019-10-22 22:58:25",
       "developer" : "Flixel Photos Inc.",
@@ -2261,7 +2271,7 @@
       "name" : "Clarify"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,white",
       "created_at" : "2019-09-11 14:47:55",
       "developer" : "Yuan Joy",
@@ -2451,7 +2461,7 @@
       "name" : "CloudMounter"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,yellow,green,blue,purple,white",
       "created_at" : "2018-10-30 10:55:19",
       "developer" : "CloudTV",
@@ -2467,7 +2477,7 @@
       "developer" : "Maintain",
       "link" : "http:\/\/www.maintain.se\/cocktail",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574469-d35f40f8-73b3-11e8-88f9-20a5c97e45ae.png",
-      "tag" : "Bottle,Wrench",
+      "tag" : "Bottle,Tool",
       "name" : "Cocktail"
     },
     {
@@ -2477,7 +2487,7 @@
       "developer" : "Chris Sinai",
       "link" : "https:\/\/www.coconut-flavour.com\/coconutbattery",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574470-d3a59daa-73b3-11e8-8a0c-e0f16443a485.png",
-      "tag" : "Food,Fruit,Lightning",
+      "tag" : "Food,Fruit,Coconut,Bolt",
       "name" : "coconutBattery"
     },
     {
@@ -2561,7 +2571,7 @@
       "name" : "Color Schemer Studio"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,yellow,green,blue,purple,silver",
       "created_at" : "2019-10-22 22:50:44",
       "developer" : "Martin Hering",
@@ -2601,7 +2611,7 @@
       "name" : "ColorSnapper"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,yellow,green,blue,purple",
       "created_at" : "2018-10-30 10:36:29",
       "developer" : "Skylum",
@@ -2651,7 +2661,7 @@
       "name" : "Compendium - Pharma Dictionary"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "silver,black",
       "created_at" : "2018-10-30 11:01:50",
       "developer" : "BZG Inc.",
@@ -2661,7 +2671,7 @@
       "name" : "Compress"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,green,silver,black",
       "created_at" : "2018-10-30 11:06:01",
       "developer" : "Apple",
@@ -2881,6 +2891,16 @@
       "name" : "CoverSutra"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,purple,white,black",
+      "created_at" : "2020-07-23 21:43:30",
+      "developer" : "Luki Labs Ltd",
+      "link" : "http:\/\/craft.do",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294948-66330c80-cd2f-11ea-9d5f-72c00e61f134.png",
+      "tag" : "Rectangle",
+      "name" : "Craft"
+    },
+    {
       "category" : "News",
       "color" : "red,yellow,white",
       "created_at" : "2019-09-11 16:28:47",
@@ -2961,7 +2981,7 @@
       "name" : "CursorSense"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,blue,silver",
       "created_at" : "2019-09-11 16:28:47",
       "developer" : "Photo And Video Labs",
@@ -3367,7 +3387,7 @@
       "developer" : "yo gg llc",
       "link" : "https:\/\/apps.apple.com\/app\/id915839505",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574538-e170624e-73b3-11e8-8e79-b0fa10850c60.png",
-      "tag" : "Key,Device,Type",
+      "tag" : "Key,Device",
       "name" : "Desk"
     },
     {
@@ -3787,7 +3807,7 @@
       "developer" : "Docker Inc.",
       "link" : "https:\/\/www.docker.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/47725165-0828e080-dc93-11e8-933e-c66125c4c19a.png",
-      "tag" : "Animal,Whale",
+      "tag" : "Animal",
       "name" : "Docker"
     },
     {
@@ -3837,7 +3857,7 @@
       "developer" : "Ciarlo Software, LLC",
       "link" : "https:\/\/getdooapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574573-e90b33c6-73b3-11e8-9576-4600bf8e808b.png",
-      "tag" : "Flag,Mountain,Round",
+      "tag" : "Mountain,Round",
       "name" : "Doo"
     },
     {
@@ -3907,7 +3927,7 @@
       "developer" : "Chongyu Zhu",
       "link" : "http:\/\/dradio.me",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574577-ea12d3d2-73b3-11e8-82cd-380b55acc84a.png",
-      "tag" : "Radio",
+      "tag" : "Device",
       "name" : "dRadio"
     },
     {
@@ -4071,7 +4091,7 @@
       "name" : "Due"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,green,blue",
       "created_at" : "2018-10-30 11:17:02",
       "developer" : "Hyperbolic Software",
@@ -4151,7 +4171,7 @@
       "name" : "Edison Mail"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "yellow,green,black",
       "created_at" : "2019-09-12 03:18:50",
       "developer" : "divergent media",
@@ -4181,7 +4201,7 @@
       "name" : "El Loco"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,blue,black",
       "created_at" : "2019-09-11 16:29:18",
       "developer" : "Creaceed S.P.R.L.",
@@ -4201,7 +4221,7 @@
       "name" : "Electron"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,black",
       "created_at" : "2018-10-30 10:06:40",
       "developer" : "Eltima Software",
@@ -4261,7 +4281,7 @@
       "name" : "Ember"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,black",
       "created_at" : "2018-10-30 10:35:51",
       "developer" : "The Escapers",
@@ -4271,7 +4291,7 @@
       "name" : "Emulsion - Catalog"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,black",
       "created_at" : "2018-10-30 10:32:00",
       "developer" : "The Escapers",
@@ -4437,7 +4457,7 @@
       "developer" : "Rockfish Gmes",
       "link" : "https:\/\/classic.everspace-game.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/67620518-7c607a80-f83a-11e9-9a97-ead10511d1af.png",
-      "tag" : "Rectangle,Space",
+      "tag" : "Rectangle",
       "name" : "EVERSPACE"
     },
     {
@@ -4451,7 +4471,7 @@
       "name" : "Everyday"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-12 03:18:52",
       "developer" : "Evological",
@@ -4531,13 +4551,13 @@
       "name" : "Expert Set - Templates for Pages, Keynote, Numbers"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,white,black",
       "created_at" : "2018-10-30 10:37:50",
       "developer" : "Kitestack Software",
       "link" : "http:\/\/kitestack.com\/explainer",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574618-f3f4281a-73b3-11e8-89b6-495f05b4f253.png",
-      "tag" : "Glasses",
+      "tag" : "Glasses,Clothes",
       "name" : "Explainer"
     },
     {
@@ -4551,7 +4571,7 @@
       "name" : "Extractor"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2019-09-12 03:21:00",
       "developer" : "Geniatech Inc., Ltd.",
@@ -4711,7 +4731,7 @@
       "name" : "FileShuttle"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,orange,yellow,green,blue,purple,white,black",
       "created_at" : "2019-09-12 03:20:35",
       "developer" : "Apple",
@@ -4821,7 +4841,7 @@
       "name" : "FL Studio 20"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,yellow",
       "created_at" : "2019-09-12 03:18:31",
       "developer" : "The Iconfactory",
@@ -4951,7 +4971,7 @@
       "name" : "Flow"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,silver",
       "created_at" : "2020-05-10 23:57:44",
       "developer" : "Flume",
@@ -4961,7 +4981,7 @@
       "name" : "Flume 2"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,white",
       "created_at" : "2019-09-12 03:18:53",
       "developer" : "Flume",
@@ -4971,7 +4991,7 @@
       "name" : "Flume"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,green,white,silver,brown,black",
       "created_at" : "2014-04-08 18:54:54",
       "developer" : "Skylum",
@@ -5141,7 +5161,7 @@
       "name" : "Form"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,white,black",
       "created_at" : "2019-09-12 03:17:40",
       "developer" : "ForMacX",
@@ -5151,7 +5171,7 @@
       "name" : "FotoCleaner"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,yellow,green,blue,purple,silver,black",
       "created_at" : "2018-10-30 11:10:05",
       "developer" : "Chronos",
@@ -5231,6 +5251,16 @@
       "name" : "Free"
     },
     {
+      "category" : "Business",
+      "color" : "white,black",
+      "created_at" : "2020-07-23 21:16:56",
+      "developer" : "Sebastián Benítez",
+      "link" : "https:\/\/ds9soft.com\/freelancestation",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294968-69c69380-cd2f-11ea-87e1-6db1561c8c44.png",
+      "tag" : "Round",
+      "name" : "FreelanceStation"
+    },
+    {
       "category" : "News",
       "color" : "blue,white",
       "created_at" : "2019-09-12 03:17:37",
@@ -5297,7 +5327,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com\/mac\/garageband",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574673-003bad8c-73b4-11e8-8805-15a6a4e0bbfc.png",
-      "tag" : "Guitar,Speaker",
+      "tag" : "Guitar,Speaker,Instrument",
       "name" : "GarageBand"
     },
     {
@@ -5471,7 +5501,7 @@
       "name" : "Ghostlab"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "yellow,black",
       "created_at" : "2018-10-30 10:23:09",
       "developer" : "Hello, Resolven Apps",
@@ -5481,7 +5511,7 @@
       "name" : "GIF Brewery 2"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,white",
       "created_at" : "2018-10-30 10:39:46",
       "developer" : "Gfycat, Inc.",
@@ -5561,7 +5591,7 @@
       "name" : "Gitter"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "green,white,black",
       "created_at" : "2018-10-30 11:01:09",
       "developer" : "Eternal Storms Software",
@@ -5637,7 +5667,7 @@
       "developer" : "Music Breath",
       "link" : "https:\/\/apps.apple.com\/app\/id1049623607",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574698-06545584-73b4-11e8-9fd6-8ecef01a7bf6.png",
-      "tag" : "Key,Rectangle,Tilt",
+      "tag" : "Key,Rectangle,Tilt,Instrument",
       "name" : "Grand Piano Keys 5K - Learn To Play"
     },
     {
@@ -5647,7 +5677,7 @@
       "developer" : "Music Breath",
       "link" : "https:\/\/apps.apple.com\/app\/id1049623607",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104530-970ff280-4b90-11ea-85d4-95685eae4120.png",
-      "tag" : "Key,Device",
+      "tag" : "Key,Device,Instrument",
       "name" : "Grand Piano Keys"
     },
     {
@@ -5697,7 +5727,7 @@
       "developer" : "Batoul Apps",
       "link" : "http:\/\/guidanceapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036905-a0e056c6-8d3a-11e8-9917-b549a779b0e5.png",
-      "tag" : "Door",
+      "tag" : "Gate",
       "name" : "Guidance"
     },
     {
@@ -5737,7 +5767,7 @@
       "developer" : "Beach Digital Ltd",
       "link" : "http:\/\/hammerformac.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574702-07688094-73b4-11e8-873b-6998f3c00508.png",
-      "tag" : "Hammer",
+      "tag" : "Hammer,Tool",
       "name" : "Hammer"
     },
     {
@@ -5821,7 +5851,7 @@
       "name" : "HDD Fan Control"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "green,silver,black",
       "created_at" : "2019-09-11 18:23:41",
       "developer" : "The Sync Factory B.V",
@@ -5947,7 +5977,7 @@
       "developer" : "Asar Corporation",
       "link" : "https:\/\/www.asar.com\/hogwasher.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68086588-6ed57100-fe88-11e9-9863-61cb93a9f061.png",
-      "tag" : "Animal,Pig",
+      "tag" : "Animal",
       "name" : "Hogwasher"
     },
     {
@@ -6061,6 +6091,16 @@
       "name" : "HPSTR"
     },
     {
+      "category" : "Utilities",
+      "color" : "purple,silver",
+      "created_at" : "2020-08-05 22:15:45",
+      "developer" : "Philips",
+      "link" : "https:\/\/www.philips-hue.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89424182-0cd4cf80-d76a-11ea-9189-f5c8c02ddb0f.png",
+      "tag" : "Round,Bulb",
+      "name" : "Hue Sync"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "red,orange,yellow,green,blue,purple",
       "created_at" : "2019-09-11 15:38:46",
@@ -6081,7 +6121,7 @@
       "name" : "Human Resource Machine"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,white,black",
       "created_at" : "2018-10-30 10:17:41",
       "developer" : "Creaceed S.P.R.L.",
@@ -6271,6 +6311,16 @@
       "name" : "IconKit"
     },
     {
+      "category" : "Graphics & Design",
+      "color" : "white",
+      "created_at" : "2020-07-23 21:23:08",
+      "developer" : "Iconset Creative",
+      "link" : "https:\/\/iconset.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294934-629f8580-cd2f-11ea-845d-cdecb30df7db.png",
+      "tag" : "Round",
+      "name" : "Iconset"
+    },
+    {
       "category" : "Social Networking",
       "color" : "red,orange,green",
       "created_at" : "2019-10-09 21:40:14",
@@ -6301,7 +6351,7 @@
       "name" : "iDocument 2"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:15:27",
       "developer" : "Collider LI",
@@ -6331,7 +6381,7 @@
       "name" : "iKanji"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "silver,black",
       "created_at" : "2019-09-11 18:14:58",
       "developer" : "Zhang Chao",
@@ -6341,7 +6391,7 @@
       "name" : "Image Exif Editor"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,yellow,blue",
       "created_at" : "2019-09-11 18:14:18",
       "developer" : "IcyBlaze Software Inc",
@@ -6371,7 +6421,7 @@
       "name" : "Image2Icon"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,blue,silver",
       "created_at" : "2019-09-11 18:13:58",
       "developer" : "Kornel Lesiński",
@@ -6391,7 +6441,7 @@
       "name" : "Img2icns"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "purple,silver",
       "created_at" : "2018-10-30 10:16:53",
       "developer" : "Apple",
@@ -6401,7 +6451,7 @@
       "name" : "iMovie 10"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "yellow,black",
       "created_at" : "2019-09-11 18:13:57",
       "developer" : "Apple",
@@ -6427,7 +6477,7 @@
       "developer" : "Paradox Interactive",
       "link" : "https:\/\/www.gameimperator.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66802039-c057a380-ef4d-11e9-9d41-49b3e0514065.png",
-      "tag" : "Eagle",
+      "tag" : "Animal,Bird",
       "name" : "Imperator - Rome"
     },
     {
@@ -6527,7 +6577,7 @@
       "developer" : "Playwing Ltd.",
       "link" : "https:\/\/www.instantwar.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/86362414-d0fca500-bca7-11ea-95a5-4d73f5420b34.png",
-      "tag" : "Tank,Round",
+      "tag" : "Weapon,Round",
       "name" : "Instant War"
     },
     {
@@ -6581,7 +6631,7 @@
       "name" : "Intaglio"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,blue,purple,black",
       "created_at" : "2019-09-11 18:12:13",
       "developer" : "Skylum",
@@ -6631,7 +6681,17 @@
       "name" : "Invoice"
     },
     {
-      "category" : "Photography",
+      "category" : "Utilities",
+      "color" : "red,white",
+      "created_at" : "2020-07-23 21:14:02",
+      "developer" : "Reincubate",
+      "link" : "https:\/\/reincubate.com\/iphone-backup-extractor\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294972-6af7c080-cd2f-11ea-821f-e8f00bac599f.png",
+      "tag" : "Hexagon,Card,Cloud",
+      "name" : "iPhone Backup Extractor"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "green,blue,silver",
       "created_at" : "2019-09-11 18:11:29",
       "developer" : "Apple",
@@ -6711,7 +6771,7 @@
       "name" : "iStat"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "purple,black",
       "created_at" : "2019-09-11 18:10:39",
       "developer" : "Boinx Software",
@@ -6851,7 +6911,7 @@
       "name" : "Joystick Show"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,white,black",
       "created_at" : "2018-10-30 10:38:37",
       "developer" : "Beamr Ltd.",
@@ -6861,7 +6921,7 @@
       "name" : "JPEGmini Pro"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,silver,black",
       "created_at" : "2019-09-11 15:23:40",
       "developer" : "Beamr Ltd.",
@@ -7021,7 +7081,7 @@
       "name" : "Keycard"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "white,black",
       "created_at" : "2019-09-11 18:09:28",
       "developer" : "Malgn Technology Co., Ltd",
@@ -7057,7 +7117,7 @@
       "developer" : "Rayner Software LLC.",
       "link" : "http:\/\/raynersoftware.com\/netshade.php",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68677165-8d2d2200-0596-11ea-807f-3ee3d274090e.png",
-      "tag" : "Cloud,Log",
+      "tag" : "Cloud,Lock",
       "name" : "KeyShade"
     },
     {
@@ -7127,7 +7187,7 @@
       "developer" : "Rhodes Software",
       "link" : "https:\/\/kiteapp.co",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574805-221a5a0c-73b4-11e8-85d6-c466a6956393.png",
-      "tag" : "Kite,Toy",
+      "tag" : "Toy",
       "name" : "Kite"
     },
     {
@@ -7271,7 +7331,7 @@
       "name" : "Letters"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,blue,white,black",
       "created_at" : "2019-09-11 16:30:17",
       "developer" : "Sittipon Simasanti",
@@ -7321,13 +7381,13 @@
       "name" : "LightBox"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,yellow,green,blue",
       "created_at" : "2019-09-11 18:08:17",
       "developer" : "Software Ambience Corp.",
       "link" : "https:\/\/lilyviewapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574821-26414276-73b4-11e8-8ed2-3fdf304f021b.png",
-      "tag" : "Flower,Image,Rectangle,Tilt",
+      "tag" : "Flower,Rectangle,Tilt",
       "name" : "LilyView"
     },
     {
@@ -7427,7 +7487,7 @@
       "developer" : "Nebula",
       "link" : "http:\/\/liveperformerapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574826-276b52ea-73b4-11e8-8879-b88a94355969.png",
-      "tag" : "Key,Rectangle",
+      "tag" : "Key,Rectangle,Instrument",
       "name" : "Live Performer"
     },
     {
@@ -7527,7 +7587,7 @@
       "developer" : "QMUI Team",
       "link" : "https:\/\/lookin.work",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798913-f7c05300-ef41-11e9-906f-3572829524be.png",
-      "tag" : "Animal,Dog,Glasses",
+      "tag" : "Animal,Glasses",
       "name" : "Lookin"
     },
     {
@@ -7547,7 +7607,7 @@
       "developer" : "Music Topia",
       "link" : "https:\/\/apps.apple.com\/app\/id1345209199",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574834-29401808-73b4-11e8-9c07-118e98830fb3.png",
-      "tag" : "Keycard,Rectangle,Tilt",
+      "tag" : "Keycard,Rectangle,Tilt,Instrument",
       "name" : "Loop Piano"
     },
     {
@@ -7581,7 +7641,7 @@
       "name" : "Lucid 3"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "green,blue,white",
       "created_at" : "2019-09-11 18:07:38",
       "developer" : "Paracosm",
@@ -7601,7 +7661,7 @@
       "name" : "Lumina"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,silver,brown,black",
       "created_at" : "2019-09-11 18:07:37",
       "developer" : "Skylum",
@@ -7611,7 +7671,7 @@
       "name" : "Luminar 3"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,black",
       "created_at" : "2020-05-11 00:08:54",
       "developer" : "Skylum",
@@ -7621,7 +7681,7 @@
       "name" : "Luminar Catalog Icon"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "silver,black",
       "created_at" : "2019-07-08 11:41:34",
       "developer" : "Skylum",
@@ -7631,7 +7691,7 @@
       "name" : "Luminar Flex"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "green,blue,black",
       "created_at" : "2019-09-11 18:07:12",
       "developer" : "Skylum",
@@ -7671,7 +7731,7 @@
       "name" : "Lux"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "silver",
       "created_at" : "2019-09-11 18:07:08",
       "developer" : "Mirko Viviani",
@@ -7757,7 +7817,7 @@
       "developer" : "Mariner Software",
       "link" : "https:\/\/marinersoftware.com\/products\/macgourmet",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574848-2d07c986-73b4-11e8-934e-3559da01da87.png",
-      "tag" : "Oven",
+      "tag" : "Device",
       "name" : "MacGourmet Deluxe"
     },
     {
@@ -8127,7 +8187,7 @@
       "developer" : "Makeblock Co., Ltd.",
       "link" : "https:\/\/www.mblock.cc",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898626-c246cf00-a789-11ea-93fa-cd6cbcb82a0d.png",
-      "tag" : "Panda,Gear",
+      "tag" : "Gear,Animal",
       "name" : "mBlock"
     },
     {
@@ -8281,7 +8341,7 @@
       "name" : "Meta"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,silver",
       "created_at" : "2019-09-11 18:05:31",
       "developer" : "NeededApps",
@@ -8407,7 +8467,7 @@
       "developer" : "Music Breath",
       "link" : "https:\/\/apps.apple.com\/app\/id1221266801",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104529-95dec580-4b90-11ea-9cb3-84ae173d951b.png",
-      "tag" : "Key,Device",
+      "tag" : "Key,Device,Instrument",
       "name" : "Midi Keyboard - Play & Record 2"
     },
     {
@@ -8417,7 +8477,7 @@
       "developer" : "Music Breath",
       "link" : "https:\/\/apps.apple.com\/app\/id1221266801",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574882-376a9b92-73b4-11e8-97a3-e4ee34db7a70.png",
-      "tag" : "Key,Rectangle",
+      "tag" : "Key,Rectangle,Instrument",
       "name" : "Midi Keyboard - Play & Record"
     },
     {
@@ -8431,7 +8491,7 @@
       "name" : "Milk 2"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 18:04:57",
       "developer" : "Anomes SARL",
@@ -8441,7 +8501,7 @@
       "name" : "Millumin 1 closed"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 18:04:56",
       "developer" : "Anomes SARL",
@@ -8451,7 +8511,7 @@
       "name" : "Millumin 1"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2018-10-30 10:38:20",
       "developer" : "Anomes SARL",
@@ -8461,7 +8521,7 @@
       "name" : "Millumin 2 blinked"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 18:04:32",
       "developer" : "Anomes SARL",
@@ -8471,7 +8531,7 @@
       "name" : "Millumin 2"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,yellow,green",
       "created_at" : "2019-09-11 18:04:30",
       "developer" : "Boinx Software",
@@ -8541,7 +8601,7 @@
       "name" : "Minion"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,black",
       "created_at" : "2019-09-11 18:04:19",
       "developer" : "Imimot",
@@ -8801,7 +8861,7 @@
       "name" : "Moonlighter"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,black",
       "created_at" : "2019-09-11 18:02:59",
       "developer" : "Creaceed S.P.R.L.",
@@ -8811,7 +8871,7 @@
       "name" : "Morph Age"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,orange,green,blue,silver",
       "created_at" : "2019-09-11 15:40:44",
       "developer" : "Apple",
@@ -8851,7 +8911,7 @@
       "name" : "Mouseposé"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2018-10-30 10:37:05",
       "developer" : "Ephnic",
@@ -8861,7 +8921,7 @@
       "name" : "Movie Maker for Mac"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,black",
       "created_at" : "2019-09-11 18:02:18",
       "developer" : "MazeLab Co., Ltd.",
@@ -8912,12 +8972,22 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,purple,silver",
+      "created_at" : "2020-07-23 21:23:42",
+      "developer" : "Pixel Point",
+      "link" : "https:\/\/mutify.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294956-67643980-cd2f-11ea-8196-92fc436f04f0.png",
+      "tag" : "Round,Microphone",
+      "name" : "Mutify"
+    },
+    {
+      "category" : "Utilities",
       "color" : "silver",
       "created_at" : "2019-09-11 18:02:16",
       "developer" : "Incident 57, Inc. & Bryan D K Jones",
       "link" : "https:\/\/muzzleapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037306-051c3c6e-8d3f-11e8-9f79-ec80097282ee.png",
-      "tag" : "Animal,Dog",
+      "tag" : "Animal",
       "name" : "Muzzle"
     },
     {
@@ -8951,7 +9021,7 @@
       "name" : "My Metronome"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,yellow,blue,silver,brown",
       "created_at" : "2019-09-11 18:02:16",
       "developer" : "Raffael Hannemann",
@@ -9147,7 +9217,7 @@
       "developer" : "aki, hydroxygenic",
       "link" : "https:\/\/sites.google.com\/site\/yorufukurou\/home-en",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574930-440b6bf6-73b4-11e8-854a-e4dcaa66f7cf.png",
-      "tag" : "Animal,Owl",
+      "tag" : "Animal,Bird",
       "name" : "Night Owl - Awake"
     },
     {
@@ -9157,7 +9227,7 @@
       "developer" : "aki, hydroxygenic",
       "link" : "https:\/\/sites.google.com\/site\/yorufukurou\/home-en",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574932-44603168-73b4-11e8-9e84-0836b3b3befd.png",
-      "tag" : "Animal,Owl",
+      "tag" : "Animal,Bird",
       "name" : "Night Owl - Silent"
     },
     {
@@ -9167,7 +9237,7 @@
       "developer" : "aki, hydroxygenic",
       "link" : "https:\/\/sites.google.com\/site\/yorufukurou\/home-en",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574933-44aa2e12-73b4-11e8-808a-b707a5ffa092.png",
-      "tag" : "Animal,Owl",
+      "tag" : "Animal,Bird",
       "name" : "Night Owl"
     },
     {
@@ -9181,7 +9251,7 @@
       "name" : "Night Sky"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,yellow,purple,black",
       "created_at" : "2016-10-05 23:35:16",
       "developer" : "Skylum",
@@ -9269,6 +9339,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037311-08dea67a-8d3f-11e8-90d1-73d7e879b568.png",
       "tag" : "Mail,Rectangle",
       "name" : "Notify"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "white,silver",
+      "created_at" : "2020-07-23 21:05:44",
+      "developer" : "Bruno Philipe Resende Silva",
+      "link" : "https:\/\/www.brunophilipe.com\/software\/noto",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294987-6f23de00-cd2f-11ea-972c-a93b8f6bca46.png",
+      "tag" : "File,Keyboard",
+      "name" : "Noto"
     },
     {
       "category" : "Productivity",
@@ -9537,7 +9617,7 @@
       "developer" : "FIPLAB Limited",
       "link" : "https:\/\/fiplab.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574963-4c21704c-73b4-11e8-91c4-fb092d30afe1.png",
-      "tag" : "Animal,Coffee,Drink,Owl",
+      "tag" : "Animal,Coffee,Drink,Bird",
       "name" : "Owly"
     },
     {
@@ -9657,7 +9737,7 @@
       "developer" : "Parallels International GmbH",
       "link" : "https:\/\/www.parallels.com\/products\/toolbox",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574971-4f5bad68-73b4-11e8-82c2-4278bbe07fb5.png",
-      "tag" : "Box,Hammer,Ruler,Screwdriver,Wrench",
+      "tag" : "Box,Tool",
       "name" : "Parallels Toolbox"
     },
     {
@@ -9731,8 +9811,8 @@
       "name" : "PasteBox"
     },
     {
-      "category" : "Photography",
-      "color" : "",
+      "category" : "Photo & Video",
+      "color" : "black",
       "created_at" : "2020-07-20 23:17:09",
       "developer" : "Steven J. Selcuk Troughton-Smith",
       "link" : "https:\/\/www.highcaffeinecontent.com",
@@ -9822,6 +9902,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "red,blue,white",
+      "created_at" : "2020-07-23 22:51:43",
+      "developer" : "PSPDFKit GmbH",
+      "link" : "https:\/\/pdfviewer.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88303052-21ac6e80-cd39-11ea-978e-5ef0d7832087.png",
+      "tag" : "Marker,Document",
+      "name" : "PDF Viewer"
+    },
+    {
+      "category" : "Utilities",
       "color" : "red,white",
       "created_at" : "2019-09-11 17:58:41",
       "developer" : "seense",
@@ -9851,17 +9941,17 @@
       "name" : "PDFpenPro"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 16:32:07",
       "developer" : "ZipZapMac",
       "link" : "http:\/\/zipzapmac.com\/PeriscopePro",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574986-548fad52-73b4-11e8-9397-0830ee5fb04d.png",
-      "tag" : "Eye,Hand",
+      "tag" : "Eye",
       "name" : "Periscope Pro"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "silver,black",
       "created_at" : "2019-09-11 17:58:19",
       "developer" : "Charlie Monroe Software",
@@ -9871,7 +9961,7 @@
       "name" : "Permute 3"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "silver,black",
       "created_at" : "2018-10-30 10:21:04",
       "developer" : "Charlie Monroe Software",
@@ -9901,7 +9991,7 @@
       "name" : "Phlo"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,white,black",
       "created_at" : "2018-10-30 10:10:02",
       "developer" : "One Periodic Inc.",
@@ -9911,7 +10001,7 @@
       "name" : "Photo Batch"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,green,brown",
       "created_at" : "2018-10-30 10:22:14",
       "developer" : "Ephnic",
@@ -9921,7 +10011,7 @@
       "name" : "Photo Collage for Mac"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,yellow,blue,brown",
       "created_at" : "2018-10-30 10:16:30",
       "developer" : "VeprIT",
@@ -9931,7 +10021,7 @@
       "name" : "Photo Sense"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,green,white",
       "created_at" : "2018-10-30 11:00:47",
       "developer" : "Eltima Software",
@@ -9971,17 +10061,17 @@
       "name" : "PhotoDesk"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,green,silver",
       "created_at" : "2018-10-30 11:01:06",
       "developer" : "Photolemur",
       "link" : "https:\/\/photolemur.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574998-58277670-73b4-11e8-94c6-d4f46f608ba3.png",
-      "tag" : "Lemur,Round",
+      "tag" : "Animal,Round",
       "name" : "Photolemur"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "brown",
       "created_at" : "2018-10-30 10:28:32",
       "developer" : "Overmacs Team",
@@ -9991,7 +10081,7 @@
       "name" : "PhotoMill"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,black",
       "created_at" : "2018-10-30 11:03:14",
       "developer" : "Teorex",
@@ -10001,7 +10091,7 @@
       "name" : "PhotoScissors"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "green,blue,white",
       "created_at" : "2018-10-30 11:06:22",
       "developer" : "DEVONtechnologies, LLC",
@@ -10011,7 +10101,7 @@
       "name" : "PhotoStickies"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,white",
       "created_at" : "2018-10-30 11:06:26",
       "developer" : "Neatberry",
@@ -10021,7 +10111,7 @@
       "name" : "PhotoStyler"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,yellow,brown,black",
       "created_at" : "2018-10-30 10:35:17",
       "developer" : "BenVista Ltd.",
@@ -10037,7 +10127,7 @@
       "developer" : "Music Topia",
       "link" : "https:\/\/apps.apple.com\/app\/id133870021",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575003-5a057bea-73b4-11e8-96e9-964d13d8849b.png",
-      "tag" : "Key,Rectangle,Tilt",
+      "tag" : "Key,Rectangle,Tilt,Instrument",
       "name" : "Piano Virtuoso"
     },
     {
@@ -10051,7 +10141,7 @@
       "name" : "Pichi"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,purple,black",
       "created_at" : "2018-10-30 10:35:24",
       "developer" : "Picktorial Innovations LTD",
@@ -10151,7 +10241,7 @@
       "name" : "Pixave"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "purple,white,blue,silver",
       "created_at" : "2020-05-07 23:55:01",
       "developer" : "Andrey Tsarkov",
@@ -10241,7 +10331,7 @@
       "name" : "Playback"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,white",
       "created_at" : "2018-10-30 11:14:47",
       "developer" : "Maker Labs",
@@ -10257,7 +10347,7 @@
       "developer" : "Fat Cat Software",
       "link" : "https:\/\/www.fatcatsoftware.com\/plisteditpro",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575017-5f499adc-73b4-11e8-99a2-94648d048e0d.png",
-      "tag" : "Rectangle,Screwdriver,Tilt",
+      "tag" : "Rectangle,Tool,Tilt",
       "name" : "PlistEdit Pro"
     },
     {
@@ -10307,11 +10397,11 @@
       "developer" : "CJM Solutions, LLC",
       "link" : "https:\/\/pokercopilot.com\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/72813690-c1137a80-3c9e-11ea-90b9-668917bf1814.png",
-      "tag" : "Portrait",
+      "tag" : "Portrait,2D",
       "name" : "Poker Copilot"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "white,black",
       "created_at" : "2018-10-30 10:24:12",
       "developer" : "Polarr, Inc",
@@ -10327,7 +10417,7 @@
       "developer" : "Steven J. Selcuk",
       "link" : "https:\/\/pomosh.netlify.app\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303131-ad35a400-b4dc-11ea-9385-ab980c966aa6.png",
-      "tag" : "Vegetable",
+      "tag" : "Food",
       "name" : "Pomosh"
     },
     {
@@ -10339,6 +10429,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575021-6085b9c6-73b4-11e8-9695-8e2321b871b4.png",
       "tag" : "Menu",
       "name" : "PopClip"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2020-07-23 21:32:36",
+      "developer" : "Sebastián Benítez",
+      "link" : "https:\/\/ds9soft.com\/popdo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294958-68956680-cd2f-11ea-83b9-d737a2992a8f.png",
+      "tag" : "Todo,Tilt",
+      "name" : "PopDo"
     },
     {
       "category" : "Productivity",
@@ -10381,7 +10481,7 @@
       "name" : "Postbox 6"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,blue",
       "created_at" : "2019-09-12 03:12:24",
       "developer" : "Zykloid Software",
@@ -10401,6 +10501,16 @@
       "name" : "Postgres"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "orange,white",
+      "created_at" : "2020-08-02 00:34:44",
+      "developer" : "Flux Forge",
+      "link" : "https:\/\/suborbital.io\/powerprompter",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89105991-a5acd780-d458-11ea-94ed-21bcbc8476aa.png",
+      "tag" : "Rectangle",
+      "name" : "Power Prompter"
+    },
+    {
       "category" : "Utilities",
       "color" : "yellow,silver,black",
       "created_at" : "2018-10-30 10:29:17",
@@ -10411,7 +10521,7 @@
       "name" : "PowerBlock"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2018-10-30 10:11:35",
       "developer" : "Fat Cat Software",
@@ -10471,7 +10581,7 @@
       "name" : "Presentation Video Trimmer"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,silver",
       "created_at" : "2018-10-30 11:19:33",
       "developer" : "Apple",
@@ -10491,7 +10601,7 @@
       "name" : "PrimoMusic"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,yellow,green,white,silver,brown",
       "created_at" : "2019-10-17 19:57:22",
       "developer" : "PrimoSync",
@@ -10731,7 +10841,7 @@
       "name" : "QQ"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,green,blue,white",
       "created_at" : "2018-10-30 11:03:46",
       "developer" : "Tencent",
@@ -10907,7 +11017,7 @@
       "developer" : "Isle of the Kakapo",
       "link" : "http:\/\/www.railmodeller.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75469420-ec8a3300-59c9-11ea-95ae-10b63aadbd99.png",
-      "tag" : "Train,Blueprint,Pencil,Rail",
+      "tag" : "Blueprint,Pencil,Rail",
       "name" : "RailModeller Express"
     },
     {
@@ -10997,7 +11107,7 @@
       "developer" : "MusicLab",
       "link" : "https:\/\/www.musiclab.com\/products\/realeight\/info.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575058-6d223dc6-73b4-11e8-9c5d-ff5390dd891c.png",
-      "tag" : "Guitar",
+      "tag" : "Guitar,Instrument",
       "name" : "RealEight"
     },
     {
@@ -11007,8 +11117,18 @@
       "developer" : "MusicLab",
       "link" : "https:\/\/www.musiclab.com\/products\/reallpc\/info.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575059-6d74d036-73b4-11e8-81ef-024335fe98ee.png",
-      "tag" : "Guitar",
+      "tag" : "Guitar,Instrument",
       "name" : "RealLPC"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,purple",
+      "created_at" : "2020-07-30 23:20:19",
+      "developer" : "Realm inc.",
+      "link" : "https:\/\/realm.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88941206-51202580-d2bb-11ea-9103-e25c673580b7.png",
+      "tag" : "Round",
+      "name" : "Realm Browser"
     },
     {
       "category" : "Music",
@@ -11017,7 +11137,7 @@
       "developer" : "MusicLab",
       "link" : "https:\/\/www.musiclab.com\/products\/realrick\/info.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575060-6dc4f0ac-73b4-11e8-8729-0c1a56aa0b5d.png",
-      "tag" : "Guitar",
+      "tag" : "Guitar,Instrument",
       "name" : "RealRick"
     },
     {
@@ -11027,7 +11147,7 @@
       "developer" : "MusicLab",
       "link" : "https:\/\/www.musiclab.com\/products\/realstrat\/info.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575061-6e6384c4-73b4-11e8-85b5-761ab0d5255e.png",
-      "tag" : "Guitar",
+      "tag" : "Guitar,Instrument",
       "name" : "RealStrat"
     },
     {
@@ -11237,7 +11357,7 @@
       "developer" : "TunnelBear Inc.",
       "link" : "https:\/\/www.remembear.com\/download",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575080-70944670-73b4-11e8-83ab-87747d5a3310.png",
-      "tag" : "Animal,Bear",
+      "tag" : "Animal",
       "name" : "RememBear"
     },
     {
@@ -11341,7 +11461,7 @@
       "name" : "Renamer 6"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,yellow,blue",
       "created_at" : "2018-10-30 11:00:45",
       "developer" : "VeprIT",
@@ -11351,7 +11471,7 @@
       "name" : "Resize Sense"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange,blue,purple,white",
       "created_at" : "2018-09-08 00:09:12",
       "developer" : "Flying Meat Inc.",
@@ -11431,7 +11551,7 @@
       "name" : "Review Times"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2018-10-30 10:31:59",
       "developer" : "Araelium",
@@ -11551,6 +11671,16 @@
       "name" : "Sandy Beach 3D"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,blue",
+      "created_at" : "2020-07-23 21:20:24",
+      "developer" : "Toto Minai",
+      "link" : "https:\/\/github.com\/bufhdy\/Saruku",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294964-692dfd00-cd2f-11ea-96ec-14c79bf43706.png",
+      "tag" : "Fruit",
+      "name" : "Saruku"
+    },
+    {
       "category" : "Finance",
       "color" : "green,silver,brown",
       "created_at" : "2019-11-01 20:00:31",
@@ -11611,7 +11741,7 @@
       "name" : "Scida"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,black",
       "created_at" : "2018-10-30 10:59:06",
       "developer" : "Ephnic",
@@ -11621,7 +11751,7 @@
       "name" : "Screen Recorder for Mac"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2018-10-30 10:39:38",
       "developer" : "Araelium",
@@ -11641,7 +11771,7 @@
       "name" : "ScreenFloat"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver",
       "created_at" : "2019-09-11 14:56:53",
       "developer" : "Telestream, LLC",
@@ -11651,7 +11781,7 @@
       "name" : "ScreenFlow 4"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white",
       "created_at" : "2019-09-12 03:12:26",
       "developer" : "Telestream, LLC",
@@ -11661,7 +11791,7 @@
       "name" : "ScreenFlow 5"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "green,blue,purple,silver",
       "created_at" : "2018-10-30 10:25:37",
       "developer" : "Telestream, LLC",
@@ -11671,7 +11801,7 @@
       "name" : "ScreenFlow 7"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 17:33:28",
       "developer" : "Synium Software GmbH",
@@ -11827,11 +11957,11 @@
       "developer" : "Gaucho Software, LLC",
       "link" : "https:\/\/getseasonality.com\/core",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575131-7ec5ba76-73b4-11e8-9e49-efb939332946.png",
-      "tag" : "Cloud,Kite",
+      "tag" : "Cloud,Toy",
       "name" : "Seasonality Core"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2018-10-30 10:55:22",
       "developer" : "ZipZapMac",
@@ -11861,7 +11991,7 @@
       "name" : "Sequel Pro"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "white",
       "created_at" : "2018-10-30 11:00:57",
       "developer" : "Frosthaus",
@@ -11871,7 +12001,7 @@
       "name" : "Sequence - Project"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "white",
       "created_at" : "2018-10-30 11:06:00",
       "developer" : "Frosthaus",
@@ -12267,7 +12397,7 @@
       "developer" : "InchWest",
       "link" : "https:\/\/inchwest.com\/slacker\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836881-a67b4f00-9576-11ea-9337-373c6f991d31.png",
-      "tag" : "Round,Squirrel,Animal",
+      "tag" : "Round,Animal",
       "name" : "Slacker"
     },
     {
@@ -12277,7 +12407,7 @@
       "developer" : "Fitness22",
       "link" : "https:\/\/www.fitness22.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037492-268f9aca-8d40-11e8-8e83-589e06570991.png",
-      "tag" : "Animal,Owl",
+      "tag" : "Animal,Bird",
       "name" : "Sleep Pillow"
     },
     {
@@ -12297,7 +12427,7 @@
       "developer" : "MacRabbit",
       "link" : "http:\/\/macrabbit.com\/slicy",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575177-88d6d90a-73b4-11e8-8e88-caae12a3bc91.png",
-      "tag" : "Cake,Food,Rectangle",
+      "tag" : "Food,Rectangle",
       "name" : "Slicy"
     },
     {
@@ -12341,7 +12471,7 @@
       "name" : "Snagit"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow,black",
       "created_at" : "2018-10-30 10:24:05",
       "developer" : "Skylum",
@@ -12361,7 +12491,7 @@
       "name" : "SnapRuler"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,green,blue,purple",
       "created_at" : "2018-10-30 10:10:22",
       "developer" : "Google, Inc.",
@@ -12477,7 +12607,7 @@
       "developer" : "Static Z Software",
       "link" : "https:\/\/staticz.com\/soundcontrol\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68775765-00539880-066a-11ea-9d9a-9e90365aeb0c.png",
-      "tag" : "Round",
+      "tag" : "Round,Octopus",
       "name" : "Sound Control"
     },
     {
@@ -12529,6 +12659,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/76143142-a90d8400-60af-11ea-94c7-28d457849cef.png",
       "tag" : "Speaker",
       "name" : "SoundSource"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2020-07-23 21:23:24",
+      "developer" : "BitDisco, Inc.",
+      "link" : "https:\/\/www.sourcenoteapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294951-66cba300-cd2f-11ea-8504-ae7d73af075e.png",
+      "tag" : "Hexagon",
+      "name" : "SourceNote"
     },
     {
       "category" : "Productivity",
@@ -12747,7 +12887,7 @@
       "developer" : "Realmac Software",
       "link" : "https:\/\/www.realmacsoftware.com\/squash",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575210-924eab2a-73b4-11e8-9cd3-601d3136be61.png",
-      "tag" : "Food,Fruit,Orange",
+      "tag" : "Food,Fruit",
       "name" : "Squash"
     },
     {
@@ -12757,7 +12897,7 @@
       "developer" : "Yanis Zafirópulos",
       "link" : "http:\/\/www.squeezerapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798962-01e25180-ef42-11e9-93c7-e9b11687bbe0.png",
-      "tag" : "Food,Fruit,Orange,Round",
+      "tag" : "Food,Fruit,Round",
       "name" : "Squeezer"
     },
     {
@@ -12971,7 +13111,7 @@
       "name" : "Sublime Text 3"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,blue",
       "created_at" : "2018-10-30 10:32:48",
       "developer" : "CocoaWithChurros",
@@ -13001,7 +13141,7 @@
       "name" : "Sunsama"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,white",
       "created_at" : "2018-10-30 10:37:52",
       "developer" : "ARTIS Software",
@@ -13041,7 +13181,7 @@
       "name" : "Swatch"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,white",
       "created_at" : "2019-09-11 17:14:39",
       "developer" : "Yaroslav Glushchenko",
@@ -13437,7 +13577,7 @@
       "developer" : "The Battle for Wesnoth Project",
       "link" : "https:\/\/www.wesnoth.org\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68129148-0784f300-ff54-11e9-866d-2c14dc35322a.png",
-      "tag" : "Shield,Sword",
+      "tag" : "Shield,Weapon",
       "name" : "The Battle for Wesnoth"
     },
     {
@@ -13591,7 +13731,7 @@
       "name" : "TickTick"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "green,blue,white,black",
       "created_at" : "2018-10-30 10:54:27",
       "developer" : "Hyperbolic Software",
@@ -13601,7 +13741,7 @@
       "name" : "Tidy Up 5"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "blue,white,brown",
       "created_at" : "2018-10-30 10:10:04",
       "developer" : "Hyperbolic Software",
@@ -13887,11 +14027,11 @@
       "developer" : "Célio Cidral Junior",
       "link" : "http:\/\/tomighty.org",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037407-6cb5b35a-8d3f-11e8-8a6b-630ec5614562.png",
-      "tag" : "Tomato",
+      "tag" : "Food",
       "name" : "Tomighty"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "silver",
       "created_at" : "2018-10-30 11:12:15",
       "developer" : "Skylum",
@@ -13997,11 +14137,11 @@
       "developer" : "Illusion Labs",
       "link" : "http:\/\/www.touchgrind.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037410-734a3722-8d3f-11e8-9903-8aad5e18c1ab.png",
-      "tag" : "Bicycle",
+      "tag" : "Wheel",
       "name" : "Touchgrind BMX"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "green,black",
       "created_at" : "2019-08-28 14:11:08",
       "developer" : "Adva-Soft",
@@ -14011,7 +14151,7 @@
       "name" : "TouchRetouch 2"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "green,brown",
       "created_at" : "2018-10-30 11:02:09",
       "developer" : "Adva-Soft",
@@ -14117,7 +14257,7 @@
       "developer" : "Apparent Software Inc",
       "link" : "https:\/\/www.apparentsoft.com\/trickster",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68546112-722fa600-040e-11ea-83b9-648a3b484e0d.png",
-      "tag" : "Animal,Hat,Rabbit",
+      "tag" : "Animal,Hat",
       "name" : "Trickster"
     },
     {
@@ -14217,7 +14357,7 @@
       "developer" : "TunnelBear Inc.",
       "link" : "https:\/\/www.tunnelbear.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575297-aff0e030-73b4-11e8-9724-d7a50fb6bcb8.png",
-      "tag" : "Animal,Bear",
+      "tag" : "Animal",
       "name" : "TunnelBear"
     },
     {
@@ -14587,7 +14727,7 @@
       "developer" : "Eugene Krupnov, UJ.Labs",
       "link" : "https:\/\/unclutterapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575322-b758abf0-73b4-11e8-9cae-1068c870b6ba.png",
-      "tag" : "Book,Photo",
+      "tag" : "Book,Photo,Pocket",
       "name" : "Unclutter"
     },
     {
@@ -14617,7 +14757,7 @@
       "developer" : "Xuanyang Wu",
       "link" : "https:\/\/www.unfolder.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/71015110-038ce900-212e-11ea-8e6d-ad8c328f5f47.png",
-      "tag" : "Block,Box",
+      "tag" : "Box,Toy",
       "name" : "Unfolder"
     },
     {
@@ -14691,7 +14831,7 @@
       "name" : "USBMate"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red",
       "created_at" : "2018-10-30 10:15:25",
       "developer" : "Many Tricks",
@@ -14709,6 +14849,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798988-06a70580-ef42-11e9-89f1-199e0901f154.png",
       "tag" : "Round",
       "name" : "VA-11 Hall-A Cyberpunk Bartender Action"
+    },
+    {
+      "category" : "Music",
+      "color" : "green,brown",
+      "created_at" : "2020-08-01 12:43:02",
+      "developer" : "Flux Forge",
+      "link" : "https:\/\/www.fluxforge.com\/vector",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89094418-343c3d00-d3f6-11ea-8690-a5ea13b23715.png",
+      "tag" : "Device,Wave,Tape",
+      "name" : "Vector 2 Express"
+    },
+    {
+      "category" : "Music",
+      "color" : "green,brown",
+      "created_at" : "2020-08-01 12:44:37",
+      "developer" : "Flux Forge",
+      "link" : "https:\/\/www.fluxforge.com\/vector",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89094420-37372d80-d3f6-11ea-9fd7-1c1946cbd7bd.png",
+      "tag" : "Device,Wave,Tape",
+      "name" : "Vector 3 Express"
     },
     {
       "category" : "Productivity",
@@ -14791,7 +14951,7 @@
       "name" : "Vezér"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "purple,silver",
       "created_at" : "2018-10-30 10:39:54",
       "developer" : "Ephnic",
@@ -14801,7 +14961,7 @@
       "name" : "Video Convertor for Mac"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "green,silver,black",
       "created_at" : "2018-10-30 10:38:02",
       "developer" : "TastyApps",
@@ -14811,7 +14971,7 @@
       "name" : "VideoboxPro"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2018-11-12 18:29:18",
       "developer" : "Eltima Software",
@@ -14821,7 +14981,7 @@
       "name" : "VideoDuke"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,silver",
       "created_at" : "2018-10-30 10:33:01",
       "developer" : "Corduroy Code Inc",
@@ -14831,7 +14991,7 @@
       "name" : "Videoloupe"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "white,black",
       "created_at" : "2019-11-21 22:03:59",
       "developer" : "Apple",
@@ -14841,7 +15001,7 @@
       "name" : "Videos"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "blue,white",
       "created_at" : "2018-10-30 11:02:02",
       "developer" : "Vimeo, Inc.",
@@ -14857,7 +15017,7 @@
       "developer" : "Tae Won Ha",
       "link" : "http:\/\/vimr.org",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575344-be3e73fa-73b4-11e8-8b5e-3050a0ca58ea.png",
-      "tag" : "Screwdriver,Tilt",
+      "tag" : "Tool,Tilt",
       "name" : "VimR"
     },
     {
@@ -14889,6 +15049,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575345-be9d0f46-73b4-11e8-8bcc-c76b1ed17566.png",
       "tag" : "Device",
       "name" : "VirtualHostX"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "purple,black",
+      "created_at" : "2020-07-23 21:08:38",
+      "developer" : "Ephod",
+      "link" : "https:\/\/getviso.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294981-6df2b100-cd2f-11ea-904f-864a77557566.png",
+      "tag" : "Mountain,Rectangle",
+      "name" : "Viso"
     },
     {
       "category" : "Developer Tools",
@@ -14941,7 +15111,7 @@
       "name" : "VisualDiffer"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "orange,white",
       "created_at" : "2018-10-30 10:31:48",
       "developer" : "VideoLAN non-profit organization",
@@ -15081,7 +15251,7 @@
       "name" : "VR Desktop"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "red,orange",
       "created_at" : "2019-09-11 16:46:44",
       "developer" : "Yaroslav Glushchenko",
@@ -15137,7 +15307,7 @@
       "developer" : "MacPaw Inc.",
       "link" : "https:\/\/macpaw.com\/wallpaper-wizard",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037421-804e2b4a-8d3f-11e8-9b26-285cfb20075f.png",
-      "tag" : "Animal,Rabbit",
+      "tag" : "Animal",
       "name" : "Wallpaper Wizard 2"
     },
     {
@@ -15161,7 +15331,7 @@
       "name" : "Waltr"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "red,yellow,white",
       "created_at" : "2018-10-30 10:38:07",
       "developer" : "TastyApps",
@@ -15391,7 +15561,7 @@
       "name" : "Winfo"
     },
     {
-      "category" : "Video",
+      "category" : "Photo & Video",
       "color" : "yellow,white",
       "created_at" : "2019-09-11 16:42:51",
       "developer" : "Telestream, LLC",
@@ -15487,7 +15657,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/developer.apple.com\/xcode",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524180-7f9e8400-4f59-11ea-904d-a150aac5921d.png",
-      "tag" : "Hammer,Tilt",
+      "tag" : "Hammer,Tilt,Tool,Document",
       "name" : "Xcode 5"
     },
     {
@@ -15497,11 +15667,11 @@
       "developer" : "Apple",
       "link" : "https:\/\/developer.apple.com\/xcode",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575385-ccf50832-73b4-11e8-926f-2907935af18b.png",
-      "tag" : "Hammer,Tilt",
+      "tag" : "Hammer,Tilt,Tool,Document",
       "name" : "Xcode"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "green,blue",
       "created_at" : "2018-10-30 10:10:02",
       "developer" : "MacPaw Inc.",
@@ -15601,7 +15771,7 @@
       "name" : "XMind ZEN"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange,blue",
       "created_at" : "2019-09-11 16:34:04",
       "developer" : "pierre gougelet",
@@ -15611,7 +15781,7 @@
       "name" : "XnConvert"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 16:34:00",
       "developer" : "pierre gougelet",
@@ -15621,7 +15791,7 @@
       "name" : "XnRetro"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "yellow",
       "created_at" : "2019-09-11 16:33:56",
       "developer" : "pierre gougelet",
@@ -15631,7 +15801,7 @@
       "name" : "XnSketch"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "orange",
       "created_at" : "2019-09-11 16:33:55",
       "developer" : "pierre gougelet",
@@ -15741,7 +15911,7 @@
       "name" : "Zen Pinball 2"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "",
       "created_at" : "2019-09-12 03:13:15",
       "developer" : "Yaroslav Glushchenko",
@@ -15771,7 +15941,7 @@
       "name" : "Zoho Invoice"
     },
     {
-      "category" : "Photography",
+      "category" : "Photo & Video",
       "color" : "purple",
       "created_at" : "2019-09-12 03:13:15",
       "developer" : "KontentApps",
@@ -15791,5 +15961,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-07-20 23:45:19 GMT+8"
+  "update_time" : "2020-08-05 22:26:22 GMT+8"
 }
