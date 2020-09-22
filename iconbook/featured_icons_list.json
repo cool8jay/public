@@ -2342,6 +2342,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2020-09-23 00:08:33",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914248-dadaf500-fd38-11ea-9d5a-ffb67f269364.png",
+      "tag" : "Robot",
+      "name" : "CleanMaster"
+    },
+    {
+      "category" : "Utilities",
       "color" : "red,white",
       "created_at" : "2018-10-30 10:56:37",
       "developer" : "MacPaw Inc.",
@@ -3979,6 +3989,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574577-ea12d3d2-73b3-11e8-82cd-380b55acc84a.png",
       "tag" : "Device",
       "name" : "dRadio"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2020-09-23 00:10:39",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914243-d9a9c800-fd38-11ea-8fe7-74e275965600.png",
+      "tag" : "Keyboard",
+      "name" : "Draft Writing - Creative Text Editor"
     },
     {
       "category" : "Graphics & Design",
@@ -6491,6 +6511,16 @@
       "name" : "Image Vectorizer"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "purple",
+      "created_at" : "2020-09-22 22:21:08",
+      "developer" : "Everyday Tools, LLC",
+      "link" : "http:\/\/everydaytools.mobi\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914264-df9fa900-fd38-11ea-821d-3c5ec5ee56cc.png",
+      "tag" : "Photo",
+      "name" : "Image View Studio"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "yellow,green,silver",
       "created_at" : "2019-09-11 18:13:58",
@@ -6689,6 +6719,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574761-16be2aee-73b4-11e8-9648-06c50740bda4.png",
       "tag" : "Monitor,Round",
       "name" : "Instashare"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue",
+      "created_at" : "2020-09-23 00:04:39",
+      "developer" : "Proteverse LLC",
+      "link" : "https:\/\/apps.apple.com\/cn\/app\/instastats-system-stats-and-memory-cleaner\/id1017165214?l=en&mt=12",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914255-dca4b880-fd38-11ea-86c0-a462ec7472a0.png",
+      "tag" : "Umbrella",
+      "name" : "Instastats"
     },
     {
       "category" : "Developer Tools",
@@ -10391,6 +10431,16 @@
       "name" : "PixelSnap"
     },
     {
+      "category" : "Business",
+      "color" : "red,white",
+      "created_at" : "2020-09-23 00:06:28",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914251-db738b80-fd38-11ea-9936-488aed5aed64.png",
+      "tag" : "Book,Agenda",
+      "name" : "Plan Your Tasks: To Do Lists"
+    },
+    {
       "category" : "Productivity",
       "color" : "red,white",
       "created_at" : "2020-04-16 00:04:49",
@@ -11579,6 +11629,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575091-73950670-73b4-11e8-8a9a-7f661f8ad89e.png",
       "tag" : "Scissors",
       "name" : "Resize Sense"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver,brown",
+      "created_at" : "2020-09-22 22:23:51",
+      "developer" : "Everyday Tools, LLC",
+      "link" : "http:\/\/everydaytools.mobi",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914256-dd3d4f00-fd38-11ea-8d4b-88f9fafefa3b.png",
+      "tag" : "Monitor",
+      "name" : "Resolution Changer"
     },
     {
       "category" : "Photo & Video",
@@ -13119,6 +13179,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575218-94b9b4c2-73b4-11e8-99ec-366dfc4d48b1.png",
       "tag" : "Brain",
       "name" : "StickyBrain"
+    },
+    {
+      "category" : "Finance",
+      "color" : "green,black",
+      "created_at" : "2020-09-23 00:15:13",
+      "developer" : "New Technologies",
+      "link" : "http:\/\/newtech-ltd.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914241-d7e00480-fd38-11ea-8854-a32f0d23518f.png",
+      "tag" : "Stock",
+      "name" : "Stock Market - Rates Tracker"
     },
     {
       "category" : "Finance",
@@ -15491,6 +15561,16 @@
       "name" : "Watermark Sense"
     },
     {
+      "category" : "Productivity",
+      "color" : "yellow,silver",
+      "created_at" : "2020-09-22 21:52:11",
+      "developer" : "Alco Blom",
+      "link" : "https:\/\/www.web-confidential.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914262-de6e7c00-fd38-11ea-86b8-0168f4aa083e.png",
+      "tag" : "Key,Card",
+      "name" : "Web Confidential"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue,white",
       "created_at" : "2019-09-11 16:45:42",
@@ -16091,5 +16171,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-09-21 23:42:16 GMT+8"
+  "update_time" : "2020-09-23 01:06:28 GMT+8"
 }
