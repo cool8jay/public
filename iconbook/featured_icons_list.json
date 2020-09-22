@@ -3512,6 +3512,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2020-09-22 21:33:07",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914260-ddd5e580-fd38-11ea-919b-f594938bc6bc.png",
+      "tag" : "Rectangle",
+      "name" : "Developer 8"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue",
       "created_at" : "2020-06-22 22:54:38",
       "developer" : "Apple",
@@ -6515,7 +6525,7 @@
       "color" : "purple",
       "created_at" : "2020-09-22 22:21:08",
       "developer" : "Everyday Tools, LLC",
-      "link" : "http:\/\/everydaytools.mobi\/",
+      "link" : "http:\/\/everydaytools.mobi",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914264-df9fa900-fd38-11ea-821d-3c5ec5ee56cc.png",
       "tag" : "Photo",
       "name" : "Image View Studio"
@@ -7951,6 +7961,16 @@
       "name" : "Machinarium"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "blue,silver,black",
+      "created_at" : "2020-09-23 00:12:07",
+      "developer" : "Everyday Tools, LLC",
+      "link" : "http:\/\/everydaytools.mobi",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914232-d3b3e700-fd38-11ea-8606-ba18a09abcd0.png",
+      "tag" : "Camera",
+      "name" : "MaCinema"
+    },
+    {
       "category" : "Productivity",
       "color" : "green,brown",
       "created_at" : "2019-09-11 18:06:38",
@@ -7969,6 +7989,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69304896-448ffb80-0c5d-11ea-825e-ef4d5c5703ad.png",
       "tag" : "Photo,Ruler",
       "name" : "Macnification"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange",
+      "created_at" : "2020-09-23 00:14:17",
+      "developer" : "Everyday Tools, LLC",
+      "link" : "http:\/\/everydaytools.mobi",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914238-d6aed780-fd38-11ea-8f3d-aa465897f7b0.png",
+      "tag" : "Window",
+      "name" : "MaCommander 2"
     },
     {
       "category" : "Utilities",
@@ -15872,6 +15902,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,black",
+      "created_at" : "2020-09-22 21:33:07",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914242-d9113180-fd38-11ea-890b-df0823be744a.png",
+      "tag" : "Rectangle",
+      "name" : "Xcode 12"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue",
       "created_at" : "2019-12-18 12:24:36",
       "developer" : "Apple",
@@ -16171,5 +16211,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-09-23 01:06:28 GMT+8"
+  "update_time" : "2020-09-23 01:09:44 GMT+8"
 }
