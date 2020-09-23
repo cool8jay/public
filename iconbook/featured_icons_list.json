@@ -2821,6 +2821,16 @@
       "name" : "Converto"
     },
     {
+      "category" : "Productivity",
+      "color" : "white,brown",
+      "created_at" : "2020-09-23 20:58:35",
+      "developer" : "M Cubed Software.",
+      "link" : "https:\/\/www.coppiceapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94015926-1381d980-fde0-11ea-9756-6d7c65a99cb0.png",
+      "tag" : "Pen,Board",
+      "name" : "Coppice"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue",
       "created_at" : "2019-11-13 17:46:52",
@@ -7982,6 +7992,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "orange,black",
+      "created_at" : "2020-09-23 20:31:44",
+      "developer" : "Everyday Tools, LLC",
+      "link" : "http:\/\/everydaytools.mobi",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94015934-154b9d00-fde0-11ea-88e7-7937e05fdcfe.png",
+      "tag" : "Computer,Monitor,Brush",
+      "name" : "MaCleaner X"
+    },
+    {
+      "category" : "Utilities",
       "color" : "orange,silver",
       "created_at" : "2019-11-21 09:28:47",
       "developer" : "Orbicule, Inc",
@@ -9509,6 +9529,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574945-477dde5e-73b4-11e8-8932-ff3b6942aef7.png",
       "tag" : "Note",
       "name" : "Nottingham"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "red,blue,purple",
+      "created_at" : "2020-09-23 20:33:03",
+      "developer" : "Panic, Inc.",
+      "link" : "https:\/\/nova.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94015929-14b30680-fde0-11ea-8533-5e9296c86234.png",
+      "tag" : "Swirl",
+      "name" : "Nova"
     },
     {
       "category" : "Productivity",
@@ -14232,6 +14262,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "red,blue,purple,white",
+      "created_at" : "2020-09-23 20:59:22",
+      "developer" : "Gikken",
+      "link" : "https:\/\/gikken.co\/tokens",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94015906-0fee5280-fde0-11ea-9dc9-53589e939ee0.png",
+      "tag" : "Ticket",
+      "name" : "Tokens 2"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "white,silver,brown",
       "created_at" : "2019-10-22 22:58:01",
       "developer" : "Tokens",
@@ -16211,5 +16251,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-09-23 01:09:44 GMT+8"
+  "update_time" : "2020-09-23 21:05:06 GMT+8"
 }
