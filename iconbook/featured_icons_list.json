@@ -2931,6 +2931,16 @@
       "name" : "CotEditor 3"
     },
     {
+      "category" : "Productivity",
+      "color" : "green,white",
+      "created_at" : "2020-09-27 22:54:40",
+      "developer" : "Mineko IMANISHI",
+      "link" : "https:\/\/coteditor.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94369482-70e99380-011c-11eb-8281-0b3357d83a18.png",
+      "tag" : "Pen",
+      "name" : "CotEditor 4"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:35:52",
@@ -3079,6 +3089,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574504-db4e41f6-73b3-11e8-9bec-ae089dcd065a.png",
       "tag" : "Animal,Toy",
       "name" : "Cyberduck"
+    },
+    {
+      "category" : "Business",
+      "color" : "red,white",
+      "created_at" : "2020-09-23 00:06:28",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914251-db738b80-fd38-11ea-9936-488aed5aed64.png",
+      "tag" : "Book,Agenda",
+      "name" : "Daily Planner - To Do Lists"
     },
     {
       "category" : "Productivity",
@@ -8102,6 +8122,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "black,brown,silver,blue",
+      "created_at" : "2020-09-27 22:54:43",
+      "developer" : "CrystalIDEA",
+      "link" : "https:\/\/crystalidea.com\/macs-fan-control",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94369478-6d560c80-011c-11eb-85f9-784c153da2f8.png",
+      "tag" : "Fan",
+      "name" : "Macs Fan Control"
+    },
+    {
+      "category" : "Utilities",
       "color" : "white,silver,black",
       "created_at" : "2019-09-11 18:06:35",
       "developer" : "SecureMac",
@@ -10489,16 +10519,6 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68546124-75c32d00-040e-11ea-9e64-5e0d487a41c8.png",
       "tag" : "Window",
       "name" : "PixelSnap"
-    },
-    {
-      "category" : "Business",
-      "color" : "red,white",
-      "created_at" : "2020-09-23 00:06:28",
-      "developer" : "Any Case Solutions",
-      "link" : "https:\/\/anycasesolutions.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914251-db738b80-fd38-11ea-9936-488aed5aed64.png",
-      "tag" : "Book,Agenda",
-      "name" : "Plan Your Tasks: To Do Lists"
     },
     {
       "category" : "Productivity",
@@ -16251,5 +16271,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-09-23 21:05:06 GMT+8"
+  "update_time" : "2020-09-27 23:59:00 GMT+8"
 }
