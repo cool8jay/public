@@ -1481,6 +1481,16 @@
       "name" : "Break"
     },
     {
+      "category" : "Health & Fitness",
+      "color" : "red,white,black",
+      "created_at" : "2020-09-30 21:00:17",
+      "developer" : "Twopeople Sowtware",
+      "link" : "https:\/\/breaksforeyes.app\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94688436-307a5780-0360-11eb-9543-eaa5efef5d4f.png",
+      "tag" : "Round,Eye",
+      "name" : "Breaks for Eyes"
+    },
+    {
       "category" : "Business",
       "color" : "white,black",
       "created_at" : "2018-04-18 22:00:35",
@@ -16271,5 +16281,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-09-27 23:59:00 GMT+8"
+  "update_time" : "2020-09-30 21:02:54 GMT+8"
 }
