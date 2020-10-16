@@ -4442,6 +4442,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,black,brown",
+      "created_at" : "2020-10-16 20:13:05",
+      "developer" : "IXEAU",
+      "link" : "https:\/\/ixeau.com\/entity-pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/96273368-d89b4c00-1001-11eb-844c-8b1f1d6c8244.png",
+      "tag" : "Rectangle,Symbol",
+      "name" : "Entity Pro"
+    },
+    {
+      "category" : "Utilities",
       "color" : "orange,blue,silver",
       "created_at" : "2019-09-12 03:21:26",
       "developer" : "Eigenlogik LLC",
@@ -16301,5 +16311,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-10-11 00:43:34 GMT+8"
+  "update_time" : "2020-10-16 22:49:56 GMT+8"
 }
