@@ -5992,6 +5992,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "yellow,white,brown,black",
+      "created_at" : "2020-11-08 19:13:21",
+      "developer" : "Noodlesoft, LLC",
+      "link" : "https:\/\/www.noodlesoft.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98463543-c8d4e900-21f6-11eb-835b-fdb9cc778f14.png",
+      "tag" : "Brush,Rectangle",
+      "name" : "Hazel 5"
+    },
+    {
+      "category" : "Utilities",
       "color" : "brown,black",
       "created_at" : "2018-10-30 10:37:14",
       "developer" : "Noodlesoft, LLC",
@@ -11582,6 +11592,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "brown,silver",
+      "created_at" : "2020-11-08 19:13:20",
+      "developer" : "Silvio Rizzi",
+      "link" : "http:\/\/reederapp.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98462229-9672be00-21ed-11eb-9f71-2597221bdd0f.png",
+      "tag" : "Rectangle,Star",
+      "name" : "Reeder 5"
+    },
+    {
+      "category" : "Utilities",
       "color" : "red",
       "created_at" : "2018-10-30 10:16:23",
       "developer" : "Squirrels, LLC",
@@ -14532,6 +14552,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,orange,purple,silver",
+      "created_at" : "2020-11-08 19:13:21",
+      "developer" : "fournova Software GmbH",
+      "link" : "https:\/\/www.git-tower.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98462232-9a9edb80-21ed-11eb-9c5f-7d52af1713e8.png",
+      "tag" : "Tower,Rectangle",
+      "name" : "Tower 6"
+    },
+    {
+      "category" : "Utilities",
       "color" : "orange,white,black",
       "created_at" : "2018-10-30 10:38:31",
       "developer" : "FIPLAB Limited",
@@ -16331,5 +16361,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-04 22:33:24 GMT+8"
+  "update_time" : "2020-11-08 19:16:00 GMT+8"
 }
