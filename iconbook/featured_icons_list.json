@@ -6002,8 +6002,8 @@
     },
     {
       "category" : "Utilities",
-      "color" : "yellow,white,brown,black",
-      "created_at" : "2020-11-08 19:13:21",
+      "color" : "white,brown,black",
+      "created_at" : "2020-11-10 09:07:22",
       "developer" : "Noodlesoft, LLC",
       "link" : "https:\/\/www.noodlesoft.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98463543-c8d4e900-21f6-11eb-835b-fdb9cc778f14.png",
@@ -6552,10 +6552,20 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "blue,black",
+      "created_at" : "2020-11-10 16:57:06",
+      "developer" : "IINA",
+      "link" : "https:\/\/iina.io\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98652652-ee88fc00-2376-11eb-8b58-5d537e5d59cd.png",
+      "tag" : "Player,Rectangle",
+      "name" : "IINA Beta"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:15:27",
-      "developer" : "Collider LI",
-      "link" : "https:\/\/lhc70000.github.io\/iina",
+      "developer" : "IINA",
+      "link" : "https:\/\/iina.io\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574745-11bcbede-73b4-11e8-923b-c6f49e65e560.png",
       "tag" : "Player,Round",
       "name" : "IINA"
@@ -6952,8 +6962,8 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,blue,purple",
-      "created_at" : "2020-11-04 22:28:40",
+      "color" : "red,blue,purple,white,silver,black",
+      "created_at" : "2020-11-10 09:07:56",
       "developer" : "Bjango Pty Ltd.",
       "link" : "https:\/\/bjango.com\/mac\/istatmenus",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98123996-945ae780-1eed-11eb-8b68-8f762c9336e4.png",
@@ -11603,7 +11613,7 @@
     {
       "category" : "Utilities",
       "color" : "brown,silver",
-      "created_at" : "2020-11-08 19:13:20",
+      "created_at" : "2020-11-10 09:07:25",
       "developer" : "Silvio Rizzi",
       "link" : "http:\/\/reederapp.com\/mac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98462229-9672be00-21ed-11eb-9f71-2597221bdd0f.png",
@@ -14562,8 +14572,8 @@
     },
     {
       "category" : "Utilities",
-      "color" : "white,orange,purple,silver",
-      "created_at" : "2020-11-08 19:13:21",
+      "color" : "yellow,blue,white",
+      "created_at" : "2020-11-10 09:07:28",
       "developer" : "fournova Software GmbH",
       "link" : "https:\/\/www.git-tower.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98462232-9a9edb80-21ed-11eb-9c5f-7d52af1713e8.png",
@@ -16371,5 +16381,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-10 09:03:35 GMT+8"
+  "update_time" : "2020-11-10 17:17:25 GMT+8"
 }
