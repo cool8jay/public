@@ -7701,6 +7701,16 @@
       "name" : "LiquidText"
     },
     {
+      "category" : "Games",
+      "color" : "orange,brown,black",
+      "created_at" : "2020-11-11 11:47:57",
+      "developer" : "Tomorrow Corporation",
+      "link" : "https:\/\/tomorrowcorporation.com\/littleinferno",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98763110-432e8480-2414-11eb-980a-af0742a1b943.png",
+      "tag" : "Rectangle",
+      "name" : "Little Inferno"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,white",
       "created_at" : "2019-09-11 18:08:13",
@@ -16391,5 +16401,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-11 09:30:48 GMT+8"
+  "update_time" : "2020-11-11 11:52:49 GMT+8"
 }
