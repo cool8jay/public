@@ -273,12 +273,32 @@
     {
       "category" : "Graphics & Design",
       "color" : "blue",
+      "created_at" : "2020-11-13 10:12:51",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/designer",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021750-50767b00-259c-11eb-848d-0ecdb0c59b23.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Designer 1.8.6"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "blue",
       "created_at" : "2020-08-05 22:43:30",
       "developer" : "Serif",
       "link" : "https:\/\/affinity.serif.com\/designer",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89427124-7acec600-d76d-11ea-957c-d37432acbf5a.png",
       "tag" : "Rectangle",
       "name" : "Affinity Designer"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "purple",
+      "created_at" : "2020-11-13 10:12:11",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/photo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021753-52d8d500-259c-11eb-87c6-9531fa0dc85c.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Photo 1.8.6"
     },
     {
       "category" : "Photo & Video",
@@ -289,6 +309,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/89427138-7e624d00-d76d-11ea-8f5d-8937e100c093.png",
       "tag" : "Rectangle",
       "name" : "Affinity Photo"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,orange",
+      "created_at" : "2020-11-13 10:09:35",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/publisher",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021756-53716b80-259c-11eb-809e-2201d6a78316.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Publisher 1.8.6"
     },
     {
       "category" : "Graphics & Design",
@@ -874,7 +904,7 @@
       "category" : "Utilities",
       "color" : "red,white",
       "created_at" : "2018-10-30 11:00:58",
-      "developer" : "seense",
+      "developer" : "Fabrice Leyne",
       "link" : "https:\/\/seense.com\/barsoom",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574360-bb09ee04-73b3-11e8-9b43-cd160b5ff56c.png",
       "tag" : "Round",
@@ -1774,7 +1804,7 @@
       "category" : "Utilities",
       "color" : "red,purple,white",
       "created_at" : "2018-10-30 10:31:39",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/panic.com\/blog\/candybar-mountain-lion-and-beyond",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574417-c714c246-73b3-11e8-8e91-ba0fd69704df.png",
       "tag" : "Food,Tilt",
@@ -2584,7 +2614,7 @@
       "category" : "Developer Tools",
       "color" : "green",
       "created_at" : "2019-10-13 12:12:53",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/panic.com\/coda",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798861-e1b29280-ef41-11e9-90a5-2749ff875b23.png",
       "tag" : "Plant",
@@ -2594,7 +2624,7 @@
       "category" : "Developer Tools",
       "color" : "green",
       "created_at" : "2018-10-30 10:35:56",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/panic.com\/coda",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574472-d3e33d0e-73b3-11e8-813b-19a3895cd5d5.png",
       "tag" : "Plant",
@@ -2769,6 +2799,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574484-d62529f6-73b3-11e8-97b1-a214a3f98ff4.png",
       "tag" : "Lens,Round",
       "name" : "Compress"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "silver,black",
+      "created_at" : "2020-11-16 10:54:04",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/final-cut-pro\/compressor",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222030-ace7cd80-281c-11eb-94b6-ee2c89cca3a6.png",
+      "tag" : "Film,Rectangle",
+      "name" : "Compressor 4.5"
     },
     {
       "category" : "Photo & Video",
@@ -3222,6 +3262,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "purple,white",
+      "created_at" : "2020-11-16 14:19:27",
+      "developer" : "Bogdan Popescu",
+      "link" : "https:\/\/kapeli.com\/dash",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222043-b2451800-281c-11eb-8cd3-40b41343f637.png",
+      "tag" : "Character,Rectangle",
+      "name" : "Dash 5.5.1"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "orange,green,purple",
       "created_at" : "2018-10-30 11:01:12",
       "developer" : "Bogdan Popescu",
@@ -3244,40 +3294,40 @@
       "category" : "Lifestyle",
       "color" : "blue,white",
       "created_at" : "2018-10-30 11:00:01",
-      "developer" : "Bloom Built, LLC",
+      "developer" : "Bloom Built, Inc",
       "link" : "http:\/\/dayoneapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036860-822facf4-8d3a-11e8-9fe9-9ad765557d76.png",
-      "tag" : "Folder",
+      "tag" : "Folder,Bookmark",
       "name" : "Day One 1 - Data File"
     },
     {
       "category" : "Lifestyle",
       "color" : "orange,blue,white,black",
       "created_at" : "2018-10-30 11:00:52",
-      "developer" : "Bloom Built, LLC",
+      "developer" : "Bloom Built, Inc",
       "link" : "http:\/\/dayoneapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574510-dcca2a72-73b3-11e8-8f4e-b54ca93e3af4.png",
-      "tag" : "Book",
+      "tag" : "Book,Bookmark",
       "name" : "Day One 1"
     },
     {
       "category" : "Lifestyle",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:37:36",
-      "developer" : "Bloom Built, LLC",
+      "developer" : "Bloom Built, Inc",
       "link" : "http:\/\/dayoneapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574511-dd08fab8-73b3-11e8-90e9-91834505f8bb.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Bookmark",
       "name" : "Day One 2"
     },
     {
       "category" : "Lifestyle",
       "color" : "blue,white,silver",
       "created_at" : "2019-03-07 16:19:24",
-      "developer" : "Bloom Built, LLC",
+      "developer" : "Bloom Built, Inc",
       "link" : "http:\/\/dayoneapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/55804227-77daab80-5b0e-11e9-8e07-df83fa987a8d.png",
-      "tag" : "Book,Tilt",
+      "tag" : "Book,Tilt,Bookmark",
       "name" : "Day One 3"
     },
     {
@@ -3903,6 +3953,16 @@
     {
       "category" : "Music",
       "color" : "yellow,black",
+      "created_at" : "2020-11-13 09:41:38",
+      "developer" : "algoriddim GmbH",
+      "link" : "https:\/\/www.algoriddim.com\/djay-pro-mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019403-31291f00-2597-11eb-8332-d358fcdbf5ef.png",
+      "tag" : "Record,Rectangle",
+      "name" : "djay Pro AI"
+    },
+    {
+      "category" : "Music",
+      "color" : "yellow,black",
       "created_at" : "2018-10-30 10:21:08",
       "developer" : "algoriddim GmbH",
       "link" : "https:\/\/www.algoriddim.com\/djay-pro-mac",
@@ -4094,7 +4154,7 @@
       "category" : "Entertainment",
       "color" : "orange,blue",
       "created_at" : "2018-10-30 10:34:36",
-      "developer" : "seense",
+      "developer" : "Fabrice Leyne",
       "link" : "https:\/\/www.seense.com\/drawnstrips",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574578-ea5a87fe-73b3-11e8-954c-df0e7e19ce72.png",
       "tag" : "Book",
@@ -4271,16 +4331,6 @@
       "name" : "DwellClick"
     },
     {
-      "category" : "Graphics & Design",
-      "color" : "orange,blue,silver,brown",
-      "created_at" : "2019-11-13 17:46:54",
-      "developer" : "EazyDraw: a Dekorra Optics, LLC enterprise",
-      "link" : "http:\/\/eazydraw.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68775760-ff226b80-0669-11ea-9c1e-cb300d8c5959.png",
-      "tag" : "Pen",
-      "name" : "EasyDraw"
-    },
-    {
       "category" : "Utilities",
       "color" : "brown,black",
       "created_at" : "2018-10-30 10:29:03",
@@ -4299,6 +4349,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036876-90fcf0e8-8d3a-11e8-9848-2a2cb476ca14.png",
       "tag" : "Tape",
       "name" : "EasyRes"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,silver",
+      "created_at" : "2020-11-16 11:26:59",
+      "developer" : "Dekorra Optics LLC",
+      "link" : "http:\/\/www.eazydraw.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222050-b40edb80-281c-11eb-928b-d0e0987d7b26.png",
+      "tag" : "Rectangle",
+      "name" : "EazyDraw 10.1.1"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "orange,blue,silver,brown",
+      "created_at" : "2019-11-13 17:46:54",
+      "developer" : "Dekorra Optics LLC",
+      "link" : "http:\/\/eazydraw.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68775760-ff226b80-0669-11ea-9c1e-cb300d8c5959.png",
+      "tag" : "Pen",
+      "name" : "EazyDraw"
     },
     {
       "category" : "Music",
@@ -4782,6 +4852,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "black,white,brown,blue",
+      "created_at" : "2020-11-13 11:15:49",
+      "developer" : "Flexibits Inc.",
+      "link" : "https:\/\/flexibits.com\/fantastical",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99024850-6d15b180-25a2-11eb-8a41-afddaa8ec99a.png",
+      "tag" : "Calendar,Rectangle",
+      "name" : "Fantastical 3.3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,yellow,white,black",
       "created_at" : "2019-09-11 16:29:43",
       "developer" : "Flexibits Inc.",
@@ -4889,6 +4969,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036886-959aba5e-8d3a-11e8-988b-acdebdd46859.png",
       "tag" : "Plane",
       "name" : "FileShuttle"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "silver,black",
+      "created_at" : "2020-11-16 11:03:34",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/final-cut-pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222052-b5400880-281c-11eb-94cb-13e618bd7022.png",
+      "tag" : "Clapperboard,Rectangle",
+      "name" : "Final Cut Pro 10.5"
     },
     {
       "category" : "Photo & Video",
@@ -5172,6 +5262,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "green,blue,purple,white",
+      "created_at" : "2020-11-13 09:23:07",
+      "developer" : "Andrea Gelati",
+      "link" : "https:\/\/focusplan.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019412-34bca600-2597-11eb-9e00-eab3dc838460.png",
+      "tag" : "Rectangle",
+      "name" : "Focusplan 1.4.11"
+    },
+    {
+      "category" : "Productivity",
       "color" : "orange,green,blue,purple,white",
       "created_at" : "2020-02-07 21:48:30",
       "developer" : "Andrea Gelati",
@@ -5449,6 +5549,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574669-ff23713c-73b3-11e8-907a-4c6ddde0e9c5.png",
       "tag" : "Food",
       "name" : "Fresh"
+    },
+    {
+      "category" : "Education",
+      "color" : "yellow,white,black",
+      "created_at" : "2020-11-13 09:24:16",
+      "developer" : "Fretello GmbH",
+      "link" : "https:\/\/fretello.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019413-35553c80-2597-11eb-88ea-3a714d80e168.png",
+      "tag" : "Symbol,Rectangle",
+      "name" : "Fretello"
     },
     {
       "category" : "Utilities",
@@ -6211,6 +6321,16 @@
       "name" : "Home"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2020-11-13 11:42:07",
+      "developer" : "CogSci Apps Corp.",
+      "link" : "https:\/\/cogsciapps.com\/hook",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99026236-81a77900-25a5-11eb-996c-147465c1733a.png",
+      "tag" : "Rectangle",
+      "name" : "Hook"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue",
       "created_at" : "2020-04-08 22:49:57",
@@ -6371,6 +6491,16 @@
       "name" : "Hype 3"
     },
     {
+      "category" : "Graphics & Design",
+      "color" : "red,yellow,white,black",
+      "created_at" : "2020-11-13 11:14:02",
+      "developer" : "Tumult Inc.",
+      "link" : "https:\/\/tumult.com\/hype",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99024857-70a93880-25a2-11eb-811c-068908e56d2c.png",
+      "tag" : "Rectangle,Ruler",
+      "name" : "Hype 4"
+    },
+    {
       "category" : "Utilities",
       "color" : "purple,white",
       "created_at" : "2019-09-11 18:18:54",
@@ -6389,6 +6519,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574733-0e8f78b4-73b4-11e8-991d-3049bc519d4e.png",
       "tag" : "Window",
       "name" : "Hyperspaces"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2020-11-16 11:15:04",
+      "developer" : "iA Inc.",
+      "link" : "https:\/\/ia.net\/writer\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222056-b5d89f00-281c-11eb-93fe-856aeb1a7a29.png",
+      "tag" : "Rectangle",
+      "name" : "iA Writer 5.6.4 Dark"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2020-11-16 11:15:04",
+      "developer" : "iA Inc.",
+      "link" : "https:\/\/ia.net\/writer\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222058-b709cc00-281c-11eb-9d6e-14e652873921.png",
+      "tag" : "Rectangle",
+      "name" : "iA Writer 5.6.4"
     },
     {
       "category" : "Productivity",
@@ -7352,6 +7502,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2020-11-13 09:52:09",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/keynote",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019416-35553c80-2597-11eb-8695-db9c25c14bd8.png",
+      "tag" : "Stand,Rectangle",
+      "name" : "Keynote 10.3.5"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,yellow,blue,silver",
       "created_at" : "2018-10-30 10:54:40",
       "developer" : "Apple",
@@ -7569,6 +7729,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68086582-6d0bad80-fe88-11e9-9c85-51bc76dfb2bc.png",
       "tag" : "Character",
       "name" : "League of Legends"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,purple,black",
+      "created_at" : "2020-11-16 12:30:45",
+      "developer" : "Goblinz Studio",
+      "link" : "https:\/\/goblinzstudio.com\/game\/legend-of-keepers",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222060-b7a26280-281c-11eb-8887-4c8b4925265a.png",
+      "tag" : "Helmet",
+      "name" : "Legend of Keepers Career of a Dungeon Master"
     },
     {
       "category" : "Games",
@@ -7812,6 +7982,16 @@
     },
     {
       "category" : "Music",
+      "color" : "silver,black",
+      "created_at" : "2020-11-16 11:01:08",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/logic-pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222061-b8d38f80-281c-11eb-9f57-34ab1b0578fa.png",
+      "tag" : "Record,Rectangle",
+      "name" : "Logic Pro X 10.6.0"
+    },
+    {
+      "category" : "Music",
       "color" : "white,black",
       "created_at" : "2018-10-30 10:58:43",
       "developer" : "Apple",
@@ -7847,8 +8027,18 @@
       "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/logoist",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836898-aa0ed600-9576-11ea-9010-c78a3c3f2d07.png",
-      "tag" : "Compass,Rectangle,Stationery,Tilt,Pencil",
+      "tag" : "Ruler,Rectangle,Stationery,Tilt,Pencil",
       "name" : "Logoist 4"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "orange,green",
+      "created_at" : "2020-11-16 11:24:15",
+      "developer" : "Synium Software.",
+      "link" : "http:\/\/www.syniumsoftware.com\/logoist",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222063-ba04bc80-281c-11eb-8c85-4989afdf3bbb.png",
+      "tag" : "Rectangle,Stationery,Pencil,Ruler",
+      "name" : "Logoist 4.1"
     },
     {
       "category" : "Developer Tools",
@@ -8401,6 +8591,16 @@
       "name" : "MainStage 3"
     },
     {
+      "category" : "Music",
+      "color" : "white,black,orange",
+      "created_at" : "2020-11-16 10:55:00",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/mainstage",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222065-ba9d5300-281c-11eb-889b-760d28b0907b.png",
+      "tag" : "Rectangle,Keycard",
+      "name" : "MainStage 3.5"
+    },
+    {
       "category" : "Social Networking",
       "color" : "blue,white",
       "created_at" : "2019-09-11 18:06:04",
@@ -8614,7 +8814,7 @@
       "category" : "Utilities",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:05:32",
-      "developer" : "seense",
+      "developer" : "Fabrice Leyne",
       "link" : "https:\/\/seense.com\/menubarstats",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574875-35abfba2-73b4-11e8-9a28-e3e1e5f40510.png",
       "tag" : "Meter,Round",
@@ -8869,6 +9069,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574892-39d89744-73b4-11e8-9c9b-4be597d38c53.png",
       "tag" : "Leaf,Round",
       "name" : "MindNode 5"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,blue,purple,white",
+      "created_at" : "2020-11-13 09:36:28",
+      "developer" : "IdeasOnCanvas GmbH",
+      "link" : "https:\/\/mindnode.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019418-35edd300-2597-11eb-8cb8-ce72aa647211.png",
+      "tag" : "Rectangle",
+      "name" : "MindNode 2020.6"
     },
     {
       "category" : "Productivity",
@@ -9672,9 +9882,19 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "red,blue,purple,black",
+      "created_at" : "2020-11-16 11:19:36",
+      "developer" : "Panic Inc.",
+      "link" : "https:\/\/nova.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222067-bb35e980-281c-11eb-901f-91ac228b9ccb.png",
+      "tag" : "Rectangle,Swirl",
+      "name" : "Nova 3"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "red,blue,purple",
       "created_at" : "2020-09-23 20:33:03",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/nova.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94015929-14b30680-fde0-11ea-8533-5e9296c86234.png",
       "tag" : "Swirl",
@@ -9699,6 +9919,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037312-0a1b58a8-8d3f-11e8-9881-7f72fe969ac9.png",
       "tag" : "Flower",
       "name" : "NuKit"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,orange,green,blue,white",
+      "created_at" : "2020-11-13 09:51:10",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/numbers",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019420-36866980-2597-11eb-8981-089a4cb58b6b.png",
+      "tag" : "Chart,Rectangle",
+      "name" : "Numbers 10.3.5"
     },
     {
       "category" : "Productivity",
@@ -9742,13 +9972,33 @@
     },
     {
       "category" : "Productivity",
-      "color" : "purple",
+      "color" : "purple,black",
       "created_at" : "2018-10-30 10:22:36",
       "developer" : "The Omni Group",
       "link" : "https:\/\/www.omnigroup.com\/omnifocus",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574952-492d6076-73b4-11e8-88bf-352e9ab83193.png",
       "tag" : "Check,Rectangle,Tilt",
       "name" : "OmniFocus 2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "purple,black",
+      "created_at" : "2020-11-13 09:33:01",
+      "developer" : "The Omni Group",
+      "link" : "https:\/\/www.omnigroup.com\/omnifocus",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019421-371f0000-2597-11eb-9e01-037a8e56eaaf.png",
+      "tag" : "Rectangle,Check",
+      "name" : "OmniFocus 3"
+    },
+    {
+      "category" : "Business",
+      "color" : "green,black",
+      "created_at" : "2020-11-13 09:30:18",
+      "developer" : "The Omni Group",
+      "link" : "https:\/\/www.omnigroup.com\/omnigraffle",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019422-37b79680-2597-11eb-83d4-4c63a5c501d1.png",
+      "tag" : "Rectangle",
+      "name" : "OmniGraffle 7"
     },
     {
       "category" : "Productivity",
@@ -9763,6 +10013,16 @@
     {
       "category" : "Productivity",
       "color" : "orange,black",
+      "created_at" : "2020-11-13 09:28:28",
+      "developer" : "The Omni Group",
+      "link" : "https:\/\/www.omnigroup.com\/omnioutliner",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019426-38502d00-2597-11eb-9718-5da86e83e462.png",
+      "tag" : "Rectangle",
+      "name" : "OmniOutliner 5"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,black",
       "created_at" : "2019-09-11 18:01:03",
       "developer" : "The Omni Group",
       "link" : "https:\/\/www.omnigroup.com\/omnioutliner",
@@ -9771,8 +10031,18 @@
       "name" : "OmniOutliner"
     },
     {
+      "category" : "Business",
+      "color" : "yellow,black",
+      "created_at" : "2020-11-13 09:29:14",
+      "developer" : "The Omni Group",
+      "link" : "https:\/\/www.omnigroup.com\/omniplan",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019428-38e8c380-2597-11eb-9d04-f070a531c0e1.png",
+      "tag" : "Rectangle",
+      "name" : "OmniPlan 4"
+    },
+    {
       "category" : "Productivity",
-      "color" : "yellow",
+      "color" : "yellow,black",
       "created_at" : "2019-09-11 18:01:02",
       "developer" : "The Omni Group",
       "link" : "https:\/\/www.omnigroup.com\/omniplan",
@@ -9882,10 +10152,20 @@
     },
     {
       "category" : "Business",
+      "color" : "blue,white",
+      "created_at" : "2020-11-13 09:31:04",
+      "developer" : "Triple Glazed Studios",
+      "link" : "https:\/\/timeinorbit.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019429-39815a00-2597-11eb-8868-4527e73f4459.png",
+      "tag" : "Rectangle,Rocket",
+      "name" : "Orbit 1.8"
+    },
+    {
+      "category" : "Business",
       "color" : "purple",
       "created_at" : "2020-06-22 22:54:38",
       "developer" : "Triple Glazed Studios",
-      "link" : "https:\/\/timeinorbit.com\/",
+      "link" : "https:\/\/timeinorbit.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303137-aeff6780-b4dc-11ea-81cc-8f6f0ed9e70f.png",
       "tag" : "Rocket,Round",
       "name" : "Orbit"
@@ -9949,6 +10229,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574963-4c21704c-73b4-11e8-91c4-fb092d30afe1.png",
       "tag" : "Animal,Coffee,Drink,Bird",
       "name" : "Owly"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,white,black",
+      "created_at" : "2020-11-13 09:52:50",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/pages",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019432-3ab28700-2597-11eb-87b5-62b59cfc6a0b.png",
+      "tag" : "Pen,Rectangle",
+      "name" : "Pages 10.3.5"
     },
     {
       "category" : "Productivity",
@@ -10244,7 +10534,7 @@
       "category" : "Utilities",
       "color" : "red,white",
       "created_at" : "2019-09-11 17:58:41",
-      "developer" : "seense",
+      "developer" : "Fabrice Leyne",
       "link" : "https:\/\/seense.com\/pdfwm",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574984-539633ee-73b4-11e8-9157-f4ee0758c739.png",
       "tag" : "Cube",
@@ -12822,6 +13112,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,green",
+      "created_at" : "2020-11-13 09:56:34",
+      "developer" : "Peter Borg Apps AB",
+      "link" : "https:\/\/www.peterborgapps.com\/smultron",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019435-3b4b1d80-2597-11eb-814a-0fd9e2d7f19c.png",
+      "tag" : "Rectangle,Food",
+      "name" : "Smultron 12.2"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red",
       "created_at" : "2019-09-11 17:24:36",
       "developer" : "Peter Borg Apps AB",
@@ -13079,6 +13379,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037379-514421d8-8d3f-11e8-854f-1f4abf554089.png",
       "tag" : "Cube",
       "name" : "Sparkbox"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "orange,green,blue,white",
+      "created_at" : "2020-11-13 09:44:17",
+      "developer" : "River SRL",
+      "link" : "https:\/\/sparkleapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019436-3be3b400-2597-11eb-88eb-d514fbbd7538.png",
+      "tag" : "Rectangle",
+      "name" : "Sparkle 3"
     },
     {
       "category" : "Graphics & Design",
@@ -13399,6 +13709,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45987730-b397b180-c0a5-11e8-9fac-c98998bc889d.png",
       "tag" : "Tilt",
       "name" : "Stocks"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2020-11-13 10:13:42",
+      "developer" : "Storyist Software.",
+      "link" : "https:\/\/storyist.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021759-540a0200-259c-11eb-9ccc-cf90e7d2dc97.png",
+      "tag" : "Book,Rectangle",
+      "name" : "Storyist 4"
     },
     {
       "category" : "Productivity",
@@ -13792,6 +14112,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "orange,white,black",
+      "created_at" : "2020-11-13 11:18:02",
+      "developer" : "Eyen S.a.r.l.",
+      "link" : "https:\/\/www.eyen.fr",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99024858-71da6580-25a2-11eb-94ba-dc4db1165fb6.png",
+      "tag" : "Pencil,Rectangle",
+      "name" : "Taskheat 1.5.5"
+    },
+    {
+      "category" : "Productivity",
       "color" : "orange,white",
       "created_at" : "2018-11-28 10:16:45",
       "developer" : "Eyen S.a.r.l.",
@@ -13992,9 +14322,19 @@
     },
     {
       "category" : "Productivity",
+      "color" : "white,black",
+      "created_at" : "2020-11-16 11:10:57",
+      "developer" : "Fabrice Leyne",
+      "link" : "https:\/\/seense.com\/the_clock",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222070-bc671680-281c-11eb-9661-43ef0eafa300.png",
+      "tag" : "Clock,Rectangle",
+      "name" : "The Clock 4.3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,black",
       "created_at" : "2019-09-11 15:09:42",
-      "developer" : "seense",
+      "developer" : "Fabrice Leyne",
       "link" : "https:\/\/seense.com\/the_clock",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575257-a20ad66a-73b4-11e8-9a6a-76c7ad646a8a.png",
       "tag" : "Clock,Round",
@@ -14274,7 +14614,7 @@
       "category" : "Productivity",
       "color" : "white",
       "created_at" : "2018-10-30 10:21:03",
-      "developer" : "Timing",
+      "developer" : "Timing Software GmbH",
       "link" : "https:\/\/timingapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575274-a87ac5e6-73b4-11e8-9daa-31c1f29d2334.png",
       "tag" : "Clock",
@@ -14284,11 +14624,21 @@
       "category" : "Productivity",
       "color" : "orange",
       "created_at" : "2018-10-30 10:37:19",
-      "developer" : "Timing",
+      "developer" : "Timing Software GmbH",
       "link" : "https:\/\/timingapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575276-a8d40868-73b4-11e8-81b3-871de107515f.png",
       "tag" : "Chart,Tilt",
       "name" : "Timing 2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "black,white,brown,blue,silver",
+      "created_at" : "2020-11-13 11:31:35",
+      "developer" : "Timing Software GmbH",
+      "link" : "https:\/\/timingapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99025629-35a80480-25a4-11eb-8bf6-b6dda808705e.png",
+      "tag" : "Rectangle,Clock",
+      "name" : "Timing 2020.10"
     },
     {
       "category" : "Lifestyle",
@@ -14634,21 +14984,31 @@
       "category" : "Productivity",
       "color" : "yellow,blue",
       "created_at" : "2018-10-30 11:15:20",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/panic.com\/transmit",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037413-774cdd98-8d3f-11e8-996c-dabac1cb7d22.png",
       "tag" : "Truck",
       "name" : "Transmit 4"
     },
     {
-      "category" : "Utilities",
+      "category" : "Developer Tools",
       "color" : "yellow,blue,black",
       "created_at" : "2018-10-30 10:55:50",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/panic.com\/transmit",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/55804241-7b6e3280-5b0e-11e9-9a94-37eb5a0d2427.png",
       "tag" : "Truck",
       "name" : "Transmit 5"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "yellow,blue",
+      "created_at" : "2020-11-13 11:28:25",
+      "developer" : "Panic Inc.",
+      "link" : "https:\/\/panic.com\/transmit",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99025631-36409b00-25a4-11eb-8e74-4bb72bfe4c75.png",
+      "tag" : "Rectangle,Truck",
+      "name" : "Transmit 5.6.7"
     },
     {
       "category" : "Utilities",
@@ -15122,6 +15482,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "yellow,black",
+      "created_at" : "2020-11-13 09:42:30",
+      "developer" : "Ulysses GmbH",
+      "link" : "https:\/\/ulyssesapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99019440-3c7c4a80-2597-11eb-93d4-5314e97d47d1.png",
+      "tag" : "Rectangle,Butterfly,Pen",
+      "name" : "Ulysses 21"
+    },
+    {
+      "category" : "Productivity",
       "color" : "orange,black",
       "created_at" : "2018-10-30 10:12:37",
       "developer" : "Ulysses GmbH",
@@ -15214,7 +15584,7 @@
       "category" : "Utilities",
       "color" : "red",
       "created_at" : "2018-10-30 10:11:56",
-      "developer" : "Panic, Inc.",
+      "developer" : "Panic Inc.",
       "link" : "https:\/\/panic.com\/blog\/the-future-of-unison",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575328-b8c5540c-73b4-11e8-8589-bedae9f2808a.png",
       "tag" : "Magnet,Tilt",
@@ -15851,6 +16221,16 @@
       "name" : "WeChat"
     },
     {
+      "category" : "Social Networking",
+      "color" : "blue,white",
+      "created_at" : "2020-11-15 01:17:21",
+      "developer" : "Wutian",
+      "link" : "https:\/\/weiboformac.sinaapp.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222074-bcffad00-281c-11eb-9858-f24dbdfc3a47.png",
+      "tag" : "Record",
+      "name" : "WeiboX"
+    },
+    {
       "category" : "Games",
       "color" : "orange,silver,brown",
       "created_at" : "2019-11-26 22:50:05",
@@ -16282,6 +16662,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2020-11-13 10:11:01",
+      "developer" : "The Iconfactory",
+      "link" : "http:\/\/xscopeapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021760-54a29880-259c-11eb-8214-d5b88d3d837b.png",
+      "tag" : "Monitor,Rectangle",
+      "name" : "xScope 4.5"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "yellow,white,brown",
       "created_at" : "2019-09-11 16:33:31",
       "developer" : "The Iconfactory",
@@ -16319,6 +16709,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037438-902bbd98-8d3f-11e8-8452-1f4be3be3a0f.png",
       "tag" : "Monitor,Stand",
       "name" : "xStand"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,brown",
+      "created_at" : "2020-11-16 14:15:38",
+      "developer" : "Eternal Storms Software",
+      "link" : "https:\/\/eternalstorms.at\/yoink\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222076-be30da00-281c-11eb-938b-59740af80059.png",
+      "tag" : "Arrow",
+      "name" : "Yoink 3.5.11"
     },
     {
       "category" : "Utilities",
@@ -16411,5 +16811,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-12 14:09:15 GMT+8"
+  "update_time" : "2020-11-16 15:08:57 GMT+8"
 }
