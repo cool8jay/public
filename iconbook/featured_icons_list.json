@@ -12,7 +12,7 @@
     },
     {
       "category" : "Productivity",
-      "color" : "blue,white,silver,brown,black",
+      "color" : "blue,silver,black",
       "created_at" : "2019-10-22 22:58:24",
       "developer" : "AgileBits Inc.",
       "link" : "https:\/\/1password.com",
@@ -672,7 +672,7 @@
     },
     {
       "category" : "Music",
-      "color" : "purple,white,silver,black",
+      "color" : "purple,silver,black",
       "created_at" : "2018-10-30 10:22:00",
       "developer" : "micropixels",
       "link" : "https:\/\/micropixels.pl\/anesidora",
@@ -942,7 +942,7 @@
     },
     {
       "category" : "Lifestyle",
-      "color" : "purple,black,brown,orange,silver",
+      "color" : "red,orange,silver,black",
       "created_at" : "2020-02-09 21:08:22",
       "developer" : "Music Topia",
       "link" : "https:\/\/apps.apple.com\/app\/id1041868293",
@@ -1802,7 +1802,7 @@
     },
     {
       "category" : "Business",
-      "color" : "orange,yellow,green,blue,silver",
+      "color" : "green,white,silver",
       "created_at" : "2018-10-30 10:36:28",
       "developer" : "Busy Apps",
       "link" : "https:\/\/www.busymac.com\/busycontacts\/index.html",
@@ -6182,7 +6182,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "blue,white,silver,brown,black",
+      "color" : "green,blue,black",
       "created_at" : "2019-12-24 19:43:45",
       "developer" : "Primate Labs Inc.",
       "link" : "https:\/\/www.geekbench.com",
@@ -9463,16 +9463,6 @@
     {
       "category" : "Social Networking",
       "color" : "green,white",
-      "created_at" : "2020-11-17 13:13:05",
-      "developer" : "Apple",
-      "link" : "https:\/\/www.apple.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486337-011abb00-299f-11eb-85d5-289e43e1de83.png",
-      "tag" : "Rectangle",
-      "name" : "Messages Big Sur"
-    },
-    {
-      "category" : "Social Networking",
-      "color" : "green,white",
       "created_at" : "2020-11-17 16:01:30",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -9484,16 +9474,6 @@
       "category" : "Social Networking",
       "color" : "blue,white",
       "created_at" : "2020-11-17 13:13:05",
-      "developer" : "Apple",
-      "link" : "https:\/\/www.apple.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486340-024be800-299f-11eb-9fbf-6b80e59744c2.png",
-      "tag" : "Chat",
-      "name" : "Messages"
-    },
-    {
-      "category" : "Social Networking",
-      "color" : "blue,white",
-      "created_at" : "2020-11-17 16:01:30",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486340-024be800-299f-11eb-9fbf-6b80e59744c2.png",
@@ -9779,6 +9759,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574894-3a6aa620-73b4-11e8-8b48-8d2bb3c4a60c.png",
       "tag" : "Device",
       "name" : "Minion"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "black,silver",
+      "created_at" : "2020-11-18 14:50:11",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99495863-3ed31000-29ae-11eb-8251-52618055c601.png",
+      "tag" : "Rectangle",
+      "name" : "Mission Control Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,green,blue,black",
+      "created_at" : "2020-11-18 14:54:01",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99495848-3a0e5c00-29ae-11eb-9dc0-677a33c27c36.png",
+      "tag" : "Rectangle",
+      "name" : "Mission Control"
     },
     {
       "category" : "Photo & Video",
@@ -10139,6 +10139,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037304-01119aba-8d3f-11e8-84e8-e69182b5c7e2.png",
       "tag" : "Rectangle",
       "name" : "Muno"
+    },
+    {
+      "category" : "Music",
+      "color" : "red,white",
+      "created_at" : "2020-11-18 14:50:11",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99495871-41ce0080-29ae-11eb-9d07-b58188d5231d.png",
+      "tag" : "Rectangle,Note",
+      "name" : "Music Big Sur"
     },
     {
       "category" : "Music",
@@ -11102,6 +11112,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "orange,white",
+      "created_at" : "2020-11-18 14:58:53",
+      "developer" : "Paste Team",
+      "link" : "https:\/\/pasteapp.me",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99496175-c456c000-29ae-11eb-9e1c-e4b23df1c1fa.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Paste 3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "white,brown,black",
       "created_at" : "2019-09-11 18:00:07",
       "developer" : "Tapbots, LLC",
@@ -11612,7 +11632,7 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "red,orange,green,blue,purple,white,silver,brown",
+      "color" : "red,orange,green,white",
       "created_at" : "2019-12-23 21:12:07",
       "developer" : "Pixelmator Team",
       "link" : "https:\/\/www.pixelmator.com\/pro",
@@ -11622,7 +11642,7 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "blue,white,silver,brown",
+      "color" : "yellow,blue,brown",
       "created_at" : "2018-10-30 11:00:15",
       "developer" : "Pixelmator Team",
       "link" : "http:\/\/www.pixelmator.com\/mac",
@@ -13382,6 +13402,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2020-11-18 14:50:11",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99495869-40043d00-29ae-11eb-8d52-859da0104246.png",
+      "tag" : "Rectangle,Pencil",
+      "name" : "Script Editor Big Sur"
+    },
+    {
+      "category" : "Utilities",
       "color" : "silver,black",
       "created_at" : "2020-02-23 18:19:45",
       "developer" : "Apple",
@@ -13762,7 +13792,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "blue,black,white,brown,purple,silver",
+      "color" : "red,green,blue,purple,black",
       "created_at" : "2020-11-17 13:13:05",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -13792,7 +13822,7 @@
     },
     {
       "category" : "Developer Tools",
-      "color" : "red,green,blue,purple,brown",
+      "color" : "red,green,blue,brown",
       "created_at" : "2018-10-30 10:38:35",
       "developer" : "Bjango Pty Ltd.",
       "link" : "https:\/\/bjango.com\/mac\/skalapreview",
@@ -17841,5 +17871,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-18 13:16:22 GMT+8"
+  "update_time" : "2020-11-18 15:01:56 GMT+8"
 }
