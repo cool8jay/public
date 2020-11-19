@@ -72,7 +72,7 @@
     },
     {
       "category" : "Medical",
-      "color" : "red,green,purple,white,silver",
+      "color" : "red,green,purple,white",
       "created_at" : "2015-07-13 18:40:28",
       "developer" : "Nucleobytes",
       "link" : "https:\/\/nucleobytes.com\/4peaks\/index.html",
@@ -602,7 +602,7 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "orange,yellow,green,purple,black",
+      "color" : "orange,green,purple,black",
       "created_at" : "2019-10-14 23:13:26",
       "developer" : "BeLight Software Ltd.",
       "link" : "https:\/\/amadine.com",
@@ -692,7 +692,7 @@
     },
     {
       "category" : "Games",
-      "color" : "blue,purple,white,brown,black",
+      "color" : "blue,white,brown,black",
       "created_at" : "2018-09-28 04:31:26",
       "developer" : "Tim Conkling",
       "link" : "https:\/\/antihero-game.com\/",
@@ -3012,7 +3012,7 @@
     },
     {
       "category" : "Entertainment",
-      "color" : "red,orange,blue,white,black",
+      "color" : "red,blue,white,black",
       "created_at" : "2018-10-30 10:21:07",
       "developer" : "plasq",
       "link" : "http:\/\/plasq.com\/apps\/comiclife\/macwin",
@@ -3932,7 +3932,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,blue,white,silver,black",
+      "color" : "red,white,silver,black",
       "created_at" : "2018-10-30 11:03:00",
       "developer" : "Many Tricks",
       "link" : "https:\/\/manytricks.com\/desktopcurtain",
@@ -5102,7 +5102,7 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "red,white,silver,brown,black",
+      "color" : "red,white,black",
       "created_at" : "2019-10-22 22:50:44",
       "developer" : "Softpress Systems Ltd",
       "link" : "https:\/\/www.softpress.com\/exhibeo",
@@ -5332,7 +5332,7 @@
     },
     {
       "category" : "Developer Tools",
-      "color" : "red,orange,blue,purple,white,brown,black",
+      "color" : "red,orange,blue,purple,white,black",
       "created_at" : "2019-09-12 03:20:36",
       "developer" : "Norm",
       "link" : "https:\/\/figmac.com",
@@ -5369,6 +5369,36 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036886-959aba5e-8d3a-11e8-988b-acdebdd46859.png",
       "tag" : "Plane",
       "name" : "FileShuttle"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,green,black",
+      "created_at" : "2020-11-19 13:52:54",
+      "developer" : "PDF Technologies",
+      "link" : "https:\/\/www.filmagepro.com\/filmageconverter",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99628616-73f46680-2a71-11eb-9970-326feb6600cd.png",
+      "tag" : "Rectangle",
+      "name" : "Filmage Converter"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "yellow,white,black",
+      "created_at" : "2020-11-19 13:58:01",
+      "developer" : "PDF Technologies",
+      "link" : "https:\/\/www.filmagepro.com\/filmageplayer",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99628613-72c33980-2a71-11eb-837b-6f868adc0777.png",
+      "tag" : "Rectangle",
+      "name" : "Filmage Player"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "black,blue",
+      "created_at" : "2020-11-19 13:54:05",
+      "developer" : "PDF Technologies",
+      "link" : "https:\/\/www.filmagepro.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99628618-748cfd00-2a71-11eb-8f7b-eac1d1af3678.png",
+      "tag" : "Rectangle",
+      "name" : "Filmage Screen"
     },
     {
       "category" : "Photo & Video",
@@ -5572,7 +5602,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,yellow,green,blue,white",
+      "color" : "blue,purple,white",
       "created_at" : "2019-09-11 15:43:44",
       "developer" : "Nulana",
       "link" : "https:\/\/www.nulana.com\/flexiglass",
@@ -6942,7 +6972,7 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "red,orange,yellow,green,blue,purple",
+      "color" : "red,orange,yellow,blue,purple",
       "created_at" : "2019-09-11 15:38:46",
       "developer" : "bergdesign inc",
       "link" : "http:\/\/bergdesign.com\/hueshifter",
@@ -7692,7 +7722,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,blue,purple,white,silver",
+      "color" : "red,blue,purple,white",
       "created_at" : "2020-11-10 09:07:56",
       "developer" : "Bjango Pty Ltd.",
       "link" : "https:\/\/bjango.com\/mac\/istatmenus",
@@ -8162,7 +8192,7 @@
     },
     {
       "category" : "Games",
-      "color" : "orange,yellow,white,silver,brown",
+      "color" : "yellow,green,white,brown",
       "created_at" : "2016-12-20 00:08:05",
       "developer" : "Ironhide Game Studio",
       "link" : "https:\/\/www.ironhidegames.com\/Games\/kingdom-rush-frontiers",
@@ -8632,7 +8662,7 @@
     },
     {
       "category" : "Developer Tools",
-      "color" : "red,orange,yellow,green,white,black",
+      "color" : "red,orange,green,white,black",
       "created_at" : "2019-09-11 16:31:05",
       "developer" : "QMUI Team",
       "link" : "https:\/\/lookin.work",
@@ -9481,6 +9511,16 @@
       "name" : "Messages"
     },
     {
+      "category" : "Social Networking",
+      "color" : "white,blue,purple",
+      "created_at" : "2020-11-18 15:21:57",
+      "developer" : "Facebook",
+      "link" : "https:\/\/www.facebook.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99619334-33d7b880-2a5e-11eb-9115-2d4e4cee95c6.png",
+      "tag" : "Rectangle,Chat",
+      "name" : "Messenger"
+    },
+    {
       "category" : "Music",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:05:31",
@@ -9612,7 +9652,7 @@
     },
     {
       "category" : "Music",
-      "color" : "red,orange,yellow,white,black",
+      "color" : "orange,yellow,white,black",
       "created_at" : "2020-02-09 22:32:23",
       "developer" : "Music Breath",
       "link" : "https:\/\/apps.apple.com\/app\/id1221266801",
@@ -9932,7 +9972,7 @@
     },
     {
       "category" : "Finance",
-      "color" : "red,orange,green,blue,white",
+      "color" : "blue,white",
       "created_at" : "2019-10-17 22:54:20",
       "developer" : "MRH applications GmbH",
       "link" : "https:\/\/moneymoney-app.com\/",
@@ -10082,7 +10122,7 @@
     },
     {
       "category" : "Developer Tools",
-      "color" : "black,white,brown,silver,yellow",
+      "color" : "yellow,white,black",
       "created_at" : "2020-02-03 20:36:29",
       "developer" : "überdosis",
       "link" : "https:\/\/mouseless.app",
@@ -10372,7 +10412,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,yellow,blue,silver,black",
+      "color" : "blue,silver,black",
       "created_at" : "2019-09-11 18:01:50",
       "developer" : "Witt Software",
       "link" : "https:\/\/witt-software.com\/networkradar",
@@ -11512,7 +11552,7 @@
     },
     {
       "category" : "Productivity",
-      "color" : "red,orange,yellow,green,silver,brown",
+      "color" : "red,orange,yellow,green,purple",
       "created_at" : "2019-11-26 22:50:05",
       "developer" : "Creatable",
       "link" : "https:\/\/pichiapp.com\/",
@@ -13182,7 +13222,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,orange,green,blue,white,silver",
+      "color" : "red,orange,green,blue,white",
       "created_at" : "2018-11-29 16:18:28",
       "developer" : "Francesco Di Lorenzo & Fabrizio Rinaldi",
       "link" : "https:\/\/www.sblack.online",
@@ -13792,7 +13832,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,green,blue,purple,black",
+      "color" : "red,green,purple,black",
       "created_at" : "2020-11-17 13:13:05",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -14072,7 +14112,7 @@
     },
     {
       "category" : "Music",
-      "color" : "orange,blue,white,silver,brown",
+      "color" : "orange,blue,white",
       "created_at" : "2019-10-22 22:58:00",
       "developer" : "Vemedio",
       "link" : "http:\/\/vemedio.com",
@@ -15162,6 +15202,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "green,white,silver",
+      "created_at" : "2020-11-19 14:08:01",
+      "developer" : "Valletta Ventures (UK) Ltd.",
+      "link" : "https:\/\/www.texpad.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99628596-6e971c00-2a71-11eb-8feb-9f7de58128c5.png",
+      "tag" : "Rectangle",
+      "name" : "Texpad"
+    },
+    {
+      "category" : "Productivity",
       "color" : "silver,black",
       "created_at" : "2018-10-30 10:16:26",
       "developer" : "Alexander Blach",
@@ -15622,7 +15672,7 @@
     },
     {
       "category" : "Productivity",
-      "color" : "black,white,brown,blue,silver",
+      "color" : "red,yellow,green,blue,white,black",
       "created_at" : "2020-11-13 11:31:35",
       "developer" : "Timing Software GmbH",
       "link" : "https:\/\/timingapp.com",
@@ -15818,7 +15868,7 @@
       "link" : "http:\/\/www.jumsoft.com\/toolbox-for-keynote\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68874549-5a249300-073c-11ea-8ae1-e23c923c238d.png",
       "tag" : "Character,Rectangle,Tilt",
-      "name" : "Toolbox for Keynote -Templates"
+      "name" : "Toolbox for Keynote - Templates"
     },
     {
       "category" : "Productivity",
@@ -16272,7 +16322,7 @@
     },
     {
       "category" : "Social Networking",
-      "color" : "red,orange,white,brown,black",
+      "color" : "red,black",
       "created_at" : "2019-09-25 00:14:09",
       "developer" : "The Iconfactory",
       "link" : "https:\/\/twitterrific.com\/mac",
@@ -16302,7 +16352,7 @@
     },
     {
       "category" : "Social Networking",
-      "color" : "red,orange,yellow,white,black",
+      "color" : "red,orange,yellow,black",
       "created_at" : "2019-09-25 00:13:22",
       "developer" : "The Iconfactory",
       "link" : "https:\/\/twitterrific.com\/mac",
@@ -16322,7 +16372,7 @@
     },
     {
       "category" : "Social Networking",
-      "color" : "orange,yellow,blue,silver,black",
+      "color" : "yellow,blue,black",
       "created_at" : "2019-09-25 00:14:06",
       "developer" : "The Iconfactory",
       "link" : "https:\/\/twitterrific.com\/mac",
@@ -16332,7 +16382,7 @@
     },
     {
       "category" : "Social Networking",
-      "color" : "red,orange,yellow,white,brown",
+      "color" : "red,orange,yellow",
       "created_at" : "2019-09-25 00:14:34",
       "developer" : "The Iconfactory",
       "link" : "https:\/\/twitterrific.com\/mac",
@@ -17871,5 +17921,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-18 15:01:56 GMT+8"
+  "update_time" : "2020-11-19 14:14:53 GMT+8"
 }
