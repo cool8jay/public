@@ -3601,6 +3601,16 @@
       "name" : "Data Guardian"
     },
     {
+      "category" : "Utilities",
+      "color" : "purple,white,black",
+      "created_at" : "2020-11-19 14:34:52",
+      "developer" : "Sindre Sorhus",
+      "link" : "https:\/\/sindresorhus.com\/dato",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99630968-bfa90f00-2a75-11eb-92e8-93e027909937.png",
+      "tag" : "Rectangle,Clock,Globe",
+      "name" : "Dato"
+    },
+    {
       "category" : "Lifestyle",
       "color" : "blue,white",
       "created_at" : "2018-10-30 11:00:01",
@@ -4581,6 +4591,16 @@
       "name" : "DriveDx"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2020-11-19 14:41:14",
+      "developer" : "Christain Billings",
+      "link" : "http:\/\/dropyourcolor.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99630955-b61fa700-2a75-11eb-8863-da53ffe5d1ce.png",
+      "tag" : "Rectangle,Water",
+      "name" : "Drop"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue",
       "created_at" : "2018-10-30 10:18:56",
@@ -5382,7 +5402,7 @@
     },
     {
       "category" : "Photo & Video",
-      "color" : "yellow,white,black",
+      "color" : "yellow,black",
       "created_at" : "2020-11-19 13:58:01",
       "developer" : "PDF Technologies",
       "link" : "https:\/\/www.filmagepro.com\/filmageplayer",
@@ -11672,6 +11692,16 @@
     },
     {
       "category" : "Graphics & Design",
+      "color" : "red,orange,white,black",
+      "created_at" : "2020-11-19 14:37:46",
+      "developer" : "Pixelmator Team",
+      "link" : "https:\/\/www.pixelmator.com\/pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99630961-bc158800-2a75-11eb-9406-d5b9f17f1884.png",
+      "tag" : "Brush,Rectangle",
+      "name" : "Pixelmator Pro 2.0"
+    },
+    {
+      "category" : "Graphics & Design",
       "color" : "red,orange,green,white",
       "created_at" : "2019-12-23 21:12:07",
       "developer" : "Pixelmator Team",
@@ -13899,6 +13929,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575172-87858a56-73b4-11e8-8f56-b31e18f801e4.png",
       "tag" : "Diamond",
       "name" : "Sketch 3.4"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "yellow,white",
+      "created_at" : "2020-11-19 14:36:24",
+      "developer" : "Bohemian B.V.",
+      "link" : "https:\/\/www.sketchapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99630964-bddf4b80-2a75-11eb-9019-9dfbaf52a806.png",
+      "tag" : "Rectangle,Diamond",
+      "name" : "Sketch 70"
     },
     {
       "category" : "Graphics & Design",
@@ -17921,5 +17961,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2020-11-19 14:14:53 GMT+8"
+  "update_time" : "2020-11-19 14:51:58 GMT+8"
 }
