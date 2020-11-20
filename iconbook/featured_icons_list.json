@@ -711,6 +711,16 @@
       "name" : "Angry Birds Seasons"
     },
     {
+      "category" : "Productivity",
+      "color" : "blue,black",
+      "created_at" : "2020-11-20 14:45:39",
+      "developer" : "Koji Murata",
+      "link" : "https:\/\/twitter.com\/malt03",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99810445-ac359b00-2b7e-11eb-8f09-8506f118a4aa.png",
+      "tag" : "Rectangle,Tilt",
+      "name" : "Annay"
+    },
+    {
       "category" : "Games",
       "color" : "blue,white,brown,black",
       "created_at" : "2018-09-28 04:31:26",
@@ -8011,6 +8021,16 @@
       "name" : "Jack"
     },
     {
+      "category" : "Social Networking",
+      "color" : "blue",
+      "created_at" : "2020-11-21 00:34:30",
+      "developer" : "Savoir-faire Linux",
+      "link" : "https:\/\/jami.net\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99825264-c62ca900-2b91-11eb-9ed4-bba4da1f5eb2.png",
+      "tag" : "Abstract",
+      "name" : "Jami"
+    },
+    {
       "category" : "Utilities",
       "color" : "green,blue",
       "created_at" : "2019-09-11 18:10:12",
@@ -10641,6 +10661,16 @@
       "name" : "News 4.4"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,red",
+      "created_at" : "2020-11-20 14:49:26",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/macos",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99810448-acce3180-2b7e-11eb-826d-a6a5f5ef65d0.png",
+      "tag" : "Rectangle,Character",
+      "name" : "News Big Sur"
+    },
+    {
       "category" : "News",
       "color" : "red,white",
       "created_at" : "2019-09-11 18:01:28",
@@ -12099,6 +12129,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575020-603bd162-73b4-11e8-82fd-e9459e411d34.png",
       "tag" : "Rectangle",
       "name" : "Polarr Photo Editor Pro"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,green",
+      "created_at" : "2020-11-20 14:45:10",
+      "developer" : "Max Gribov",
+      "link" : "http:\/\/www.pomodoro.maxgribov.pro\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99810435-a9d34100-2b7e-11eb-8856-c4526825a9f0.png",
+      "tag" : "Device",
+      "name" : "Pomo Timer"
     },
     {
       "category" : "Productivity",
@@ -18281,5 +18321,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-20 14:21:53 GMT+8"
+  "update_time" : "2020-11-21 00:39:53 GMT+8"
 }
