@@ -1071,6 +1071,16 @@
       "name" : "Bartender 3"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2020-11-20 14:17:40",
+      "developer" : "Surtees Surtees Studios",
+      "link" : "https:\/\/www.macbartender.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99766150-84711380-2b3b-11eb-9b54-695e6ca86074.png",
+      "tag" : "Rectangle",
+      "name" : "Bartender 4"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "white",
       "created_at" : "2018-10-30 11:07:24",
@@ -13152,6 +13162,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white,black",
+      "created_at" : "2020-11-20 14:17:55",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/remotedesktop",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99766143-80dd8c80-2b3b-11eb-9163-16f8e7e2d800.png",
+      "tag" : "Rectangle",
+      "name" : "Remote Desktop 3.9.4"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,silver,black",
       "created_at" : "2018-10-30 10:10:45",
       "developer" : "Apple",
@@ -18261,5 +18281,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-20 13:57:08 GMT+8"
+  "update_time" : "2020-11-20 14:21:53 GMT+8"
 }
