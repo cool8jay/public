@@ -1183,6 +1183,16 @@
     {
       "category" : "Productivity",
       "color" : "red,white",
+      "created_at" : "2020-11-21 14:09:07",
+      "developer" : "Shiny Frog Ltd.",
+      "link" : "http:\/\/www.bear-writer.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99869080-42130980-2c03-11eb-8878-de0d22925926.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Bear 1.8.2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,white",
       "created_at" : "2019-09-12 03:13:40",
       "developer" : "Shiny Frog Ltd.",
       "link" : "http:\/\/www.bear-writer.com",
@@ -9472,6 +9482,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,white,silver",
+      "created_at" : "2020-11-21 14:37:26",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99869942-00d22800-2c0a-11eb-8b55-41d8e75e5933.png",
+      "tag" : "Rectangle,Pen",
+      "name" : "Make My App - Mockup Designer"
+    },
+    {
+      "category" : "Productivity",
       "color" : "orange,white",
       "created_at" : "2019-09-11 18:06:04",
       "developer" : "Atypon Systems, LLC",
@@ -12659,6 +12679,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575045-695eb4bc-73b4-11e8-9440-768afc85890e.png",
       "tag" : "Photo",
       "name" : "Quick Print"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,orange,black",
+      "created_at" : "2020-11-21 14:44:44",
+      "developer" : "WhatsNut",
+      "link" : "http:\/\/www.whatsnut.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99869943-029beb80-2c0a-11eb-8e1c-c46f27d9dc02.png",
+      "tag" : "Note,Round",
+      "name" : "Quick Ringtone Maker"
     },
     {
       "category" : "Utilities",
@@ -18321,5 +18351,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-21 00:39:53 GMT+8"
+  "update_time" : "2020-11-21 14:59:20 GMT+8"
 }
