@@ -9202,6 +9202,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "yellow,blue,black",
+      "created_at" : "2020-11-21 15:04:28",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/macos",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99870050-f8c6b800-2c0a-11eb-8025-7d9c4951d27c.png",
+      "tag" : "Round",
+      "name" : "macOS Big Sur"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,black",
       "created_at" : "2019-10-13 12:12:41",
       "developer" : "Apple",
@@ -18351,5 +18361,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-21 14:59:20 GMT+8"
+  "update_time" : "2020-11-23 09:27:12 GMT+8"
 }
