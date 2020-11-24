@@ -41,6 +41,16 @@
       "name" : "1Password 7"
     },
     {
+      "category" : "Productivity",
+      "color" : "blue,white,silver",
+      "created_at" : "2020-11-24 09:35:28",
+      "developer" : "AgileBits Inc.",
+      "link" : "https:\/\/1password.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076444-2a928580-2e7c-11eb-8bfd-a2673ef365c2.png",
+      "tag" : "Rectangle,Lock",
+      "name" : "1Password 7.7"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 16:32:59",
@@ -2171,6 +2181,16 @@
       "name" : "CaptureSync"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "yellow,black",
+      "created_at" : "2020-11-24 16:13:18",
+      "developer" : "Danger Cove",
+      "link" : "https:\/\/www.dangercove.com\/carbonize",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076378-1c446980-2e7c-11eb-842f-857c84235bc2.png",
+      "tag" : "Rectangle",
+      "name" : "Carbonize"
+    },
+    {
       "category" : "Productivity",
       "color" : "red,orange,yellow,white",
       "created_at" : "2018-10-30 11:00:55",
@@ -2811,6 +2831,16 @@
       "name" : "Clear"
     },
     {
+      "category" : "Utilities",
+      "color" : "purple,white",
+      "created_at" : "2020-11-24 15:03:27",
+      "developer" : "MacPaw",
+      "link" : "https:\/\/macpaw.com\/clearvpn",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076409-22d2e100-2e7c-11eb-9154-983401c4d46d.png",
+      "tag" : "Rectangle",
+      "name" : "ClearVPN"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "red,orange,silver,brown",
       "created_at" : "2018-10-30 11:11:51",
@@ -3401,6 +3431,16 @@
       "name" : "CotEditor 4"
     },
     {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2020-11-24 14:37:04",
+      "developer" : "Hydra Softworks",
+      "link" : "https:\/\/getcountdowns.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076441-29f9ef00-2e7c-11eb-823f-4b3f44b46371.png",
+      "tag" : "Rectangle,Sandglass",
+      "name" : "Countdowns"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:35:52",
@@ -3559,6 +3599,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914251-db738b80-fd38-11ea-9936-488aed5aed64.png",
       "tag" : "Book,Agenda",
       "name" : "Daily Planner - To Do Lists"
+    },
+    {
+      "category" : "Business",
+      "color" : "blue,white,black",
+      "created_at" : "2020-11-24 14:45:43",
+      "developer" : "Niels Mouthaan",
+      "link" : "https:\/\/dailytimetracking.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076438-29615880-2e7c-11eb-8b76-34e2167947ad.png",
+      "tag" : "Rectangle",
+      "name" : "Daily"
     },
     {
       "category" : "Productivity",
@@ -4741,6 +4791,16 @@
       "name" : "Dropover"
     },
     {
+      "category" : "Productivity",
+      "color" : "white,black",
+      "created_at" : "2020-11-24 15:41:19",
+      "developer" : "Timo Josten",
+      "link" : "https:\/\/dropshare.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076403-21091d80-2e7c-11eb-8340-dc7fe035bbdd.png",
+      "tag" : "Rectangle,Water",
+      "name" : "Dropshare"
+    },
+    {
       "category" : "Utilities",
       "color" : "green,black",
       "created_at" : "2018-10-30 11:10:36",
@@ -4961,6 +5021,16 @@
       "name" : "Elpass"
     },
     {
+      "category" : "News",
+      "color" : "orange,yellow,blue,purple",
+      "created_at" : "2020-11-24 16:30:42",
+      "developer" : "Nikhil Nigade",
+      "link" : "https:\/\/elytra.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076388-1e0e2d00-2e7c-11eb-99ea-5d98ddcbf09f.png",
+      "tag" : "Rectangle",
+      "name" : "Elytra"
+    },
+    {
       "category" : "Business",
       "color" : "yellow,white,brown",
       "created_at" : "2018-10-30 11:10:14",
@@ -5139,6 +5209,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036881-93e5db30-8d3a-11e8-8136-a15b14a4f4c1.png",
       "tag" : "Folder,Mail,Photo",
       "name" : "Essentials"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,white,black",
+      "created_at" : "2020-11-24 15:13:16",
+      "developer" : "Arthur Guiot",
+      "link" : "https:\/\/euclid.pr1mer.tech",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076376-1c446980-2e7c-11eb-9e9a-4e33abc67a6e.png",
+      "tag" : "Rectangle",
+      "name" : "Euclid"
     },
     {
       "category" : "Utilities",
@@ -6431,6 +6511,16 @@
       "name" : "Ghostlab"
     },
     {
+      "category" : "Productivity",
+      "color" : "silver,black",
+      "created_at" : "2020-11-24 15:13:30",
+      "developer" : "Ghostnote",
+      "link" : "https:\/\/www.ghostnoteapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076418-25353b00-2e7c-11eb-86c8-69ec9640ecd6.png",
+      "tag" : "Rectangle,Ghost",
+      "name" : "Ghostnote"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "yellow,black",
       "created_at" : "2018-10-30 10:23:09",
@@ -7339,6 +7429,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574742-10b07832-73b4-11e8-85fe-c01e6747bd33.png",
       "tag" : "Jar,Magnifier,Rectangle,Tilt",
       "name" : "IconJar 2"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,white,black",
+      "created_at" : "2020-11-24 15:58:23",
+      "developer" : "IconJar",
+      "link" : "https:\/\/geticonjar.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076399-20708700-2e7c-11eb-98ef-09c7b5a3a075.png",
+      "tag" : "Rectangle,Jar,Magnifier",
+      "name" : "IconJar 2.6"
     },
     {
       "category" : "Graphics & Design",
@@ -9053,6 +9153,16 @@
     {
       "category" : "Photo & Video",
       "color" : "silver",
+      "created_at" : "2020-11-23 15:50:40",
+      "developer" : "Mirko Viviani",
+      "link" : "https:\/\/www.lynapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99938891-c603f780-2da3-11eb-8a46-61057544b54e.png",
+      "tag" : "Magnifier",
+      "name" : "Lyn 2"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "silver",
       "created_at" : "2019-09-11 18:07:08",
       "developer" : "Mirko Viviani",
       "link" : "https:\/\/www.lynapp.com",
@@ -9381,6 +9491,16 @@
       "name" : "Made for Gmail"
     },
     {
+      "category" : "Entertainment",
+      "color" : "blue,brown",
+      "created_at" : "2020-11-24 16:08:19",
+      "developer" : "Jetson Creative LLC",
+      "link" : "https:\/\/www.jetsoncreative.com\/airmac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076394-1ea6c380-2e7c-11eb-881e-84fe9754e500.png",
+      "tag" : "Rectangle,Window,Sky",
+      "name" : "Magic Window Air"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,white",
       "created_at" : "2020-11-17 13:13:04",
@@ -9589,6 +9709,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574868-33e87840-73b4-11e8-8e27-63842e6311d1.png",
       "tag" : "Rocket,Round",
       "name" : "MarsEdit"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "black,silver",
+      "created_at" : "2020-11-24 15:13:56",
+      "developer" : "Nicolas Dalbard",
+      "link" : "https:\/\/mathkey-app.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076426-26666800-2e7c-11eb-9a26-663afb95aee5.png",
+      "tag" : "Round",
+      "name" : "MathKey"
     },
     {
       "category" : "Education",
@@ -10099,6 +10229,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574896-3b10c53c-73b4-11e8-8a81-7ddffb4aa412.png",
       "tag" : "Round",
       "name" : "Mixed In Key Mashup"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "blue,white",
+      "created_at" : "2020-11-23 15:56:23",
+      "developer" : "mmhmm inc",
+      "link" : "https:\/\/www.mmhmm.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99939211-825dbd80-2da4-11eb-872b-fb76e019eb4d.png",
+      "tag" : "Rectangle,Character",
+      "name" : "mmhmm"
     },
     {
       "category" : "Business",
@@ -11511,6 +11651,26 @@
       "name" : "Patterno"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2020-11-24 15:10:55",
+      "developer" : "Paw Cloud",
+      "link" : "https:\/\/paw.cloud",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076368-1a7aa600-2e7c-11eb-99fd-90d48f8277a8.png",
+      "tag" : "Rectangle,Fox,Animal",
+      "name" : "Paw 3.2"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "white,silver",
+      "created_at" : "2020-11-24 15:32:39",
+      "developer" : "Paw Inc.",
+      "link" : "https:\/\/paw.cloud",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076421-25cdd180-2e7c-11eb-9606-0ce897744c4f.png",
+      "tag" : "Round,Animal",
+      "name" : "Paw"
+    },
+    {
       "category" : "Productivity",
       "color" : "orange,blue,black",
       "created_at" : "2019-09-11 14:59:19",
@@ -11539,6 +11699,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574982-52e43e6e-73b4-11e8-8c99-7f4539b427e3.png",
       "tag" : "Lock",
       "name" : "PDF Protector"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,white",
+      "created_at" : "2020-11-24 15:11:30",
+      "developer" : "MOZKAN",
+      "link" : "http:\/\/www.pdfsearchapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076434-28c8c200-2e7c-11eb-8ca9-fb487b457579.png",
+      "tag" : "Rectangle",
+      "name" : "PDF Search"
     },
     {
       "category" : "Productivity",
@@ -12013,11 +12183,21 @@
     {
       "category" : "Developer Tools",
       "color" : "orange,black",
+      "created_at" : "2020-11-24 15:11:53",
+      "developer" : "MakeTheWeb",
+      "link" : "https:\/\/getpixelsnap.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076408-223a4a80-2e7c-11eb-9a6a-e20fc0a38a6d.png",
+      "tag" : "Rectangle",
+      "name" : "PixelSnap 2"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "orange,black",
       "created_at" : "2019-10-07 20:24:00",
       "developer" : "MakeTheWeb",
       "link" : "https:\/\/getpixelsnap.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68546124-75c32d00-040e-11ea-9e64-5e0d487a41c8.png",
-      "tag" : "Window",
+      "tag" : "Window,Rectangle",
       "name" : "PixelSnap"
     },
     {
@@ -12349,6 +12529,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037340-244070a6-8d3f-11e8-8301-ad46779b7ca4.png",
       "tag" : "Scissors",
       "name" : "Presentation Video Trimmer"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "purple,white",
+      "created_at" : "2020-11-24 15:12:05",
+      "developer" : "Ram Patra",
+      "link" : "https:\/\/presentify.compzets.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076427-26fefe80-2e7c-11eb-8597-3097354f1fa7.png",
+      "tag" : "Rectangle",
+      "name" : "Presentify"
     },
     {
       "category" : "Productivity",
@@ -13931,6 +14121,16 @@
       "name" : "Sequence"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,white",
+      "created_at" : "2020-11-24 15:12:22",
+      "developer" : "Philip Young Gunawan",
+      "link" : "https:\/\/www.stayinsession.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076370-1b133c80-2e7c-11eb-8930-15d4418f4187.png",
+      "tag" : "Round,Clock",
+      "name" : "Session - Focus Timer"
+    },
+    {
       "category" : "Business",
       "color" : "white,silver",
       "created_at" : "2019-11-06 17:41:12",
@@ -13939,6 +14139,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68546118-73f96980-040e-11ea-8b9d-f63360f3dd57.png",
       "tag" : "Round",
       "name" : "Setapp 2"
+    },
+    {
+      "category" : "Business",
+      "color" : "white,silver",
+      "created_at" : "2020-11-24 14:52:18",
+      "developer" : "Setapp Limited",
+      "link" : "https:\/\/setapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076363-19497900-2e7c-11eb-8cf4-118c893e00f8.png",
+      "tag" : "Rectangle",
+      "name" : "Setapp 2.6.1"
     },
     {
       "category" : "Business",
@@ -14172,9 +14382,19 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2020-11-24 14:44:06",
+      "developer" : "Olá Brothers LDA",
+      "link" : "https:\/\/sipapp.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076437-29615880-2e7c-11eb-86f2-030314061a05.png",
+      "tag" : "Rectangle",
+      "name" : "Sip 2.5"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue",
       "created_at" : "2018-10-30 11:01:13",
-      "developer" : "André Gonçalves & Rui Aureliano",
+      "developer" : "Olá Brothers LDA",
       "link" : "https:\/\/sipapp.io",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575165-85b6a3cc-73b4-11e8-9ae4-3959357748a3.png",
       "tag" : "Grid",
@@ -14269,6 +14489,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99676641-bdfe3c00-2ab3-11eb-90ba-5f3b08f953be.png",
       "tag" : "Rectangle,Diamond",
       "name" : "Sketch 70"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "orange",
+      "created_at" : "2020-11-24 15:12:37",
+      "developer" : "Polybit Studio",
+      "link" : "https:\/\/sketchtoxcode.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076431-27979500-2e7c-11eb-9be3-120a370497e6.png",
+      "tag" : "Rectangle",
+      "name" : "Sketch Export for Xcode"
     },
     {
       "category" : "Graphics & Design",
@@ -14892,6 +15122,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "orange,white,black",
+      "created_at" : "2020-11-24 15:12:52",
+      "developer" : "Hejki",
+      "link" : "https:\/\/hejki.org\/ssheditor",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076374-1babd300-2e7c-11eb-8ea2-1080f5dfe713.png",
+      "tag" : "Rectangle",
+      "name" : "SSH Config Editor"
+    },
+    {
+      "category" : "Utilities",
       "color" : "red,white",
       "created_at" : "2018-10-30 10:30:56",
       "developer" : "Yann Bizeul",
@@ -14969,6 +15209,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575216-93fcd2b2-73b4-11e8-9d1e-d0c8c69a4257.png",
       "tag" : "Mouse",
       "name" : "SteerMouse"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2020-11-24 15:13:04",
+      "developer" : "Neil Sardesai",
+      "link" : "https:\/\/steptwo.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076412-236b7780-2e7c-11eb-93ca-5992f6ce6fb9.png",
+      "tag" : "Round",
+      "name" : "Step Two"
     },
     {
       "category" : "Finance",
@@ -15409,6 +15659,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486369-0a0b8c80-299f-11eb-8393-0653d32188dc.png",
       "tag" : "Rectangle,Gear",
       "name" : "System Preferences"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "yellow",
+      "created_at" : "2020-11-24 17:01:42",
+      "developer" : "TablePlus",
+      "link" : "https:\/\/tableplus.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076380-1cdd0000-2e7c-11eb-907d-ceabdd4e6ccf.png",
+      "tag" : "Animal,Elephant,Paper,Rectangle",
+      "name" : "TablePlus 3.11.1"
     },
     {
       "category" : "Developer Tools",
@@ -16872,6 +17132,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "black",
+      "created_at" : "2020-11-24 16:58:38",
+      "developer" : "Lars Gerckens",
+      "link" : "https:\/\/www.tyme-app.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076384-1d759680-2e7c-11eb-8e04-a2a34e77748a.png",
+      "tag" : "Rectangle",
+      "name" : "Tyme 2020.25"
+    },
+    {
+      "category" : "Productivity",
       "color" : "yellow,brown",
       "created_at" : "2018-10-30 10:10:12",
       "developer" : "Codebots Ltd.",
@@ -16959,6 +17229,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575319-b686b622-73b4-11e8-9a1e-c5d5e166bb7a.png",
       "tag" : "Butterfly,Pen",
       "name" : "Ulysses"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "purple,white",
+      "created_at" : "2020-11-24 09:43:02",
+      "developer" : "Replay",
+      "link" : "https:\/\/umbra.replay.software",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076356-177fb580-2e7c-11eb-888f-e8eaf2bee70c.png",
+      "tag" : "Rectangle",
+      "name" : "Umbra 1.2.0"
     },
     {
       "category" : "Utilities",
@@ -18361,5 +18641,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-23 09:27:12 GMT+8"
+  "update_time" : "2020-11-24 17:52:24 GMT+8"
 }
