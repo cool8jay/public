@@ -15871,6 +15871,16 @@
       "name" : "Tayasui Sketches"
     },
     {
+      "category" : "Social Networking",
+      "color" : "blue,white",
+      "created_at" : "2020-10-25 16:58:39",
+      "developer" : "Telegram",
+      "link" : "https:\/\/telegram.org",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100253148-b808cf00-2f7b-11eb-95dd-98991e8fed7a.png",
+      "tag" : "Rectangle,Plane",
+      "name" : "Telegram"
+    },
+    {
       "category" : "Productivity",
       "color" : "red,white,black",
       "created_at" : "2019-09-12 03:12:51",
@@ -18711,5 +18721,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-25 10:28:37 GMT+8"
+  "update_time" : "2020-11-26 00:14:55 GMT+8"
 }
