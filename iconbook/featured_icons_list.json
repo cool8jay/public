@@ -7012,6 +7012,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,yellow,blue,white,black",
+      "created_at" : "2020-11-25 09:19:42",
+      "developer" : "Jonas Myren Ribe",
+      "link" : "https:\/\/highlightsapp.net",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100169962-a08c0080-2eff-11eb-9647-6906cb4c2f54.png",
+      "tag" : "Rectangle",
+      "name" : "Highlights 2020.3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,green,blue,white,black",
       "created_at" : "2020-04-16 00:07:20",
       "developer" : "Jonas Myren Ribe",
@@ -12069,6 +12079,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037324-191e8a32-8d3f-11e8-9cce-d89d81be9357.png",
       "tag" : "Lens",
       "name" : "Pictary"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "yellow,purple,white",
+      "created_at" : "2020-11-25 10:26:49",
+      "developer" : "Neil Sardesai",
+      "link" : "https:\/\/pictogramapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100175186-dd102a00-2f08-11eb-97c8-7b42262e58e3.png",
+      "tag" : "Rectangle,Brush",
+      "name" : "Pictogram"
     },
     {
       "category" : "Graphics & Design",
@@ -18691,5 +18711,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-25 09:02:58 GMT+8"
+  "update_time" : "2020-11-25 10:28:37 GMT+8"
 }
