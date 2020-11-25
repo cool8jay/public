@@ -2701,7 +2701,17 @@
       "name" : "Clarity Wallpaper"
     },
     {
-      "category" : "Utilities",
+      "category" : "Education",
+      "color" : "orange,white",
+      "created_at" : "2020-11-25 00:01:30",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100168623-9288b080-2efc-11eb-8773-0f3f31c4be48.png",
+      "tag" : "Rectangle",
+      "name" : "Classroom 2.3"
+    },
+    {
+      "category" : "Education",
       "color" : "orange",
       "created_at" : "2019-11-27 22:22:24",
       "developer" : "Apple",
@@ -11511,6 +11521,16 @@
       "name" : "Panel Editor"
     },
     {
+      "category" : "Utilities",
+      "color" : "red,purple",
+      "created_at" : "2020-11-24 23:57:05",
+      "developer" : "Lars Augustin",
+      "link" : "https:\/\/larztech.com\/projects\/panelicious",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100168627-93b9dd80-2efc-11eb-801e-3d41374a5b16.png",
+      "tag" : "Rectangle,Window",
+      "name" : "Panelicious"
+    },
+    {
       "category" : "Lifestyle",
       "color" : "red",
       "created_at" : "2019-09-11 18:00:12",
@@ -12122,6 +12142,16 @@
     },
     {
       "category" : "Graphics & Design",
+      "color" : "red,orange,yellow,blue,white",
+      "created_at" : "2020-11-25 00:40:27",
+      "developer" : "LittleHJ",
+      "link" : "http:\/\/www.littlehj.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100168610-8d2b6600-2efc-11eb-8fe8-fbb4cf26ac6a.png",
+      "tag" : "Rectangle",
+      "name" : "Pixave 2.3.13"
+    },
+    {
+      "category" : "Graphics & Design",
       "color" : "red,orange,blue,white",
       "created_at" : "2018-10-30 10:12:39",
       "developer" : "LittleHJ",
@@ -12269,6 +12299,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575015-5ee5d45c-73b4-11e8-9b6d-c4612719457b.png",
       "tag" : "Player,Rectangle",
       "name" : "Player for YouTube"
+    },
+    {
+      "category" : "Education",
+      "color" : "red,white",
+      "created_at" : "2020-11-25 00:35:10",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100168620-91578380-2efc-11eb-8257-460515f58d54.png",
+      "tag" : "Rectangle,Swift",
+      "name" : "Playgrounds 3.4"
     },
     {
       "category" : "Developer Tools",
@@ -18651,5 +18691,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-24 18:11:38 GMT+8"
+  "update_time" : "2020-11-25 09:02:58 GMT+8"
 }
