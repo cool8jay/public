@@ -6731,6 +6731,16 @@
       "name" : "GoodTask 3"
     },
     {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2020-12-01 13:41:16",
+      "developer" : "haha interactive",
+      "link" : "http:\/\/goodtaskapp.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100701707-2239cd80-33db-11eb-9572-25d8a05d4b2b.png",
+      "tag" : "Rectangle,Check,Todo",
+      "name" : "GoodTask 6"
+    },
+    {
       "category" : "Social Networking",
       "color" : "blue,white",
       "created_at" : "2019-08-14 12:11:56",
@@ -6769,6 +6779,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104530-970ff280-4b90-11ea-85d4-95685eae4120.png",
       "tag" : "Key,Device,Instrument",
       "name" : "Grand Piano Keys"
+    },
+    {
+      "category" : "Health & Fitness",
+      "color" : "white,orange",
+      "created_at" : "2020-11-27 15:32:27",
+      "developer" : "Angus Woodman",
+      "link" : "https:\/\/haveagrapefruit.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100746339-88dedb80-341b-11eb-82ea-17beea61145e.png",
+      "tag" : "Rectangle,Orange,Fruit",
+      "name" : "Grapefruit"
     },
     {
       "category" : "Utilities",
@@ -7289,6 +7309,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036911-a3736b3a-8d3a-11e8-90d5-2ee77b63ac8d.png",
       "tag" : "Rectangle",
       "name" : "Human Resource Machine"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "white,orange,black",
+      "created_at" : "2020-11-27 15:31:10",
+      "developer" : "Rameerez, LLC",
+      "link" : "https:\/\/gohustl.co",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100746325-84b2be00-341b-11eb-9433-678a339c7c70.png",
+      "tag" : "Eye",
+      "name" : "Hustl"
     },
     {
       "category" : "Photo & Video",
@@ -9902,7 +9932,17 @@
     },
     {
       "category" : "Utilities",
-      "color" : "blue,white,black",
+      "color" : "green,white,black",
+      "created_at" : "2020-12-01 14:12:43",
+      "developer" : "Fabrice Leyne",
+      "link" : "https:\/\/seense.com\/menubarstats",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100745940-f8a09680-341a-11eb-9503-c825700cdba2.png",
+      "tag" : "Rectangle,Meter",
+      "name" : "MenuBar Stats 3"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green,white,black",
       "created_at" : "2019-09-11 18:05:32",
       "developer" : "Fabrice Leyne",
       "link" : "https:\/\/seense.com\/menubarstats",
@@ -11662,6 +11702,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "black,white,brown,silver",
+      "created_at" : "2020-12-01 21:20:29",
+      "developer" : "Tapbots, LLC",
+      "link" : "https:\/\/tapbots.com\/pastebot",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100746049-2685db00-341b-11eb-94b4-47b4399a92af.png",
+      "tag" : "Clipboard,Rectangle",
+      "name" : "Pastebot 2.4"
+    },
+    {
+      "category" : "Productivity",
       "color" : "white,brown,black",
       "created_at" : "2019-09-11 18:00:07",
       "developer" : "Tapbots, LLC",
@@ -12849,6 +12899,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575036-662c08d0-73b4-11e8-8b74-2913964395ad.png",
       "tag" : "Mine",
       "name" : "ProximityMines"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2020-11-27 15:45:54",
+      "developer" : "Proxyman Inc",
+      "link" : "https:\/\/proxyman.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100746353-8d0af900-341b-11eb-9c65-48f38bde7676.png",
+      "tag" : "Rectangle,Helmet",
+      "name" : "Proxyman 2.13.0"
     },
     {
       "category" : "Developer Tools",
@@ -18331,6 +18391,16 @@
       "name" : "WordService"
     },
     {
+      "category" : "Productivity",
+      "color" : "purple,white",
+      "created_at" : "2020-11-27 15:33:33",
+      "developer" : "Apptorium",
+      "link" : "https:\/\/www.apptorium.com\/workspaces",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100746347-8b413580-341b-11eb-8399-7b6348b47955.png",
+      "tag" : "Rectangle",
+      "name" : "Workspaces"
+    },
+    {
       "category" : "Utilities",
       "color" : "green",
       "created_at" : "2019-09-11 16:42:27",
@@ -18751,5 +18821,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-11-27 13:42:30 GMT+8"
+  "update_time" : "2020-12-01 21:25:44 GMT+8"
 }
