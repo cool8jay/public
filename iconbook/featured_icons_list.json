@@ -1581,6 +1581,16 @@
       "name" : "Bluetooth Lock"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "purple,white",
+      "created_at" : "2020-12-08 12:46:21",
+      "developer" : "Shao-Chi Liang",
+      "link" : "https:\/\/andyliang.me",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/101441670-9da7fb80-3954-11eb-8eab-5fb92018cccb.png",
+      "tag" : "Rectangle",
+      "name" : "Blurry"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,silver,brown,black",
       "created_at" : "2019-10-22 22:50:47",
@@ -6329,6 +6339,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574669-ff23713c-73b3-11e8-907a-4c6ddde0e9c5.png",
       "tag" : "Food",
       "name" : "Fresh"
+    },
+    {
+      "category" : "Education",
+      "color" : "yellow,green,white,black",
+      "created_at" : "2020-12-08 12:43:38",
+      "developer" : "Fretello GmbH",
+      "link" : "https:\/\/fretello.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/101441660-98e34780-3954-11eb-924b-04b6399aebe7.png",
+      "tag" : "Symbol,Rectangle",
+      "name" : "Fretello - Christmas"
     },
     {
       "category" : "Education",
@@ -18881,5 +18901,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-08 12:30:15 GMT+8"
+  "update_time" : "2020-12-08 13:11:27 GMT+8"
 }
