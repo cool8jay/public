@@ -2971,6 +2971,16 @@
       "name" : "Club Lighting"
     },
     {
+      "category" : "Health & Fitness",
+      "color" : "blue,white",
+      "created_at" : "2020-12-10 14:15:44",
+      "developer" : "Viktor Maric",
+      "link" : "http:\/\/viktormaric.com\/coachy",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/101804427-8895bd00-3b4c-11eb-82d5-c5eedcf2d659.png",
+      "tag" : "Rectangle",
+      "name" : "Coachy"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,silver",
       "created_at" : "2018-10-30 10:10:39",
@@ -11143,6 +11153,16 @@
     {
       "category" : "Productivity",
       "color" : "orange",
+      "created_at" : "2020-12-10 14:18:34",
+      "developer" : "NotePlan",
+      "link" : "https:\/\/noteplan.co",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/101804447-8f243480-3b4c-11eb-9b2d-59faee6f5e92.png",
+      "tag" : "Rectangle",
+      "name" : "NotePlan 3"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange",
       "created_at" : "2018-10-30 10:59:59",
       "developer" : "NotePlan",
       "link" : "https:\/\/noteplan.co",
@@ -18911,5 +18931,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-08 14:10:12 GMT+8"
+  "update_time" : "2020-12-11 01:03:32 GMT+8"
 }
