@@ -2787,7 +2787,7 @@
       "developer" : "MacPaw Inc.",
       "link" : "https:\/\/macpaw.com\/cleanmymac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574462-d16e86d2-73b3-11e8-9cab-1c03c80d827b.png",
-      "tag" : "Monitor",
+      "tag" : "Monitor,Computer",
       "name" : "CleanMyMac 3"
     },
     {
@@ -2797,7 +2797,7 @@
       "developer" : "MacPaw Inc.",
       "link" : "https:\/\/macpaw.com\/cleanmymac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/97572947-fdd98280-1a23-11eb-818a-0b83f8339288.png",
-      "tag" : "Monitor",
+      "tag" : "Monitor,Computer",
       "name" : "CleanMyMac X 4.6.13"
     },
     {
@@ -2817,7 +2817,7 @@
       "developer" : "MacPaw Inc.",
       "link" : "https:\/\/macpaw.com\/cleanmymac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574463-d1aa1c56-73b3-11e8-9c38-3d1a398ab3f3.png",
-      "tag" : "Monitor",
+      "tag" : "Monitor,Computer",
       "name" : "CleanMyMac X"
     },
     {
@@ -2827,7 +2827,7 @@
       "developer" : "MacPaw Inc.",
       "link" : "https:\/\/macpaw.com\/cleanmymac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/67301905-a35d3a80-f522-11e9-9861-617504180d1a.png",
-      "tag" : "Monitor",
+      "tag" : "Monitor,Computer",
       "name" : "CleanMyMac"
     },
     {
@@ -7382,6 +7382,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "orange,black",
+      "created_at" : "2020-12-14 09:18:46",
+      "developer" : "Creaceed S.P.R.L.",
+      "link" : "https:\/\/creaceed.com\/hydra",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/102106267-51d0e700-3e6b-11eb-9370-fa5df4668987.png",
+      "tag" : "Rectangle",
+      "name" : "Hydra 4.4"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "orange,white,black",
       "created_at" : "2018-10-30 10:17:41",
       "developer" : "Creaceed S.P.R.L.",
@@ -9622,12 +9632,22 @@
     },
     {
       "category" : "Reference",
+      "color" : "blue,silver",
+      "created_at" : "2020-12-11 11:49:53",
+      "developer" : "Ian Page",
+      "link" : "http:\/\/mactracker.ca",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/102106282-55646e00-3e6b-11eb-88e5-d0d68ba16eac.png",
+      "tag" : "Rectangle,Computer",
+      "name" : "Mactracker 7.10"
+    },
+    {
+      "category" : "Reference",
       "color" : "blue,white",
       "created_at" : "2019-09-11 15:29:28",
       "developer" : "Ian Page",
       "link" : "http:\/\/mactracker.ca",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574857-2faf2580-73b4-11e8-99e4-2bd2cae69923.png",
-      "tag" : "Monitor",
+      "tag" : "Computer",
       "name" : "Mactracker"
     },
     {
@@ -12891,6 +12911,16 @@
       "name" : "Prizmo 3"
     },
     {
+      "category" : "Business",
+      "color" : "blue,white,black",
+      "created_at" : "2020-12-14 09:20:54",
+      "developer" : "Creaceed S.P.R.L.",
+      "link" : "https:\/\/creaceed.com\/prizmo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/102106260-50072380-3e6b-11eb-87dc-659ad1bbc487.png",
+      "tag" : "Rectangle",
+      "name" : "Prizmo 4.1"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,green,blue,brown",
       "created_at" : "2019-09-11 17:46:30",
@@ -13767,7 +13797,7 @@
       "developer" : "Everyday Tools, LLC",
       "link" : "http:\/\/everydaytools.mobi",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914256-dd3d4f00-fd38-11ea-8d4b-88f9fafefa3b.png",
-      "tag" : "Monitor",
+      "tag" : "Monitor,Computer",
       "name" : "Resolution Changer"
     },
     {
@@ -18931,5 +18961,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-11 01:03:32 GMT+8"
+  "update_time" : "2020-12-15 00:21:32 GMT+8"
 }
