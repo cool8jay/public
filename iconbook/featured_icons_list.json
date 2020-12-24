@@ -2632,6 +2632,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2020-12-24 10:13:32",
+      "developer" : "Econ Technologies, Inc",
+      "link" : "https:\/\/www.econtechnologies.com\/chronosync-express\/notes.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051300-806c6180-45d1-11eb-926c-6d511a0e6404.png",
+      "tag" : "Clock",
+      "name" : "ChronoSync Express"
+    },
+    {
+      "category" : "Utilities",
       "color" : "purple,silver,brown,black",
       "created_at" : "2019-11-01 20:00:30",
       "developer" : "Irradiated Software",
@@ -4671,7 +4681,7 @@
       "name" : "doubleTwist"
     },
     {
-      "category" : "Utilities",
+      "category" : "Photo & Video",
       "color" : "white,black",
       "created_at" : "2018-10-30 10:29:16",
       "developer" : "Charlie Monroe Software",
@@ -4681,7 +4691,7 @@
       "name" : "Downie 2"
     },
     {
-      "category" : "Utilities",
+      "category" : "Photo & Video",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:24:14",
       "developer" : "Charlie Monroe Software",
@@ -4691,7 +4701,7 @@
       "name" : "Downie 3"
     },
     {
-      "category" : "Utilities",
+      "category" : "Photo & Video",
       "color" : "purple,black",
       "created_at" : "2020-02-21 23:10:24",
       "developer" : "Charlie Monroe Software",
@@ -4699,6 +4709,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/75469331-c82e5680-59c9-11ea-850c-1c80aa7a7759.png",
       "tag" : "Arrow",
       "name" : "Downie 4"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "purple,black",
+      "created_at" : "2020-12-24 09:45:45",
+      "developer" : "Charlie Monroe Software",
+      "link" : "http:\/\/software.charliemonroe.net\/downie",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051389-a265e400-45d1-11eb-8f85-4a4549fa54ba.png",
+      "tag" : "Rectangle,Arrow",
+      "name" : "Downie 4.1"
     },
     {
       "category" : "Utilities",
@@ -4922,13 +4942,23 @@
     },
     {
       "category" : "Productivity",
-      "color" : "blue,purple,white",
-      "created_at" : "2020-12-04 21:50:01",
+      "color" : "blue,purple,black",
+      "created_at" : "2020-12-24 10:11:53",
       "developer" : "Aptonic Limited",
       "link" : "https:\/\/aptonic.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/101172482-33553980-367c-11eb-8fb7-ade0a3d8b63a.png",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051313-85311580-45d1-11eb-8a08-7b0d19455110.png",
       "tag" : "Rectangle,Ring",
       "name" : "Dropzone 4.1.4"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "white,black",
+      "created_at" : "2020-12-24 09:53:07",
+      "developer" : "Due Pte. Ltd.",
+      "link" : "http:\/\/www.dueapp.com\/mac.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051383-a134b700-45d1-11eb-80d0-f18eef37a7bf.png",
+      "tag" : "Rectangle,Check,Todo",
+      "name" : "Due 20"
     },
     {
       "category" : "Productivity",
@@ -5299,6 +5329,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036881-93e5db30-8d3a-11e8-8136-a15b14a4f4c1.png",
       "tag" : "Folder,Mail,Photo",
       "name" : "Essentials"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "black,white,brown,blue",
+      "created_at" : "2020-12-24 10:02:41",
+      "developer" : "Arthur Guiot",
+      "link" : "https:\/\/euclid.pr1mer.tech",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051334-8eba7d80-45d1-11eb-928d-b949603635b6.png",
+      "tag" : "Rectangle",
+      "name" : "Euclid 1.1.3"
     },
     {
       "category" : "Utilities",
@@ -10681,6 +10721,16 @@
       "name" : "Moom"
     },
     {
+      "category" : "Finance",
+      "color" : "red,yellow,green,blue",
+      "created_at" : "2020-12-24 10:05:03",
+      "developer" : "Karim Hossenbux",
+      "link" : "https:\/\/moonitor.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051323-882c0600-45d1-11eb-947d-8a64f9a6cae4.png",
+      "tag" : "Rocket,Moon",
+      "name" : "Moonitor"
+    },
+    {
       "category" : "Games",
       "color" : "green,white,brown",
       "created_at" : "2019-02-13 18:03:09",
@@ -14423,12 +14473,22 @@
     {
       "category" : "Productivity",
       "color" : "red,white",
+      "created_at" : "2020-12-24 09:56:00",
+      "developer" : "Philip Young",
+      "link" : "https:\/\/www.stayinsession.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051381-a0038a00-45d1-11eb-8ba0-df8621b5774d.png",
+      "tag" : "Rectangle,Clock",
+      "name" : "Session 1.7.0"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,white",
       "created_at" : "2020-11-24 15:12:22",
-      "developer" : "Philip Young Gunawan",
+      "developer" : "Philip Young",
       "link" : "https:\/\/www.stayinsession.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076370-1b133c80-2e7c-11eb-8930-15d4418f4187.png",
       "tag" : "Round,Clock",
-      "name" : "Session - Focus Timer"
+      "name" : "Session"
     },
     {
       "category" : "Business",
@@ -14612,7 +14672,17 @@
     },
     {
       "category" : "Productivity",
-      "color" : "green,black",
+      "color" : "green,blue",
+      "created_at" : "2020-12-24 09:57:37",
+      "developer" : "Apptorium",
+      "link" : "https:\/\/www.apptorium.com\/sidenotes",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051369-9b3ed600-45d1-11eb-822b-49bb1820ed1e.png",
+      "tag" : "Rectangle",
+      "name" : "SideNotes 1.2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "green,blue",
       "created_at" : "2019-09-11 11:35:24",
       "developer" : "Apptorium",
       "link" : "https:\/\/www.apptorium.com\/sidenotes",
@@ -15833,9 +15903,19 @@
     {
       "category" : "Productivity",
       "color" : "blue,white",
+      "created_at" : "2020-12-24 09:58:32",
+      "developer" : "Christian Renninger",
+      "link" : "https:\/\/highlyopinionated.co\/swish",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051365-9843e580-45d1-11eb-8682-7bb96eb43b85.png",
+      "tag" : "Rectangle,Window",
+      "name" : "Swish 1.1"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white",
       "created_at" : "2020-06-05 23:16:37",
       "developer" : "Christian Renninger",
-      "link" : "https:\/\/highlyopinionated.co\/swish\/",
+      "link" : "https:\/\/highlyopinionated.co\/swish",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84156536-33dd9080-aa9c-11ea-9093-2005fba50b0f.png",
       "tag" : "Window",
       "name" : "Swish"
@@ -16562,6 +16642,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2020-12-24 10:00:18",
+      "developer" : "Catforce Studio",
+      "link" : "https:\/\/timemator.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051351-94b05e80-45d1-11eb-93ba-49a14ba58231.png",
+      "tag" : "Rectangle",
+      "name" : "Timemator 2.7.3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "green",
       "created_at" : "2020-11-20 09:57:55",
       "developer" : "Catforce Studio",
@@ -16939,6 +17029,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798971-03ac1500-ef42-11e9-8e83-40a07e1a8a5b.png",
       "tag" : "Pencil",
       "name" : "TouchRetouch 2"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "red,green,white,black",
+      "created_at" : "2020-12-24 10:01:57",
+      "developer" : "ADVA Soft",
+      "link" : "https:\/\/adva-soft.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103051341-8febaa80-45d1-11eb-9e4d-ff3c8db685a7.png",
+      "tag" : "Pencil,Rectangle",
+      "name" : "TouchRetouch 2.3.4"
     },
     {
       "category" : "Photo & Video",
@@ -18991,5 +19091,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-22 20:52:56 GMT+8"
+  "update_time" : "2020-12-24 10:23:52 GMT+8"
 }
