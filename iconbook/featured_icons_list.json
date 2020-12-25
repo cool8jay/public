@@ -7733,6 +7733,16 @@
     {
       "category" : "Photo & Video",
       "color" : "blue,black",
+      "created_at" : "2020-12-24 10:42:15",
+      "developer" : "iFlicks",
+      "link" : "https:\/\/iflicks.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103118996-5e93dd00-46ac-11eb-87ea-87630d86403a.png",
+      "tag" : "Monitor",
+      "name" : "iFlicks"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "blue,black",
       "created_at" : "2020-11-10 16:57:06",
       "developer" : "IINA",
       "link" : "https:\/\/iina.io\/",
@@ -10762,6 +10772,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "yellow,blue,purple,white,black",
+      "created_at" : "2020-12-25 12:28:05",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/final-cut-pro\/motion",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103119100-d2ce8080-46ac-11eb-87aa-79cc957ced97.png",
+      "tag" : "Rectangle",
+      "name" : "Motion 5.5"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "red,orange,green,blue,silver",
       "created_at" : "2019-09-11 15:40:44",
       "developer" : "Apple",
@@ -11669,6 +11689,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798939-fc850700-ef41-11e9-8726-ca0af02039d3.png",
       "tag" : "Window",
       "name" : "Overflow 3"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,white,black",
+      "created_at" : "2020-12-25 12:05:18",
+      "developer" : "Tommi Urtti",
+      "link" : "https:\/\/owlocr.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103118962-34dab600-46ac-11eb-81e5-e173cfa2337d.png",
+      "tag" : "Rectangle,Bird,Animal",
+      "name" : "OwlOCR"
     },
     {
       "category" : "Utilities",
@@ -15159,6 +15189,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575188-8c2e8062-73b4-11e8-9db6-37d2816bbfa5.png",
       "tag" : "Brand,Rectangle,Text",
       "name" : "Sonos"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,white,silver",
+      "created_at" : "2020-12-25 12:10:33",
+      "developer" : "StaySorted Limited",
+      "link" : "https:\/\/sortedapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103118960-31dfc580-46ac-11eb-983d-20875d30e826.png",
+      "tag" : "Rectangle,Check,Todo,Sun",
+      "name" : "Sorted³"
     },
     {
       "category" : "Productivity",
@@ -19101,5 +19141,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-24 10:34:16 GMT+8"
+  "update_time" : "2020-12-25 12:36:04 GMT+8"
 }
