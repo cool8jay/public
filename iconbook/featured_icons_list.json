@@ -9322,6 +9322,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "blue,purple",
+      "created_at" : "2020-12-27 22:21:34",
+      "developer" : "Skylum",
+      "link" : "https:\/\/skylum.com\/luminar-ai-b",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103336753-0f86e700-4ab4-11eb-8064-d4c4c3cff01e.png",
+      "tag" : "Rectangle",
+      "name" : "Luminar AI"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "blue,black",
       "created_at" : "2020-05-11 00:08:54",
       "developer" : "Skylum",
@@ -10362,6 +10372,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "blue,white",
+      "created_at" : "2020-12-27 21:55:50",
+      "developer" : "Anomes SARL",
+      "link" : "http:\/\/www.millumin.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103336764-16155e80-4ab4-11eb-9e7b-488cb34483e4.png",
+      "tag" : "Abstract",
+      "name" : "Millumin 3"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "red,yellow,green",
       "created_at" : "2019-09-11 18:04:30",
       "developer" : "Boinx Software",
@@ -11019,6 +11039,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574923-420ac0a4-73b4-11e8-84bf-2bfc7721f237.png",
       "tag" : "Rectangle,Symbol",
       "name" : "NeteaseMusic"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue",
+      "created_at" : "2020-12-27 22:08:05",
+      "developer" : "Andrey Tsarkov",
+      "link" : "https:\/\/www.imagetasks.com\/netler",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103336760-14e43180-4ab4-11eb-856a-5c34b0096d65.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Netler"
     },
     {
       "category" : "News",
@@ -13999,6 +14029,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575094-748981aa-73b4-11e8-89d6-35244797e6b3.png",
       "tag" : "Arrow,Round",
       "name" : "Rewind"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "green,black",
+      "created_at" : "2020-12-30 15:27:29",
+      "developer" : "3bitlab",
+      "link" : "https:\/\/3bitlab.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103336615-b5862180-4ab3-11eb-8b87-95886b44980c.png",
+      "tag" : "Rectangle",
+      "name" : "RH Timer 2.4.2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,black",
+      "created_at" : "2020-12-30 15:21:01",
+      "developer" : "3bitlab",
+      "link" : "https:\/\/3bitlab.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103336624-b9b23f00-4ab3-11eb-9af7-8c1c45620e88.png",
+      "tag" : "Rectangle",
+      "name" : "RH Timer"
     },
     {
       "category" : "Games",
@@ -19141,5 +19191,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-25 12:36:04 GMT+8"
+  "update_time" : "2020-12-30 15:33:13 GMT+8"
 }
