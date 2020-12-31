@@ -151,6 +151,26 @@
       "name" : "A-Zippr"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,silver,black",
+      "created_at" : "2020-12-18 15:01:51",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400146-0151cd00-4b7f-11eb-98b8-0f87ed82034f.png",
+      "tag" : "Rectangle,Chip",
+      "name" : "About This Mac Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver,black",
+      "created_at" : "2020-12-18 15:04:36",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400097-da939680-4b7e-11eb-824b-6173b1800ef4.png",
+      "tag" : "Chip",
+      "name" : "About This Mac"
+    },
+    {
       "category" : "Reference",
       "color" : "yellow,brown",
       "created_at" : "2014-11-04 04:13:09",
@@ -879,6 +899,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79047295-555eff00-7c48-11ea-9034-98fd2764aa88.png",
       "tag" : "Rectangle,Arrow",
       "name" : "Araxis Merge"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green",
+      "created_at" : "2020-12-18 14:57:23",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400127-f303b100-4b7e-11eb-9313-5049461c36d0.png",
+      "tag" : "Rectangle,Zip",
+      "name" : "Archive Utility Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green,silver",
+      "created_at" : "2020-12-18 15:04:36",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400100-de271d80-4b7e-11eb-8cca-80d23dc1cc1d.png",
+      "tag" : "Rectangle,Zip",
+      "name" : "Archive Utility"
     },
     {
       "category" : "Utilities",
@@ -4371,6 +4411,26 @@
       "name" : "Direct Mail"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,silver",
+      "created_at" : "2020-12-18 15:02:20",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400148-0282fa00-4b7f-11eb-8327-02aead6ec654.png",
+      "tag" : "Map,Compass,Rectangle",
+      "name" : "Directory Utility Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2020-12-18 15:04:37",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400102-df584a80-4b7e-11eb-8981-d0d7231fe48a.png",
+      "tag" : "Compass,Map",
+      "name" : "Directory Utility"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "red,silver,brown,black",
       "created_at" : "2018-10-30 10:59:15",
@@ -5002,6 +5062,26 @@
     },
     {
       "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2020-12-18 14:54:45",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400117-e97a4900-4b7e-11eb-83a2-b54d5f04ab44.png",
+      "tag" : "Rectangle,Disk",
+      "name" : "DVD Player Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2020-12-18 15:04:37",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400103-e0897780-4b7e-11eb-8aa3-0bee519d6a1a.png",
+      "tag" : "Disk",
+      "name" : "DVD Player"
+    },
+    {
+      "category" : "Utilities",
       "color" : "purple,silver,black",
       "created_at" : "2018-10-30 10:56:41",
       "developer" : "Pilotmoon Software",
@@ -5471,6 +5551,16 @@
       "name" : "ExpanDrive 2"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,silver,black",
+      "created_at" : "2020-12-18 15:02:52",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400149-03b42700-4b7f-11eb-8a60-b5d1fccab3b0.png",
+      "tag" : "Tool",
+      "name" : "Expansion Slot Utility Big Sur"
+    },
+    {
       "category" : "Finance",
       "color" : "orange,brown",
       "created_at" : "2019-11-11 22:36:16",
@@ -5629,6 +5719,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/67272391-07fea200-f4ef-11e9-841a-a860946fed93.png",
       "tag" : "Book",
       "name" : "FBReader"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "purple,white",
+      "created_at" : "2020-12-18 14:58:43",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400132-f72fce80-4b7e-11eb-8a0f-02dbb038caff.png",
+      "tag" : "Rectangle",
+      "name" : "Feedback Assistant Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "purple,white",
+      "created_at" : "2020-12-18 15:04:37",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400104-e0897780-4b7e-11eb-8fb5-88a8586cdf7f.png",
+      "tag" : "Round",
+      "name" : "Feedback Assistant"
     },
     {
       "category" : "News",
@@ -6109,6 +6219,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74034954-48c5ec80-49f4-11ea-9a0c-e02081a2efd2.png",
       "tag" : "Pen",
       "name" : "Focusplan"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,silver",
+      "created_at" : "2020-12-18 14:59:02",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400137-fc8d1900-4b7e-11eb-9736-7dfdc19ad00e.png",
+      "tag" : "Folder,Rectangle",
+      "name" : "Folder Actions Setup Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,silver",
+      "created_at" : "2020-12-18 15:04:37",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400105-e1220e00-4b7e-11eb-9898-04d93947452f.png",
+      "tag" : "Folder",
+      "name" : "Folder Actions Setup"
     },
     {
       "category" : "Utilities",
@@ -8149,6 +8279,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83898733-e30f2480-a789-11ea-9785-fa14ded83ebb.png",
       "tag" : "Round,Paper",
       "name" : "Invoice"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,silver",
+      "created_at" : "2020-12-18 15:03:08",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400151-04e55400-4b7f-11eb-99bb-dc72a7687138.png",
+      "tag" : "Disk,Rectangle",
+      "name" : "iOS App Installer"
     },
     {
       "category" : "Utilities",
@@ -11129,6 +11269,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574928-435f1eaa-73b4-11e8-91ec-37665283bda8.png",
       "tag" : "Earth",
       "name" : "Network Radar"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "yellow,brown,black",
+      "created_at" : "2020-12-18 15:04:38",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400139-fdbe4600-4b7e-11eb-927f-dee620d400af.png",
+      "tag" : "Monitor",
+      "name" : "Network Utility"
     },
     {
       "category" : "Utilities",
@@ -14281,6 +14431,26 @@
       "name" : "Screen Recorder for Mac"
     },
     {
+      "category" : "Utilities",
+      "color" : "green,blue,black",
+      "created_at" : "2020-12-18 14:49:58",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400115-e717ef00-4b7e-11eb-90a1-c5ea268c7fca.png",
+      "tag" : "Rectangle",
+      "name" : "Screen Sharing Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green,blue,black",
+      "created_at" : "2020-12-18 15:04:38",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400108-e2533b00-4b7e-11eb-8377-e6f2a4efb2d9.png",
+      "tag" : "Monitor",
+      "name" : "Screen Sharing"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2018-10-30 10:39:38",
@@ -16631,6 +16801,26 @@
       "name" : "Ticket to Ride"
     },
     {
+      "category" : "Utilities",
+      "color" : "orange,blue,white",
+      "created_at" : "2020-12-18 15:00:50",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400144-00b93680-4b7f-11eb-815d-00f6db5ba12a.png",
+      "tag" : "Tag,Rectangle",
+      "name" : "Ticket Viewer Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,silver",
+      "created_at" : "2020-12-18 15:04:38",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400110-e3846800-4b7e-11eb-8ad0-d924cf041016.png",
+      "tag" : "Tag",
+      "name" : "Ticket Viewer"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "yellow,black",
       "created_at" : "2018-10-30 11:01:23",
@@ -18732,6 +18922,26 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white,black",
+      "created_at" : "2020-12-18 14:58:26",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400129-f5660b00-4b7e-11eb-997d-d5ccc47e1e35.png",
+      "tag" : "Rectangle,Tool",
+      "name" : "Wireless Diagnostics Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white,silver,black",
+      "created_at" : "2020-12-18 15:04:38",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400111-e4b59500-4b7e-11eb-91fe-15cb86b19dc4.png",
+      "tag" : "Tool",
+      "name" : "Wireless Diagnostics"
+    },
+    {
+      "category" : "Utilities",
       "color" : "red,orange,green,blue",
       "created_at" : "2020-12-04 22:16:14",
       "developer" : "Wise Tech Labs Private Limited.",
@@ -19191,5 +19401,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-30 15:33:13 GMT+8"
+  "update_time" : "2020-12-31 15:48:03 GMT+8"
 }
