@@ -11502,6 +11502,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,blue,white,black",
+      "created_at" : "2021-01-04 13:39:29",
+      "developer" : "Yi Lun Zhao",
+      "link" : "http:\/\/noto.ink",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103505519-6108ea80-4e95-11eb-93e2-ffc6d882ac32.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Noto - Elegant Note"
+    },
+    {
+      "category" : "Productivity",
       "color" : "white,silver",
       "created_at" : "2020-07-23 21:05:44",
       "developer" : "Bruno Philipe Resende Silva",
@@ -14929,6 +14939,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575154-83e0a052-73b4-11e8-9580-0c64326d01a4.png",
       "tag" : "Rectangle,Tilt",
       "name" : "Shortcuts"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,purple,white,black",
+      "created_at" : "2021-01-04 13:43:09",
+      "developer" : "Image Studio Production",
+      "link" : "https:\/\/imagestudiopro.com\/shottyblur",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103505516-5f3f2700-4e95-11eb-86b8-20bdc0bf74ff.png",
+      "tag" : "Rectangle,Window,Camera",
+      "name" : "ShottyBlur"
     },
     {
       "category" : "Productivity",
@@ -19122,6 +19142,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2021-01-04 13:45:04",
+      "developer" : "SweetP Productions, Inc",
+      "link" : "https:\/\/xliffedit.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103505513-5c443680-4e95-11eb-8b24-146035811bf5.png",
+      "tag" : "Rectangle",
+      "name" : "Xliff Editor"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "orange",
       "created_at" : "2019-11-11 22:36:43",
       "developer" : "Gmagon, Inc",
@@ -19401,5 +19431,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2020-12-31 15:48:03 GMT+8"
+  "update_time" : "2021-01-04 14:03:25 GMT+8"
 }
