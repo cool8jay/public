@@ -3241,6 +3241,16 @@
       "name" : "ColorSync Utility"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "orange,yellow,green,blue,purple",
+      "created_at" : "2021-01-04 13:42:20",
+      "developer" : "SweetP Productions, Inc",
+      "link" : "https:\/\/colorwell.sweetpproductions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103505785-0b810d80-4e96-11eb-8135-51f75d87b717.png",
+      "tag" : "Rectangle",
+      "name" : "ColorWell"
+    },
+    {
       "category" : "Entertainment",
       "color" : "red,blue,white,black",
       "created_at" : "2018-10-30 10:21:07",
@@ -19431,5 +19441,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-01-04 14:03:25 GMT+8"
+  "update_time" : "2021-01-04 14:07:32 GMT+8"
 }
