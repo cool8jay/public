@@ -7272,9 +7272,19 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "blue",
+      "color" : "blue,white,black",
+      "created_at" : "2021-01-16 14:55:14",
+      "developer" : "Eilert Janßen",
+      "link" : "https:\/\/hejstylus.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/104806037-6bb96d00-580f-11eb-9232-7b87ac05229a.png",
+      "tag" : "Pen",
+      "name" : "Hej Stylus! V3 3.7.0"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:23:21",
-      "developer" : "EILERT JANSSEN ILLUSTRATION",
+      "developer" : "Eilert Janßen",
       "link" : "https:\/\/hejstylus.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036747-a50665e8-8d39-11e8-9abc-aefa5197a696.png",
       "tag" : "Pen",
@@ -9583,8 +9593,18 @@
     {
       "category" : "Music",
       "color" : "green,purple",
+      "created_at" : "2021-01-16 15:01:13",
+      "developer" : "Xander Deng",
+      "link" : "https:\/\/github.com\/ddddxxx\/LyricsX",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/104806042-73791180-580f-11eb-8fdd-38cd198c88b1.png",
+      "tag" : "Rectangle,Note",
+      "name" : "LyricsX 1.6.0"
+    },
+    {
+      "category" : "Music",
+      "color" : "green,purple",
       "created_at" : "2019-09-11 18:07:08",
-      "developer" : "Xiang Deng",
+      "developer" : "Xander Deng",
       "link" : "https:\/\/github.com\/ddddxxx\/LyricsX",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574843-2b932a8c-73b4-11e8-86a2-c683dc061321.png",
       "tag" : "Book,Note,Rectangle,Tilt",
@@ -19471,5 +19491,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-01-08 22:57:12 GMT+8"
+  "update_time" : "2021-01-16 15:29:21 GMT+8"
 }
