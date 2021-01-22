@@ -7477,7 +7477,7 @@
       "developer" : "Ryan Hanson",
       "link" : "https:\/\/hookshot.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/102890360-45661300-4497-11eb-8a05-1588569bb737.png",
-      "tag" : "Rectangle,Arrow",
+      "tag" : "Rectangle,Arrow,Chain",
       "name" : "Hookshot 1.13"
     },
     {
@@ -15672,6 +15672,16 @@
     },
     {
       "category" : "Music",
+      "color" : "blue,white,silver,black",
+      "created_at" : "2021-01-22 16:44:55",
+      "developer" : "Alexander Käßner",
+      "link" : "https:\/\/www.pxlwaves.com\/apps",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/105478081-ab83c700-5cdd-11eb-97d7-0623546d39d9.png",
+      "tag" : "Key,Wave",
+      "name" : "SpeakLine 4.2"
+    },
+    {
+      "category" : "Music",
       "color" : "blue,white,black",
       "created_at" : "2018-10-30 11:07:43",
       "developer" : "Alexander Käßner",
@@ -19491,5 +19501,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-01-16 15:29:21 GMT+8"
+  "update_time" : "2021-01-22 18:16:55 GMT+8"
 }
