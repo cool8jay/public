@@ -6881,6 +6881,16 @@
       "name" : "Gifox"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "red,yellow,purple,black",
+      "created_at" : "2021-01-27 11:56:45",
+      "developer" : "Sindre Sorhus",
+      "link" : "https:\/\/sindresorhus.com\/gifski",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/105940904-3b878f00-6097-11eb-8023-73b3009ba1b6.png",
+      "tag" : "Rectangle,Pixel",
+      "name" : "Gifski"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "green,white,black",
       "created_at" : "2020-09-21 01:19:46",
@@ -18602,12 +18612,22 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "orange,silver",
+      "created_at" : "2021-01-26 14:55:17",
+      "developer" : "VideoLAN",
+      "link" : "https:\/\/www.videolan.org\/vlc\/download-macosx.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/105941548-9c639700-6098-11eb-9286-8f0696ad39e2.png",
+      "tag" : "Player,Cone",
+      "name" : "VLC 3"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "orange,white",
       "created_at" : "2018-10-30 10:31:48",
-      "developer" : "VideoLAN non-profit organization",
+      "developer" : "VideoLAN",
       "link" : "https:\/\/www.videolan.org\/vlc\/download-macosx.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575348-bfe384c0-73b4-11e8-821f-3c2bc317cc08.png",
-      "tag" : "Player",
+      "tag" : "Player,Cone",
       "name" : "VLC"
     },
     {
@@ -19611,5 +19631,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-01-25 20:12:52 GMT+8"
+  "update_time" : "2021-01-27 12:11:05 GMT+8"
 }
