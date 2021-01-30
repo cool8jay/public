@@ -9071,6 +9071,16 @@
       "name" : "Labels & Addresses"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "red,yellow,green,blue,purple,white",
+      "created_at" : "2021-01-30 17:39:52",
+      "developer" : "Video Village LLC",
+      "link" : "https:\/\/videovillage.co\/lattice",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/106353086-fb3c4100-6322-11eb-83ff-2a1e1a190c7a.png",
+      "tag" : "Rectangle,Ball",
+      "name" : "Lattice"
+    },
+    {
       "category" : "Productivity",
       "color" : "orange,white",
       "created_at" : "2019-09-11 18:08:49",
@@ -9727,8 +9737,18 @@
       "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/macfamilytree",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798916-f858e980-ef41-11e9-8337-74f343c1c6b7.png",
-      "tag" : "Book,Rectangle,Tilt",
+      "tag" : "Book,Rectangle,Tilt,Tree,Shield",
       "name" : "MacFamilyTree 9"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,white",
+      "created_at" : "2021-01-30 17:40:11",
+      "developer" : "Synium Software",
+      "link" : "http:\/\/www.syniumsoftware.com\/macfamilytree",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/106353091-ff685e80-6322-11eb-9568-5192c7849208.png",
+      "tag" : "Rectangle,Tree,Shield",
+      "name" : "MacFamilyTree 9.2"
     },
     {
       "category" : "Productivity",
@@ -9737,7 +9757,7 @@
       "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/macfamilytree",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574847-2cbe9568-73b4-11e8-998d-0216810079e8.png",
-      "tag" : "Book,Rectangle,Tilt",
+      "tag" : "Book,Rectangle,Tilt,Tree",
       "name" : "MacFamilyTree"
     },
     {
@@ -19691,5 +19711,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-01-28 00:31:49 GMT+8"
+  "update_time" : "2021-01-30 17:46:40 GMT+8"
 }
