@@ -362,7 +362,7 @@
     },
     {
       "category" : "Photo & Video",
-      "color" : "black,white,brown,blue",
+      "color" : "purple",
       "created_at" : "2020-08-05 22:40:35",
       "developer" : "Serif",
       "link" : "https:\/\/affinity.serif.com\/photo",
@@ -3242,6 +3242,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,yellow,green,purple,white,black",
+      "created_at" : "2021-01-31 22:18:05",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/106388589-2bb2d680-641a-11eb-91ed-ce537cac6f77.png",
+      "tag" : "Rectangle,Tool",
+      "name" : "ColorSync Utility Big Sur"
+    },
+    {
+      "category" : "Productivity",
       "color" : "silver,black",
       "created_at" : "2020-11-17 11:34:15",
       "developer" : "Apple",
@@ -5582,7 +5592,7 @@
     },
     {
       "category" : "Graphics & Design",
-      "color" : "red,green,blue",
+      "color" : "red,white",
       "created_at" : "2019-09-12 03:21:01",
       "developer" : "Softpress Systems Ltd",
       "link" : "https:\/\/www.softpress.com\/exhibeo",
@@ -6462,7 +6472,7 @@
     },
     {
       "category" : "Games",
-      "color" : "orange,blue,white,brown",
+      "color" : "red,orange,brown",
       "created_at" : "2020-11-12 13:55:35",
       "developer" : "CookieByte",
       "link" : "https:\/\/forttriumph.com",
@@ -7102,7 +7112,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,yellow,green,blue,purple,silver",
+      "color" : "red,yellow,green,purple,silver",
       "created_at" : "2020-11-17 16:09:14",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -8869,6 +8879,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574797-20697fda-73b4-11e8-985f-ca5be2e3fd76.png",
       "tag" : "Keycard",
       "name" : "Keycard"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2021-01-31 22:19:44",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/106388586-2786b900-641a-11eb-830e-7a06241c12f6.png",
+      "tag" : "Rectangle,Key",
+      "name" : "Keychain Access Big Sur"
     },
     {
       "category" : "Photo & Video",
@@ -15013,9 +15033,19 @@
     {
       "category" : "Graphics & Design",
       "color" : "green,blue,black",
+      "created_at" : "2021-01-31 23:16:10",
+      "developer" : "Apple",
+      "link" : "https:\/\/developer.apple.com\/sf-symbols",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/106388622-63218300-641a-11eb-91ef-36577e532259.png",
+      "tag" : "Rectangle",
+      "name" : "SF Symbols 2"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "green,blue,black",
       "created_at" : "2019-11-27 00:36:06",
       "developer" : "Apple",
-      "link" : "https:\/\/developer.apple.com\/design\/human-interface-guidelines\/sf-symbols\/overview\/",
+      "link" : "https:\/\/developer.apple.com\/sf-symbols",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/69732053-eafc6500-1165-11ea-97a3-357e6b5b53f4.png",
       "tag" : "Hexagon,Symbol",
       "name" : "SF Symbols"
@@ -19252,7 +19282,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,orange,green,blue",
+      "color" : "red,orange,green",
       "created_at" : "2020-12-04 22:16:14",
       "developer" : "Wise Tech Labs Private Limited.",
       "link" : "http:\/\/wisemaccare.com",
@@ -19721,5 +19751,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-01-31 20:27:31 GMT+8"
+  "update_time" : "2021-01-31 23:18:01 GMT+8"
 }
