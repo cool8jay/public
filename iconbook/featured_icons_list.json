@@ -3302,6 +3302,26 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-10 12:02:51",
+      "developer" : "Eltima Software",
+      "link" : "https:\/\/mac.eltima.com\/file-manager.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/107462858-fa63a480-6b97-11eb-9cf5-30eeac4ccfb1.png",
+      "tag" : "Rectangle,Window",
+      "name" : "Commander One 3.0"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "purple,white",
+      "created_at" : "2021-02-10 12:00:04",
+      "developer" : "Eltima Software",
+      "link" : "https:\/\/mac.eltima.com\/file-manager.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/107462680-97720d80-6b97-11eb-9bf7-f64743f0e75c.png",
+      "tag" : "Window,Rectangle",
+      "name" : "Commander One PRO"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,silver,black",
       "created_at" : "2019-09-12 03:14:04",
       "developer" : "Eltima Software",
@@ -7299,6 +7319,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574707-08c521a4-73b4-11e8-9553-2cd3276c5176.png",
       "tag" : "Brush",
       "name" : "Hazel"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2021-02-10 11:58:01",
+      "developer" : "Maxim Ananov",
+      "link" : "https:\/\/hazeover.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/107462585-5ed23400-6b97-11eb-9ffb-597f596ad2ab.png",
+      "tag" : "Rectangle,Window",
+      "name" : "HazeOver 1.8.9"
     },
     {
       "category" : "Utilities",
@@ -19781,5 +19811,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-08 18:05:12 GMT+8"
+  "update_time" : "2021-02-10 12:05:55 GMT+8"
 }
