@@ -4352,6 +4352,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "white,silver",
+      "created_at" : "2021-02-13 11:29:35",
+      "developer" : "DEVONtechnologies, LLC",
+      "link" : "https:\/\/www.devontechnologies.com\/apps\/devonthink",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/107840606-29c01e80-6def-11eb-8f3b-ed3c2342c747.png",
+      "tag" : "Rectangle",
+      "name" : "DEVONthink 3.6.2"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue",
       "created_at" : "2018-10-30 10:10:26",
       "developer" : "DEVONtechnologies, LLC",
@@ -19851,5 +19861,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-11 18:51:52 GMT+8"
+  "update_time" : "2021-02-13 11:33:15 GMT+8"
 }
