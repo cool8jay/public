@@ -242,6 +242,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white,black",
+      "created_at" : "2021-02-16 21:30:48",
+      "developer" : "MacPlus Software",
+      "link" : "https:\/\/noteifyapp.com\/activedock",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210751-e951ff00-7166-11eb-8f68-8d1aaee9a465.png",
+      "tag" : "Display",
+      "name" : "ActiveDock 2"
+    },
+    {
+      "category" : "Utilities",
       "color" : "green,black",
       "created_at" : "2020-11-17 15:50:51",
       "developer" : "Apple",
@@ -409,6 +419,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486230-e1839280-299e-11eb-835f-ca85da62df4e.png",
       "tag" : "Rectangle,Pencil",
       "name" : "Agenda"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-16 21:54:32",
+      "developer" : "Shihab Mehboob",
+      "link" : "https:\/\/www.pnguin.app\/agree",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210749-e820d200-7166-11eb-97dd-c1c785650d08.png",
+      "tag" : "Rectangle,Check",
+      "name" : "Agree"
     },
     {
       "category" : "Weather",
@@ -2211,6 +2231,16 @@
       "name" : "Cappuccino"
     },
     {
+      "category" : "Productivity",
+      "color" : "white,black",
+      "created_at" : "2021-02-16 22:32:15",
+      "developer" : "Chen Junkai",
+      "link" : "https:\/\/capslox.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210738-e525e180-7166-11eb-9f9c-17699aa2b6b8.png",
+      "tag" : "Round,Symbol",
+      "name" : "Capslox"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "red,blue,purple",
       "created_at" : "2018-10-30 10:10:44",
@@ -3564,9 +3594,9 @@
       "category" : "News",
       "color" : "black",
       "created_at" : "2020-06-08 23:58:10",
-      "developer" : "Shihab Mehboob",
+      "developer" : "PoeticBytes Inc",
       "link" : "https:\/\/www.pnguin.app",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84053297-4ac0ac00-a9e4-11ea-970b-0a15634649e3.png",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210732-e2c38780-7166-11eb-9430-5408e40015bd.png",
       "tag" : "Round,Disk",
       "name" : "Cosmicast"
     },
@@ -4402,6 +4432,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "green,blue,white",
+      "created_at" : "2021-02-17 21:24:37",
+      "developer" : "Structured Path GmbH",
+      "link" : "https:\/\/diagrams.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210598-b445ac80-7166-11eb-8773-b3972673999c.png",
+      "tag" : "Rectangle",
+      "name" : "Diagrams 2"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,green,white",
       "created_at" : "2020-05-30 11:08:09",
       "developer" : "Structured Path GmbH",
@@ -4659,6 +4699,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036870-8a1f19ea-8d3a-11e8-943f-636d409a9b2d.png",
       "tag" : "Drive",
       "name" : "DiskRadar"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,white",
+      "created_at" : "2021-02-16 18:04:33",
+      "developer" : "Jibapps",
+      "link" : "https:\/\/www.jibapps.com\/apps\/displays",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210799-f5d65780-7166-11eb-8037-d1f1e1c4e5b5.png",
+      "tag" : "Rectangle",
+      "name" : "Displays"
     },
     {
       "category" : "Games",
@@ -5033,6 +5083,16 @@
     {
       "category" : "Utilities",
       "color" : "blue,white,black",
+      "created_at" : "2021-02-16 17:45:50",
+      "developer" : "Damir Tursunovic",
+      "link" : "https:\/\/dropoverapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210813-f969de80-7166-11eb-8d27-c336c5d82bab.png",
+      "tag" : "Rectangle",
+      "name" : "Dropover 4"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white,black",
       "created_at" : "2019-11-21 15:24:59",
       "developer" : "Damir Tursunovic",
       "link" : "https:\/\/dropoverapp.com",
@@ -5289,6 +5349,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574597-ef0002d4-73b3-11e8-833f-4dce89315133.png",
       "tag" : "Round",
       "name" : "Electron"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,purple,black",
+      "created_at" : "2021-02-16 18:07:12",
+      "developer" : "Khoa Pham",
+      "link" : "https:\/\/onmyway133.com\/elegantconverter",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210794-f373fd80-7166-11eb-9027-f234ba1563b3.png",
+      "tag" : "Rectangle",
+      "name" : "Elegant Converter"
     },
     {
       "category" : "Photo & Video",
@@ -6341,6 +6411,16 @@
       "name" : "Folder Designer"
     },
     {
+      "category" : "Business",
+      "color" : "white,purple",
+      "created_at" : "2021-02-16 22:36:40",
+      "developer" : "HyperartFlow",
+      "link" : "Xiang He",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210736-e3f4b480-7166-11eb-9538-93d4cabda0d9.png",
+      "tag" : "Rectangle,Folder",
+      "name" : "Folder Lock"
+    },
+    {
       "category" : "Utilities",
       "color" : "green,silver",
       "created_at" : "2019-09-12 03:18:07",
@@ -6582,7 +6662,7 @@
     },
     {
       "category" : "Developer Tools",
-      "color" : "blue,white,silver",
+      "color" : "blue,white",
       "created_at" : "2000-01-01 08:00:00",
       "developer" : "Framer BV",
       "link" : "https:\/\/www.framer.com",
@@ -8691,6 +8771,16 @@
       "name" : "JazzUp"
     },
     {
+      "category" : "Education",
+      "color" : "green,blue,white",
+      "created_at" : "2021-02-16 22:06:33",
+      "developer" : "Japplis",
+      "link" : "https:\/\/www.jlearnit.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210745-e6efa500-7166-11eb-87af-2609744101ca.png",
+      "tag" : "Book",
+      "name" : "JLearnIt"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,brown",
       "created_at" : "2020-06-05 23:20:51",
@@ -9499,6 +9589,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037294-f9a4dc38-8d3e-11e8-8748-887c846a527a.png",
       "tag" : "Lock",
       "name" : "Locko"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,green",
+      "created_at" : "2021-02-16 20:00:03",
+      "developer" : "Kevin Laminto",
+      "link" : "https:\/\/kevinweb.tech\/lofiii",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210772-eeaf4980-7166-11eb-8113-3d6250f075b0.png",
+      "tag" : "Rectangle",
+      "name" : "lofiii"
     },
     {
       "category" : "Music",
@@ -12063,6 +12163,16 @@
     {
       "category" : "Utilities",
       "color" : "blue",
+      "created_at" : "2021-02-16 19:01:36",
+      "developer" : "Denis Gladkikh",
+      "link" : "https:\/\/loshadki.app\/openin",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210780-f0790d00-7166-11eb-8c88-07bb7211a7b9.png",
+      "tag" : "Rectangle",
+      "name" : "OpenIn"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue",
       "created_at" : "2019-09-11 15:20:31",
       "developer" : "Vlad Danilov",
       "link" : "https:\/\/getoptimage.com",
@@ -12581,6 +12691,16 @@
       "name" : "PDFpenPro"
     },
     {
+      "category" : "Productivity",
+      "color" : "purple,white",
+      "created_at" : "2021-02-16 21:08:20",
+      "developer" : "SIR_INT",
+      "link" : "https:\/\/penman.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210763-ec4cef80-7166-11eb-918a-c5fb9fc75b52.png",
+      "tag" : "Rectangle",
+      "name" : "Penman"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 16:32:07",
@@ -12909,6 +13029,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575008-5bf92fe6-73b4-11e8-8633-167ae84d20e4.png",
       "tag" : "Arrow",
       "name" : "PinPoint Pro"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,purple,white",
+      "created_at" : "2021-02-17 10:16:10",
+      "developer" : "Pitch Software GmbH",
+      "link" : "https:\/\/pitch.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210705-dc351000-7166-11eb-8cee-84cfe42aa63c.png",
+      "tag" : "Rectangle",
+      "name" : "Pitch"
     },
     {
       "category" : "Graphics & Design",
@@ -13861,6 +13991,16 @@
       "name" : "Radiant Defense"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "green,white,black",
+      "created_at" : "2021-02-16 18:04:14",
+      "developer" : "Radicle Foundation",
+      "link" : "https:\/\/radicle.xyz",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210796-f4a52a80-7166-11eb-8881-dcc34299133c.png",
+      "tag" : "Rectangle",
+      "name" : "Radicle Upstream"
+    },
+    {
       "category" : "Music",
       "color" : "red",
       "created_at" : "2019-09-11 17:45:12",
@@ -14229,6 +14369,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037362-3cad92cc-8d3f-11e8-8840-e45ce8d47ce6.png",
       "tag" : "Rectangle,Tilt",
       "name" : "Reflector Teacher"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "white,black",
+      "created_at" : "2021-02-16 20:27:57",
+      "developer" : "Denis Gladkikh",
+      "link" : "https:\/\/loshadki.app\/regexp",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210766-ece58600-7166-11eb-808c-88ca1b04c30c.png",
+      "tag" : "Rectangle",
+      "name" : "RegExp"
     },
     {
       "category" : "Utilities",
@@ -15332,6 +15482,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2021-02-16 22:30:59",
+      "developer" : "William Castelli",
+      "link" : "https:\/\/github.com\/billycastelli\/Silicon-Info",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210740-e5be7800-7166-11eb-8e00-cfb117a35954.png",
+      "tag" : "Rectangle,Chip",
+      "name" : "Silicon Info"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,silver",
       "created_at" : "2018-10-30 10:19:27",
       "developer" : "Petroules Corporation.",
@@ -16102,6 +16262,26 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,orange",
+      "created_at" : "2021-02-17 09:59:22",
+      "developer" : "SpotiKeep Software Inc",
+      "link" : "https:\/\/www.spotikeep.com\/apple-music-converter",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210723-e22af100-7166-11eb-8d84-705660b06540.png",
+      "tag" : "Round,Note",
+      "name" : "SpotiKeep Apple Music Converter"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "black,green",
+      "created_at" : "2021-02-17 10:05:42",
+      "developer" : "SpotiKeep Software Inc",
+      "link" : "https:\/\/www.spotikeep.com\/spotikeep-converter",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210717-e0612d80-7166-11eb-8c00-bf01047fe0e6.png",
+      "tag" : "Round",
+      "name" : "SpotiKeep Converter"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,brown",
       "created_at" : "2019-09-11 17:19:22",
       "developer" : "ZipZapMac",
@@ -16579,6 +16759,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/84156536-33dd9080-aa9c-11ea-9093-2005fba50b0f.png",
       "tag" : "Window",
       "name" : "Swish"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "yellow,black",
+      "created_at" : "2021-02-16 21:12:55",
+      "developer" : "Victor Aremu",
+      "link" : "https:\/\/get-switch.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210761-eb1bc280-7166-11eb-99ac-381d2821e886.png",
+      "tag" : "Rectangle,Bolt",
+      "name" : "Switch"
     },
     {
       "category" : "Utilities",
@@ -17822,6 +18012,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,purple,white",
+      "created_at" : "2021-02-16 18:02:31",
+      "developer" : "Jibapps",
+      "link" : "https:\/\/www.jibapps.com\/apps\/trashme3",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210806-f7a01b00-7166-11eb-9ee6-f617bc8f21f0.png",
+      "tag" : "Hexagon,Character",
+      "name" : "TrashMe 3"
+    },
+    {
+      "category" : "Utilities",
       "color" : "white,brown",
       "created_at" : "2018-10-30 11:06:15",
       "developer" : "Jibapps",
@@ -17949,6 +18149,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575296-af924aac-73b4-11e8-9031-c30c341749b8.png",
       "tag" : "Rectangle,Window",
       "name" : "Tuck"
+    },
+    {
+      "category" : "Music",
+      "color" : "orange,blue,black",
+      "created_at" : "2021-02-16 18:00:46",
+      "developer" : "Jibapps",
+      "link" : "https:\/\/www.jibapps.com\/apps\/tunesart",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210807-f7a01b00-7166-11eb-8a3e-a167c8b2f201.png",
+      "tag" : "Disk,Note",
+      "name" : "TunesArt"
     },
     {
       "category" : "Utilities",
@@ -18829,6 +19039,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575347-bf839c54-73b4-11e8-9b67-5dd88c12e23f.png",
       "tag" : "Monitor,Tilt",
       "name" : "VisualDiffer"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white,black",
+      "created_at" : "2021-02-16 20:12:19",
+      "developer" : "Luis Glez",
+      "link" : "https:\/\/www.disometric.com\/vitalsigns",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210770-ee16b300-7166-11eb-92a6-c52f89cb74ed.png",
+      "tag" : "Rectangle",
+      "name" : "VitalSigns"
     },
     {
       "category" : "Photo & Video",
@@ -19871,5 +20091,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-16 17:31:48 GMT+8"
+  "update_time" : "2021-02-17 21:36:50 GMT+8"
 }
