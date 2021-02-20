@@ -10502,6 +10502,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "silver,black",
+      "created_at" : "2021-02-20 21:34:43",
+      "developer" : "Andrii Leitsius",
+      "link" : "https:\/\/meetingbar.onrender.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108597550-8a89c100-73c4-11eb-9114-0357cc9cf5e4.png",
+      "tag" : "Rectangle,Character",
+      "name" : "MeetingBar"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue,white",
       "created_at" : "2019-09-11 18:05:59",
       "developer" : "MeisterLabs",
@@ -20121,5 +20131,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-18 17:54:36 GMT+8"
+  "update_time" : "2021-02-20 21:43:10 GMT+8"
 }
