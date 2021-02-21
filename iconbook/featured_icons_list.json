@@ -3201,6 +3201,16 @@
       "name" : "Coherence X"
     },
     {
+      "category" : "Productivity",
+      "color" : "blue,silver",
+      "created_at" : "2021-02-21 12:16:31",
+      "developer" : "XCDS International Ltd.",
+      "link" : "https:\/\/collabio.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108615429-eee96680-743e-11eb-8645-d3f3978715ce.png",
+      "tag" : "Round",
+      "name" : "Collabio"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,blue,purple,black",
       "created_at" : "2018-10-30 11:07:42",
@@ -15642,6 +15652,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "purple,white",
+      "created_at" : "2021-02-21 12:16:19",
+      "developer" : "Kitze",
+      "link" : "https:\/\/sizzy.co",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108615431-f27ced80-743e-11eb-9cfe-d70b0abad652.png",
+      "tag" : "Round,Character",
+      "name" : "Sizzy"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "red,green,blue,brown",
       "created_at" : "2018-10-30 10:38:35",
       "developer" : "Bjango Pty Ltd.",
@@ -20131,5 +20151,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-20 21:43:10 GMT+8"
+  "update_time" : "2021-02-21 12:19:08 GMT+8"
 }
