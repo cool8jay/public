@@ -14022,9 +14022,19 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,blue,purple,white",
+      "created_at" : "2021-02-24 21:45:39",
+      "developer" : "Stellar Aurora, Inc",
+      "link" : "https:\/\/quill.chat",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109009971-2cbde780-76ea-11eb-9350-7207a5982659.png",
+      "tag" : "Rectangle,Feather,Bubble",
+      "name" : "Quill 1.0"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,purple,white",
       "created_at" : "2020-05-30 11:14:53",
-      "developer" : "Quill",
+      "developer" : "Stellar Aurora, Inc",
       "link" : "https:\/\/quill.chat",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318550-9054da80-a268-11ea-88a8-0cac97e91ec9.png",
       "tag" : "Feather,Bubble",
@@ -20151,5 +20161,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-21 12:19:08 GMT+8"
+  "update_time" : "2021-02-24 21:50:04 GMT+8"
 }
