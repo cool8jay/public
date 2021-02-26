@@ -892,6 +892,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "green,blue,white",
+      "created_at" : "2021-02-26 22:31:07",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313512-46466700-7883-11eb-8c0f-ba62618a2d34.png",
+      "tag" : "Window",
+      "name" : "Appearance"
+    },
+    {
+      "category" : "Utilities",
       "color" : "silver",
       "created_at" : "2020-11-18 09:43:00",
       "developer" : "Raphael Hanneken",
@@ -1219,6 +1229,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036780-082c86b6-8d3a-11e8-8f24-5820f15e59c3.png",
       "tag" : "Meter",
       "name" : "Battery Time Remaining 2"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green,silver",
+      "created_at" : "2021-02-26 22:02:27",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313626-60804500-7883-11eb-81db-1b76a5c3d9d8.png",
+      "tag" : "Battery",
+      "name" : "Battery"
     },
     {
       "category" : "Productivity",
@@ -1659,6 +1679,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574389-c122ff2e-73b3-11e8-85a7-ea5c63c46f6c.png",
       "tag" : "Lock",
       "name" : "Bluetooth Lock"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-26 22:36:36",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313472-3b8bd200-7883-11eb-8966-b01fc98f12d5.png",
+      "tag" : "Rectangle",
+      "name" : "Bluetooth"
     },
     {
       "category" : "Photo & Video",
@@ -4612,6 +4642,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2021-02-26 22:03:56",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313462-362e8780-7883-11eb-8263-67139d2656af.png",
+      "tag" : "Disk",
+      "name" : "Discs"
+    },
+    {
+      "category" : "Utilities",
       "color" : "yellow,silver,black",
       "created_at" : "2019-09-12 03:14:34",
       "developer" : "HALFBIT Limited",
@@ -4732,6 +4772,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,silver,black",
+      "created_at" : "2021-02-26 22:05:58",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313607-5c542780-7883-11eb-87b2-a18efdadab5d.png",
+      "tag" : "Display",
+      "name" : "Displays Big Sur"
+    },
+    {
+      "category" : "Utilities",
       "color" : "orange,white",
       "created_at" : "2021-02-16 18:04:33",
       "developer" : "Jibapps",
@@ -4839,6 +4889,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79361731-49d94400-7f78-11ea-9148-3ed759fbe7f4.png",
       "tag" : "Rectangle,Document,Camera",
       "name" : "Doc Scanner"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,black",
+      "created_at" : "2021-02-26 22:32:34",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313504-45153a00-7883-11eb-9f1d-c408225170bb.png",
+      "tag" : "Rectangle",
+      "name" : "Dock"
     },
     {
       "category" : "Developer Tools",
@@ -5492,6 +5552,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "yellow,silver",
+      "created_at" : "2021-02-26 22:00:50",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313641-62e29f00-7883-11eb-87bc-b3aaae239905.png",
+      "tag" : "Bulb",
+      "name" : "EnergySaver"
+    },
+    {
+      "category" : "Utilities",
       "color" : "white,black,brown",
       "created_at" : "2020-10-16 20:13:05",
       "developer" : "IXEAU",
@@ -5849,6 +5919,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574622-f52428c0-73b3-11e8-903e-412b8475ce18.png",
       "tag" : "Round",
       "name" : "Falcon"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-26 22:14:45",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313536-4ba3b180-7883-11eb-81f7-c13e7f8662b0.png",
+      "tag" : "Rectangle",
+      "name" : "Family Sharing"
     },
     {
       "category" : "Productivity",
@@ -11351,6 +11431,26 @@
       "name" : "Mou"
     },
     {
+      "category" : "Utilities",
+      "color" : "black",
+      "created_at" : "2021-02-26 22:27:44",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313531-4a728480-7883-11eb-8da1-81b39c2431f0.png",
+      "tag" : "Mouse",
+      "name" : "Mouse Black"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white",
+      "created_at" : "2021-02-26 22:27:44",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313527-49d9ee00-7883-11eb-9cd1-bf4464f9eeee.png",
+      "tag" : "",
+      "name" : "Mouse"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "yellow,white,black",
       "created_at" : "2020-02-03 20:36:29",
@@ -11672,6 +11772,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "green,blue,white",
+      "created_at" : "2021-02-26 22:10:10",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313572-54948300-7883-11eb-9f23-9d7c1337a842.png",
+      "tag" : "Globe",
+      "name" : "Network Big Sur"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,silver,black",
       "created_at" : "2019-09-11 18:01:50",
       "developer" : "Witt Software",
@@ -11909,6 +12019,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486365-08da5f80-299f-11eb-974c-0d0a23b32928.png",
       "tag" : "Rectangle,Tilt",
       "name" : "Notes"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,white,silver",
+      "created_at" : "2021-02-26 22:25:34",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313548-4e060b80-7883-11eb-8ac5-9ebf8cec51d2.png",
+      "tag" : "Bell",
+      "name" : "Notifications"
     },
     {
       "category" : "Utilities",
@@ -15101,6 +15221,26 @@
       "name" : "Screenshot"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,silver",
+      "created_at" : "2021-02-26 22:08:33",
+      "developer" : "Apple Inc",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313582-55c5b000-7883-11eb-8732-5cdcb640445e.png",
+      "tag" : "Sandglass",
+      "name" : "ScreenTime Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,silver",
+      "created_at" : "2021-02-26 22:08:33",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313591-56f6dd00-7883-11eb-939c-a4b9b77ade9d.png",
+      "tag" : "Sandglass,Round",
+      "name" : "ScreenTime"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "green",
       "created_at" : "2018-10-30 11:04:13",
@@ -15249,6 +15389,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575132-7f1c3f22-73b4-11e8-90c7-445bd428e1ea.png",
       "tag" : "Lens,Shield",
       "name" : "Security Camera"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver,black",
+      "created_at" : "2021-02-26 21:59:39",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313653-6544f900-7883-11eb-84b5-d1d31e1bac26.png",
+      "tag" : "House",
+      "name" : "Security"
     },
     {
       "category" : "Utilities",
@@ -15981,6 +16131,16 @@
       "name" : "Socialite"
     },
     {
+      "category" : "Utilities",
+      "color" : "silver,black",
+      "created_at" : "2021-02-26 22:11:10",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313563-52cabf80-7883-11eb-9494-d56c7da55ae3.png",
+      "tag" : "Gear,Round",
+      "name" : "Software Update"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "orange",
       "created_at" : "2018-10-30 10:10:12",
@@ -16079,6 +16239,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303118-a9a21d00-b4dc-11ea-806c-6345b665f572.png",
       "tag" : "Music,Device",
       "name" : "Sound Tape Recorder"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white,silver,black",
+      "created_at" : "2021-02-26 22:26:43",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313541-4cd4de80-7883-11eb-9673-b9e8e73000c9.png",
+      "tag" : "",
+      "name" : "Sound"
     },
     {
       "category" : "Productivity",
@@ -16349,6 +16519,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210717-e0612d80-7166-11eb-8c00-bf01047fe0e6.png",
       "tag" : "Round",
       "name" : "SpotiKeep Converter"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2021-02-26 22:13:41",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313556-51999280-7883-11eb-92b1-910c2ea8b5b6.png",
+      "tag" : "Magnifier",
+      "name" : "Spotlight"
     },
     {
       "category" : "Utilities",
@@ -17939,6 +18119,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575285-abf9e670-73b4-11e8-94da-65297408284b.png",
       "tag" : "Folder",
       "name" : "Totals"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,silver",
+      "created_at" : "2021-02-26 21:55:33",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313666-68d88000-7883-11eb-8f43-f2cc0e8860c5.png",
+      "tag" : "Round,Fingerprint",
+      "name" : "Touch ID"
     },
     {
       "category" : "Graphics & Design",
@@ -20161,5 +20351,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-24 21:50:04 GMT+8"
+  "update_time" : "2021-02-26 22:39:35 GMT+8"
 }
