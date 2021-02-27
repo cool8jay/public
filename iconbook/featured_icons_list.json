@@ -1653,6 +1653,16 @@
     {
       "category" : "Utilities",
       "color" : "blue,white",
+      "created_at" : "2021-02-26 22:36:36",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313472-3b8bd200-7883-11eb-8966-b01fc98f12d5.png",
+      "tag" : "Rectangle",
+      "name" : "Bluetooth Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
       "created_at" : "2020-11-17 15:51:46",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -1683,11 +1693,11 @@
     {
       "category" : "Utilities",
       "color" : "blue,white",
-      "created_at" : "2021-02-26 22:36:36",
+      "created_at" : "2021-02-27 13:35:16",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313472-3b8bd200-7883-11eb-8966-b01fc98f12d5.png",
-      "tag" : "Rectangle",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387445-73a31b80-793c-11eb-98e9-e4bf1fb893a2.png",
+      "tag" : "Symbol",
       "name" : "Bluetooth"
     },
     {
@@ -4002,6 +4012,26 @@
     },
     {
       "category" : "Utilities",
+      "color" : "red,white,black",
+      "created_at" : "2021-02-26 22:34:03",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313499-434b7680-7883-11eb-8b0a-fe7a7fa71750.png",
+      "tag" : "Clock",
+      "name" : "Date & Time Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,white,black",
+      "created_at" : "2021-02-27 15:33:01",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387434-6c7c0d80-793c-11eb-86bc-baedc3b875b8.png",
+      "tag" : "Clock,Calendar",
+      "name" : "Date & Time Mojave"
+    },
+    {
+      "category" : "Utilities",
       "color" : "purple,white,black",
       "created_at" : "2020-11-19 14:34:52",
       "developer" : "Sindre Sorhus",
@@ -4339,6 +4369,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/70846389-bd1c5d80-1e93-11ea-808a-91a6c8c0eef9.png",
       "tag" : "Pen,Window",
       "name" : "Deskscribble"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue",
+      "created_at" : "2021-02-26 22:35:24",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313480-3dee2c00-7883-11eb-8fd8-bb87ca702611.png",
+      "tag" : "Window",
+      "name" : "Desktop & Screen Saver Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,purple",
+      "created_at" : "2021-02-27 13:35:41",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387446-756cdf00-793c-11eb-8b21-b0ec55795b01.png",
+      "tag" : "Window",
+      "name" : "Desktop & Screen Saver"
     },
     {
       "category" : "Utilities",
@@ -4782,6 +4832,26 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,silver,black",
+      "created_at" : "2021-02-27 13:35:50",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387441-71d95800-793c-11eb-9dfa-2b38088a608e.png",
+      "tag" : "Display",
+      "name" : "Displays Catalina"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,silver,black",
+      "created_at" : "2021-02-27 15:42:53",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387428-67b75980-793c-11eb-887f-e5c3174dcabe.png",
+      "tag" : "Display",
+      "name" : "Displays Mojave"
+    },
+    {
+      "category" : "Utilities",
       "color" : "orange,white",
       "created_at" : "2021-02-16 18:04:33",
       "developer" : "Jibapps",
@@ -4897,6 +4967,16 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313504-45153a00-7883-11eb-9f1d-c408225170bb.png",
+      "tag" : "Rectangle",
+      "name" : "Dock Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "black,white,brown,silver",
+      "created_at" : "2021-02-27 13:36:21",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387471-9e8d6f80-793c-11eb-8c8b-9eca88851aff.png",
       "tag" : "Rectangle",
       "name" : "Dock"
     },
@@ -5558,7 +5638,7 @@
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313641-62e29f00-7883-11eb-87bc-b3aaae239905.png",
       "tag" : "Bulb",
-      "name" : "EnergySaver"
+      "name" : "Energy Saver"
     },
     {
       "category" : "Utilities",
@@ -5927,6 +6007,16 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313536-4ba3b180-7883-11eb-81f7-c13e7f8662b0.png",
+      "tag" : "Rectangle",
+      "name" : "Family Sharing Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-27 13:36:01",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387515-d09ed180-793c-11eb-9cac-3e4c2fa2110e.png",
       "tag" : "Rectangle",
       "name" : "Family Sharing"
     },
@@ -8061,6 +8151,16 @@
       "name" : "iClip"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-27 15:42:45",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387425-64bc6900-793c-11eb-91ad-87954bd58116.png",
+      "tag" : "Rectangle",
+      "name" : "iCloud"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "orange,blue,white",
       "created_at" : "2019-09-11 18:18:13",
@@ -9361,6 +9461,16 @@
       "name" : "Labels & Addresses"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white,silver",
+      "created_at" : "2021-02-27 13:36:11",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387465-96cdcb00-793c-11eb-9dd9-5a134e42fb93.png",
+      "tag" : "Flag",
+      "name" : "Language & Region"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "red,yellow,green,blue,purple,white",
       "created_at" : "2021-01-30 17:39:52",
@@ -9669,6 +9779,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574827-27be0cd8-73b4-11e8-96a4-326d0fa15173.png",
       "tag" : "Animal,Butterfly",
       "name" : "Lively Logic"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,blue,silver",
+      "created_at" : "2021-02-26 22:07:30",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313598-59593700-7883-11eb-8576-387c7dbd7293.png",
+      "tag" : "Flag",
+      "name" : "Localization & Region Big Sur"
     },
     {
       "category" : "Utilities",
@@ -11083,6 +11203,16 @@
     {
       "category" : "Utilities",
       "color" : "orange,green,blue,black",
+      "created_at" : "2021-02-27 13:35:31",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387443-730a8500-793c-11eb-9e90-ce72501c0a81.png",
+      "tag" : "Window,Rectangle",
+      "name" : "Mission Control Catalina"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,green,blue,black",
       "created_at" : "2020-11-18 14:54:01",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -11447,7 +11577,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313527-49d9ee00-7883-11eb-9cd1-bf4464f9eeee.png",
-      "tag" : "",
+      "tag" : "Mouse",
       "name" : "Mouse"
     },
     {
@@ -11801,6 +11931,16 @@
       "name" : "Network Utility"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-02-27 13:36:14",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387478-a1886000-793c-11eb-92b0-4ea94b7f6940.png",
+      "tag" : "Round",
+      "name" : "Network"
+    },
+    {
       "category" : "Music",
       "color" : "yellow,white,black",
       "created_at" : "2021-01-25 12:09:41",
@@ -12028,6 +12168,26 @@
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313548-4e060b80-7883-11eb-8ac5-9ebf8cec51d2.png",
       "tag" : "Bell",
+      "name" : "Notifications Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,blue,white,black",
+      "created_at" : "2021-02-27 15:32:22",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387439-700f9480-793c-11eb-989a-72df0c869936.png",
+      "tag" : "Rectangle",
+      "name" : "Notifications Catalina"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,silver",
+      "created_at" : "2021-02-27 15:39:08",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387432-6ab24a00-793c-11eb-92d1-8567c85a5aa4.png",
+      "tag" : "Rectangle,Tilt",
       "name" : "Notifications"
     },
     {
@@ -12599,6 +12759,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574971-4f5bad68-73b4-11e8-82c2-4278bbe07fb5.png",
       "tag" : "Box,Tool",
       "name" : "Parallels Toolbox"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "yellow,black",
+      "created_at" : "2021-02-27 15:39:37",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387431-69811d00-793c-11eb-931c-59657c4986c1.png",
+      "tag" : "Round",
+      "name" : "Parental Controls"
     },
     {
       "category" : "Developer Tools",
@@ -15224,7 +15394,7 @@
       "category" : "Utilities",
       "color" : "blue,silver",
       "created_at" : "2021-02-26 22:08:33",
-      "developer" : "Apple Inc",
+      "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313582-55c5b000-7883-11eb-8732-5cdcb640445e.png",
       "tag" : "Sandglass",
@@ -15381,6 +15551,16 @@
       "name" : "Seasonality Core"
     },
     {
+      "category" : "Utilities",
+      "color" : "silver,black",
+      "created_at" : "2021-02-26 21:59:39",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313653-6544f900-7883-11eb-84b5-d1d31e1bac26.png",
+      "tag" : "House,Lock",
+      "name" : "Security Big Sur"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2018-10-30 10:55:22",
@@ -15393,11 +15573,11 @@
     {
       "category" : "Utilities",
       "color" : "silver,black",
-      "created_at" : "2021-02-26 21:59:39",
+      "created_at" : "2021-02-27 15:33:23",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313653-6544f900-7883-11eb-84b5-d1d31e1bac26.png",
-      "tag" : "House",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387435-6dad3a80-793c-11eb-9d27-8ef91e49e547.png",
+      "tag" : "House,Lock",
       "name" : "Security"
     },
     {
@@ -16201,6 +16381,16 @@
       "name" : "Soulver 3"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white,silver,black",
+      "created_at" : "2021-02-26 22:26:43",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313541-4cd4de80-7883-11eb-9673-b9e8e73000c9.png",
+      "tag" : "Speaker",
+      "name" : "Sound Big Sur"
+    },
+    {
       "category" : "Music",
       "color" : "orange,silver,black",
       "created_at" : "2019-11-13 17:46:52",
@@ -16242,12 +16432,12 @@
     },
     {
       "category" : "Utilities",
-      "color" : "blue,white,silver,black",
-      "created_at" : "2021-02-26 22:26:43",
+      "color" : "white,black,silver",
+      "created_at" : "2021-02-27 13:36:18",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313541-4cd4de80-7883-11eb-9673-b9e8e73000c9.png",
-      "tag" : "",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109387474-a0573300-793c-11eb-9f6a-80b88603b1ba.png",
+      "tag" : "Speaker",
       "name" : "Sound"
     },
     {
@@ -16528,7 +16718,7 @@
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313556-51999280-7883-11eb-92b1-910c2ea8b5b6.png",
       "tag" : "Magnifier",
-      "name" : "Spotlight"
+      "name" : "Spotlight Big Sur"
     },
     {
       "category" : "Utilities",
@@ -18051,11 +18241,11 @@
       "name" : "Toolbox for iWork - Templates"
     },
     {
-      "category" : "Productivity",
-      "color" : "blue,white,silver",
-      "created_at" : "2019-09-30 15:22:14",
+      "category" : "Utilities",
+      "color" : "white,blue,silver",
+      "created_at" : "2021-02-27 20:51:24",
       "developer" : "Jumsoft",
-      "link" : "http:\/\/www.jumsoft.com\/toolbox-for-keynote\/",
+      "link" : "www.jumsoft.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68874549-5a249300-073c-11ea-8ae1-e23c923c238d.png",
       "tag" : "Character,Rectangle,Tilt",
       "name" : "Toolbox for Keynote - Templates"
@@ -18989,6 +19179,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575330-b979cb58-73b4-11e8-8650-ef4bdfbccee7.png",
       "tag" : "Device",
       "name" : "USBMate"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver,black",
+      "created_at" : "2021-02-26 22:29:38",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313521-48102a80-7883-11eb-8af1-b782f831c167.png",
+      "tag" : "Rectangle",
+      "name" : "Users & Groups"
     },
     {
       "category" : "Photo & Video",
@@ -20351,5 +20551,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-26 22:39:35 GMT+8"
+  "update_time" : "2021-02-27 20:54:43 GMT+8"
 }
