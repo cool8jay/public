@@ -12261,6 +12261,16 @@
       "name" : "Nozbe"
     },
     {
+      "category" : "Music",
+      "color" : "orange,white,black",
+      "created_at" : "2021-03-01 21:09:19",
+      "developer" : "Laurin Brandner",
+      "link" : "https:\/\/github.com\/lbrndnr\/nuage-macos",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109501420-83ecff00-7ad2-11eb-852a-963ed79996b8.png",
+      "tag" : "Speaker",
+      "name" : "Nuage"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,green,white",
       "created_at" : "2019-09-11 18:01:04",
@@ -20561,5 +20571,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-02-27 22:03:13 GMT+8"
+  "update_time" : "2021-03-01 21:16:40 GMT+8"
 }
