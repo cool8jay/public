@@ -16101,6 +16101,26 @@
       "name" : "Sketch"
     },
     {
+      "category" : "Utilities",
+      "color" : "black,orange,silver,brown",
+      "created_at" : "2021-03-03 19:58:45",
+      "developer" : "Michael O. McCracken",
+      "link" : "https:\/\/skim-app.sourceforge.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109808589-47e8a400-7c62-11eb-9cf2-875947e409a5.png",
+      "tag" : "Glasses",
+      "name" : "Skim 1.6.1"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "brown,black,orange,silver,yellow",
+      "created_at" : "2021-03-03 19:58:51",
+      "developer" : "Michael O. McCracken",
+      "link" : "https:\/\/skim-app.sourceforge.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109808593-4a4afe00-7c62-11eb-803f-f5bea2d63152.png",
+      "tag" : "Glasses",
+      "name" : "Skim"
+    },
+    {
       "category" : "Productivity",
       "color" : "red",
       "created_at" : "2018-10-30 10:58:49",
@@ -20581,5 +20601,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-01 21:22:20 GMT+8"
+  "update_time" : "2021-03-03 20:53:33 GMT+8"
 }
