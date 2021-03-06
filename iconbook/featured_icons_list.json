@@ -4411,6 +4411,26 @@
       "name" : "Desktop Curtain - Closed"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,silver,black",
+      "created_at" : "2021-03-06 12:52:09",
+      "developer" : "Many Tricks",
+      "link" : "https:\/\/manytricks.com\/desktopcurtain",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/110195861-434b0800-7e7b-11eb-87c7-97aee9c9bf25.png",
+      "tag" : "Rectangle",
+      "name" : "Desktop Curtain 3 - Covered"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,white,black",
+      "created_at" : "2021-03-06 12:52:45",
+      "developer" : "Many Tricks",
+      "link" : "https:\/\/manytricks.com\/desktopcurtain",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/110195862-43e39e80-7e7b-11eb-927d-1654436b11b2.png",
+      "tag" : "Rectangle,Window",
+      "name" : "Desktop Curtain 3"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,white,silver,black",
       "created_at" : "2018-10-30 11:03:00",
@@ -11779,6 +11799,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574916-40a31838-73b4-11e8-90e1-a264e066de54.png",
       "tag" : "Rectangle,Tape",
       "name" : "n-Track"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,green,black",
+      "created_at" : "2021-03-06 12:54:26",
+      "developer" : "Many Tricks",
+      "link" : "https:\/\/manytricks.com\/namemangler",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/110195860-41814480-7e7b-11eb-85d9-49006c15ac8f.png",
+      "tag" : "Rectangle",
+      "name" : "Name Mangler"
     },
     {
       "category" : "Graphics & Design",
@@ -20631,5 +20661,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-05 22:03:38 GMT+8"
+  "update_time" : "2021-03-06 12:56:23 GMT+8"
 }
