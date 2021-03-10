@@ -3572,6 +3572,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white,black",
+      "created_at" : "2021-03-10 20:49:13",
+      "developer" : "Hugo Lispector",
+      "link" : "https:\/\/hugolispector.com\/controlly",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/110632726-ee90ef80-81e2-11eb-89c2-3018e7f34bd8.png",
+      "tag" : "Rectangle",
+      "name" : "Controlly"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,silver",
       "created_at" : "2019-09-11 15:36:47",
       "developer" : "Chatsworth and Whitton Limited",
@@ -7064,7 +7074,7 @@
       "category" : "Productivity",
       "color" : "yellow",
       "created_at" : "2018-10-30 11:12:49",
-      "developer" : "Blue Plum Software",
+      "developer" : "Blue Plum Software Inc",
       "link" : "http:\/\/theblueplum.com\/mac\/gearup",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036898-9bf63496-8d3a-11e8-89f9-f4356bec3ec6.png",
       "tag" : "Bag",
@@ -7869,6 +7879,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486288-f52ef900-299e-11eb-95c0-d2a0294d9145.png",
       "tag" : "Rectangle,Big Sur,House",
       "name" : "Home Big Sur"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,white,black",
+      "created_at" : "2021-03-09 21:49:12",
+      "developer" : "Blue Plum Software Inc",
+      "link" : "http:\/\/www.theblueplum.com\/mac\/homeinventory",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/110632757-f3ee3a00-81e2-11eb-9019-5150e1dcd169.png",
+      "tag" : "Rectangle,House",
+      "name" : "Home Inventory 4"
     },
     {
       "category" : "Productivity",
@@ -20661,5 +20681,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-06 12:56:23 GMT+8"
+  "update_time" : "2021-03-10 20:56:04 GMT+8"
 }
