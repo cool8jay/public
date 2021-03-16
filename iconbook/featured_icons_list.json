@@ -2971,6 +2971,16 @@
       "name" : "CleanMyMac"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,black",
+      "created_at" : "2021-03-16 23:22:59",
+      "developer" : "MakeTheWeb",
+      "link" : "https:\/\/getcleanshot.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111334623-af651180-86ae-11eb-8c40-9a72c2d444da.png",
+      "tag" : "Rectangle",
+      "name" : "CleanShot X 3.4.3"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,brown",
       "created_at" : "2020-05-14 00:02:51",
@@ -20701,5 +20711,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-16 23:05:25 GMT+8"
+  "update_time" : "2021-03-16 23:24:37 GMT+8"
 }
