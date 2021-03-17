@@ -471,6 +471,26 @@
       "name" : "AirBuddy"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-03-17 20:48:02",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111494709-aab95f80-8779-11eb-8d88-67acbc35dcbc.png",
+      "tag" : "Wave,Rectangle",
+      "name" : "AirDrop Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue",
+      "created_at" : "2021-03-17 20:47:24",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111494710-ab51f600-8779-11eb-824f-99ac8037cee7.png",
+      "tag" : "Round,Wave",
+      "name" : "AirDrop"
+    },
+    {
       "category" : "Music",
       "color" : "blue,black",
       "created_at" : "2019-09-12 03:21:57",
@@ -5099,6 +5119,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45405946-52301580-b697-11e8-9165-2d886459beef.png",
       "tag" : "Symbol",
       "name" : "doubleTwist"
+    },
+    {
+      "category" : "Lifestyle",
+      "color" : "yellow,white",
+      "created_at" : "2021-03-17 20:49:15",
+      "developer" : "Douguo Inc.",
+      "link" : "https:\/\/www.douguo.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111494704-a8ef9c00-8779-11eb-9bea-73c3122e6126.png",
+      "tag" : "Rectangle,Bean",
+      "name" : "Douguo"
     },
     {
       "category" : "Photo & Video",
@@ -11569,6 +11599,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/55804235-790bd880-5b0e-11e9-9941-530e3007c38e.png",
       "tag" : "Window",
       "name" : "Moom 3.2.3"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,black",
+      "created_at" : "2021-03-17 20:46:36",
+      "developer" : "Many Tricks",
+      "link" : "https:\/\/manytricks.com\/moom",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111494684-a55c1500-8779-11eb-930b-704b0c9c6522.png",
+      "tag" : "Window,Rectangle",
+      "name" : "Moom 3.2.21"
     },
     {
       "category" : "Utilities",
@@ -20711,5 +20751,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-16 23:24:37 GMT+8"
+  "update_time" : "2021-03-17 23:38:26 GMT+8"
 }
