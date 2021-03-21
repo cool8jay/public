@@ -20291,6 +20291,16 @@
       "name" : "Winfo"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,blue,silver",
+      "created_at" : "2021-03-21 10:55:53",
+      "developer" : "Giorgio Calderolla",
+      "link" : "https:\/\/giorgiocalderolla.com\/wipr.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111892223-6efdee80-8a34-11eb-8dfe-3e23aac6ee3c.png",
+      "tag" : "Rectangle",
+      "name" : "Wipr"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "yellow,white",
       "created_at" : "2019-09-11 16:42:51",
@@ -20791,5 +20801,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-20 00:24:02 GMT+8"
+  "update_time" : "2021-03-21 10:59:31 GMT+8"
 }
