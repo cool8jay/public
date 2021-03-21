@@ -5987,7 +5987,7 @@
       "developer" : "MacAppStudio",
       "link" : "https:\/\/www.macappstudio.com\/apps\/expenses",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68597050-42000a00-04d7-11ea-8417-eb388ee076ef.png",
-      "tag" : "Bag,Money",
+      "tag" : "Wallet,Money",
       "name" : "Expenses"
     },
     {
@@ -19981,6 +19981,16 @@
       "name" : "Wallet"
     },
     {
+      "category" : "Finance",
+      "color" : "green,white",
+      "created_at" : "2021-03-21 11:08:12",
+      "developer" : "Adel Bassiony",
+      "link" : "https:\/\/walletry.fantazia.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111892519-1f6cf200-8a37-11eb-9028-ee5e3453d8b4.png",
+      "tag" : "Rectangle,Wallet",
+      "name" : "Walletry"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,purple,black",
       "created_at" : "2019-09-11 16:46:17",
@@ -20801,5 +20811,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-21 10:59:31 GMT+8"
+  "update_time" : "2021-03-21 11:20:53 GMT+8"
 }
