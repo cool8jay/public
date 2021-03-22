@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Awale Changelog</title>
+    <link>http://https://raw.githubusercontent.com/cool8jay/public/master/awale/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+      <item>
+        <title>Version 1.0.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>abc.</li>
+              <li>def.</li>
+              <li>ghi.</li>
+              <li>jkl.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Sat, 20 Mar 2021 15:20:11 +0000</pubDate>
+        <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" sparkle:version="1.0.1" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
+      </item>
+  </channel>
+</rss>
