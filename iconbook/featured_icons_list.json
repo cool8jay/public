@@ -18172,6 +18172,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "black,white,brown,blue",
+      "created_at" : "2021-03-26 19:59:24",
+      "developer" : "Xeric Design",
+      "link" : "http:\/\/www.xericdesign.com\/timepalette.php",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/112628459-e46f2200-8e6d-11eb-96f0-78432d3da652.png",
+      "tag" : "Clock",
+      "name" : "Time Palette"
+    },
+    {
+      "category" : "Utilities",
       "color" : "purple,white",
       "created_at" : "2018-10-30 10:55:24",
       "developer" : "Many Tricks",
@@ -20831,5 +20841,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-26 19:49:08 GMT+8"
+  "update_time" : "2021-03-26 20:01:14 GMT+8"
 }
