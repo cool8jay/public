@@ -2261,6 +2261,16 @@
       "name" : "CandyBar"
     },
     {
+      "category" : "Utilities",
+      "color" : "green,black",
+      "created_at" : "2021-03-30 21:52:34",
+      "developer" : "The Sync Factory",
+      "link" : "https:\/\/hedge.video\/canister",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/113001057-02f15800-91a3-11eb-8537-aa9c3fd63b48.png",
+      "tag" : "Rectangle",
+      "name" : "Canister"
+    },
+    {
       "category" : "Music",
       "color" : "yellow,black",
       "created_at" : "2018-10-30 10:08:06",
@@ -2644,7 +2654,7 @@
       "category" : "Utilities",
       "color" : "green,black",
       "created_at" : "2018-10-30 10:10:18",
-      "developer" : "The Sync Factory B.V",
+      "developer" : "The Sync Factory",
       "link" : "https:\/\/hedge.video\/checkpoint",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574445-ccebcc96-73b3-11e8-8594-8d75cd192411.png",
       "tag" : "Film,Tilt",
@@ -6831,6 +6841,16 @@
       "name" : "FontSieve"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "red,yellow,green,purple,black",
+      "created_at" : "2021-03-30 21:57:02",
+      "developer" : "The Sync Factory",
+      "link" : "https:\/\/hedge.video\/foolcat",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/113001052-01279480-91a3-11eb-9bef-8871fcae6628.png",
+      "tag" : "Eye",
+      "name" : "Foolcat"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue,white",
       "created_at" : "2020-11-18 09:47:20",
@@ -7782,9 +7802,19 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "silver,black",
+      "created_at" : "2021-03-30 21:43:55",
+      "developer" : "The Sync Factory",
+      "link" : "https:\/\/hedge.video\/hedge",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/113001061-0389ee80-91a3-11eb-8270-9a7900815f83.png",
+      "tag" : "Rectangle",
+      "name" : "Hedge 2"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "green,silver,black",
       "created_at" : "2019-09-11 18:23:41",
-      "developer" : "The Sync Factory B.V",
+      "developer" : "The Sync Factory",
       "link" : "https:\/\/hedge.video",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574711-098ead8a-73b4-11e8-9d10-fe7dea5ee024.png",
       "tag" : "Film,Lock",
@@ -20861,5 +20891,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-03-30 21:40:07 GMT+8"
+  "update_time" : "2021-03-30 22:00:29 GMT+8"
 }
