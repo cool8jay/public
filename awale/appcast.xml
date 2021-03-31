@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Awale Changelog</title>
-    <link>http://https://raw.githubusercontent.com/cool8jay/public/master/awale/appcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-      <item>
-        <title>Version 1.0.1</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>abc.</li>
-              <li>def.</li>
-              <li>ghi.</li>
-              <li>jkl.</li>
-            </ul>
-          ]]>
-        </description>
-        <pubDate>Sat, 20 Mar 2021 15:20:11 +0000</pubDate>
-        <enclosure url="https://github.com/cool8jay/public/blob/master/awale/Awale.app.zip?raw=true" sparkle:version="1.0.1" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
-      </item>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Awale</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 01 Apr 2021 00:27:13 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/awale/Awale.zip" sparkle:version="4" sparkle:shortVersionString="1.0.1" length="4766695" type="application/octet-stream" sparkle:edSignature="5rfDle1Grikzxrg+Dx5HZLQfrBH092pjW4iN1dXBMq2i5de9qXphBPGtLEnLlxb7NBhnPJqXt2MpPpvkLnNuBw=="/>
+        </item>
+    </channel>
 </rss>
