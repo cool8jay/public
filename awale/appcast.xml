@@ -4,16 +4,23 @@
         <title>Awale</title>
         <item>
             <title>1.0.1</title>
-                    <description>
-          <![CDATA[
-            <ul>
-              <li>abc.</li>
-              <li>def.</li>
-              <li>ghi.</li>
-              <li>jkl.</li>
-            </ul>
-          ]]>
-        </description>
+            <description>
+                <![CDATA[
+                    <h1>Version 1.0.1</h1>
+                    <h2>Added: </h2>
+                    <ul>
+                    <li>LetsMove.</li>
+                    </ul>
+                    <h2>Improved: </h2>
+                    <ul>
+                    <li>Compatibility with macOS Big Sur.</li>
+                    </ul>
+                    <h2>Fixed: </h2>
+                    <ul>
+                    <li>Somebug.</li>
+                    </ul>
+                ]]>
+            </description>
             <pubDate>Thu, 01 Apr 2021 00:27:13 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/awale/Awale.zip" sparkle:version="4" sparkle:shortVersionString="1.0.1" length="4766695" type="application/octet-stream" sparkle:edSignature="5rfDle1Grikzxrg+Dx5HZLQfrBH092pjW4iN1dXBMq2i5de9qXphBPGtLEnLlxb7NBhnPJqXt2MpPpvkLnNuBw=="/>
