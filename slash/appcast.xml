@@ -1,24 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Slash Changelog</title>
-    <link>http://https://raw.githubusercontent.com/cool8jay/public/master/slash/appcast.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-      <item>
-        <title>Version 1.0.1</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-              <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
-              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
-              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
-            </ul>
-          ]]>
-        </description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" sparkle:version="1.0.1" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
-      </item>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Slash</title>
+        <item>
+            <title>1.0.1</title>
+            <description>
+                <![CDATA[
+                    <h1>Version 1.0.1</h1>
+                    <h2>Added: </h2>
+                    <ul>
+                    <li>LetsMove.</li>
+                    </ul>
+                    <h2>Improved: </h2>
+                    <ul>
+                    <li>Compatibility with macOS Big Sur.</li>
+                    </ul>
+                    <h2>Fixed: </h2>
+                    <ul>
+                    <li>Somebug.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 05 Apr 2021 00:15:11 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/slash/Slash.zip" sparkle:version="2" sparkle:shortVersionString="1.0.1" length="6015190" type="application/octet-stream" sparkle:edSignature="GixaUGIdcVJquW6bWrr0NF9me8f3J+4Wc+EarAvY++PrrInt7GrxEHlRr0T0ZOLdPP2AxE7HYF/hThXY/NWuCg=="/>
+        </item>
+    </channel>
 </rss>
