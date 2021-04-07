@@ -20612,6 +20612,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "white,black",
+      "created_at" : "2021-04-07 21:15:31",
+      "developer" : "Guilherme Rambo",
+      "link" : "https:\/\/wwdc.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/113872446-79ff9f80-97e6-11eb-92fe-9ff40cc3d866.png",
+      "tag" : "Rectangle,Tag",
+      "name" : "WWDC"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue",
       "created_at" : "2020-02-14 18:35:41",
       "developer" : "Apple",
@@ -20961,5 +20971,5 @@
       "name" : "Zotero"
     }
   ],
-  "update_time" : "2021-04-07 19:24:43 GMT+8"
+  "update_time" : "2021-04-07 21:16:38 GMT+8"
 }
