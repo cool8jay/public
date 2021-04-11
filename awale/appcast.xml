@@ -23,7 +23,7 @@
             </description>
             <pubDate>Thu, 01 Apr 2021 00:27:13 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/awale/Awale.zip" sparkle:version="4" sparkle:shortVersionString="1.0.1" length="4766695" type="application/octet-stream" sparkle:edSignature="5rfDle1Grikzxrg+Dx5HZLQfrBH092pjW4iN1dXBMq2i5de9qXphBPGtLEnLlxb7NBhnPJqXt2MpPpvkLnNuBw=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/awale/Awale.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0" length="4766695" type="application/octet-stream" sparkle:edSignature="5rfDle1Grikzxrg+Dx5HZLQfrBH092pjW4iN1dXBMq2i5de9qXphBPGtLEnLlxb7NBhnPJqXt2MpPpvkLnNuBw=="/>
         </item>
     </channel>
 </rss>
