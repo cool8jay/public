@@ -7512,6 +7512,16 @@
     },
     {
       "category" : "Graphics & Design",
+      "color" : "green,white",
+      "created_at" : "2021-04-11 22:19:43",
+      "developer" : "Glyphs GmbH",
+      "link" : "https:\/\/glyphsapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/114307934-8c464a00-9b14-11eb-878d-b870d6f5bb1a.png",
+      "tag" : "Character",
+      "name" : "Glyphs Mini"
+    },
+    {
+      "category" : "Graphics & Design",
       "color" : "yellow,white",
       "created_at" : "2019-09-04 01:39:56",
       "developer" : "Ignazio Lacitignola",
@@ -21001,5 +21011,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-04-11 01:30:21 GMT+8"
+  "update_time" : "2021-04-11 22:24:26 GMT+8"
 }
