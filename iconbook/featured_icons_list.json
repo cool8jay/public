@@ -7472,12 +7472,22 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "purple,silver",
+      "created_at" : "2021-04-18 00:51:29",
+      "developer" : "Github",
+      "link" : "https:\/\/desktop.github.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/115120518-805cfb00-9fe0-11eb-92a9-935a3f5bb188.png",
+      "tag" : "Rectangle,Octopus,Cat,Animal",
+      "name" : "GitHub Desktop 2.6.3"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "purple,white",
       "created_at" : "2019-09-11 16:29:52",
       "developer" : "Github",
       "link" : "https:\/\/desktop.github.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574693-053cfdb8-73b4-11e8-9b99-8ca1d8114fd3.png",
-      "tag" : "Octopus,Round",
+      "tag" : "Octopus,Round,Cat,Animal",
       "name" : "Github Desktop"
     },
     {
@@ -21031,5 +21041,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-04-14 19:43:45 GMT+8"
+  "update_time" : "2021-04-18 00:54:01 GMT+8"
 }
