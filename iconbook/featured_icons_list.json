@@ -671,6 +671,16 @@
       "name" : "All Windows Appear"
     },
     {
+      "category" : "Business",
+      "color" : "white,black",
+      "created_at" : "2021-04-21 21:48:10",
+      "developer" : "BeeCanvas, Inc.",
+      "link" : "https:\/\/allo.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/115564758-5b6fcd00-a2eb-11eb-9103-a0654cb224c7.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Allo"
+    },
+    {
       "category" : "Productivity",
       "color" : "green,white,black",
       "created_at" : "2018-10-30 10:56:23",
@@ -21071,5 +21081,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-04-20 23:35:17 GMT+8"
+  "update_time" : "2021-04-21 21:49:16 GMT+8"
 }
