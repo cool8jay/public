@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Captin</title>
+        <item>
+            <title>1.1.3</title>
+            <description>
+                <![CDATA[
+                    <h1>Version 1.1.3</h1>
+                    <h2>Added: </h2>
+                    <ul>
+                    <li>Due to discontinuity of DevMate, Captin now switches to its own updating solution.</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 22 Apr 2021 22:26:21 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="144" sparkle:shortVersionString="1.1.3" length="2906873" type="application/octet-stream" sparkle:edSignature="BVmFfO5iZuDxBJ38ZyQfBQMIhGRkVY0vEZPc5/RZCd84EswmJEzdXFBGeYtwHw35jb76KofheiMBfjZeBh9NDw=="/>
+        </item>
+    </channel>
+</rss>
