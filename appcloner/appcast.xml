@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AppCloner</title>
+        <item>
+            <title>1.0.10</title>
+            <description>
+                <![CDATA[
+                    <h1>Version 1.0.10</h1>
+                    <h2>Added: </h2>
+                    <ul>
+                    <li>Due to discontinuity of DevMate, AppCloner now switches to its own updating solution.</li>
+                    </ul>
+                    <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
+                ]]>
+            </description>
+            <pubDate>Fri, 23 Apr 2021 22:26:24 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure url="AppCloner.zip" sparkle:version="102" sparkle:shortVersionString="1.0.10" length="4773395" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
