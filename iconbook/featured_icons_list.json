@@ -1031,6 +1031,16 @@
       "name" : "ARCSOFT™ - Website Builder"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2021-04-26 22:54:53",
+      "developer" : "Haystack Software LLC",
+      "link" : "https:\/\/www.arqbackup.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/116104018-b2f2ac00-a6e2-11eb-85ae-07b0849ca45a.png",
+      "tag" : "Shield",
+      "name" : "Arq"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "purple",
       "created_at" : "2018-10-30 10:25:35",
@@ -19451,6 +19461,16 @@
       "name" : "Typeface 2"
     },
     {
+      "category" : "Graphics & Design",
+      "color" : "orange,white",
+      "created_at" : "2021-04-26 22:54:51",
+      "developer" : "Criminalbird",
+      "link" : "https:\/\/typefaceapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/116104030-b5550600-a6e2-11eb-87d1-b8ae271873af.png",
+      "tag" : "Rectangle,Animal,Fox",
+      "name" : "Typeface 3"
+    },
+    {
       "category" : "Productivity",
       "color" : "silver",
       "created_at" : "2021-01-28 00:17:31",
@@ -21091,5 +21111,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-04-22 01:13:43 GMT+8"
+  "update_time" : "2021-04-26 22:57:34 GMT+8"
 }
