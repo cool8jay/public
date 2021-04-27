@@ -3,20 +3,21 @@
     <channel>
         <title>Captin</title>
         <item>
-            <title>1.1.3</title>
+            <title>1.1.4</title>
             <description>
                 <![CDATA[
-                    <h1>Version 1.1.3</h1>
-                    <h2>Added: </h2>
+                    <h1>Version 1.1.4</h1>
+                    <h2>Improved: </h2>
                     <ul>
-                    <li>Due to discontinuity of DevMate, Captin now switches to its own updating solution.</li>
+                    <li>Update icon setting view.</li>
+                    <li>Increase stability.</li>
                     </ul>
                     <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
                 ]]>
             </description>
-            <pubDate>Thu, 22 Apr 2021 22:26:21 +0800</pubDate>
+            <pubDate>Tue, 27 Apr 2021 22:32:29 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="143" sparkle:shortVersionString="1.1.3" length="2906873" type="application/octet-stream" sparkle:edSignature="BVmFfO5iZuDxBJ38ZyQfBQMIhGRkVY0vEZPc5/RZCd84EswmJEzdXFBGeYtwHw35jb76KofheiMBfjZeBh9NDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="146" sparkle:shortVersionString="1.1.4" length="2906710" type="application/octet-stream" sparkle:edSignature="90yG3W/uQUxO3wZUK0ylXZOzN4Gz+BaefsawFltF0jnS/HcSQO5gorMnLyibzXe9eta3oRC6GcgEM9HX0vFLAQ=="/>
         </item>
     </channel>
 </rss>
