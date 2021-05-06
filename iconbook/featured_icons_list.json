@@ -62,6 +62,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,white",
+      "created_at" : "2021-05-06 20:11:47",
+      "developer" : "1Sense",
+      "link" : "https:\/\/www.1sense.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/117296609-d61e1800-aea7-11eb-92dc-63d688c98fbc.png",
+      "tag" : "Rectangle",
+      "name" : "1Sense"
+    },
+    {
+      "category" : "Productivity",
       "color" : "yellow,green,blue,black",
       "created_at" : "2018-10-30 10:06:44",
       "developer" : "Beehive Innovations",
@@ -2031,6 +2041,16 @@
       "name" : "Browser Care"
     },
     {
+      "category" : "Health & Fitness",
+      "color" : "blue,purple,white",
+      "created_at" : "2021-05-06 20:11:04",
+      "developer" : "Scriptbird Ltd.",
+      "link" : "https:\/\/buddymove.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/117296630-da4a3580-aea7-11eb-9d69-265f5ec02500.png",
+      "tag" : "Rectangle,Portrait",
+      "name" : "BuddyMove"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue",
       "created_at" : "2018-10-30 10:21:05",
@@ -3504,8 +3524,8 @@
       "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2021-02-10 12:02:51",
-      "developer" : "Eltima Software",
-      "link" : "https:\/\/mac.eltima.com\/file-manager.html",
+      "developer" : "Electronic Team, Inc",
+      "link" : "https:\/\/ftp-mac.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/107462858-fa63a480-6b97-11eb-9cf5-30eeac4ccfb1.png",
       "tag" : "Rectangle,Window",
       "name" : "Commander One 3.0"
@@ -3514,8 +3534,8 @@
       "category" : "Utilities",
       "color" : "purple,white",
       "created_at" : "2021-02-10 12:00:04",
-      "developer" : "Eltima Software",
-      "link" : "https:\/\/mac.eltima.com\/file-manager.html",
+      "developer" : "Electronic Team, Inc",
+      "link" : "https:\/\/ftp-mac.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/107462680-97720d80-6b97-11eb-9bf7-f64743f0e75c.png",
       "tag" : "Window,Rectangle",
       "name" : "Commander One PRO"
@@ -3524,7 +3544,7 @@
       "category" : "Utilities",
       "color" : "blue,silver,black",
       "created_at" : "2019-09-12 03:14:04",
-      "developer" : "Eltima Software",
+      "developer" : "Electronic Team, Inc",
       "link" : "https:\/\/mac.eltima.com\/file-manager.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574482-d5e28858-73b3-11e8-9e36-d7bcfb7d4ca6.png",
       "tag" : "Tilt,Window",
@@ -9431,6 +9451,16 @@
       "name" : "Juno Editor"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,purple,white",
+      "created_at" : "2021-04-20 23:34:22",
+      "developer" : "Electronic Team, Inc",
+      "link" : "https:\/\/www.electronic.us\/products\/just-stream-free-pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/115424148-00799f80-a231-11eb-8af7-e53b47488f6e.png",
+      "tag" : "Rectangle",
+      "name" : "JustStream 2"
+    },
+    {
       "category" : "Lifestyle",
       "color" : "blue,white",
       "created_at" : "2019-11-06 16:31:45",
@@ -10475,7 +10505,7 @@
       "color" : "white,green",
       "created_at" : "2020-03-22 15:47:02",
       "developer" : "Electronic Team, Inc",
-      "link" : "https:\/\/www.macdroid.app\/",
+      "link" : "https:\/\/www.electronic.us\/products\/macdroid",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/77244851-cbc59e00-6c54-11ea-895f-99ac95f8d9f1.png",
       "tag" : "Robot,Hexagon",
       "name" : "MacDroid"
@@ -21141,5 +21171,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-06 19:32:41 GMT+8"
+  "update_time" : "2021-05-06 20:23:32 GMT+8"
 }
