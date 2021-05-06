@@ -8861,6 +8861,16 @@
       "name" : "Inform"
     },
     {
+      "category" : "Entertainment",
+      "color" : "orange,white",
+      "created_at" : "2021-05-06 19:30:27",
+      "developer" : "Firecore, LLC",
+      "link" : "https:\/\/firecore.com\/infuse",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/117291565-bedc2c00-aea1-11eb-8d72-76800350a2c1.png",
+      "tag" : "Rectangle,Symbol",
+      "name" : "Infuse"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "orange,blue,silver,black",
       "created_at" : "2020-04-09 10:19:35",
@@ -13929,6 +13939,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486391-10016d80-299f-11eb-8e03-9b85ab98a1ac.png",
       "tag" : "Rectangle",
       "name" : "Planny 4.2.1"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,white",
+      "created_at" : "2021-05-06 19:29:07",
+      "developer" : "Kevin Reutter",
+      "link" : "https:\/\/www.kevinreutter.de",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/117291574-c26fb300-aea1-11eb-92e4-57b2e862be15.png",
+      "tag" : "Rectangle,Paper",
+      "name" : "Planny 5"
     },
     {
       "category" : "Productivity",
@@ -21121,5 +21141,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-05 23:17:37 GMT+8"
+  "update_time" : "2021-05-06 19:32:41 GMT+8"
 }
