@@ -7702,7 +7702,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,blue,white,silver,black",
+      "color" : "red,blue,white,black",
       "created_at" : "2020-12-06 15:10:12",
       "developer" : "Media Atelier",
       "link" : "https:\/\/mediaatelier.com\/GrandTotal",
@@ -16082,6 +16082,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,purple,silver",
+      "created_at" : "2021-05-08 22:41:42",
+      "developer" : "Splash Colors MChJ",
+      "link" : "https:\/\/splashroad.com\/separation-studio",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/117543451-837f6000-b04f-11eb-9f84-75fd309bce70.png",
+      "tag" : "Rectangle",
+      "name" : "Separation Studio 2.1.5"
+    },
+    {
+      "category" : "Utilities",
       "color" : "purple",
       "created_at" : "2020-06-19 23:49:26",
       "developer" : "Splash Colors MChJ",
@@ -16592,7 +16602,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "brown,black,orange,silver,yellow",
+      "color" : "orange,yellow,silver,black",
       "created_at" : "2021-03-03 19:58:51",
       "developer" : "Michael O. McCracken",
       "link" : "https:\/\/skim-app.sourceforge.io",
@@ -21112,7 +21122,7 @@
     },
     {
       "category" : "Photo & Video",
-      "color" : "",
+      "color" : "red,orange,yellow,green,blue,purple",
       "created_at" : "2019-09-12 03:13:15",
       "developer" : "Yaroslav Glushchenko",
       "link" : "http:\/\/candysquare.com\/products\/zepheer",
@@ -21171,5 +21181,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-06 20:23:32 GMT+8"
+  "update_time" : "2021-05-08 22:49:05 GMT+8"
 }
