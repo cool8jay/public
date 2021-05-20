@@ -9474,7 +9474,7 @@
       "category" : "Developer Tools",
       "color" : "red,green,blue,purple",
       "created_at" : "2019-09-11 18:10:02",
-      "developer" : "Black Pixel",
+      "developer" : "Letter Opener GmbH",
       "link" : "https:\/\/www.kaleidoscopeapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574788-1dc8671e-73b4-11e8-8f1a-411a02e68da2.png",
       "tag" : "Triangle",
@@ -19874,7 +19874,7 @@
       "category" : "Developer Tools",
       "color" : "yellow,green,white",
       "created_at" : "2018-10-30 10:39:51",
-      "developer" : "Black Pixel",
+      "developer" : "Letter Opener GmbH",
       "link" : "https:\/\/versionsapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575336-bb7584ba-73b4-11e8-9837-6fae5be699a8.png",
       "tag" : "Document",
@@ -19882,9 +19882,19 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "yellow,green,blue",
+      "created_at" : "2021-05-20 21:30:05",
+      "developer" : "Letter Opener GmbH",
+      "link" : "https:\/\/versionsapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/118987753-1fe02580-b9b3-11eb-824e-0e42ec4b1c0c.png",
+      "tag" : "Rectangle,Plant",
+      "name" : "Versions 2"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "yellow,green",
       "created_at" : "2018-10-30 11:05:57",
-      "developer" : "Black Pixel",
+      "developer" : "Letter Opener GmbH",
       "link" : "https:\/\/versionsapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575337-bbcdf712-73b4-11e8-805d-b74fde481765.png",
       "tag" : "Plant",
@@ -21181,5 +21191,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-08 22:49:05 GMT+8"
+  "update_time" : "2021-05-20 21:34:42 GMT+8"
 }
