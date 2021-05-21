@@ -19312,6 +19312,66 @@
     },
     {
       "category" : "Social Networking",
+      "color" : "yellow,green",
+      "created_at" : "2021-05-21 20:49:05",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144132-f4287280-ba7a-11eb-922a-b1c5e888d0b3.png",
+      "tag" : "Rectangle,Bird",
+      "name" : "Twitterrific - Baby Yollie"
+    },
+    {
+      "category" : "Social Networking",
+      "color" : "yellow,green",
+      "created_at" : "2021-05-21 20:49:05",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144138-f5f23600-ba7a-11eb-833e-cbee116c4b6c.png",
+      "tag" : "Rectangle,Bird",
+      "name" : "Twitterrific - Big Sur Baby Yollie"
+    },
+    {
+      "category" : "Social Networking",
+      "color" : "blue,purple",
+      "created_at" : "2021-05-21 20:49:05",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144095-ea9f0a80-ba7a-11eb-932a-67158e487873.png",
+      "tag" : "Rectangle,Bird",
+      "name" : "Twitterrific - Big Sur Stay Safe"
+    },
+    {
+      "category" : "Social Networking",
+      "color" : "red,yellow,brown",
+      "created_at" : "2021-05-21 20:49:05",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144131-f2f74580-ba7a-11eb-843c-d0e165efcff8.png",
+      "tag" : "Rectangle,Bird",
+      "name" : "Twitterrific - Big Sur Turkey"
+    },
+    {
+      "category" : "Social Networking",
+      "color" : "blue,purple",
+      "created_at" : "2021-05-21 20:49:05",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144129-f25eaf00-ba7a-11eb-94e2-bf17b6d74943.png",
+      "tag" : "Bird",
+      "name" : "Twitterrific - Stay Safe"
+    },
+    {
+      "category" : "Social Networking",
+      "color" : "red,yellow,brown",
+      "created_at" : "2021-05-21 20:49:05",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144119-f094eb80-ba7a-11eb-89bd-d738e3117be4.png",
+      "tag" : "Bird",
+      "name" : "Twitterrific - Turkey"
+    },
+    {
+      "category" : "Social Networking",
       "color" : "orange,blue,black",
       "created_at" : "2019-10-22 22:50:47",
       "developer" : "The Iconfactory",
@@ -19439,6 +19499,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798986-06a70580-ef42-11e9-9639-fd8ed28d9bcf.png",
       "tag" : "Animal,Bird",
       "name" : "Twitterrific 5"
+    },
+    {
+      "category" : "Social Networking",
+      "color" : "yellow,blue",
+      "created_at" : "2021-05-21 20:32:59",
+      "developer" : "The Iconfactory",
+      "link" : "https:\/\/twitterrific.com\/mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119144145-f7236300-ba7a-11eb-9aa7-0dff8fab739c.png",
+      "tag" : "Rectangle",
+      "name" : "Twitterrific 5.4.6"
     },
     {
       "category" : "Productivity",
@@ -21191,5 +21261,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-20 21:34:42 GMT+8"
+  "update_time" : "2021-05-21 21:28:06 GMT+8"
 }
