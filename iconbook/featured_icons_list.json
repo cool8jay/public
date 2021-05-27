@@ -457,7 +457,7 @@
       "developer" : "Vincent Tourraine",
       "link" : "https:\/\/www.studioamanga.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/105660666-773f1f00-5f06-11eb-90bb-058ee293a184.png",
-      "tag" : "Rectangle,Hill",
+      "tag" : "Rectangle,Mountain",
       "name" : "Air Grenoble"
     },
     {
@@ -627,7 +627,7 @@
       "developer" : "Ajour",
       "link" : "https:\/\/getajour.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/95660455-a3eb4880-0b5a-11eb-86d9-1e135582fc8c.png",
-      "tag" : "WOW",
+      "tag" : "Rectangle",
       "name" : "Ajour"
     },
     {
@@ -1307,7 +1307,7 @@
       "developer" : "Han Lin Yap",
       "link" : "http:\/\/yap.nu\/2016",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036780-082c86b6-8d3a-11e8-8f24-5820f15e59c3.png",
-      "tag" : "Meter",
+      "tag" : "Meter,Battery",
       "name" : "Battery Time Remaining 2"
     },
     {
@@ -4037,7 +4037,7 @@
       "developer" : "Any Case Solutions",
       "link" : "https:\/\/anycasesolutions.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914251-db738b80-fd38-11ea-9936-488aed5aed64.png",
-      "tag" : "Book,Agenda",
+      "tag" : "Book,Calendar",
       "name" : "Daily Planner - To Do Lists"
     },
     {
@@ -7197,7 +7197,7 @@
       "developer" : "BatteryProject, LLC",
       "link" : "http:\/\/fruitjuiceapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574670-ff6c837c-73b3-11e8-87c1-8b94f466a070.png",
-      "tag" : "Drink",
+      "tag" : "Drink,Battery",
       "name" : "FruitJuice"
     },
     {
@@ -7737,7 +7737,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486286-f4966280-299e-11eb-8f05-019d81121cf3.png",
-      "tag" : "Curve",
+      "tag" : "3D",
       "name" : "Grapher"
     },
     {
@@ -14037,7 +14037,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100168620-91578380-2efc-11eb-8257-460515f58d54.png",
-      "tag" : "Rectangle,Swift",
+      "tag" : "Rectangle,Bird",
       "name" : "Playgrounds 3.4"
     },
     {
@@ -15657,7 +15657,7 @@
       "developer" : "Amanita Design",
       "link" : "https:\/\/amanita-design.net\/games\/samorost-2.html",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99696386-9c0fb400-2ac9-11eb-984d-f19b27ed4c4d.png",
-      "tag" : "Dog,Character",
+      "tag" : "Character",
       "name" : "Samorost 2"
     },
     {
@@ -17897,7 +17897,7 @@
       "developer" : "Christian Tietze",
       "link" : "https:\/\/tableflipapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111799904-66a79580-8906-11eb-8404-cb125426361e.png",
-      "tag" : "Rectangle,Table",
+      "tag" : "Rectangle",
       "name" : "TableFlip"
     },
     {
@@ -20462,9 +20462,19 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,red,silver",
+      "created_at" : "2021-05-27 19:20:27",
+      "developer" : "Softorino Inc",
+      "link" : "https:\/\/softorino.com\/waltr",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/119817622-c7fc6e00-bf20-11eb-9408-f2b1dcde8c2d.png",
+      "tag" : "Rectangle",
+      "name" : "WALTR PRO"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2019-09-11 16:45:53",
-      "developer" : "Softorino",
+      "developer" : "Softorino Inc",
       "link" : "https:\/\/softorino.com\/waltr",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575363-c64fb73e-73b4-11e8-8fbe-cdfa8c09da4b.png",
       "tag" : "Round",
@@ -21271,5 +21281,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-27 00:16:19 GMT+8"
+  "update_time" : "2021-05-27 19:22:04 GMT+8"
 }
