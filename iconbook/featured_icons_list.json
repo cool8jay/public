@@ -2462,6 +2462,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,yellow,green",
+      "created_at" : "2021-05-29 22:21:45",
+      "developer" : "Flexibits Inc.",
+      "link" : "https:\/\/flexibits.com\/cardhop",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120073770-56612300-c0cc-11eb-892c-ee041ad1757c.png",
+      "tag" : "Rectangle",
+      "name" : "Cardhop 2"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,orange,yellow,white",
       "created_at" : "2018-10-30 11:00:55",
       "developer" : "Flexibits Inc.",
@@ -21281,5 +21291,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-27 19:22:04 GMT+8"
+  "update_time" : "2021-05-29 22:22:59 GMT+8"
 }
