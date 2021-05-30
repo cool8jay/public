@@ -20922,6 +20922,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2021-05-30 14:24:06",
+      "developer" : "BETTERWEBPAGES",
+      "link" : "https:\/\/writemapper.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120094424-d500a380-c152-11eb-9262-61f1d7820541.png",
+      "tag" : "Rectangle",
+      "name" : "WriteMapper"
+    },
+    {
+      "category" : "Productivity",
       "color" : "black",
       "created_at" : "2019-09-11 16:42:26",
       "developer" : "iA Inc.",
@@ -21321,5 +21331,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-30 14:03:40 GMT+8"
+  "update_time" : "2021-05-30 14:25:25 GMT+8"
 }
