@@ -19942,10 +19942,20 @@
     },
     {
       "category" : "Graphics & Design",
+      "color" : "black,white,brown,blue",
+      "created_at" : "2021-05-30 14:42:46",
+      "developer" : "Linearity GmbH",
+      "link" : "https:\/\/www.vectornator.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120094862-6c66f600-c155-11eb-8432-27577ce0260d.png",
+      "tag" : "Rectangle",
+      "name" : "Vectornator 4"
+    },
+    {
+      "category" : "Graphics & Design",
       "color" : "red,white,black",
       "created_at" : "2020-11-17 11:40:45",
       "developer" : "Linearity GmbH",
-      "link" : "https:\/\/www.vectornator.io\/",
+      "link" : "https:\/\/www.vectornator.io",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486398-1263c780-299f-11eb-9825-f4e923d56dc9.png",
       "tag" : "Rectangle",
       "name" : "Vectornator"
@@ -21331,5 +21341,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-30 14:25:25 GMT+8"
+  "update_time" : "2021-05-30 14:43:56 GMT+8"
 }
