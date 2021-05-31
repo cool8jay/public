@@ -4052,6 +4052,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "orange,yellow,white,black",
+      "created_at" : "2021-05-31 23:40:07",
+      "developer" : "iterate GmbH",
+      "link" : "https:\/\/cyberduck.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120216473-a88b7b00-c269-11eb-9112-d514097e3fb9.png",
+      "tag" : "Bird,Rectangle",
+      "name" : "Cyberduck 7.9.0"
+    },
+    {
+      "category" : "Productivity",
       "color" : "orange,yellow",
       "created_at" : "2018-10-30 10:31:03",
       "developer" : "iterate GmbH",
@@ -21341,5 +21351,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-30 14:43:56 GMT+8"
+  "update_time" : "2021-05-31 23:42:08 GMT+8"
 }
