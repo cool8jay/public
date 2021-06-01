@@ -521,6 +521,16 @@
       "name" : "AirDrop"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,purple,silver",
+      "created_at" : "2021-06-01 22:24:05",
+      "developer" : "BitCave Ltd.",
+      "link" : "https:\/\/airflow.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120340167-56f5f580-c328-11eb-9381-a281d8fbb210.png",
+      "tag" : "Round",
+      "name" : "Airflow"
+    },
+    {
       "category" : "Music",
       "color" : "blue,black",
       "created_at" : "2019-09-12 03:21:57",
@@ -21351,5 +21361,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-05-31 23:42:08 GMT+8"
+  "update_time" : "2021-06-01 22:26:17 GMT+8"
 }
