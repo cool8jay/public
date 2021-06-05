@@ -6991,6 +6991,16 @@
       "name" : "Folx - Document"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,yellow,white,black",
+      "created_at" : "2021-06-05 19:05:02",
+      "developer" : "Eltima Software",
+      "link" : "https:\/\/mac.eltima.com\/download-manager.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120889775-477cf200-c631-11eb-8a9c-0877a56121cc.png",
+      "tag" : "Rocket",
+      "name" : "Folx GO"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,yellow,blue",
       "created_at" : "2019-09-12 03:18:05",
@@ -21411,5 +21421,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-06-03 23:13:39 GMT+8"
+  "update_time" : "2021-06-05 19:07:50 GMT+8"
 }
