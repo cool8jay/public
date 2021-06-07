@@ -3971,7 +3971,17 @@
       "name" : "CoverSutra"
     },
     {
-      "category" : "Utilities",
+      "category" : "Productivity",
+      "color" : "red,blue,white",
+      "created_at" : "2021-06-07 20:47:01",
+      "developer" : "Luki Labs Ltd",
+      "link" : "http:\/\/craft.do",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/121019447-053ee680-c7d2-11eb-9920-89ce3ab2d58f.png",
+      "tag" : "Rectangle",
+      "name" : "Craft 1.6.1"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue,purple,white,black",
       "created_at" : "2020-07-23 21:43:30",
       "developer" : "Luki Labs Ltd",
@@ -21431,5 +21441,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-06-05 19:15:38 GMT+8"
+  "update_time" : "2021-06-07 20:51:02 GMT+8"
 }
