@@ -5873,9 +5873,19 @@
     {
       "category" : "Photo & Video",
       "color" : "orange,black",
+      "created_at" : "2021-06-28 19:31:13",
+      "developer" : "Eltima Software",
+      "link" : "https:\/\/mac.eltima.com\/video-player.htm",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123630361-0353ca80-d848-11eb-8180-ad70bf039f85.png",
+      "tag" : "Rectangle",
+      "name" : "Elmedia Player 8"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "orange,black",
       "created_at" : "2018-10-30 10:06:40",
       "developer" : "Eltima Software",
-      "link" : "https:\/\/mac.eltima.com\/elmedia-appletv.html",
+      "link" : "https:\/\/mac.eltima.com\/video-player.htm",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574598-ef409cfe-73b3-11e8-9c11-e2ab18eb09e1.png",
       "tag" : "Player",
       "name" : "Elmedia Player"
@@ -15061,6 +15071,16 @@
       "name" : "Quip"
     },
     {
+      "category" : "Weather",
+      "color" : "red,yellow,green,blue,black",
+      "created_at" : "2021-06-28 19:32:52",
+      "developer" : "qweather",
+      "link" : "https:\/\/www.qweather.com\/en\/app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123630352-0058da00-d848-11eb-8157-55c0fbdbbec5.png",
+      "tag" : "Rectangle",
+      "name" : "QWeather"
+    },
+    {
       "category" : "Games",
       "color" : "red,blue",
       "created_at" : "2019-09-11 17:45:14",
@@ -15149,6 +15169,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45405941-50fee880-b697-11e8-8934-4e04a422da77.png",
       "tag" : "Pencil,Rectangle,Tilt",
       "name" : "RapidWeaver 8"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "yellow,blue,white",
+      "created_at" : "2021-06-28 19:28:53",
+      "developer" : "Realmac Software",
+      "link" : "https:\/\/www.realmacsoftware.com\/rapidweaver",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123630367-051d8e00-d848-11eb-96f6-9eb6549884a4.png",
+      "tag" : "Pen,Rectangle,Titl",
+      "name" : "RapidWeaver 9"
     },
     {
       "category" : "Graphics & Design",
@@ -16079,6 +16109,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575114-79cf79da-73b4-11e8-85d3-efe6da6dfe15.png",
       "tag" : "Film,Round",
       "name" : "ScreenFlow 7"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "purple,silver,black",
+      "created_at" : "2021-06-28 19:27:33",
+      "developer" : "Telestream, LLC",
+      "link" : "https:\/\/www.telestream.net\/screenflow\/overview.htm",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123630370-064ebb00-d848-11eb-804c-210b089515c6.png",
+      "tag" : "Rectangle",
+      "name" : "ScreenFlow 9"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "yellow,white,black",
+      "created_at" : "2021-06-28 19:30:05",
+      "developer" : "Telestream, LLC",
+      "link" : "https:\/\/www.telestream.net\/screenflow\/overview.htm",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123630366-0484f780-d848-11eb-8bf7-96709ce2a085.png",
+      "tag" : "Rectangle",
+      "name" : "ScreenFlow 10"
     },
     {
       "category" : "Photo & Video",
@@ -21571,5 +21621,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-06-27 22:08:36 GMT+8"
+  "update_time" : "2021-06-28 19:35:59 GMT+8"
 }
