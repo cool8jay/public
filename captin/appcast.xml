@@ -6,18 +6,17 @@
             <title>1.1.4</title>
             <description>
                 <![CDATA[
-                    <h1>Version 1.1.4</h1>
-                    <h2>Improved: </h2>
+                    <h1>Version 1.1.5</h1>
+                    <h2>Fixed: </h2>
                     <ul>
-                    <li>Update icon setting view.</li>
-                    <li>Increase stability.</li>
+                    <li>Issue on some models that can not get display preview info.</li>
                     </ul>
                     <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
                 ]]>
             </description>
-            <pubDate>Tue, 27 Apr 2021 22:32:29 +0800</pubDate>
+            <pubDate>Tue, 06 Jul 2021 21:36:59 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="146" sparkle:shortVersionString="1.1.4" length="2906710" type="application/octet-stream" sparkle:edSignature="90yG3W/uQUxO3wZUK0ylXZOzN4Gz+BaefsawFltF0jnS/HcSQO5gorMnLyibzXe9eta3oRC6GcgEM9HX0vFLAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="147" sparkle:shortVersionString="1.1.5" length="2908259" type="application/octet-stream" sparkle:edSignature="ZLjPlP3BVv30tDUtUA5A4DU6WC4lCie6ufk5pgvyQ+r6VFKZEmGCsmIjfqXoc59jYDvdMpR25TP7IeKSePWwBg=="/>
         </item>
     </channel>
 </rss>
