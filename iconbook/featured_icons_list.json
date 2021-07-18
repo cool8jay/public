@@ -9902,6 +9902,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "white,green,black",
+      "created_at" : "2021-07-18 22:15:03",
+      "developer" : "IXEAU",
+      "link" : "https:\/\/www.ixeau.com\/keystroke-pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/126070617-95f78b45-b7f7-4b51-9311-600450de905d.png",
+      "tag" : "Symbol,Rectangle",
+      "name" : "Keystroke Pro 2"
+    },
+    {
+      "category" : "Utilities",
       "color" : "green,white,black",
       "created_at" : "2020-06-03 22:43:48",
       "developer" : "IXEAU",
@@ -21711,5 +21721,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-07-18 16:51:21 GMT+8"
+  "update_time" : "2021-07-18 22:17:04 GMT+8"
 }
