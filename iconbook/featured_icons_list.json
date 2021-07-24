@@ -16771,6 +16771,16 @@
       "name" : "Simon"
     },
     {
+      "category" : "Games",
+      "color" : "black,white,brown,blue",
+      "created_at" : "2021-07-24 00:29:15",
+      "developer" : "Tactile Games",
+      "link" : "https:\/\/tactilegames.com\/simons-cat-story-time",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/126866031-705cf498-b01f-4c97-a79f-3bd5a349cdbf.png",
+      "tag" : "Rectangle,Cat",
+      "name" : "Simon's Cat - Story Time"
+    },
+    {
       "category" : "Entertainment",
       "color" : "blue,white",
       "created_at" : "2019-09-12 03:12:27",
@@ -21721,5 +21731,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-07-18 22:17:04 GMT+8"
+  "update_time" : "2021-07-24 18:42:31 GMT+8"
 }
