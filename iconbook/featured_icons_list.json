@@ -957,7 +957,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486244-e8aaa080-299e-11eb-98e0-b0cc125afe50.png",
-      "tag" : "Big Sur",
+      "tag" : "",
       "name" : "App Store Big Sur"
     },
     {
@@ -1897,7 +1897,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486287-f4966280-299e-11eb-9ad6-8a42f9cc47be.png",
-      "tag" : "Big Sur",
+      "tag" : "",
       "name" : "Books Big Sur"
     },
     {
@@ -2277,7 +2277,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486302-f8c28000-299e-11eb-971e-6df6ce59aaa4.png",
-      "tag" : "Big Sur",
+      "tag" : "",
       "name" : "Calculator Big Sur"
     },
     {
@@ -2297,7 +2297,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486322-fd873400-299e-11eb-9383-533347614666.png",
-      "tag" : "Big Sur,Rectangle",
+      "tag" : "Rectangle",
       "name" : "Calendar Big Sur"
     },
     {
@@ -2837,7 +2837,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486335-011abb00-299f-11eb-9924-1a0ef5205088.png",
-      "tag" : "Rectangle,Horse,Big Sur",
+      "tag" : "Rectangle,Horse",
       "name" : "Chess Big Sur"
     },
     {
@@ -3777,7 +3777,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486376-0c6de680-299f-11eb-944d-9c528edcdf31.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Contacts Big Sur"
     },
     {
@@ -4927,7 +4927,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486390-10016d80-299f-11eb-8c92-44b0518cbbe7.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Dictionary Big Sur"
     },
     {
@@ -6667,7 +6667,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486429-1d1e5c80-299f-11eb-81ab-5cd91f40d5d2.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Finder Big Sur"
     },
     {
@@ -6707,7 +6707,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486440-24de0100-299f-11eb-8970-0d72d3658d79.png",
-      "tag" : "Big Sur,Wave",
+      "tag" : "Wave",
       "name" : "FindMy Big Sur"
     },
     {
@@ -7127,7 +7127,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486257-ec3e2780-299e-11eb-8431-5f01fea410db.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Font Book Big Sur"
     },
     {
@@ -8387,7 +8387,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486288-f52ef900-299e-11eb-95c0-d2a0294d9145.png",
-      "tag" : "Rectangle,Big Sur,House",
+      "tag" : "Rectangle,House",
       "name" : "Home Big Sur"
     },
     {
@@ -10949,6 +10949,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798925-f98a1680-ef41-11e9-9535-9f05fdfb4cfc.png",
       "tag" : "Round",
       "name" : "macOS Mojave"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "purple,white",
+      "created_at" : "2021-08-02 19:44:12",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/macos\/monterey-preview",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/127857091-b598f8da-d0e0-4eff-b5bc-01b6ba8a1aef.png",
+      "tag" : "Round",
+      "name" : "macOS Monterey"
     },
     {
       "category" : "Utilities",
@@ -13987,7 +13997,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486384-0d9f1380-299f-11eb-8452-b051eaf9d7da.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Photos Big Sur"
     },
     {
@@ -14657,7 +14667,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486276-f2cc9f00-299e-11eb-9716-8acc719b5334.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Preview Big Sur"
     },
     {
@@ -16712,6 +16722,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "red,blue,purple,black",
+      "created_at" : "2021-08-02 19:44:12",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/macos\/monterey-preview",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/127857094-18986259-facc-441b-955e-5caf493b680b.png",
+      "tag" : "Rectangle",
+      "name" : "Shortcuts Monterey"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2019-09-11 17:27:32",
       "developer" : "Nulana",
@@ -16877,8 +16897,18 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486323-fd873400-299e-11eb-9bb3-800322801286.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Siri Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,green,blue,white",
+      "created_at" : "2021-08-02 19:44:12",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/siri\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/127857096-39a47f10-3271-4eba-a3da-584d6e0dcaa8.png",
+      "tag" : "Rectangle",
+      "name" : "Siri Monterey"
     },
     {
       "category" : "Utilities",
@@ -18537,7 +18567,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486383-0d9f1380-299f-11eb-8f78-356032fab9c2.png",
-      "tag" : "Rectangle,Pencil,Big Sur",
+      "tag" : "Rectangle,Pencil",
       "name" : "TextEdit Big Sur"
     },
     {
@@ -18877,7 +18907,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486392-109a0400-299f-11eb-801f-17f163bb48a5.png",
-      "tag" : "Big Sur,Rectangle",
+      "tag" : "Rectangle",
       "name" : "Time Machine Big Sur"
     },
     {
@@ -20687,7 +20717,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486404-14c62180-299f-11eb-9b69-b70554db74a8.png",
-      "tag" : "Rectangle,Big Sur",
+      "tag" : "Rectangle",
       "name" : "Voice Memos Big Sur"
     },
     {
@@ -20717,7 +20747,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486421-1859a880-299f-11eb-8f69-91bf6b044964.png",
-      "tag" : "Big Sur",
+      "tag" : "",
       "name" : "VoiceOver Utility Big Sur"
     },
     {
@@ -21751,5 +21781,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-07-26 21:45:23 GMT+8"
+  "update_time" : "2021-08-02 19:47:26 GMT+8"
 }
