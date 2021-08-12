@@ -13531,6 +13531,16 @@
       "name" : "PassLocker"
     },
     {
+      "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2021-08-12 18:33:50",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/129183645-e984c407-29d4-4ce4-958a-c1294ffd5cf0.png",
+      "tag" : "Key",
+      "name" : "Passwords"
+    },
+    {
       "category" : "Productivity",
       "color" : "orange,yellow",
       "created_at" : "2019-09-11 16:32:04",
@@ -16551,6 +16561,16 @@
       "name" : "Setapp"
     },
     {
+      "category" : "Utilities",
+      "color" : "black,silver",
+      "created_at" : "2021-08-12 18:28:51",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/129183659-da80d6a3-7b74-4731-9a0e-b1ef520b3fac.png",
+      "tag" : "Rectangle",
+      "name" : "Setup Assistant Monterey"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "green,blue,black",
       "created_at" : "2021-01-31 23:16:10",
@@ -19333,6 +19353,16 @@
     {
       "category" : "Utilities",
       "color" : "red,silver",
+      "created_at" : "2021-08-12 18:30:45",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/129183652-5c891bb4-8b3b-478f-b9b8-f85da0d12dc9.png",
+      "tag" : "Round,Fingerprint",
+      "name" : "Touch ID Monterey"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,silver",
       "created_at" : "2021-02-26 21:55:33",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -21781,5 +21811,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-08-02 19:47:26 GMT+8"
+  "update_time" : "2021-08-12 18:42:13 GMT+8"
 }
