@@ -3871,6 +3871,16 @@
       "name" : "Comic Life 3"
     },
     {
+      "category" : "Entertainment",
+      "color" : "red,orange,silver",
+      "created_at" : "2022-04-06 19:30:34",
+      "developer" : "Hidden Key LTD",
+      "link" : "https:\/\/comictrack.app\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/161965685-316387a8-303a-47e2-ab81-2d3b1ad808dd.png",
+      "tag" : "Rectangle,Book",
+      "name" : "ComicTrack"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2019-09-11 15:15:35",
@@ -23441,5 +23451,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-08-19 19:26:42 GMT+8"
+  "update_time" : "2022-04-06 19:34:31 GMT+8"
 }
