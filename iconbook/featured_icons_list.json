@@ -1381,6 +1381,16 @@
       "name" : "BBEdit - Project"
     },
     {
+      "category" : "Utilities",
+      "color" : "black,silver",
+      "created_at" : "2021-08-24 21:42:13",
+      "developer" : "Bare Bones Software, Inc.",
+      "link" : "http:\/\/www.barebones.com\/products\/bbedit",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/130627372-ee6d9a20-3895-4957-aa25-9026111f4ede.png",
+      "tag" : "Rectangle,Character",
+      "name" : "BBEdit 14"
+    },
+    {
       "category" : "Productivity",
       "color" : "purple,white",
       "created_at" : "2018-10-30 11:06:10",
@@ -21861,5 +21871,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-08-24 21:40:42 GMT+8"
+  "update_time" : "2021-08-24 21:43:05 GMT+8"
 }
