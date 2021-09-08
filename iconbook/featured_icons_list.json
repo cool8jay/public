@@ -20971,6 +20971,16 @@
       "name" : "Wake Up Time"
     },
     {
+      "category" : "Health & Fitness",
+      "color" : "yellow,green",
+      "created_at" : "2021-09-09 00:30:41",
+      "developer" : "Andres Canella",
+      "link" : "https:\/\/wakeout.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/132548904-a278d4bd-a478-4e02-9944-5991dfb229c3.png",
+      "tag" : "Bear",
+      "name" : "Wakeout"
+    },
+    {
       "category" : "Productivity",
       "color" : "brown",
       "created_at" : "2019-09-11 16:46:18",
@@ -21871,5 +21881,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-08-24 21:43:05 GMT+8"
+  "update_time" : "2021-09-09 00:33:37 GMT+8"
 }
