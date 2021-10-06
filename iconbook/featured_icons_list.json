@@ -5892,6 +5892,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "orange,white,black",
+      "created_at" : "2021-12-04 22:29:02",
+      "developer" : "Moneyplant Technologies",
+      "link" : "https:\/\/moneyplanttechnologies.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144715180-ce84f853-4496-4bd4-8bbb-cf6a652adea2.png",
+      "tag" : "Rectangle",
+      "name" : "Duplicate Finder and Cleaner"
+    },
+    {
+      "category" : "Utilities",
       "color" : "silver",
       "created_at" : "2019-11-30 20:32:34",
       "developer" : "Apple",
@@ -22511,5 +22521,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-12-04 11:14:42 GMT+8"
+  "update_time" : "2021-12-04 23:35:22 GMT+8"
 }
