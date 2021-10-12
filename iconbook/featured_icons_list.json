@@ -9752,6 +9752,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "red,yellow,green,blue,black",
+      "created_at" : "2021-10-12 18:25:21",
+      "developer" : "Letter Opener GmbH",
+      "link" : "https:\/\/www.kaleidoscopeapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/136939388-461d4042-67d5-4e85-8668-d66b15b73bd5.png",
+      "tag" : "Rectangle,Triangle",
+      "name" : "Kaleidoscope 3"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "red,green,blue,purple",
       "created_at" : "2019-09-11 18:10:02",
       "developer" : "Letter Opener GmbH",
@@ -21921,5 +21931,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-09-28 23:44:56 GMT+8"
+  "update_time" : "2021-10-12 18:29:02 GMT+8"
 }
