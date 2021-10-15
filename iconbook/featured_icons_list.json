@@ -13451,6 +13451,16 @@
       "name" : "Pagico 9"
     },
     {
+      "category" : "Productivity",
+      "color" : "black,brown,orange,silver",
+      "created_at" : "2021-10-15 21:44:17",
+      "developer" : "NOTES 17 LLC",
+      "link" : "https:\/\/www.pagico.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/137498087-e117f6e1-b7ec-49f0-a576-f933e4eb2c2a.png",
+      "tag" : "Rectangle",
+      "name" : "Pagico 10"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue,white",
       "created_at" : "2019-09-11 18:00:35",
@@ -21931,5 +21941,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-10-12 18:29:02 GMT+8"
+  "update_time" : "2021-10-15 21:52:56 GMT+8"
 }
