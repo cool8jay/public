@@ -2971,6 +2971,16 @@
       "name" : "Chronicle 5-8"
     },
     {
+      "category" : "Finance",
+      "color" : "red,white,black",
+      "created_at" : "2021-10-18 22:53:22",
+      "developer" : "LittleFin LLC",
+      "link" : "http:\/\/chronicleapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/137890151-95372e2c-62f1-4844-a0d3-ce8232ac2228.png",
+      "tag" : "Rectangle,Stamp",
+      "name" : "Chronicle 10"
+    },
+    {
       "category" : "Utilities",
       "color" : "brown",
       "created_at" : "2018-10-30 11:12:45",
@@ -8111,6 +8121,16 @@
       "name" : "Habitify"
     },
     {
+      "category" : "News",
+      "color" : "orange,white,black",
+      "created_at" : "2021-10-18 22:50:25",
+      "developer" : "Ammad Ur Rehman",
+      "link" : "https:\/\/github.com\/anosidium\/HacKit-Feedback-And-Support",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/137890155-63823f91-bfb5-4721-8f0f-2b474f53104c.png",
+      "tag" : "Rectangle,Newspaper",
+      "name" : "HacKit"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue,white,silver,black",
       "created_at" : "2018-10-30 10:39:34",
@@ -12889,6 +12909,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/101804447-8f243480-3b4c-11eb-9b2d-59faee6f5e92.png",
       "tag" : "Rectangle",
       "name" : "NotePlan 3"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "white,orange",
+      "created_at" : "2021-10-18 22:49:11",
+      "developer" : "NotePlan",
+      "link" : "https:\/\/noteplan.co",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/137890160-cb34852f-bb41-4813-a3b5-a2e9e3fda4f1.png",
+      "tag" : "Rectangle",
+      "name" : "NotePlan 3.0.26"
     },
     {
       "category" : "Productivity",
@@ -19462,10 +19492,20 @@
     },
     {
       "category" : "Productivity",
+      "color" : "brown,purple,silver",
+      "created_at" : "2021-10-19 18:12:35",
+      "developer" : "The Iconfactory",
+      "link" : "http:\/\/tot.rocks",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/137890144-5b74de0e-0832-417a-b580-324e848a4d35.png",
+      "tag" : "Rectangle",
+      "name" : "Tot 1.2.2"
+    },
+    {
+      "category" : "Productivity",
       "color" : "purple,black",
       "created_at" : "2020-03-22 15:39:16",
       "developer" : "The Iconfactory",
-      "link" : "http:\/\/tot.rocks\/",
+      "link" : "http:\/\/tot.rocks",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/77244852-cff1bb80-6c54-11ea-80e5-36b7385a7652.png",
       "tag" : "Rectangle,Tilt",
       "name" : "Tot"
@@ -21971,5 +22011,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-10-18 21:00:59 GMT+8"
+  "update_time" : "2021-10-19 18:17:19 GMT+8"
 }
