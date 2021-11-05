@@ -13381,6 +13381,16 @@
       "name" : "Optimage"
     },
     {
+      "category" : "Productivity",
+      "color" : "black,orange,green",
+      "created_at" : "2021-11-05 20:33:25",
+      "developer" : "OrangeNotes",
+      "link" : "https:\/\/orangelab.tech\/orangenotes",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/140510836-488ab931-c14b-44af-9b2a-aa4851d15302.png",
+      "tag" : "Rectangle,Fruit",
+      "name" : "Orange Notes"
+    },
+    {
       "category" : "Weather",
       "color" : "red,green,blue,white",
       "created_at" : "2019-09-11 18:00:38",
@@ -14349,6 +14359,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575008-5bf92fe6-73b4-11e8-8633-167ae84d20e4.png",
       "tag" : "Arrow",
       "name" : "PinPoint Pro"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "white,black",
+      "created_at" : "2021-11-05 20:35:19",
+      "developer" : "Pitch Software GmbH",
+      "link" : "https:\/\/pitch.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/140521855-8bedffb3-8da0-425d-8da5-c2991e7b4048.png",
+      "tag" : "Rectangle",
+      "name" : "Pitch 1.51"
     },
     {
       "category" : "Productivity",
@@ -22051,5 +22071,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-11-05 20:24:44 GMT+8"
+  "update_time" : "2021-11-05 22:02:17 GMT+8"
 }
