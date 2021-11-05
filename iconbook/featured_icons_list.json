@@ -13303,6 +13303,16 @@
     {
       "category" : "Utilities",
       "color" : "blue,white,black",
+      "created_at" : "2021-11-05 20:23:17",
+      "developer" : "Fireball",
+      "link" : "https:\/\/fireball.studio",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/140509732-ef79dcd9-2605-4f84-af1e-c9f1a3e9c5a1.png",
+      "tag" : "Rectangle",
+      "name" : "One Switch 1.22"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:01:02",
       "developer" : "Fireball",
       "link" : "https:\/\/fireball.studio",
@@ -22041,5 +22051,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-10-27 23:44:45 GMT+8"
+  "update_time" : "2021-11-05 20:24:44 GMT+8"
 }
