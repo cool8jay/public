@@ -13961,6 +13961,16 @@
       "name" : "PDF Squeezer 4"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,blue,white,black",
+      "created_at" : "2021-11-08 09:18:16",
+      "developer" : "Witt Software",
+      "link" : "https:\/\/witt-software.com\/pdfsqueezer",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/140692600-2ef0b11b-1f00-4aa1-82e7-770918892207.png",
+      "tag" : "Rectangle,Machine",
+      "name" : "PDF Squeezer 4.4"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,blue,white",
       "created_at" : "2020-07-23 22:51:43",
@@ -22081,5 +22091,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-11-06 01:27:14 GMT+8"
+  "update_time" : "2021-11-08 14:10:43 GMT+8"
 }
