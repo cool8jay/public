@@ -5772,6 +5772,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,brown",
+      "created_at" : "2021-11-09 23:44:14",
+      "developer" : "FIPLAB Limited",
+      "link" : "https:\/\/fiplab.com\/apps\/duplicate-detective-2-for-mac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/140957270-04284603-541a-47f8-b10d-24b1b4cc5a8c.png",
+      "tag" : "Folder,Hat",
+      "name" : "Duplicate Detective 2"
+    },
+    {
+      "category" : "Utilities",
       "color" : "blue,silver,brown,black",
       "created_at" : "2018-10-30 10:37:00",
       "developer" : "FIPLAB Limited",
@@ -22091,5 +22101,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-11-08 14:10:43 GMT+8"
+  "update_time" : "2021-11-09 23:49:13 GMT+8"
 }
