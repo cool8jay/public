@@ -6962,6 +6962,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "brown,purple,silver",
+      "created_at" : "2021-11-12 18:59:35",
+      "developer" : "Flinto",
+      "link" : "https:\/\/www.flinto.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/141456647-fc60c086-5c2e-4b70-a41e-40798211b58d.png",
+      "tag" : "Rectangle",
+      "name" : "Flinto 29"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "red,blue",
       "created_at" : "2019-09-12 03:18:30",
       "developer" : "Flinto",
@@ -7849,6 +7859,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/111331606-04ebef00-86ac-11eb-8ae6-67a5209bc017.png",
       "tag" : "Rectangle,Fox,Animal",
       "name" : "Gitfox 1.4910"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "black,yellow",
+      "created_at" : "2021-11-12 19:00:51",
+      "developer" : "bytieful e.U.",
+      "link" : "https:\/\/www.gitfox.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/141456851-42fa40bd-aa7c-4ec8-8d00-db489126aa42.png",
+      "tag" : "Fox,Animal,Rectangle",
+      "name" : "Gitfox 2"
     },
     {
       "category" : "Developer Tools",
@@ -9781,6 +9801,16 @@
       "name" : "Juicy Realm"
     },
     {
+      "category" : "Utilities",
+      "color" : "red,white,brown,blue,silver",
+      "created_at" : "2021-11-12 19:06:33",
+      "developer" : "Phase Five Systems",
+      "link" : "https:\/\/jumpdesktop.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/141458047-892a8761-cd90-4c32-a177-9bf654f0558f.png",
+      "tag" : "Mask",
+      "name" : "Jump Desktop"
+    },
+    {
       "category" : "Music",
       "color" : "red,blue,white",
       "created_at" : "2019-09-11 18:10:02",
@@ -11389,6 +11419,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486331-ffe98e00-299e-11eb-96ec-2d8606143552.png",
       "tag" : "Rectangle",
       "name" : "Maps Big Sur"
+    },
+    {
+      "category" : "Travel",
+      "color" : "yellow,green,blue,white",
+      "created_at" : "2021-11-12 18:58:20",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/141456659-c925ef27-8af5-4a38-a0ac-0ca2f8e37ff3.png",
+      "tag" : "Rectangle",
+      "name" : "Maps Monterey"
     },
     {
       "category" : "Productivity",
@@ -15559,6 +15599,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037349-33f7a442-8d3f-11e8-980a-780b007d79e7.png",
       "tag" : "Character",
       "name" : "Raskin"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "purple,red,white,orange,silver,brown",
+      "created_at" : "2021-11-12 19:04:44",
+      "developer" : "Dylan Lualdi",
+      "link" : "https:\/\/twitter.com\/RCKit_App",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/141457409-39841a13-3a37-45e1-b0e7-aa6cf8f90273.png",
+      "tag" : "Rectangle,Cat,Animal",
+      "name" : "RCKit - RevenueCat Dashboard"
     },
     {
       "category" : "News",
@@ -22111,5 +22161,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-11-11 22:15:27 GMT+8"
+  "update_time" : "2021-11-12 19:12:29 GMT+8"
 }
