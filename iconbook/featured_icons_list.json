@@ -32,6 +32,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2019-11-29 23:40:27",
+      "developer" : "AgileBits Inc.",
+      "link" : "https:\/\/1password.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050279-c9e83ffc-f2a0-4cf7-bd02-fcc41400b7b9.png",
+      "tag" : "Key",
+      "name" : "1Password 3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue,silver,black",
       "created_at" : "2019-10-22 22:58:24",
       "developer" : "AgileBits Inc.",
@@ -319,6 +329,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798825-d3647680-ef41-11e9-83f7-b33b4d61f18c.png",
       "tag" : "Animal",
       "name" : "Adapter"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "brown,black",
+      "created_at" : "2019-11-30 20:30:23",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050236-0da8376a-0230-4e7d-9b6e-f7e2f7be319b.png",
+      "tag" : "Book",
+      "name" : "Address 5"
     },
     {
       "category" : "Utilities",
@@ -963,6 +983,16 @@
     {
       "category" : "Utilities",
       "color" : "blue,white",
+      "created_at" : "2019-11-30 20:31:25",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050246-9f3e8899-822c-45a8-b96c-9bc3babb817b.png",
+      "tag" : "Round",
+      "name" : "App Store 1"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
       "created_at" : "2019-11-21 23:06:52",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -977,7 +1007,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486244-e8aaa080-299e-11eb-98e0-b0cc125afe50.png",
-      "tag" : "",
+      "tag" : "Rectangle",
       "name" : "App Store Big Sur"
     },
     {
@@ -1249,6 +1279,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798848-deb7a200-ef41-11e9-84f6-f0d0f56c2d1d.png",
       "tag" : "Character,Round",
       "name" : "Audulus 3"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,silver,black",
+      "created_at" : "2019-11-30 20:22:51",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050259-4385e016-a4e8-4eaf-afa4-617a17182219.png",
+      "tag" : "Robot",
+      "name" : "Automator 2"
     },
     {
       "category" : "Productivity",
@@ -1937,7 +1977,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486287-f4966280-299e-11eb-9ad6-8a42f9cc47be.png",
-      "tag" : "",
+      "tag" : "Rectangle",
       "name" : "Books Big Sur"
     },
     {
@@ -2312,12 +2352,22 @@
     },
     {
       "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2019-11-30 20:23:39",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050257-1c5a9c94-7671-4bfc-8234-d2380e4be48f.png",
+      "tag" : "Device",
+      "name" : "Calculator 4"
+    },
+    {
+      "category" : "Utilities",
       "color" : "orange,silver,black",
       "created_at" : "2020-11-17 13:13:04",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486302-f8c28000-299e-11eb-971e-6df6ce59aaa4.png",
-      "tag" : "",
+      "tag" : "Device",
       "name" : "Calculator Big Sur"
     },
     {
@@ -5001,6 +5051,16 @@
       "name" : "Dictionaries"
     },
     {
+      "category" : "Reference",
+      "color" : "red,white",
+      "created_at" : "2019-11-30 20:32:01",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050244-e6eb371c-e9d3-4bc1-ba91-df79b38b2132.png",
+      "tag" : "Book",
+      "name" : "Dictionary 2"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,white",
       "created_at" : "2020-11-17 13:13:04",
@@ -5382,7 +5442,7 @@
     },
     {
       "category" : "Developer Tools",
-      "color" : "red,green,blue,white,silver",
+      "color" : "red,green,blue,white",
       "created_at" : "2018-10-30 10:56:42",
       "developer" : "Araelium",
       "link" : "https:\/\/www.araelium.com\/dmgcanvas",
@@ -5829,6 +5889,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574590-ed41450c-73b3-11e8-8c22-2b3af610f278.png",
       "tag" : "Folder,Hat,Magnifier",
       "name" : "Duplicate Detective"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2019-11-30 20:32:34",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050242-914884c1-befe-46a4-b14e-e0a309d93524.png",
+      "tag" : "Device",
+      "name" : "DVD Player 5"
     },
     {
       "category" : "Utilities",
@@ -6471,7 +6541,17 @@
       "name" : "F10 Launch Studio"
     },
     {
-      "category" : "Utilities",
+      "category" : "Social Networking",
+      "color" : "blue,silver,black",
+      "created_at" : "2019-11-30 20:24:16",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050255-9c5020f6-015f-49cd-b31b-3525bef2dc5c.png",
+      "tag" : "Camera",
+      "name" : "FaceTime 0.9"
+    },
+    {
+      "category" : "Social Networking",
       "color" : "green,white",
       "created_at" : "2020-11-17 13:13:04",
       "developer" : "Apple",
@@ -7262,6 +7342,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "silver",
+      "created_at" : "2019-11-30 20:24:49",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050254-1aeac424-f217-4c0d-8dda-93d56b63a3a4.png",
+      "tag" : "Book",
+      "name" : "Font Book 2"
+    },
+    {
+      "category" : "Utilities",
       "color" : "silver,black",
       "created_at" : "2020-11-17 13:13:04",
       "developer" : "Apple",
@@ -7571,6 +7661,16 @@
       "name" : "Fretello"
     },
     {
+      "category" : "Entertainment",
+      "color" : "red,yellow",
+      "created_at" : "2019-11-29 23:49:00",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050263-1f69505f-a807-43d1-a6e4-9b26e170d5e3.png",
+      "tag" : "Chair",
+      "name" : "Front Row"
+    },
+    {
       "category" : "Utilities",
       "color" : "yellow,green",
       "created_at" : "2019-09-12 03:17:35",
@@ -7619,6 +7719,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574672-fffc2d60-73b3-11e8-98bc-44982dbcca4b.png",
       "tag" : "Ghost",
       "name" : "Gapplin"
+    },
+    {
+      "category" : "Music",
+      "color" : "black,white,brown,yellow",
+      "created_at" : "2019-11-29 23:50:15",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050260-2b498818-060e-488f-b80c-9b6cdbd1d87b.png",
+      "tag" : "Instrument",
+      "name" : "GarageBand 5"
     },
     {
       "category" : "Music",
@@ -8881,6 +8991,16 @@
       "name" : "iBooks Author"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,white,silver,black",
+      "created_at" : "2019-11-30 20:33:19",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050239-789da3d8-af56-45bd-ac91-61d87dc89308.png",
+      "tag" : "Tilt",
+      "name" : "iCal 4"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,silver",
       "created_at" : "2019-09-11 18:18:13",
@@ -9089,6 +9209,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574747-127582e8-73b4-11e8-87d6-0f628f5cd671.png",
       "tag" : "Brush",
       "name" : "iKanji"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,silver,black",
+      "created_at" : "2019-11-30 20:25:36",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050250-15a43106-8467-4478-b160-bd5b13f27ea8.png",
+      "tag" : "Camera,Photo",
+      "name" : "Image Capture 6"
     },
     {
       "category" : "Utilities",
@@ -9529,6 +9659,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/88294972-6af7c080-cd2f-11ea-821f-e8f00bac599f.png",
       "tag" : "Hexagon,Card,Cloud",
       "name" : "iPhone Backup Extractor"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "yellow,white,black",
+      "created_at" : "2019-11-30 20:26:14",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050225-b93ffe09-fe49-4fd0-ab2c-fef48cdafabf.png",
+      "tag" : "Camera,Photo,Rectangle,Tilt",
+      "name" : "iPhoto 8"
     },
     {
       "category" : "Photo & Video",
@@ -10069,6 +10209,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574801-21166aa6-73b4-11e8-9b67-15b69b36e51c.png",
       "tag" : "Character,Tilt",
       "name" : "KeyKey"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "black,brown,silver,orange",
+      "created_at" : "2019-11-29 23:43:35",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/keynote",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050277-9b01f94f-f367-4376-bd1f-9484da868e93.png",
+      "tag" : "Stand",
+      "name" : "Keynote 5"
     },
     {
       "category" : "Productivity",
@@ -11329,6 +11479,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/130117009-2d437a11-c72d-4ac9-b778-e73b086b7ee8.png",
       "tag" : "Rectangle,Pen",
       "name" : "Magic"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2019-11-29 23:45:56",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050272-071e0269-318e-4522-b50f-aa70363d9f92.png",
+      "tag" : "Rectangle,Eagle,Tilt",
+      "name" : "Mail 4"
     },
     {
       "category" : "Productivity",
@@ -13242,6 +13402,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "yellow,green,blue,white",
+      "created_at" : "2019-11-29 23:44:44",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/numbers",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050275-927be7e4-9e23-43a3-9b18-b3a2b9ef8090.png",
+      "tag" : "Table",
+      "name" : "Numbers 2"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,orange,green,blue,white",
       "created_at" : "2020-11-13 09:51:10",
       "developer" : "Apple",
@@ -13629,6 +13799,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574963-4c21704c-73b4-11e8-91c4-fb092d30afe1.png",
       "tag" : "Animal,Coffee,Drink,Bird",
       "name" : "Owly"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "purple,black",
+      "created_at" : "2019-11-29 23:45:33",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com\/pages",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050274-e2b66b13-252b-4112-91cb-adb3cb33ccb3.png",
+      "tag" : "Pen",
+      "name" : "Pages 4"
     },
     {
       "category" : "Productivity",
@@ -14219,6 +14399,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574991-56172dc6-73b4-11e8-9e06-3f3f60e0eee5.png",
       "tag" : "Brush",
       "name" : "Photo Batch"
+    },
+    {
+      "category" : "Entertainment",
+      "color" : "black,red,brown,silver",
+      "created_at" : "2019-11-29 23:46:32",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050270-0f956233-8bb4-4915-bbd7-8ebf496371a4.png",
+      "tag" : "Photo",
+      "name" : "Photo Booth 3"
     },
     {
       "category" : "Entertainment",
@@ -15043,6 +15233,16 @@
     {
       "category" : "Productivity",
       "color" : "blue,white,black",
+      "created_at" : "2019-11-29 23:47:28",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050268-4864562a-c1a4-40dc-bd2a-146dfbb75f4d.png",
+      "tag" : "Photo,Magnifier",
+      "name" : "Preview 5"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,black",
       "created_at" : "2020-11-17 13:13:05",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -15492,12 +15692,22 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "blue,white",
+      "created_at" : "2019-11-30 20:27:14",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050231-6db09595-22fa-412c-8282-ef0a6812526c.png",
+      "tag" : "Character",
+      "name" : "QuickTime Player 10"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "blue,silver,black",
       "created_at" : "2020-11-17 13:13:05",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486294-f6602600-299e-11eb-8716-d8d28b6fa1ef.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Character",
       "name" : "QuickTime Player Big Sur"
     },
     {
@@ -16353,6 +16563,16 @@
     {
       "category" : "Productivity",
       "color" : "red,blue,white",
+      "created_at" : "2019-11-30 20:28:29",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050248-a8faff9c-cc0b-4f3d-929a-7b5c97e191ff.png",
+      "tag" : "Round,Compass",
+      "name" : "Safari 5"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,blue,white",
       "created_at" : "2020-11-17 13:13:05",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -16452,7 +16672,7 @@
     },
     {
       "category" : "Utilities",
-      "color" : "red,orange,green,blue,white",
+      "color" : "red,orange,green,white",
       "created_at" : "2018-11-29 16:18:28",
       "developer" : "Francesco Di Lorenzo & Fabrizio Rinaldi",
       "link" : "https:\/\/www.sblack.online",
@@ -16569,6 +16789,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575112-78d76fba-73b4-11e8-99a6-dd154699e0b8.png",
       "tag" : "Monitor,Tilt,Window",
       "name" : "ScreenFloat"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "purple,white,black",
+      "created_at" : "2019-11-29 23:48:12",
+      "developer" : "Telestream, LLC",
+      "link" : "https:\/\/www.telestream.net\/screenflow\/overview.htm",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050266-f89d1f15-c3c0-4c9f-a498-93b57c3936b2.png",
+      "tag" : "Camera,Film",
+      "name" : "ScreenFlow 2"
     },
     {
       "category" : "Photo & Video",
@@ -18982,6 +19212,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "yellow,white,silver",
+      "created_at" : "2019-11-30 20:29:11",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050247-e391c8b3-abbb-4f8b-86a1-6039587ead16.png",
+      "tag" : "Rectangle,Pen",
+      "name" : "TextEdit 1.7"
+    },
+    {
+      "category" : "Productivity",
       "color" : "white,silver",
       "created_at" : "2020-11-17 13:13:05",
       "developer" : "Apple",
@@ -19329,6 +19569,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575266-a5bde504-73b4-11e8-89e5-21e14ee65cd9.png",
       "tag" : "Disk,Pencil,Tilt",
       "name" : "TidyMyMusic"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green,silver",
+      "created_at" : "2019-11-29 23:49:40",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/144050261-0f7655cf-2e80-4915-afe1-23e70eca51c3.png",
+      "tag" : "Time",
+      "name" : "Time Machine 1"
     },
     {
       "category" : "Utilities",
@@ -21197,7 +21447,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486421-1859a880-299f-11eb-8f69-91bf6b044964.png",
-      "tag" : "",
+      "tag" : "Rectangle",
       "name" : "VoiceOver Utility Big Sur"
     },
     {
@@ -22251,5 +22501,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-11-25 18:23:40 GMT+8"
+  "update_time" : "2021-11-30 20:50:46 GMT+8"
 }
