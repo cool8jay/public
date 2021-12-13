@@ -20192,6 +20192,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "red,white,black",
+      "created_at" : "2021-12-13 19:06:40",
+      "developer" : "Transmission Project",
+      "link" : "https:\/\/transmissionbt.com\/download",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/145801711-8d43e670-cd42-491e-b667-07cfd97103f6.png",
+      "tag" : "Rectangle,Lever",
+      "name" : "Transmission 3"
+    },
+    {
+      "category" : "Utilities",
       "color" : "silver",
       "created_at" : "2018-10-30 10:21:59",
       "developer" : "Transmission Project",
@@ -22541,5 +22551,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-12-13 01:02:33 GMT+8"
+  "update_time" : "2021-12-13 19:11:38 GMT+8"
 }
