@@ -6772,9 +6772,19 @@
     },
     {
       "category" : "Productivity",
+      "color" : "black,white,orange,brown,silver",
+      "created_at" : "2021-12-23 22:54:10",
+      "developer" : "App Tyrant Corp.",
+      "link" : "https:\/\/apptyrant.com\/file-cabinet-pro-help",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147257119-f98e52e8-3cb5-4816-bdec-9b4d93120209.png",
+      "tag" : "Rectangle,Folder",
+      "name" : "File Cabinet Pro 8.4"
+    },
+    {
+      "category" : "Productivity",
       "color" : "yellow,brown",
       "created_at" : "2019-09-12 03:20:36",
-      "developer" : "Writes for All Inc.",
+      "developer" : "App Tyrant Corp.",
       "link" : "https:\/\/apptyrant.com\/file-cabinet-pro-help",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574631-f6d10d96-73b3-11e8-8725-a0257d18f15b.png",
       "tag" : "Folder",
@@ -12289,6 +12299,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574894-3a6aa620-73b4-11e8-8b48-8d2bb3c4a60c.png",
       "tag" : "Device",
       "name" : "Minion"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "black,brown,silver",
+      "created_at" : "2021-12-23 22:53:05",
+      "developer" : "IXEAU",
+      "link" : "https:\/\/ixeau.com\/mirror-magnet",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147257136-ad2ad1db-9afd-48be-95b1-5bf58dc6693e.png",
+      "tag" : "Rectangle,Camera",
+      "name" : "Mirror Magnet"
     },
     {
       "category" : "Utilities",
@@ -21384,7 +21404,7 @@
       "category" : "Developer Tools",
       "color" : "red,orange",
       "created_at" : "2018-10-30 10:22:24",
-      "developer" : "Writes for All Inc.",
+      "developer" : "App Tyrant Corp.",
       "link" : "https:\/\/apptyrant.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575346-bf1f8a84-73b4-11e8-8c37-64a6fb5d2484.png",
       "tag" : "Abstract",
@@ -22571,5 +22591,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-12-21 00:35:19 GMT+8"
+  "update_time" : "2021-12-23 22:56:24 GMT+8"
 }
