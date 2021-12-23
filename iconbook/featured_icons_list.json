@@ -4231,6 +4231,16 @@
       "name" : "Current"
     },
     {
+      "category" : "Productivity",
+      "color" : "green,white,black",
+      "created_at" : "2021-12-23 23:08:44",
+      "developer" : "IXEAU",
+      "link" : "https:\/\/ixeau.com\/cursor-pro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147258772-d33e6577-362e-4cbb-9ae7-b69003bc88a8.png",
+      "tag" : "Rectangle,Arrow",
+      "name" : "Cursor Pro"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,blue,silver",
       "created_at" : "2018-10-30 11:04:13",
@@ -12129,6 +12139,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/125469482-76e68989-f1b6-4831-883b-0ccffc019e29.png",
       "tag" : "Rectangle,Bird",
       "name" : "Migrate"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "black,silver",
+      "created_at" : "2021-12-23 23:12:46",
+      "developer" : "IXEAU",
+      "link" : "https:\/\/ixeau.com\/mikrolern-swift",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147259285-faac7ec6-3735-4bd1-b3df-ee0825406dd0.png",
+      "tag" : "Rectangle,Bird",
+      "name" : "Mikrolern für Swift"
     },
     {
       "category" : "Social Networking",
@@ -22591,5 +22611,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-12-23 22:56:24 GMT+8"
+  "update_time" : "2021-12-23 23:14:49 GMT+8"
 }
