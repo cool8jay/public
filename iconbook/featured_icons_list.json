@@ -3114,7 +3114,7 @@
       "category" : "Utilities",
       "color" : "brown",
       "created_at" : "2018-10-30 11:12:45",
-      "developer" : "Synium Software GmbH",
+      "developer" : "Synium Software",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/32955\/chronories",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036807-136b048a-8d3a-11e8-9933-41739ec1f772.png",
       "tag" : "Book,Tilt",
@@ -11174,7 +11174,7 @@
       "category" : "Graphics & Design",
       "color" : "orange,green",
       "created_at" : "2020-11-16 11:24:15",
-      "developer" : "Synium Software.",
+      "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/logoist",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222063-ba04bc80-281c-11eb-8c85-4989afdf3bbb.png",
       "tag" : "Rectangle,Stationery,Pencil,Ruler",
@@ -17314,7 +17314,7 @@
       "category" : "Photo & Video",
       "color" : "black",
       "created_at" : "2019-09-11 17:33:28",
-      "developer" : "Synium Software GmbH",
+      "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/screenium",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575116-7a34fa62-73b4-11e8-9ec9-10b5ea9361b4.png",
       "tag" : "Lens,Round",
@@ -21602,6 +21602,16 @@
     },
     {
       "category" : "Graphics & Design",
+      "color" : "orange,white",
+      "created_at" : "2021-12-25 21:41:33",
+      "developer" : "Synium Software",
+      "link" : "https:\/\/www.syniumsoftware.com\/vectorize",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147386220-3e0f75f1-1bbe-4c80-86fa-e579e86c6e6d.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Vectorize!"
+    },
+    {
+      "category" : "Graphics & Design",
       "color" : "black,white,brown,blue",
       "created_at" : "2021-05-30 14:42:46",
       "developer" : "Linearity GmbH",
@@ -23041,5 +23051,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-12-25 00:05:58 GMT+8"
+  "update_time" : "2021-12-25 21:49:04 GMT+8"
 }
