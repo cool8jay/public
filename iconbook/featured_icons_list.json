@@ -231,6 +231,16 @@
       "name" : "About This Mac"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "blue,white,black",
+      "created_at" : "2021-12-27 19:46:13",
+      "developer" : "Apple",
+      "link" : "https:\/\/developer.apple.com\/xcode\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147469044-4758dffc-10d7-4012-ab65-d11ff7b04725.png",
+      "tag" : "Rectangle,Magnifier",
+      "name" : "Accessibility Inspector"
+    },
+    {
       "category" : "Reference",
       "color" : "yellow,brown",
       "created_at" : "2014-11-04 04:13:09",
@@ -6922,6 +6932,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white,silver",
+      "created_at" : "2021-12-27 19:46:13",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147469058-8d5454f2-e9e1-4cb0-91de-78422607cf2c.png",
+      "tag" : "Rectangle",
+      "name" : "FileMerge Big Sur"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue,white",
       "created_at" : "2020-04-07 19:20:46",
       "developer" : "Apple",
@@ -9779,6 +9799,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/113858633-88de5600-97d6-11eb-8e61-02ebdcecfcc1.png",
       "tag" : "Rectangle",
       "name" : "Instruments 12"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,black",
+      "created_at" : "2021-12-27 19:46:13",
+      "developer" : "Apple",
+      "link" : "https:\/\/developer.apple.com\/xcode\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147469052-1cabcaa2-5571-49fa-9b4a-7a11929cbbe3.png",
+      "tag" : "Rectangle",
+      "name" : "Instruments Big Sur"
     },
     {
       "category" : "Developer Tools",
@@ -22685,7 +22715,7 @@
       "color" : "blue",
       "created_at" : "2020-02-14 18:35:41",
       "developer" : "Apple",
-      "link" : "https:\/\/developer.apple.com\/xcode",
+      "link" : "https:\/\/developer.apple.com\/xcode\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524180-7f9e8400-4f59-11ea-904d-a150aac5921d.png",
       "tag" : "Hammer,Tilt,Tool,Document",
       "name" : "Xcode 5"
@@ -22695,7 +22725,7 @@
       "color" : "blue,black",
       "created_at" : "2020-09-22 21:33:07",
       "developer" : "Apple",
-      "link" : "https:\/\/www.apple.com",
+      "link" : "https:\/\/developer.apple.com\/xcode\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914242-d9113180-fd38-11ea-890b-df0823be744a.png",
       "tag" : "Rectangle",
       "name" : "Xcode 12"
@@ -22705,7 +22735,7 @@
       "color" : "blue",
       "created_at" : "2019-12-18 12:24:36",
       "developer" : "Apple",
-      "link" : "https:\/\/developer.apple.com\/xcode",
+      "link" : "https:\/\/developer.apple.com\/xcode\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575385-ccf50832-73b4-11e8-926f-2907935af18b.png",
       "tag" : "Hammer,Tilt,Tool,Document",
       "name" : "Xcode"
@@ -23051,5 +23081,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2021-12-25 21:49:04 GMT+8"
+  "update_time" : "2021-12-27 19:49:00 GMT+8"
 }
