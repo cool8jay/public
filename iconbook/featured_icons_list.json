@@ -291,6 +291,16 @@
       "name" : "Accounted"
     },
     {
+      "category" : "Finance",
+      "color" : "blue,white",
+      "created_at" : "2022-01-11 22:21:40",
+      "developer" : "DesignTech SIA",
+      "link" : "https:\/\/www.designtech.so\/accountit",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/148996307-ef21eca7-35d6-4835-aae8-7adc01e0f3d3.png",
+      "tag" : "Rectangle",
+      "name" : "Accountit"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "silver,black",
       "created_at" : "2019-09-12 03:13:16",
@@ -5639,6 +5649,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45405914-4c3a3480-b697-11e8-8d8d-5f8a840479c4.png",
       "tag" : "Character,Round",
       "name" : "Don't Starve"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2022-01-11 22:21:43",
+      "developer" : "DesignTech SIA",
+      "link" : "https:\/\/www.designtech.so\/doneit",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/148996311-8372f411-3cd3-4a2b-93c1-67b6c5892ab5.png",
+      "tag" : "Rectangle,Todo",
+      "name" : "Doneit"
     },
     {
       "category" : "Utilities",
@@ -23101,5 +23121,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-01-02 00:54:36 GMT+8"
+  "update_time" : "2022-01-12 01:58:16 GMT+8"
 }
