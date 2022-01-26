@@ -6901,6 +6901,16 @@
       "name" : "Feedy"
     },
     {
+      "category" : "Music",
+      "color" : "white,black",
+      "created_at" : "2022-01-26 21:22:33",
+      "developer" : "Fender Digital",
+      "link" : "http:\/\/www.fender.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151171276-c9d65d63-fa4b-4da6-a623-f8d7eba7a7c5.png",
+      "tag" : "Rectangle,Device",
+      "name" : "Fender Tone"
+    },
+    {
       "category" : "Social Networking",
       "color" : "red,orange,yellow,blue",
       "created_at" : "2021-12-24 22:28:35",
@@ -8519,6 +8529,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45405937-50665200-b697-11e8-923c-254a501b8f78.png",
       "tag" : "Glasses",
       "name" : "GraphPad Prism"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "green,white",
+      "created_at" : "2022-01-26 21:22:36",
+      "developer" : "Savings LLC",
+      "link" : "https:\/\/greenbooks.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151171274-e65d3a1d-57bf-439f-b66e-01935b17e7e3.png",
+      "tag" : "Rectangle,Plant",
+      "name" : "GreenBooks"
     },
     {
       "category" : "Business",
@@ -13321,6 +13341,16 @@
       "name" : "NearLock"
     },
     {
+      "category" : "Weather",
+      "color" : "green,white",
+      "created_at" : "2022-01-26 21:22:25",
+      "developer" : "Teodors Zeltins",
+      "link" : "https:\/\/neatair.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151171279-d8f428c6-3cd8-4c5c-b099-0869cc97ec81.png",
+      "tag" : "Rectangle,Tree",
+      "name" : "NeatAir"
+    },
+    {
       "category" : "Business",
       "color" : "red,silver",
       "created_at" : "2019-09-11 18:01:53",
@@ -16582,6 +16612,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2022-01-26 21:21:33",
+      "developer" : "Ryan Hanson",
+      "link" : "https:\/\/rectangleapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151171281-13ec66f2-6b0a-46fb-8efa-1901cfa2dab7.png",
+      "tag" : "Rectangle,Window",
+      "name" : "Rectangle Pro"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue,black",
       "created_at" : "2020-04-08 22:56:26",
       "developer" : "Ryan Hanson",
@@ -18349,6 +18389,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99676681-c5254a00-2ab3-11eb-9d5a-55040cff578a.png",
       "tag" : "Rectangle",
       "name" : "Smart JSON Editor"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "silver,black,white,purple,blue",
+      "created_at" : "2022-01-26 21:22:28",
+      "developer" : "Cromulent Labs",
+      "link" : "https:\/\/www.cromulentlabs.com\/smart-photo-widget\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151171266-27243aab-2804-4248-9735-5d553a778f9a.png",
+      "tag" : "Rectangle",
+      "name" : "Smart Photo"
     },
     {
       "category" : "Productivity",
@@ -23131,5 +23181,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-01-15 23:30:45 GMT+8"
+  "update_time" : "2022-01-26 21:38:25 GMT+8"
 }
