@@ -10961,6 +10961,16 @@
       "name" : "Letterspace"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2022-01-26 21:56:28",
+      "developer" : "Kaunteyaa Suryawanshi",
+      "link" : "https:\/\/apps.apple.com\/app\/id1462580127",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151176504-b5427ea0-c74f-4bd7-88ea-6f4d45dae561.png",
+      "tag" : "Rectangle",
+      "name" : "Lexi - JSON brower"
+    },
+    {
       "category" : "Lifestyle",
       "color" : "silver,black",
       "created_at" : "2021-11-19 19:49:14",
@@ -18392,7 +18402,7 @@
     },
     {
       "category" : "Photo & Video",
-      "color" : "silver,black,white,purple,blue",
+      "color" : "blue,white",
       "created_at" : "2022-01-26 21:22:28",
       "developer" : "Cromulent Labs",
       "link" : "https:\/\/www.cromulentlabs.com\/smart-photo-widget\/",
@@ -19089,6 +19099,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575215-93adf480-73b4-11e8-9cbb-48607d8a42c8.png",
       "tag" : "Meter,Round",
       "name" : "StatsBar"
+    },
+    {
+      "category" : "Music",
+      "color" : "black",
+      "created_at" : "2022-01-26 21:56:25",
+      "developer" : "Agile Partners",
+      "link" : "http:\/\/agilepartners.com\/apps\/steadytune",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/151176500-1b80771b-0476-47ef-b62d-f93a2ef7c32b.png",
+      "tag" : "Rectangle,Device",
+      "name" : "SteadyTune"
     },
     {
       "category" : "Utilities",
@@ -23181,5 +23201,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-01-26 21:38:25 GMT+8"
+  "update_time" : "2022-01-26 21:59:40 GMT+8"
 }
