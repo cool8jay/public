@@ -1472,6 +1472,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "yellow,blue",
+      "created_at" : "2022-02-12 14:36:00",
+      "developer" : "Sindre Sorhus",
+      "link" : "https:\/\/sindresorhus.com\/battery-indicator",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/153700321-599454e1-5926-46e1-b1b1-03d894ae4cbc.png",
+      "tag" : "Rectangle,Bolt",
+      "name" : "Battery Indicator"
+    },
+    {
+      "category" : "Utilities",
       "color" : "yellow",
       "created_at" : "2018-10-30 10:17:51",
       "developer" : "Han Lin Yap",
@@ -8599,6 +8609,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036905-a0e056c6-8d3a-11e8-9917-b549a779b0e5.png",
       "tag" : "Gate",
       "name" : "Guidance"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "yellow,purple,white,brown,black",
+      "created_at" : "2022-02-12 14:36:00",
+      "developer" : "Softuer Software LLC",
+      "link" : "https:\/\/guifero.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/153700324-64ec7367-60cc-445a-99b9-134066335c0f.png",
+      "tag" : "Cat,Rectangle",
+      "name" : "Guifero"
     },
     {
       "category" : "Games",
@@ -23241,5 +23261,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-02-10 20:57:00 GMT+8"
+  "update_time" : "2022-02-12 14:43:04 GMT+8"
 }
