@@ -10962,6 +10962,16 @@
     },
     {
       "category" : "Games",
+      "color" : "green,white",
+      "created_at" : "2022-02-20 20:13:34",
+      "developer" : "LEGO",
+      "link" : "https:\/\/www.lego.com\/en-gb\/themes\/lego-brawls",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836129-40a4c336-736e-45b2-92a6-93bfb2fd4a21.png",
+      "tag" : "Rectangle,Person",
+      "name" : "LEGO® Brawls"
+    },
+    {
+      "category" : "Games",
       "color" : "orange",
       "created_at" : "2019-09-11 18:08:23",
       "developer" : "Infinite Dreams Inc.",
@@ -11159,6 +11169,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98763110-432e8480-2414-11eb-980a-af0742a1b943.png",
       "tag" : "Rectangle",
       "name" : "Little Inferno"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,blue,black",
+      "created_at" : "2022-02-20 20:14:07",
+      "developer" : "The Chinese Room",
+      "link" : "https:\/\/www.littleorpheus.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836125-73cdb6ad-0174-4a41-a21f-0ee03878480d.png",
+      "tag" : "Rectangle,Person",
+      "name" : "Little Orpheus"
     },
     {
       "category" : "Utilities",
@@ -14009,6 +14029,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108338800-9ed98c80-7211-11eb-8fc5-6314a5f43ab5.png",
       "tag" : "Rectangle",
       "name" : "Numi"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,yellow,blue",
+      "created_at" : "2022-02-20 20:13:13",
+      "developer" : "Cornfox",
+      "link" : "https:\/\/www.oceanhorn.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836131-0eccbf49-27ec-4733-b70d-197b620f48b9.png",
+      "tag" : "Rectangle,Person",
+      "name" : "Oceanhorn 2"
     },
     {
       "category" : "Games",
@@ -18381,6 +18411,16 @@
       "name" : "Slacker"
     },
     {
+      "category" : "Games",
+      "color" : "yellow,blue,purple,white",
+      "created_at" : "2022-02-20 20:13:44",
+      "developer" : "Big Green Pillow",
+      "link" : "https:\/\/www.slashquest.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836128-47a3a65d-4d2f-4638-88c0-a0f04b78d2f5.png",
+      "tag" : "Rectangle,Sword",
+      "name" : "Slash Quest!"
+    },
+    {
       "category" : "Health & Fitness",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:54:33",
@@ -18591,6 +18631,16 @@
       "name" : "Solis"
     },
     {
+      "category" : "Games",
+      "color" : "yellow,green,white",
+      "created_at" : "2022-02-20 20:13:56",
+      "developer" : "Red Games Co.",
+      "link" : "https:\/\/www.redgames.co",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836127-e2024771-9682-4db2-95db-889cb851fc6f.png",
+      "tag" : "Rectangle,Card",
+      "name" : "Solitaire Stories"
+    },
+    {
       "category" : "Music",
       "color" : "orange,white,black",
       "created_at" : "2020-02-09 22:28:38",
@@ -18599,6 +18649,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74104527-94ad9880-4b90-11ea-9998-96084585cd10.png",
       "tag" : "Book,Pen",
       "name" : "Song Writer - Lyrics Memo Plus"
+    },
+    {
+      "category" : "Games",
+      "color" : "blue,white",
+      "created_at" : "2022-02-20 20:13:00",
+      "developer" : "Sega",
+      "link" : "https:\/\/www.sega.com\/games\/sonic-racing",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836132-6cfae741-ac25-4105-8712-a221b8b29855.png",
+      "tag" : "Rectangle,Car",
+      "name" : "Sonic Racing"
     },
     {
       "category" : "Music",
@@ -20089,6 +20149,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575258-a26d5df8-73b4-11e8-9c36-2cc9adfc5720.png",
       "tag" : "Check,Tilt,Todo",
       "name" : "The Hit List"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,green,brown,black",
+      "created_at" : "2022-02-20 20:13:24",
+      "developer" : "Giant Squid",
+      "link" : "https:\/\/thepathless.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836130-43a9e54f-935c-4005-a9b4-20e96dba3c4e.png",
+      "tag" : "Rectangle,Person",
+      "name" : "The Pathless"
     },
     {
       "category" : "Games",
@@ -23261,5 +23331,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-02-12 14:43:04 GMT+8"
+  "update_time" : "2022-02-20 17:21:45 GMT+8"
 }
