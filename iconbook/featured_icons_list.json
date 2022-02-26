@@ -212,6 +212,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "red,white",
+      "created_at" : "2022-02-28 23:23:50",
+      "developer" : "Shangxin Guo",
+      "link" : "https:\/\/abnormalmouse.intii.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/156009908-7caf44d2-5be2-4d0c-a92c-2a416e829213.png",
+      "tag" : "Rectangle,Mouse",
+      "name" : "Abnormal Mouse"
+    },
+    {
+      "category" : "Utilities",
       "color" : "white,silver,black",
       "created_at" : "2020-12-18 15:01:51",
       "developer" : "Apple",
@@ -23341,5 +23351,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-02-24 20:21:36 GMT+8"
+  "update_time" : "2022-02-28 23:28:11 GMT+8"
 }
