@@ -11123,6 +11123,16 @@
     {
       "category" : "Developer Tools",
       "color" : "blue,white",
+      "created_at" : "2022-03-18 00:43:19",
+      "developer" : "Linear",
+      "link" : "https:\/\/linear.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/158850867-b61aaaa5-8a77-49ff-88cc-d50fd623e31a.png",
+      "tag" : "Rectangle",
+      "name" : "Linear 1.6.0"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
       "created_at" : "2020-12-07 22:22:33",
       "developer" : "Linear",
       "link" : "https:\/\/linear.app",
@@ -23361,5 +23371,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-03-17 22:00:19 GMT+8"
+  "update_time" : "2022-03-18 00:44:45 GMT+8"
 }
