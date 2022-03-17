@@ -3472,6 +3472,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "yellow,white,black",
+      "created_at" : "2022-03-17 21:58:21",
+      "developer" : "Ibrahim Hassan",
+      "link" : "https:\/\/twitter.com\/clipbox_info",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/158825122-8e324ce7-373c-46de-b935-1f6ac990add9.png",
+      "tag" : "Rectangle",
+      "name" : "Clipbox"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:30:03",
       "developer" : "XwaveSoft",
@@ -23351,5 +23361,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-02-28 23:28:11 GMT+8"
+  "update_time" : "2022-03-17 22:00:19 GMT+8"
 }
