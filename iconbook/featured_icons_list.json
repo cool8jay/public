@@ -772,6 +772,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "yellow,silver,black",
+      "created_at" : "2022-03-24 00:02:08",
+      "developer" : "Koingo Software, Inc",
+      "link" : "http:\/\/www.koingosw.com\/products\/alarmclockpro",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/159744570-6161c78e-f736-4fc7-a90c-a73a1deb5bac.png",
+      "tag" : "Rectangle",
+      "name" : "Alarm Clock Pro 7"
+    },
+    {
+      "category" : "Productivity",
       "color" : "yellow,silver",
       "created_at" : "2018-10-30 10:12:40",
       "developer" : "Koingo Software, Inc",
@@ -23371,5 +23381,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-03-18 00:44:45 GMT+8"
+  "update_time" : "2022-03-24 22:10:37 GMT+8"
 }
