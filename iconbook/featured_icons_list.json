@@ -18871,6 +18871,16 @@
       "name" : "Space Drop"
     },
     {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2022-03-24 22:09:40",
+      "developer" : "Readdle Inc.",
+      "link" : "https:\/\/sparkmailapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/160234572-3ecaf8f6-a373-4f63-a95b-0625b8897359.png",
+      "tag" : "Rectangle",
+      "name" : "Spark 2"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:17:34",
@@ -23381,5 +23391,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-03-24 22:10:37 GMT+8"
+  "update_time" : "2022-03-26 18:01:24 GMT+8"
 }
