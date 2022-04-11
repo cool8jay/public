@@ -1312,6 +1312,16 @@
     },
     {
       "category" : "Music",
+      "color" : "black,orange",
+      "created_at" : "2022-04-10 21:49:05",
+      "developer" : "Rogue Amoeba Software, Rogue Amoeba Software, Inc.",
+      "link" : "https:\/\/rogueamoeba.com\/audiohijack",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/161386292-7869f6c9-07b0-4714-ad77-f5069e7e3b99.png",
+      "tag" : "Rectangle,Wave,Microphone",
+      "name" : "Audio Hijack 4"
+    },
+    {
+      "category" : "Music",
       "color" : "yellow",
       "created_at" : "2018-10-30 10:55:07",
       "developer" : "Rogue Amoeba Software, Inc.",
@@ -23421,5 +23431,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-04-09 21:45:14 GMT+8"
+  "update_time" : "2022-04-01 21:50:32 GMT+8"
 }
