@@ -2102,6 +2102,16 @@
     },
     {
       "category" : "Music",
+      "color" : "blue,black",
+      "created_at" : "2022-04-08 18:35:00",
+      "developer" : "Global Delight Technologies Pvt. Ltd",
+      "link" : "https:\/\/www.globaldelight.com\/boom\/index.php",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/167128420-0243dc36-88a4-460d-9816-22c54d45c3f4.png",
+      "tag" : "Round",
+      "name" : "Boom 2.1"
+    },
+    {
+      "category" : "Music",
       "color" : "red,blue,purple,black",
       "created_at" : "2019-09-12 03:13:41",
       "developer" : "Global Delight Technologies Pvt. Ltd",
@@ -9849,6 +9859,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036923-a9ecc29a-8d3a-11e8-9ce7-4218eaa7f86c.png",
       "tag" : "Mountain",
       "name" : "Inkscape"
+    },
+    {
+      "category" : "Business",
+      "color" : "yellow,green,blue,black",
+      "created_at" : "2022-05-06 20:05:37",
+      "developer" : "Jury Shortki",
+      "link" : "https:\/\/www.shortki.com\/inShort.html",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/167128346-9c0aa002-2358-49f1-89c9-c663bbb6beda.png",
+      "tag" : "Cube",
+      "name" : "inShort²"
     },
     {
       "category" : "Finance",
@@ -23471,5 +23491,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-04-24 22:03:01 GMT+8"
+  "update_time" : "2022-05-06 20:08:13 GMT+8"
 }
