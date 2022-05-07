@@ -81,6 +81,16 @@
       "name" : "1Password 7.7"
     },
     {
+      "category" : "Productivity",
+      "color" : "black,blue,silver",
+      "created_at" : "2022-05-07 22:21:01",
+      "developer" : "AgileBits Inc.",
+      "link" : "https:\/\/1password.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/167258348-02e7387c-04e3-4381-86ff-7e83abaf23d3.png",
+      "tag" : "Rectangle,Lock",
+      "name" : "1Password 8"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 16:32:59",
@@ -19381,6 +19391,16 @@
       "name" : "SteerMouse"
     },
     {
+      "category" : "Entertainment",
+      "color" : "blue,purple,white",
+      "created_at" : "2022-05-07 21:49:08",
+      "developer" : "Azimuth Core Ltd. Liabilbity Co.",
+      "link" : "https:\/\/www.azimuthcore.com\/stellar",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/167258370-24d41618-c342-4abb-9fee-66203b5d1b03.png",
+      "tag" : "Rectangle",
+      "name" : "Stellar"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white",
       "created_at" : "2020-11-24 15:13:04",
@@ -23501,5 +23521,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-05-06 23:28:43 GMT+8"
+  "update_time" : "2022-05-07 22:23:54 GMT+8"
 }
