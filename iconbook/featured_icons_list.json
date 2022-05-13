@@ -6631,6 +6631,16 @@
       "name" : "EventBox"
     },
     {
+      "category" : "Health & Fitness",
+      "color" : "red,white",
+      "created_at" : "2022-05-14 00:14:38",
+      "developer" : "Wessley Roche",
+      "link" : "https:\/\/everlog.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/168121821-87321490-db69-4c7a-b681-1e84f92cc3b7.png",
+      "tag" : "Rectangle,Feather",
+      "name" : "Everlog"
+    },
+    {
       "category" : "Productivity",
       "color" : "green,brown",
       "created_at" : "2019-09-12 03:21:24",
@@ -14774,7 +14784,7 @@
       "category" : "Productivity",
       "color" : "orange,yellow",
       "created_at" : "2019-09-11 16:32:04",
-      "developer" : "Wonderbit SLU",
+      "developer" : "Wessley Roche",
       "link" : "http:\/\/getpasta.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/55804228-77daab80-5b0e-11e9-8215-83145df3796c.png",
       "tag" : "Food,Symbol",
@@ -23541,5 +23551,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-05-13 22:47:51 GMT+8"
+  "update_time" : "2022-05-14 00:20:02 GMT+8"
 }
