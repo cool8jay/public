@@ -3397,8 +3397,18 @@
       "developer" : "MacPaw Inc.",
       "link" : "https:\/\/macpaw.com\/cleanmymac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/97572947-fdd98280-1a23-11eb-818a-0b83f8339288.png",
-      "tag" : "Monitor,Computer",
+      "tag" : "Monitor,Computer,Rectangle",
       "name" : "CleanMyMac X 4.6.13"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,white",
+      "created_at" : "2022-05-14 21:43:43",
+      "developer" : "MacPaw Inc.",
+      "link" : "https:\/\/macpaw.com\/cleanmymac",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/168297007-42eeb7c3-78fe-417f-831d-ada5e3aa06ae.png",
+      "tag" : "Rectangle,Monitor,Computer",
+      "name" : "CleanMyMac X 4.10"
     },
     {
       "category" : "Utilities",
@@ -23551,5 +23561,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-05-14 00:20:02 GMT+8"
+  "update_time" : "2022-05-14 21:45:14 GMT+8"
 }
