@@ -4602,6 +4602,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "red,purple,black",
+      "created_at" : "2022-05-24 21:18:31",
+      "developer" : "bergen Co.",
+      "link" : "https:\/\/darkroom.co",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/174424435-8da72880-d144-4bc4-b454-365c5dfe97af.png",
+      "tag" : "Rectangle",
+      "name" : "Darkroom 6"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "red,purple,white",
       "created_at" : "2020-11-17 13:13:04",
       "developer" : "bergen Co.",
@@ -7629,6 +7639,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/108210736-e3f4b480-7166-11eb-9538-93d4cabda0d9.png",
       "tag" : "Rectangle,Folder",
       "name" : "Folder Lock"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,blue,black",
+      "created_at" : "2022-05-26 21:26:54",
+      "developer" : "Sindre Sorhus",
+      "link" : "https:\/\/sindresorhus.com\/folder-peek",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/174424422-f0035246-b703-490d-8e46-a1260f1ffa2a.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Folder Peek"
     },
     {
       "category" : "Utilities",
@@ -16722,9 +16742,19 @@
     },
     {
       "category" : "News",
+      "color" : "blue,white",
+      "created_at" : "2022-05-26 21:24:22",
+      "developer" : "Balazs Varkonyi",
+      "link" : "https:\/\/readkitapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/174424431-c72e0f7c-f33a-4a90-b708-fbf8cb762f97.png",
+      "tag" : "Rectangle",
+      "name" : "ReadKit 3"
+    },
+    {
+      "category" : "News",
       "color" : "blue,white,black",
       "created_at" : "2019-09-12 03:12:25",
-      "developer" : "Webin",
+      "developer" : "Balazs Varkonyi",
       "link" : "https:\/\/readkitapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575056-6c6a47fc-73b4-11e8-9090-b64c07f5e985.png",
       "tag" : "Glasses",
@@ -17009,6 +17039,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/98462229-9672be00-21ed-11eb-9f71-2597221bdd0f.png",
       "tag" : "Rectangle,Star",
       "name" : "Reeder 5"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "yellow,blue,white,black",
+      "created_at" : "2022-05-24 21:18:34",
+      "developer" : "ReferencesOnTap",
+      "link" : "https:\/\/referencesontap.appspot.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/174424434-a06b631a-dc01-4397-9633-b5910fbf8335.png",
+      "tag" : "Rectangle,Marker",
+      "name" : "References"
     },
     {
       "category" : "Utilities",
@@ -22121,6 +22161,16 @@
       "name" : "VEEER"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white,black",
+      "created_at" : "2022-05-26 21:25:48",
+      "developer" : "Sindre Sorhus",
+      "link" : "https:\/\/sindresorhus.com\/velja",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/174424430-5ef15707-c48d-4749-a368-eca83b48baad.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Velja"
+    },
+    {
       "category" : "Productivity",
       "color" : "purple,white",
       "created_at" : "2018-10-30 11:09:56",
@@ -23561,5 +23611,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-05-14 21:45:14 GMT+8"
+  "update_time" : "2022-06-18 13:37:15 GMT+8"
 }
