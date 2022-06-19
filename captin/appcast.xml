@@ -3,20 +3,31 @@
     <channel>
         <title>Captin</title>
         <item>
-            <title>1.1.4</title>
+            <title>1.1.6</title>
             <description>
                 <![CDATA[
+                    <h1>Version 1.1.6</h1>
+                    <h2>Fixed: </h2>
+                    <ul>
+                    <li>Caps lock status is changed to off when the user switches to another input method.</li>
+                    </ul>
+                    <h2>Update:</h2>
+                    <ul>
+                    <li>Display information for compatibility.</li>
+                    </ul>
+                    <hr>
                     <h1>Version 1.1.5</h1>
                     <h2>Fixed: </h2>
                     <ul>
                     <li>Issue on some models that can not get display preview info.</li>
                     </ul>
+                    <hr>
                     <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
                 ]]>
             </description>
-            <pubDate>Tue, 06 Jul 2021 21:36:59 +0800</pubDate>
+            <pubDate>Sun, 19 Jun 2022 13:13:39 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="147" sparkle:shortVersionString="1.1.5" length="2908259" type="application/octet-stream" sparkle:edSignature="ZLjPlP3BVv30tDUtUA5A4DU6WC4lCie6ufk5pgvyQ+r6VFKZEmGCsmIjfqXoc59jYDvdMpR25TP7IeKSePWwBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="151" sparkle:shortVersionString="1.1.6" length="3008460" type="application/octet-stream" sparkle:edSignature="P2Khn1ZMn5K2/6Gh0UK4WeBm0Kxd/wElra5oVLqKbaBsrvE5xdAeOTjaC8LyCN7GjGkMe8oK7ysv1wO+BUCpCA=="/>
         </item>
     </channel>
 </rss>
