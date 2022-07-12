@@ -3,9 +3,15 @@
     <channel>
         <title>Captin</title>
         <item>
-            <title>1.1.6</title>
+            <title>1.1.7</title>
             <description>
                 <![CDATA[
+                    <h1>Version 1.1.7</h1>
+                    <h2>Fixed: </h2>
+                    <ul>
+                    <li>Do not show input method change notification repeatedly.</li>
+                    </ul>
+                    <hr>
                     <h1>Version 1.1.6</h1>
                     <h2>Fixed: </h2>
                     <ul>
@@ -25,9 +31,9 @@
                     <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
                 ]]>
             </description>
-            <pubDate>Sun, 19 Jun 2022 13:13:39 +0800</pubDate>
+            <pubDate>Tue, 12 Jul 2022 20:26:48 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="151" sparkle:shortVersionString="1.1.6" length="3008460" type="application/octet-stream" sparkle:edSignature="P2Khn1ZMn5K2/6Gh0UK4WeBm0Kxd/wElra5oVLqKbaBsrvE5xdAeOTjaC8LyCN7GjGkMe8oK7ysv1wO+BUCpCA=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="152" sparkle:shortVersionString="1.1.7" length="3008387" type="application/octet-stream" sparkle:edSignature="LQ3ui0R7DSFF0pAFStu/dykzDIfE2mcmYykey0XQuiycFNty1LZmbIX+sBy00S+OS99ZSoWObb0cvUeoklDSDg=="/>
         </item>
     </channel>
 </rss>
