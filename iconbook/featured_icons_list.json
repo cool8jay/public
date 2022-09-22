@@ -1667,7 +1667,7 @@
       "developer" : "Kent Place Software Limited",
       "link" : "https:\/\/www.beeralchemyapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574372-bd2a0be2-73b3-11e8-9f0f-825b6cee7ef7.png",
-      "tag" : "Drink,Document",
+      "tag" : "Drink,Document,Blueprint",
       "name" : "BeerAlchemy 2"
     },
     {
@@ -1949,6 +1949,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574386-c06a0f32-73b3-11e8-871f-ae759d31c99a.png",
       "tag" : "Player,Tilt",
       "name" : "Blu-ray Player"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,brown,black",
+      "created_at" : "2022-09-22 18:25:02",
+      "developer" : "Cub & Pup",
+      "link" : "https:\/\/bluebird.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/191724048-6785626c-7d17-4e6f-b5eb-f322b93d6246.png",
+      "tag" : "Bird,Rectangle",
+      "name" : "Bluebird Focus Timer"
     },
     {
       "category" : "Social Networking",
@@ -2737,7 +2747,7 @@
       "developer" : "micropixels",
       "link" : "https:\/\/apps.apple.com\/app\/id1200585553",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574422-c85316da-73b3-11e8-804b-f4ddec3fa135.png",
-      "tag" : "Document,Lens,Tilt",
+      "tag" : "Document,Lens,Tilt,Blueprint",
       "name" : "Capturer"
     },
     {
@@ -4297,7 +4307,7 @@
       "developer" : "Realmac Software",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/35238\/courier",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036825-35e4a926-8d3a-11e8-933c-03da3bb2b002.png",
-      "tag" : "Document",
+      "tag" : "Document,Blueprint",
       "name" : "Courier - Envelopes"
     },
     {
@@ -4457,7 +4467,7 @@
       "developer" : "Photo And Video Labs",
       "link" : "https:\/\/apps.apple.com\/app\/id1044545923",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574503-db0f3da8-73b3-11e8-8655-cf5854da9067.png",
-      "tag" : "Scissors,Tilt",
+      "tag" : "Scissors,Tilt,Blueprint",
       "name" : "Cut Out Shapes"
     },
     {
@@ -9517,7 +9527,7 @@
       "developer" : "Jérémy Marchand",
       "link" : "https:\/\/www.kodlian.com\/apps\/icon-slate",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574741-1067256a-73b4-11e8-8e8e-cf1ceaf08942.png",
-      "tag" : "Rectangle,Tilt,Window",
+      "tag" : "Rectangle,Tilt,Window,Blueprint",
       "name" : "Icon Slate 4"
     },
     {
@@ -11057,7 +11067,7 @@
       "developer" : "Objective Development Software GmbH",
       "link" : "https:\/\/www.obdev.at\/launchbar",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574812-23f20758-73b4-11e8-9488-a6de6aa44ad4.png",
-      "tag" : "Document",
+      "tag" : "Document,Blueprint",
       "name" : "LaunchBar 6 - Theme Document"
     },
     {
@@ -11207,7 +11217,7 @@
       "developer" : "Thinko Computer Entertainment Studio",
       "link" : "https:\/\/uselightbox.com\/download\/beta",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43566233-5a12565c-9660-11e8-8ae1-1603bd1d136e.png",
-      "tag" : "Document",
+      "tag" : "Document,Blueprint",
       "name" : "LightBox Beta"
     },
     {
@@ -12261,7 +12271,7 @@
       "name" : "Maipo"
     },
     {
-      "category" : "Productivity",
+      "category" : "Developer Tools",
       "color" : "blue,white,silver",
       "created_at" : "2020-11-21 14:37:26",
       "developer" : "Any Case Solutions",
@@ -14687,7 +14697,7 @@
       "developer" : "PixelCut",
       "link" : "https:\/\/www.paintcodeapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574967-4d9d2286-73b4-11e8-9454-29c8dc564ecf.png",
-      "tag" : "Document,Easal",
+      "tag" : "Document,Easal,Blueprint",
       "name" : "PaintCode 2 - Document"
     },
     {
@@ -14697,7 +14707,7 @@
       "developer" : "PixelCut",
       "link" : "https:\/\/www.paintcodeapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574968-4e44c900-73b4-11e8-9de8-20fd591081f2.png",
-      "tag" : "Easal",
+      "tag" : "Easal,Blueprint",
       "name" : "PaintCode 2"
     },
     {
@@ -14707,7 +14717,7 @@
       "developer" : "PixelCut",
       "link" : "https:\/\/www.paintcodeapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574969-4ea3a9f2-73b4-11e8-9114-e989f0d0d535.png",
-      "tag" : "Easal",
+      "tag" : "Easal,Blueprint",
       "name" : "PaintCode 3"
     },
     {
@@ -18844,7 +18854,7 @@
       "category" : "Social Networking",
       "color" : "green,brown",
       "created_at" : "2018-10-30 10:39:40",
-      "developer" : "Apparent Software",
+      "developer" : "Apparent Software Inc",
       "link" : "https:\/\/www.macupdate.com\/app\/mac\/29536\/socialite",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037378-50709e9e-8d3f-11e8-89d0-1897633f3da1.png",
       "tag" : "Drink",
@@ -22977,7 +22987,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/114020503-3ec2a680-98a2-11eb-98ce-ecb2f6e680bd.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Blueprint",
       "name" : "WidgetKit Simulator"
     },
     {
@@ -23267,7 +23277,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/developer.apple.com\/xcode\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/74524180-7f9e8400-4f59-11ea-904d-a150aac5921d.png",
-      "tag" : "Hammer,Tilt,Tool,Document",
+      "tag" : "Hammer,Tilt,Tool,Document,Blueprint",
       "name" : "Xcode 5"
     },
     {
@@ -23287,7 +23297,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/developer.apple.com\/xcode\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575385-ccf50832-73b4-11e8-926f-2907935af18b.png",
-      "tag" : "Hammer,Tilt,Tool,Document",
+      "tag" : "Hammer,Tilt,Tool,Document,Blueprint",
       "name" : "Xcode"
     },
     {
@@ -23641,5 +23651,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-06-18 21:48:26 GMT+8"
+  "update_time" : "2022-09-22 18:29:32 GMT+8"
 }
