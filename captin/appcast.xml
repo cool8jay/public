@@ -6,34 +6,49 @@
             <title>1.1.7</title>
             <description>
                 <![CDATA[
-                    <h1>Version 1.1.7</h1>
-                    <h2>Fixed: </h2>
-                    <ul>
-                    <li>Do not show input method change notification repeatedly.</li>
-                    </ul>
-                    <hr>
-                    <h1>Version 1.1.6</h1>
-                    <h2>Fixed: </h2>
-                    <ul>
-                    <li>Caps lock status is changed to off when the user switches to another input method.</li>
-                    </ul>
-                    <h2>Update:</h2>
-                    <ul>
-                    <li>Display information for compatibility.</li>
-                    </ul>
-                    <hr>
-                    <h1>Version 1.1.5</h1>
-                    <h2>Fixed: </h2>
-                    <ul>
-                    <li>Issue on some models that can not get display preview info.</li>
-                    </ul>
-                    <hr>
-                    <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
+                <h1>Version 1.2</h1>
+                <h2>Added: </h2>
+                <ul>
+                <li>New way to position HUD window.<p>Captin can position HUD window centered on screen in horizontal or vertical direction, Or, set an offset for HUD window in horizontal or vertical direction.</p></li>
+                </ul>
+                <h2>Improved:</h2>
+                <ul>
+                <li>Captin is now notarized by Apple.</li>
+                <li>HUD can be placed on any position on screen, including menu bar.</li>
+                </ul>
+                <h2>Fixed: </h2>
+                <ul>
+                <li>Compatibility issue on macOS Ventura.</li>
+                </ul>
+                <hr>
+                <h1>Version 1.1.7</h1>
+                <h2>Fixed: </h2>
+                <ul>
+                <li>Do not show input method change notification repeatedly.</li>
+                </ul>
+                <hr>
+                <h1>Version 1.1.6</h1>
+                <h2>Fixed: </h2>
+                <ul>
+                <li>Caps lock status is changed to off when the user switches to another input method.</li>
+                </ul>
+                <h2>Updated:</h2>
+                <ul>
+                <li>Display information for compatibility.</li>
+                </ul>
+                <hr>
+                <h1>Version 1.1.5</h1>
+                <h2>Fixed: </h2>
+                <ul>
+                <li>Issue on some models that can not get display preview info.</li>
+                </ul>
+                <hr>
+                <p2>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p2>
                 ]]>
             </description>
-            <pubDate>Tue, 12 Jul 2022 20:26:48 +0800</pubDate>
+            <pubDate>Mon, 07 Nov 2022 20:00:08 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="152" sparkle:shortVersionString="1.1.7" length="3008387" type="application/octet-stream" sparkle:edSignature="LQ3ui0R7DSFF0pAFStu/dykzDIfE2mcmYykey0XQuiycFNty1LZmbIX+sBy00S+OS99ZSoWObb0cvUeoklDSDg=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="158" sparkle:shortVersionString="1.2" length="3006533" type="application/octet-stream" sparkle:edSignature="hueIUe5KheuJ62NJyjFOgMyJ8iD423Ocugt2rsjn1OISPg9F/BGW3pYZza9rgncWwFWpsXLBhf6pjdAxz18ZBw=="/>
         </item>
     </channel>
 </rss>
