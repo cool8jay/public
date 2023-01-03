@@ -341,6 +341,16 @@
       "name" : "Acorn"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "red,purple,black",
+      "created_at" : "2022-12-25 13:21:39",
+      "developer" : "Photo & Video Labs",
+      "link" : "http:\/\/photovideolabs.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373852-19559587-d41f-41b2-ab05-dff06b6a8770.png",
+      "tag" : "Rectangle",
+      "name" : "Action Camera Master"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white,black",
       "created_at" : "2021-02-16 21:30:48",
@@ -483,6 +493,16 @@
     {
       "category" : "Graphics & Design",
       "color" : "blue",
+      "created_at" : "2022-12-07 19:24:23",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/designer",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373880-2cf320c0-503b-4a87-8a9d-4b202b03ed1f.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Designer 2"
+    },
+    {
+      "category" : "Graphics & Design",
+      "color" : "blue",
       "created_at" : "2020-08-05 22:43:30",
       "developer" : "Serif",
       "link" : "https:\/\/affinity.serif.com\/designer",
@@ -503,6 +523,16 @@
     {
       "category" : "Photo & Video",
       "color" : "purple",
+      "created_at" : "2022-12-07 19:24:56",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/photo",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373876-9545b3de-d935-49e1-ac9d-657a9008e58f.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Photo 2"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "purple",
       "created_at" : "2020-08-05 22:40:35",
       "developer" : "Serif",
       "link" : "https:\/\/affinity.serif.com\/photo",
@@ -519,6 +549,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021756-53716b80-259c-11eb-809e-2201d6a78316.png",
       "tag" : "Rectangle",
       "name" : "Affinity Publisher 1.8.6"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange",
+      "created_at" : "2022-12-07 19:25:20",
+      "developer" : "Serif",
+      "link" : "https:\/\/affinity.serif.com\/publisher",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373873-715e3854-3955-4d48-b53d-9dbc6f29e3fe.png",
+      "tag" : "Rectangle",
+      "name" : "Affinity Publisher 2"
     },
     {
       "category" : "Graphics & Design",
@@ -1439,6 +1479,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/114704814-9ad17300-9d59-11eb-93b1-61963675cd4c.png",
       "tag" : "Rectangle",
       "name" : "Axure RP 10"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "white,black",
+      "created_at" : "2022-12-27 21:19:07",
+      "developer" : "Alexander Sandberg",
+      "link" : "https:\/\/alexandersandberg.com\/apps\/balance\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373845-97ff8901-7605-4936-b099-e560f222ce96.png",
+      "tag" : "Rectangle",
+      "name" : "Balance"
     },
     {
       "category" : "Utilities",
@@ -2841,6 +2891,16 @@
       "name" : "Cascadea"
     },
     {
+      "category" : "Finance",
+      "color" : "yellow,blue,purple",
+      "created_at" : "2022-09-12 13:03:12",
+      "developer" : "Apparent Software Inc",
+      "link" : "https:\/\/cashculator.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373925-d37063db-c39e-48a4-a9d1-e405afa3a723.png",
+      "tag" : "Coin,Round",
+      "name" : "Cashculator"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "yellow",
       "created_at" : "2018-10-30 10:22:50",
@@ -3761,6 +3821,16 @@
       "name" : "Codespace"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2022-11-22 19:01:40",
+      "developer" : "Lumen Digital Ltd",
+      "link" : "https:\/\/coduo.app\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373895-b2890e48-a027-4745-9de7-c196282004c3.png",
+      "tag" : "Rectangle",
+      "name" : "Coduo"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white,black",
       "created_at" : "2021-06-03 21:55:08",
@@ -4161,8 +4231,28 @@
       "name" : "Converto"
     },
     {
+      "category" : "Finance",
+      "color" : "blue,white",
+      "created_at" : "2022-12-07 19:19:25",
+      "developer" : "Copilot Money, Inc.",
+      "link" : "https:\/\/copilot.money\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373881-d6162cd4-729b-409f-858e-38816078cb0e.png",
+      "tag" : "Rectangle,Arrow",
+      "name" : "Copilot"
+    },
+    {
       "category" : "Productivity",
-      "color" : "white,brown",
+      "color" : "green,white,brown",
+      "created_at" : "2022-12-21 21:15:16",
+      "developer" : "M Cubed Software.",
+      "link" : "https:\/\/www.coppiceapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373857-f846f065-b9d8-4bd2-84d9-b55f03642aa6.png",
+      "tag" : "Pen,Board,Rectangle",
+      "name" : "Coppice 2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "green,white,brown",
       "created_at" : "2020-09-23 20:58:35",
       "developer" : "M Cubed Software.",
       "link" : "https:\/\/www.coppiceapp.com",
@@ -7092,7 +7182,7 @@
     },
     {
       "category" : "Productivity",
-      "color" : "black,white,orange,brown,silver",
+      "color" : "orange,silver,brown",
       "created_at" : "2021-12-23 22:54:10",
       "developer" : "App Tyrant Corp.",
       "link" : "https:\/\/apptyrant.com\/file-cabinet-pro-help",
@@ -7149,6 +7239,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/113858636-8976ec80-97d6-11eb-90da-dc590e21cb11.png",
       "tag" : "Rectangle",
       "name" : "FileMerge"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "orange,green,purple,white",
+      "created_at" : "2022-11-11 22:25:06",
+      "developer" : "Think Yeah",
+      "link" : "https:\/\/www.thinkyeah.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373915-2c478e45-c14c-48c5-a014-de20e5610b50.png",
+      "tag" : "Rectangle",
+      "name" : "FileSafe"
     },
     {
       "category" : "Productivity",
@@ -7571,6 +7671,16 @@
       "name" : "Flume"
     },
     {
+      "category" : "Productivity",
+      "color" : "red,white,brown,silver",
+      "created_at" : "2022-11-11 22:25:04",
+      "developer" : "MotivApp GmbH",
+      "link" : "https:\/\/motivapp.at",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373913-7384cf2c-1832-4362-a78b-10d2debf5edb.png",
+      "tag" : "Rectangle,Flag,Mountain",
+      "name" : "Focus Flow"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "yellow,green,black",
       "created_at" : "2014-04-08 18:54:54",
@@ -7882,7 +7992,7 @@
     },
     {
       "category" : "Photo & Video",
-      "color" : "red,orange,yellow,green,blue,purple,silver,black",
+      "color" : "red,orange,yellow,green,blue,purple,black",
       "created_at" : "2018-10-30 11:10:05",
       "developer" : "Chronos",
       "link" : "https:\/\/www.chronosnet.com\/store\/software\/fotofuse",
@@ -7989,6 +8099,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123547616-13aa6d80-d794-11eb-8926-b2b68db042f0.png",
       "tag" : "Rectangle,Character",
       "name" : "Framer"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "silver,black",
+      "created_at" : "2022-11-22 18:51:47",
+      "developer" : "Cleartype SRL",
+      "link" : "https:\/\/franz.defn.io\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373898-5b03b3ca-9d36-4021-a987-54b8ddbd85ec.png",
+      "tag" : "Rectangle,Device",
+      "name" : "Franz"
     },
     {
       "category" : "Business",
@@ -8119,6 +8239,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147363612-06b7cb4c-9c3b-4490-9173-2c519315c53d.png",
       "tag" : "Rectangle",
       "name" : "GAget - for Google Analytics"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,black",
+      "created_at" : "2022-12-21 01:11:03",
+      "developer" : "1024jp",
+      "link" : "http:\/\/gapplin.wolfrosch.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373863-6d0bd688-768a-4afe-a69a-c3692fc872c4.png",
+      "tag" : "Rectangle,Ghost",
+      "name" : "Gapplin 2"
     },
     {
       "category" : "Graphics & Design",
@@ -8611,6 +8741,16 @@
       "name" : "Goofy"
     },
     {
+      "category" : "Productivity",
+      "color" : "green,silver,black",
+      "created_at" : "2022-12-25 13:24:07",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373850-d8f0fb3c-1c14-4ea2-a02a-f55539584494.png",
+      "tag" : "Device",
+      "name" : "GPU Benchmark"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "red,orange,yellow,green,blue,purple,silver,black",
       "created_at" : "2018-10-30 10:31:14",
@@ -8971,6 +9111,26 @@
       "name" : "Hej Stylus! V3"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "white,black",
+      "created_at" : "2022-06-18 21:53:35",
+      "developer" : "ridiculous_fish",
+      "link" : "https:\/\/hexfiend.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373932-a08c9cd4-e54d-457e-8f6d-17850069866e.png",
+      "tag" : "Document,Tool",
+      "name" : "Hex Fiend 2"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "white,black",
+      "created_at" : "2022-06-18 21:53:35",
+      "developer" : "ridiculous_fish",
+      "link" : "https:\/\/hexfiend.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373937-6dc7eb16-61da-43bf-a1cd-7bd4dce58951.png",
+      "tag" : "Document",
+      "name" : "Hex Fiend"
+    },
+    {
       "category" : "Productivity",
       "color" : "yellow,blue",
       "created_at" : "2019-09-11 18:22:48",
@@ -9169,6 +9329,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99026236-81a77900-25a5-11eb-996c-147465c1733a.png",
       "tag" : "Rectangle",
       "name" : "Hook"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,blue,white",
+      "created_at" : "2023-01-03 22:07:07",
+      "developer" : "CogSci Apps Corp.",
+      "link" : "https:\/\/hookproductivity.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373826-4bc470e6-fd3a-4310-af0f-1b6ad46a5e23.png",
+      "tag" : "Rectangle,Tag",
+      "name" : "Hookmark"
     },
     {
       "category" : "Productivity",
@@ -10531,6 +10701,16 @@
       "name" : "Joystick Show"
     },
     {
+      "category" : "Utilities",
+      "color" : "white,silver",
+      "created_at" : "2022-11-17 18:34:15",
+      "developer" : "DEHIXLAB",
+      "link" : "https:\/\/dehixlab.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373902-978a8af8-b5ac-4cb4-9868-fb948f23be1b.png",
+      "tag" : "Joystick",
+      "name" : "JoystickMonitor"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "red,white,black",
       "created_at" : "2018-10-30 10:38:37",
@@ -11652,6 +11832,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "blue,black",
+      "created_at" : "2022-12-07 19:26:11",
+      "developer" : "Skylum",
+      "link" : "https:\/\/skylum.com\/hans\/luminar",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373870-7dbb3496-85e6-4cb1-a97f-91250292b699.png",
+      "tag" : "Rectangle,Triangle",
+      "name" : "Luminar Neo"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "green,blue,black",
       "created_at" : "2019-09-11 18:07:12",
       "developer" : "Skylum",
@@ -12269,6 +12459,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574865-32ea2baa-73b4-11e8-90c8-c69a429ca86e.png",
       "tag" : "Bubble,Rectangle,Tilt",
       "name" : "Maipo"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,white,black",
+      "created_at" : "2022-06-25 13:34:18",
+      "developer" : "Any Case Solutions",
+      "link" : "https:\/\/anycasesolutions.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210375078-bb20ad3c-5c68-492c-af6e-d93fc3601e90.png",
+      "tag" : "Rectangle,Pen,Blueprint",
+      "name" : "Make My App - Mockup Designer 1.2"
     },
     {
       "category" : "Developer Tools",
@@ -14492,6 +14692,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,blue",
+      "created_at" : "2022-12-07 19:21:16",
+      "developer" : "Piso 13, Inc.",
+      "link" : "https:\/\/www.piso13.com\/products",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210374967-9fba9ba0-c8c0-414f-a289-8164b7e2a0a1.png",
+      "tag" : "Rectangle,Book",
+      "name" : "Opus One"
+    },
+    {
+      "category" : "Productivity",
       "color" : "black,orange,green",
       "created_at" : "2021-11-05 20:33:25",
       "developer" : "OrangeNotes",
@@ -15697,7 +15907,7 @@
       "developer" : "Kevin Reutter",
       "link" : "https:\/\/www.kevinreutter.de",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486391-10016d80-299f-11eb-8e03-9b85ab98a1ac.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Animal",
       "name" : "Planny 4.2.1"
     },
     {
@@ -15717,8 +15927,18 @@
       "developer" : "Kevin Reutter",
       "link" : "https:\/\/www.kevinreutter.de",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/135120750-3a6ebe9b-a66b-4ed3-8899-737bf9361dfd.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Animal",
       "name" : "Planny 6"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,orange,white",
+      "created_at" : "2022-10-17 18:11:36",
+      "developer" : "Kevin Reutter",
+      "link" : "https:\/\/www.kevinreutter.de",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373919-a86235bf-67b6-400f-b0ae-9b647b09c427.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Planny 7"
     },
     {
       "category" : "Productivity",
@@ -15727,7 +15947,7 @@
       "developer" : "Kevin Reutter",
       "link" : "https:\/\/www.kevinreutter.de",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/79361759-5198e880-7f78-11ea-8323-64645ef60f05.png",
-      "tag" : "Round,Fox",
+      "tag" : "Round,Animal",
       "name" : "Planny"
     },
     {
@@ -16362,6 +16582,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white,black",
+      "created_at" : "2022-11-14 21:00:34",
+      "developer" : "Proxyman LLC",
+      "link" : "https:\/\/proxyman.io",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373907-2f844143-4b98-4a73-9794-f879ed818926.png",
+      "tag" : "Rectangle,Helmet",
+      "name" : "Proxyman 3"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue,white",
       "created_at" : "2019-10-28 22:01:51",
       "developer" : "Proxyman Inc",
@@ -16563,6 +16793,16 @@
     {
       "category" : "Productivity",
       "color" : "purple,white",
+      "created_at" : "2022-10-14 21:13:10",
+      "developer" : "Blacktree, Inc",
+      "link" : "https:\/\/qsapp.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373922-7d101da3-ff06-40ee-b155-bd584043a926.png",
+      "tag" : "Rectangle",
+      "name" : "Quicksilver 2"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "purple,white",
       "created_at" : "2019-09-11 15:34:25",
       "developer" : "Quicksilver Project",
       "link" : "https:\/\/qsapp.com",
@@ -16759,6 +16999,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037349-33f7a442-8d3f-11e8-980a-780b007d79e7.png",
       "tag" : "Character",
       "name" : "Raskin"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,black",
+      "created_at" : "2022-11-23 19:15:35",
+      "developer" : "Raycast Technologies Ltd.",
+      "link" : "https:\/\/www.raycast.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373886-34b7e1ed-f32d-4ae7-ad46-c21d7bb4908a.png",
+      "tag" : "Rectangle,Fan",
+      "name" : "Raycast"
     },
     {
       "category" : "Developer Tools",
@@ -17431,6 +17681,16 @@
       "name" : "Rocket Typist"
     },
     {
+      "category" : "Developer Tools",
+      "color" : "red,blue,white,black",
+      "created_at" : "2022-06-18 21:51:30",
+      "developer" : "A.J. van der Lee",
+      "link" : "https:\/\/www.avanderlee.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373939-4c36f988-a82f-4039-abb0-1cb9fc992211.png",
+      "tag" : "Rectangle",
+      "name" : "RocketSim"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,silver",
       "created_at" : "2018-10-30 10:54:37",
@@ -17602,6 +17862,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,blue,purple,white,black",
+      "created_at" : "2022-12-07 19:28:29",
+      "developer" : "Anna Kang",
+      "link" : "https:\/\/www.scantexter.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373860-439b75ff-2474-4f87-881c-4e58bb24a4b2.png",
+      "tag" : "Rectangle",
+      "name" : "ScanTexter"
+    },
+    {
+      "category" : "Productivity",
       "color" : "brown",
       "created_at" : "2018-10-30 11:06:40",
       "developer" : "Literature & Latte Ltd.",
@@ -17689,6 +17959,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400108-e2533b00-4b7e-11eb-8377-e6f2a4efb2d9.png",
       "tag" : "Monitor",
       "name" : "Screen Sharing"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2022-11-01 20:12:33",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373890-0013c50a-59b5-4b2d-a0e2-b94011a62035.png",
+      "tag" : "Rectangle,Sandglass",
+      "name" : "Screen Time 3"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,silver",
+      "created_at" : "2021-02-26 22:08:33",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373887-89a7d47a-0641-4abf-8359-d9a1c86bfdd0.png",
+      "tag" : "Sandglass,Round",
+      "name" : "Screen Time"
     },
     {
       "category" : "Photo & Video",
@@ -17819,16 +18109,6 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313582-55c5b000-7883-11eb-8732-5cdcb640445e.png",
       "tag" : "Sandglass",
       "name" : "ScreenTime Big Sur"
-    },
-    {
-      "category" : "Utilities",
-      "color" : "blue,silver",
-      "created_at" : "2021-02-26 22:08:33",
-      "developer" : "Apple",
-      "link" : "https:\/\/www.apple.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313591-56f6dd00-7883-11eb-939c-a4b9b77ade9d.png",
-      "tag" : "Sandglass,Round",
-      "name" : "ScreenTime"
     },
     {
       "category" : "Developer Tools",
@@ -18339,6 +18619,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798956-00b12480-ef42-11e9-91b8-53b2833625d4.png",
       "tag" : "Rectangle,Tilt",
       "name" : "SideNotes"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "yellow,brown,black",
+      "created_at" : "2022-12-21 01:08:42",
+      "developer" : "SigmaOS Inc",
+      "link" : "https:\/\/sigmaos.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373867-e2c7d209-0801-40d5-b051-d5133da870b4.png",
+      "tag" : "Black,Hole",
+      "name" : "SigmaOS"
     },
     {
       "category" : "Music",
@@ -19557,7 +19847,7 @@
       "developer" : "Chronos",
       "link" : "https:\/\/www.chronosnet.com\/downloads\/old",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575218-94b9b4c2-73b4-11e8-99ec-366dfc4d48b1.png",
-      "tag" : "Brain",
+      "tag" : "Dot",
       "name" : "StickyBrain"
     },
     {
@@ -19599,6 +19889,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99021759-540a0200-259c-11eb-9ccc-cf90e7d2dc97.png",
       "tag" : "Book,Rectangle",
       "name" : "Storyist 4"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,white,black",
+      "created_at" : "2022-06-18 21:50:41",
+      "developer" : "Solaria",
+      "link" : "https:\/\/strike-app.com\/",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373940-4ea0c703-d76f-4cdb-87f8-fc744c7df7a6.png",
+      "tag" : "Character,Rectangle",
+      "name" : "Strike 2"
     },
     {
       "category" : "Productivity",
@@ -19739,6 +20039,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575228-985a7db4-73b4-11e8-8f4b-590943db6565.png",
       "tag" : "Photo,Round",
       "name" : "Super Resize"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "orange,white",
+      "created_at" : "2022-12-23 17:37:33",
+      "developer" : "SuperPlanner",
+      "link" : "https:\/\/superplanner.app",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373854-5a373c66-a357-4927-abfc-49eb5b2b140a.png",
+      "tag" : "Rectangle,Book,Tick",
+      "name" : "SuperPlanner"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "white,orange,yellow",
+      "created_at" : "2022-11-11 22:25:02",
+      "developer" : "Good Snooze",
+      "link" : "https:\/\/twitter.com\/jordibruin",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373912-59ff76df-e7cf-4472-959c-2c2a5d3fc993.png",
+      "tag" : "Rectangle,Bubble,Star",
+      "name" : "Superstar"
     },
     {
       "category" : "Utilities",
@@ -20869,6 +21189,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037401-6972680a-8d3f-11e8-8a0c-3dce05a756b6.png",
       "tag" : "Rectangle,Tilt",
       "name" : "Tipi"
+    },
+    {
+      "category" : "Education",
+      "color" : "orange,white",
+      "created_at" : "2022-11-01 20:11:14",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373894-c572dbc2-9ffa-4a81-9b1a-40058529514f.png",
+      "tag" : "Rectangle",
+      "name" : "Tips"
     },
     {
       "category" : "Utilities",
@@ -23132,6 +23462,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "red,orange,blue,purple",
+      "created_at" : "2020-12-02 00:34:38",
+      "developer" : "Wise Tech Labs Private Limited",
+      "link" : "http:\/\/blogs.wisetechlabs.com",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210376510-5d35d40c-3748-4a07-b9bc-c52bb3838edb.png",
+      "tag" : "Portrait",
+      "name" : "Wise Menu"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,orange",
       "created_at" : "2019-11-11 22:36:14",
       "developer" : "MacAppStudio",
@@ -23651,5 +23991,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2022-09-22 18:29:32 GMT+8"
+  "update_time" : "2023-01-03 22:28:48 GMT+8"
 }
