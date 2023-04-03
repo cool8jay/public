@@ -3,9 +3,15 @@
     <channel>
         <title>Captin</title>
         <item>
-            <title>1.1.7</title>
+            <title>Captin</title>
             <description>
                 <![CDATA[
+                <h1>Version 1.2.1</h1>
+                <h2>Fixed: </h2>
+                <ul>
+                <li>Compatibility issue on Mac Ventura.</li>
+                </ul>
+                <hr>
                 <h1>Version 1.2</h1>
                 <h2>Added: </h2>
                 <ul>
@@ -46,9 +52,9 @@
                 <p2>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p2>
                 ]]>
             </description>
-            <pubDate>Mon, 07 Nov 2022 20:00:08 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="158" sparkle:shortVersionString="1.2" length="3006533" type="application/octet-stream" sparkle:edSignature="hueIUe5KheuJ62NJyjFOgMyJ8iD423Ocugt2rsjn1OISPg9F/BGW3pYZza9rgncWwFWpsXLBhf6pjdAxz18ZBw=="/>
+            <pubDate>Mon, 03 Apr 2023 20:57:19 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="161" sparkle:shortVersionString="1.2.1" length="2851472" type="application/octet-stream" sparkle:edSignature="Q4ueUPQq1yiLJYEwir/+Nb4jqEc44O4q2r/L+mhjY/RmKbFbrLrjUc9jMyVZ0T2drNrgiQhLkd0XPoSXYyf/CA=="/>
         </item>
     </channel>
 </rss>
