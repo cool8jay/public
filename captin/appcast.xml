@@ -6,6 +6,16 @@
             <title>Captin</title>
             <description>
                 <![CDATA[
+                    <h1>Version 1.3.1</h1>
+                    <h2>Added: </h2>
+                    <ul>
+                    <li>Support Apple CPU.</li>
+                    </ul>
+                    <h2>Improved:</h2>
+                    <ul>
+                    <li>User experience.</li>
+                    </ul>
+                    <hr>
                 <h1>Version 1.3</h1>
                 <h2>Added: </h2>
                 <ul>
@@ -15,6 +25,7 @@
                 <ul>
                 <li>Monitor information fetching.</li>
                 </ul>
+                
                 <hr>
                 <h1>Version 1.2.1</h1>
                 <h2>Fixed: </h2>
@@ -62,9 +73,9 @@
                 <p2>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p2>
                 ]]>
             </description>
-            <pubDate>Fri, 07 Apr 2023 23:12:25 +0800</pubDate>
+            <pubDate>Sun, 17 Sep 2023 11:25:09 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="174" sparkle:shortVersionString="1.3" length="2854715" type="application/octet-stream" sparkle:edSignature="uqoTsohSjZokP5VqAbOCvzVwv+/vMTYpwm5G8jKKEFVf1H0YjIg201HsaAlCIvPYCdWCCcb1hkZyd/0aoW7FDg=="/>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="179" sparkle:shortVersionString="1.3.1" length="1810081" type="application/octet-stream" sparkle:edSignature="yDFw2+fFRYiySt2ysys0M0shV1oh9s+JhxHdgPjyAUv9i7JNhxZoy/g/6m3k9WxswweJypvy0vFZoDX1X3R+BQ=="/>
         </item>
     </channel>
 </rss>
