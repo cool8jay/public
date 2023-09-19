@@ -3,20 +3,21 @@
     <channel>
         <title>AppCloner</title>
         <item>
-            <title>1.0.11</title>
+            <title>1.0.12</title>
             <description>
                 <![CDATA[
-                    <h1>Version 1.0.10</h1>
+                    <h1>Version 1.0.12</h1>
                     <h2>Added: </h2>
                     <ul>
-                    <li>Due to discontinuity of DevMate, AppCloner now switches to its own updating solution.</li>
+                    <li>Support Apple CPU.</li>
                     </ul>
-                    <p2>For more information about our app, please follow our official twitter: <a href="https://twitter.com/support_100hps">@support_100hps</a></p2>
+                    <hr>
+                    <p2>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p2>
                 ]]>
             </description>
-            <pubDate>Tue, 27 Apr 2021 21:31:46 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/appcloner/AppCloner.zip" sparkle:version="103" sparkle:shortVersionString="1.0.11" length="4773541" type="application/octet-stream" sparkle:edSignature="T54gFYzJEAcgdX+RK4TY7vJ0B8U2tYgZKYSodag6O57Hz9VSiUiqwHW+xnY1+hqsSPxhTGTe+rJ5cXygP6dGDw=="/>
+            <pubDate>Tue, 19 Sep 2023 08:03:01 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/appcloner/AppCloner.zip" sparkle:version="114" sparkle:shortVersionString="1.0.12" length="3569676" type="application/octet-stream" sparkle:edSignature="YvAjiifGtfT7+6PNCVohM/YOBOUem7ARSf49CrO9BEKWuMQZ/zQJDTz237+yriXGdCNM+T4D+y6tFBQrXRegDg=="/>
         </item>
     </channel>
 </rss>
