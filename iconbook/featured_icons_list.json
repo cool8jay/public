@@ -18202,6 +18202,16 @@
     },
     {
       "category" : "Games",
+      "color" : "purple,brown",
+      "created_at" : "2025-05-31 00:01:53",
+      "developer" : "Shaun Coleman",
+      "link" : "https:\/\/pipsqueakgames.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/tTK475g9\/Punch-Kick-Duck.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Punch Kick Duck+"
+    },
+    {
+      "category" : "Games",
       "color" : "green,purple",
       "created_at" : "2024-07-09 21:52:50",
       "developer" : "Sega",
@@ -26331,5 +26341,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2025-06-07 14:28:03 GMT+8"
+  "update_time" : "2025-06-07 14:58:13 GMT+8"
 }
