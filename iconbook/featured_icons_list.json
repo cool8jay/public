@@ -1022,6 +1022,16 @@
     },
     {
       "category" : "Games",
+      "color" : "blue,black",
+      "created_at" : "2024-01-11 21:59:02",
+      "developer" : "Rovio",
+      "link" : "https:\/\/www.rovio.com\/games\/angry-birds-reloaded",
+      "icon_url" : "https:\/\/i.postimg.cc\/T2rRtmMz\/Angry-Birds-Reloaded-2.png",
+      "tag" : "Rectangle",
+      "name" : "Angry Birds Reloaded 2"
+    },
+    {
+      "category" : "Games",
       "color" : "red,yellow",
       "created_at" : "2019-11-15 21:27:16",
       "developer" : "Rovio",
@@ -1661,6 +1671,16 @@
       "name" : "Be Focused"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "blue,white,black",
+      "created_at" : "2024-04-04 22:08:48",
+      "developer" : "Softorino Inc",
+      "link" : "https:\/\/softorino.com\/beamer",
+      "icon_url" : "https:\/\/i.postimg.cc\/YSkNmQ7t\/Beamer.png",
+      "tag" : "Rectangle",
+      "name" : "Beamer"
+    },
+    {
       "category" : "Finance",
       "color" : "yellow,brown",
       "created_at" : "2018-10-30 10:13:03",
@@ -1699,6 +1719,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574370-bcb61084-73b3-11e8-9158-af968b51c029.png",
       "tag" : "Animal,Round",
       "name" : "Bear"
+    },
+    {
+      "category" : "Music",
+      "color" : "blue,silver,black",
+      "created_at" : "2024-03-29 20:58:06",
+      "developer" : "tagtraum industries incorporated",
+      "link" : "https:\/\/www.beatunes.com\/en\/index.html",
+      "icon_url" : "https:\/\/i.postimg.cc\/wTLsc30M\/bea-Tunes-5.png",
+      "tag" : "Rectangle",
+      "name" : "beaTunes 5"
     },
     {
       "category" : "Photo & Video",
@@ -3459,6 +3489,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574460-d0f07c10-73b3-11e8-8890-72717b114f5c.png",
       "tag" : "Magnet",
       "name" : "CleanApp"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2024-04-04 22:09:55",
+      "developer" : "Softorino Inc",
+      "link" : "https:\/\/softorino.com\/cleanappsnow",
+      "icon_url" : "https:\/\/i.postimg.cc\/J4f5M9dD\/Clean-Apps-Now.png",
+      "tag" : "Rectangle",
+      "name" : "CleanAppsNow"
     },
     {
       "category" : "Utilities",
@@ -7809,6 +7849,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400105-e1220e00-4b7e-11eb-9898-04d93947452f.png",
       "tag" : "Folder",
       "name" : "Folder Actions Setup"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,orange,green,blue,white",
+      "created_at" : "2024-04-04 21:41:29",
+      "developer" : "Softorino Inc",
+      "link" : "https:\/\/softorino.com\/folder-colorizer-mac",
+      "icon_url" : "https:\/\/i.postimg.cc\/4yMbKMf0\/Folder-Colorizer-Pro.png",
+      "tag" : "Rectangle,Folder",
+      "name" : "Folder Colorizer Pro"
     },
     {
       "category" : "Utilities",
@@ -13922,6 +13972,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2024-03-29 20:23:56",
+      "developer" : "Good Snooze",
+      "link" : "https:\/\/www.getnavi.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/Sxc7sDwZ\/Navi.png",
+      "tag" : "Rectangle,Bubble",
+      "name" : "Navi"
+    },
+    {
+      "category" : "Utilities",
       "color" : "green,white",
       "created_at" : "2019-09-11 15:44:29",
       "developer" : "NearLock",
@@ -18202,6 +18262,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "blue,purple,white",
+      "created_at" : "2024-03-28 21:00:59",
+      "developer" : "Edovia Inc",
+      "link" : "https:\/\/edovia.com\/screens-mac",
+      "icon_url" : "https:\/\/i.postimg.cc\/qRTFqNbK\/Screens-5.png",
+      "tag" : "Rectangle",
+      "name" : "Screens 5"
+    },
+    {
+      "category" : "Utilities",
       "color" : "purple,white",
       "created_at" : "2018-10-30 11:01:16",
       "developer" : "Edovia Inc",
@@ -20209,6 +20279,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373912-59ff76df-e7cf-4472-959c-2c2a5d3fc993.png",
       "tag" : "Rectangle,Bubble,Star",
       "name" : "Superstar"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "red,blue,white",
+      "created_at" : "2024-03-04 19:26:58",
+      "developer" : "Matthias Hühne, HOsy software.",
+      "link" : "https:\/\/surfed.app\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/vHsmyht8\/Surfed-History-Bookmark.png",
+      "tag" : "Rectangle",
+      "name" : "Surfed - History & Bookmark"
     },
     {
       "category" : "Utilities",
@@ -23852,6 +23932,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "white,orange",
+      "created_at" : "2024-03-29 12:32:06",
+      "developer" : "XMind Ltd.",
+      "link" : "https:\/\/xmind.app\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/3wBXjWrm\/Xmind-24.png",
+      "tag" : "Rectangle",
+      "name" : "Xmind 24"
+    },
+    {
+      "category" : "Productivity",
       "color" : "yellow",
       "created_at" : "2019-09-11 16:34:05",
       "developer" : "XMind Ltd.",
@@ -24141,5 +24231,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-04-27 00:15:13 GMT+8"
+  "update_time" : "2024-04-27 00:20:12 GMT+8"
 }
