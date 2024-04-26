@@ -1331,6 +1331,26 @@
       "name" : "Aspect Ratio"
     },
     {
+      "category" : "Games",
+      "color" : "white,black",
+      "created_at" : "2024-04-26 22:33:50",
+      "developer" : "Gameloft",
+      "link" : "http:\/\/www.gameloft.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/5NCgMfbz\/Asphalt-8.png",
+      "tag" : "Rectangle,Car",
+      "name" : "Asphalt 8"
+    },
+    {
+      "category" : "Games",
+      "color" : "purple,white,black",
+      "created_at" : "2024-04-26 22:35:17",
+      "developer" : "ustwo",
+      "link" : "https:\/\/www.assemblegame.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/2S6m3LtM\/Assemble-with-Care.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Assemble with Care"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "red,white",
       "created_at" : "2018-10-30 10:22:12",
@@ -10213,10 +10233,20 @@
     {
       "category" : "News",
       "color" : "white,black",
+      "created_at" : "2019-10-09 00:45:08",
+      "developer" : "Instant Paper, Inc",
+      "link" : "https:\/\/www.instapaper.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/fWYb1Ys7\/Instapaper-Save.png",
+      "tag" : "Character",
+      "name" : "Instapaper Save"
+    },
+    {
+      "category" : "News",
+      "color" : "white,black",
       "created_at" : "2024-04-21 15:53:00",
       "developer" : "Instant Paper, Inc",
       "link" : "https:\/\/www.instapaper.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798893-ed9e5480-ef41-11e9-8a00-6f0942f2bf5a.png",
+      "icon_url" : "https:\/\/i.postimg.cc\/Y9w3R1kn\/Instapaper.png",
       "tag" : "Rectangle,Character",
       "name" : "Instapaper"
     },
@@ -12839,6 +12869,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037301-fda7c6e2-8d3e-11e8-9a4d-24a49f885bd2.png",
       "tag" : "Drink",
       "name" : "MenuPop"
+    },
+    {
+      "category" : "Games",
+      "color" : "green,black",
+      "created_at" : "2024-04-26 22:31:10",
+      "developer" : "NovaSoft Interactive Ltd",
+      "link" : "https:\/\/novasoftinteractive.com\/games\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/rp2FwmqX\/Meridian-157-Prologue.png",
+      "tag" : "Rectangle,Compass",
+      "name" : "Meridian 157 - Prologue"
     },
     {
       "category" : "Social Networking",
@@ -24051,5 +24091,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-04-26 22:49:12 GMT+8"
+  "update_time" : "2024-04-27 00:01:26 GMT+8"
 }
