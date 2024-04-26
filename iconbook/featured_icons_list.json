@@ -7031,6 +7031,16 @@
       "name" : "FaceTime"
     },
     {
+      "category" : "Games",
+      "color" : "blue,brown",
+      "created_at" : "2024-04-19 14:03:17",
+      "developer" : "Clever Apps Pte Ltd",
+      "link" : "http:\/\/cleverappssg.com\/game\/fairy",
+      "icon_url" : "https:\/\/i.postimg.cc\/RCtd3C5C\/Fairyland-Merge-Magic.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Fairyland - Merge & Magic"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,black",
       "created_at" : "2019-09-11 16:29:42",
@@ -16241,6 +16251,16 @@
       "name" : "PopDo"
     },
     {
+      "category" : "Games",
+      "color" : "green,purple,white",
+      "created_at" : "2024-04-21 13:56:49",
+      "developer" : "FIFTYTWO",
+      "link" : "https:\/\/populusrun.wefiftytwo.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/NjT15KvQ\/Populus-Run.png",
+      "tag" : "Rectangle",
+      "name" : "Populus Run"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "red,white",
       "created_at" : "2021-03-20 00:21:11",
@@ -18621,6 +18641,16 @@
       "name" : "SheetPlanner"
     },
     {
+      "category" : "Games",
+      "color" : "yellow,black",
+      "created_at" : "2024-04-20 14:05:42",
+      "developer" : "G5 Entertainment AB",
+      "link" : "https:\/\/www.g5.com\/zh\/games\/sherlock-hidden-match-3-cases",
+      "icon_url" : "https:\/\/i.postimg.cc\/jSbzny6Z\/Sherlock-Hidden-Objects-Games.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Sherlock - Hidden Objects Games"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,purple,white",
       "created_at" : "2018-10-30 10:10:07",
@@ -19259,6 +19289,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037378-50709e9e-8d3f-11e8-89d0-1897633f3da1.png",
       "tag" : "Drink",
       "name" : "Socialite"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "red,white",
+      "created_at" : "2024-04-04 22:11:21",
+      "developer" : "Softorino Inc",
+      "link" : "https:\/\/softorino.com\/youtube-downloader-mac",
+      "icon_url" : "https:\/\/i.postimg.cc\/ncbJ7LX3\/Softorino-You-Tube-Converter-PRO.png",
+      "tag" : "Rectangle",
+      "name" : "Softorino YouTube Converter PRO"
     },
     {
       "category" : "Utilities",
@@ -24101,5 +24141,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-04-27 00:09:10 GMT+8"
+  "update_time" : "2024-04-27 00:15:13 GMT+8"
 }
