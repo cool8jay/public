@@ -4936,7 +4936,7 @@
       "created_at" : "2024-02-24 17:27:59",
       "developer" : "Mint Rocket",
       "link" : "https:\/\/mintrocketgames.com\/en\/davethediver",
-      "icon_url" : "https:\/\/i.postimg.cc\/d15r3Ts8\/Dave-The-Diver.png",
+      "icon_url" : "https:\/\/i.postimg.cc\/Mpk3dsVw\/Dave-The-Diver.png",
       "tag" : "Rectangle",
       "name" : "Dave The Diver"
     },
@@ -8372,10 +8372,20 @@
     },
     {
       "category" : "Games",
+      "color" : "red,green,blue",
+      "created_at" : "2024-05-06 19:51:39",
+      "developer" : "Konami Digital Entertainment",
+      "link" : "https:\/\/www.konami.com\/games\/frogger\/tt\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/KYNQLBBQ\/Frogger-in-Toy-Town.png",
+      "tag" : "Rectangle,Frog,Animal",
+      "name" : "Frogger in Toy Town"
+    },
+    {
+      "category" : "Games",
       "color" : "green,blue,white,brown",
       "created_at" : "2023-09-23 00:20:56",
       "developer" : "Konami Digital Entertainment",
-      "link" : "https:\/\/www.konami.com\/games\/frogger",
+      "link" : "https:\/\/www.konami.com\/games\/frogger\/rr\/",
       "icon_url" : "https:\/\/i.postimg.cc\/zXdKf3Dc\/Frogger-Rumbling-Ruins.png",
       "tag" : "Frog,Animal",
       "name" : "Frogger Rumbling Ruins"
@@ -19372,13 +19382,13 @@
     },
     {
       "category" : "Games",
-      "color" : "yellow,blue,purple,white",
-      "created_at" : "2022-02-20 20:13:44",
+      "color" : "orange,yellow,white",
+      "created_at" : "2024-05-06 18:50:46",
       "developer" : "Big Green Pillow",
-      "link" : "https:\/\/www.slashquest.com",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836128-47a3a65d-4d2f-4638-88c0-a0f04b78d2f5.png",
-      "tag" : "Rectangle,Sword",
-      "name" : "SlashQuest"
+      "link" : "https:\/\/slashquest.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/rsbfsTxk\/Slash-Quest-2.png",
+      "tag" : "Rectangle,Character",
+      "name" : "SlashQuest 2"
     },
     {
       "category" : "Health & Fitness",
@@ -24471,5 +24481,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-04-23 22:05:51 GMT+8"
+  "update_time" : "2024-05-06 21:34:46 GMT+8"
 }
