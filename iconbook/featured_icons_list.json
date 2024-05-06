@@ -20481,6 +20481,16 @@
       "name" : "Sudoku Uno"
     },
     {
+      "category" : "Games",
+      "color" : "purple,black",
+      "created_at" : "2024-05-06 18:51:24",
+      "developer" : "Topia",
+      "link" : "https:\/\/www.summonquest.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/wTyWPtYT\/Summon-Quest.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Summon Quest"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "orange,white",
       "created_at" : "2018-10-30 10:30:19",
@@ -24481,5 +24491,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-06 21:34:46 GMT+8"
+  "update_time" : "2024-05-06 21:43:51 GMT+8"
 }
