@@ -9801,6 +9801,16 @@
       "name" : "Hype 4"
     },
     {
+      "category" : "Games",
+      "color" : "yellow,blue,black",
+      "created_at" : "2024-05-12 22:13:38",
+      "developer" : "Milky Tea Limited",
+      "link" : "https:\/\/www.hyperbrawl.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/MpQ9KTvk\/Hyper-Brawl.png",
+      "tag" : "Character,Rectangle",
+      "name" : "HyperBrawl Tournament"
+    },
+    {
       "category" : "Utilities",
       "color" : "purple,white",
       "created_at" : "2019-09-11 18:18:54",
@@ -18271,6 +18281,16 @@
       "name" : "Samorost 3"
     },
     {
+      "category" : "Games",
+      "color" : "yellow,black",
+      "created_at" : "2024-05-12 23:34:58",
+      "developer" : "Soleil Ltd.",
+      "link" : "https:\/\/www.adultswim.com\/games\/samurai-jack",
+      "icon_url" : "https:\/\/i.postimg.cc\/fbCNR5r0\/Samurai-Jack.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Samurai Jack"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "orange,yellow,blue,brown",
       "created_at" : "2018-10-30 11:06:02",
@@ -22091,6 +22111,26 @@
       "name" : "Tower 6"
     },
     {
+      "category" : "Games",
+      "color" : "red,blue,white",
+      "created_at" : "2024-05-12 23:53:10",
+      "developer" : "Red Games Co.",
+      "link" : "https:\/\/www.transformerstacticalarena.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/43DSZcJh\/Transformers-Tactical-Arena-2.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Transformers - Tactical Arena 2"
+    },
+    {
+      "category" : "Games",
+      "color" : "purple,black",
+      "created_at" : "2024-05-12 23:20:46",
+      "developer" : "Red Games Co.",
+      "link" : "https:\/\/www.transformerstacticalarena.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/DzHcL3HV\/Transformers-Tactical-Arena.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Transformers - Tactical Arena"
+    },
+    {
       "category" : "Utilities",
       "color" : "orange,white,black",
       "created_at" : "2018-10-30 10:38:31",
@@ -24601,5 +24641,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-12 21:15:02 GMT+8"
+  "update_time" : "2024-05-12 23:57:36 GMT+8"
 }
