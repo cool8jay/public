@@ -11971,6 +11971,16 @@
       "name" : "Logoist 4.1"
     },
     {
+      "category" : "Graphics & Design",
+      "color" : "orange,black",
+      "created_at" : "2024-05-12 13:46:50",
+      "developer" : "Synium Software",
+      "link" : "https:\/\/www.syniumsoftware.com\/logoist",
+      "icon_url" : "https:\/\/i.postimg.cc\/HLj3wX5J\/Logoist-5.png",
+      "tag" : "Rectangle",
+      "name" : "Logoist 5"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "red,orange,green,white,black",
       "created_at" : "2019-09-11 16:31:05",
@@ -15139,6 +15149,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574963-4c21704c-73b4-11e8-91c4-fb092d30afe1.png",
       "tag" : "Animal,Coffee,Drink,Bird",
       "name" : "Owly"
+    },
+    {
+      "category" : "Games",
+      "color" : "yellow,blue",
+      "created_at" : "2024-05-12 13:18:01",
+      "developer" : "BANDAI NAMCO Entertainment Inc.",
+      "link" : "https:\/\/pacman.com\/en\/games\/partyroyale.php",
+      "icon_url" : "https:\/\/i.postimg.cc\/hjkCPvXX\/PAC-MAN-Party-Royale.png",
+      "tag" : "Rectangle",
+      "name" : "PAC-MAN Party Royale"
     },
     {
       "category" : "Productivity",
@@ -19643,10 +19663,10 @@
     {
       "category" : "Games",
       "color" : "blue,white",
-      "created_at" : "2022-02-20 20:13:00",
+      "created_at" : "2024-05-12 13:48:48",
       "developer" : "Sega",
       "link" : "https:\/\/www.sega.com\/games\/sonic-racing",
-      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836132-6cfae741-ac25-4105-8712-a221b8b29855.png",
+      "icon_url" : "https:\/\/i.postimg.cc\/kgJT5kgv\/Sonic-Racing.png",
       "tag" : "Rectangle,Car",
       "name" : "Sonic Racing"
     },
@@ -24501,5 +24521,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-12 11:46:16 GMT+8"
+  "update_time" : "2024-05-12 13:56:47 GMT+8"
 }
