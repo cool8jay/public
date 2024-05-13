@@ -7641,6 +7641,16 @@
       "name" : "Firewatch"
     },
     {
+      "category" : "Games",
+      "color" : "red,yellow",
+      "created_at" : "2024-05-13 00:48:32",
+      "developer" : "Cyan Worlds Inc",
+      "link" : "https:\/\/cyan.com\/games",
+      "icon_url" : "https:\/\/i.postimg.cc\/WtR2Tffc\/Firmament.png",
+      "tag" : "Rectangle",
+      "name" : "Firmament"
+    },
+    {
       "category" : "Productivity",
       "color" : "green,silver",
       "created_at" : "2022-04-24 21:52:43",
@@ -14839,6 +14849,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147363573-6d604457-e48e-40da-bc10-9778ab81902c.png",
       "tag" : "Rectangle,Portrait",
       "name" : "Oddmar"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,black",
+      "created_at" : "2024-05-13 00:42:39",
+      "developer" : "Mobge",
+      "link" : "http:\/\/oddmargame.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/2j1hjbX0\/Oddmar.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Oddmar+"
     },
     {
       "category" : "Developer Tools",
@@ -24641,5 +24661,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-12 23:57:36 GMT+8"
+  "update_time" : "2024-05-13 23:01:30 GMT+8"
 }
