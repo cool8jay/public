@@ -3771,6 +3771,16 @@
       "name" : "Clipbox"
     },
     {
+      "category" : "Graphics & Design",
+      "color" : "yellow",
+      "created_at" : "2024-05-14 21:52:59",
+      "developer" : "The low-tech guys",
+      "link" : "https:\/\/lowtechguys.com\/clop",
+      "icon_url" : "https:\/\/i.postimg.cc\/V67KkfB0\/Clop.png",
+      "tag" : "Rectangle,Hat",
+      "name" : "Clop"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,white",
       "created_at" : "2018-10-30 10:30:03",
@@ -6589,6 +6599,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99696418-a336c200-2ac9-11eb-875d-a27e0733cd5e.png",
       "tag" : "Rectangle,Bird",
       "name" : "EagleFiler"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "black,orange",
+      "created_at" : "2024-05-14 21:51:32",
+      "developer" : "Boring Design",
+      "link" : "https:\/\/easydevo.boringboring.design",
+      "icon_url" : "https:\/\/i.postimg.cc\/hv6MV2YS\/EasyDevo.png",
+      "tag" : "Rectangle,Brush",
+      "name" : "EasyDevo"
     },
     {
       "category" : "Utilities",
@@ -9729,6 +9749,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/45987731-b397b180-c0a5-11e8-877d-ff2f98b6d557.png",
       "tag" : "House",
       "name" : "Home"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "yellow,white,black",
+      "created_at" : "2024-05-14 21:55:18",
+      "developer" : "Dexter Leng",
+      "link" : "https:\/\/www.homerow.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/636HK2RN\/Homerow.png",
+      "tag" : "Rectangle,Key",
+      "name" : "Homerow"
     },
     {
       "category" : "Finance",
@@ -18442,6 +18472,16 @@
     },
     {
       "category" : "Productivity",
+      "color" : "orange,white,black",
+      "created_at" : "2024-05-14 21:44:15",
+      "developer" : "Witt Software",
+      "link" : "https:\/\/witt-software.com\/rockettypist",
+      "icon_url" : "https:\/\/i.postimg.cc\/y8qvdr9j\/Rocket-Typist-3.png",
+      "tag" : "Rectangle,Key,Rocket",
+      "name" : "Rocket Typist 3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "red,green,silver",
       "created_at" : "2018-10-30 10:30:53",
       "developer" : "Witt Software",
@@ -20241,6 +20281,16 @@
       "name" : "Space Drop"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,orange,silver",
+      "created_at" : "2024-05-14 21:50:08",
+      "developer" : "C-Command Software, LLC",
+      "link" : "https:\/\/c-command.com\/spamsieve",
+      "icon_url" : "https:\/\/i.postimg.cc\/VvdDSxDG\/Spam-Sieve.png",
+      "tag" : "Rectangle,Mail",
+      "name" : "SpamSieve"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,white",
       "created_at" : "2022-03-24 22:09:40",
@@ -21254,7 +21304,7 @@
       "category" : "Developer Tools",
       "color" : "yellow",
       "created_at" : "2020-11-24 17:01:42",
-      "developer" : "TablePlus",
+      "developer" : "TablePlus Inc.",
       "link" : "https:\/\/tableplus.io",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100076380-1cdd0000-2e7c-11eb-907d-ceabdd4e6ccf.png",
       "tag" : "Animal,Elephant,Paper,Rectangle",
@@ -21262,9 +21312,19 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "yellow",
+      "created_at" : "2024-05-14 21:46:53",
+      "developer" : "TablePlus Inc.",
+      "link" : "https:\/\/tableplus.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/VL0KzcS5\/Table-Plus-5.png",
+      "tag" : "Rectangle",
+      "name" : "TablePlus 5"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "orange,yellow",
       "created_at" : "2018-10-30 11:01:07",
-      "developer" : "TablePlus Ltd.",
+      "developer" : "TablePlus Inc.",
       "link" : "https:\/\/tableplus.io",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575237-9b465480-73b4-11e8-8891-9d0aae1f40b6.png",
       "tag" : "Animal,Elephant,Paper",
@@ -24781,6 +24841,16 @@
       "name" : "XMind ZEN"
     },
     {
+      "category" : "Productivity",
+      "color" : "purple,white",
+      "created_at" : "2024-05-14 21:55:57",
+      "developer" : "Xnapper",
+      "link" : "https:\/\/xnapper.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/rpknhYws\/Xnapper.png",
+      "tag" : "Rectangle,Window",
+      "name" : "Xnapper"
+    },
+    {
       "category" : "Photo & Video",
       "color" : "orange,blue",
       "created_at" : "2019-09-11 16:34:04",
@@ -25031,5 +25101,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-14 21:40:20 GMT+8"
+  "update_time" : "2024-05-14 22:00:48 GMT+8"
 }
