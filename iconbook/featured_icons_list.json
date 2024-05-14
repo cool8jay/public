@@ -1207,7 +1207,7 @@
       "developer" : "Kedisoft",
       "link" : "http:\/\/www.kedisoft.com\/appshelf",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574344-b7864606-73b3-11e8-99a1-74f48a584465.png",
-      "tag" : "Animal,Fish",
+      "tag" : "Animal",
       "name" : "AppShelf"
     },
     {
@@ -3887,7 +3887,7 @@
       "developer" : "Chris Sinai",
       "link" : "https:\/\/www.coconut-flavour.com\/coconutbattery",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574470-d3a59daa-73b3-11e8-8a0c-e0f16443a485.png",
-      "tag" : "Food,Fruit,Coconut,Bolt",
+      "tag" : "Food,Fruit,Bolt",
       "name" : "coconutBattery"
     },
     {
@@ -4427,7 +4427,7 @@
       "developer" : "M Cubed Software.",
       "link" : "https:\/\/www.coppiceapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373857-f846f065-b9d8-4bd2-84d9-b55f03642aa6.png",
-      "tag" : "Pen,Board,Rectangle",
+      "tag" : "Pen,Rectangle",
       "name" : "Coppice 2"
     },
     {
@@ -4437,7 +4437,7 @@
       "developer" : "M Cubed Software.",
       "link" : "https:\/\/www.coppiceapp.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/94015926-1381d980-fde0-11ea-9756-6d7c65a99cb0.png",
-      "tag" : "Pen,Board",
+      "tag" : "Pen,Tilt",
       "name" : "Coppice"
     },
     {
@@ -5577,7 +5577,7 @@
       "developer" : "Structured Path GmbH",
       "link" : "https:\/\/diagrams.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318555-95b22500-a268-11ea-8dd4-9108ccf1937d.png",
-      "tag" : "Monster",
+      "tag" : "File",
       "name" : "Diagrams - Document"
     },
     {
@@ -5597,7 +5597,7 @@
       "developer" : "Structured Path GmbH",
       "link" : "https:\/\/diagrams.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/83318556-964abb80-a268-11ea-96f7-d93103c55d2f.png",
-      "tag" : "Monster",
+      "tag" : "File",
       "name" : "Diagrams"
     },
     {
@@ -8527,7 +8527,7 @@
       "developer" : "Konami Digital Entertainment",
       "link" : "https:\/\/www.konami.com\/games\/frogger\/rr\/",
       "icon_url" : "https:\/\/i.postimg.cc\/mgH42zps\/Frogger-and-the-Rumbling-Ruins.png",
-      "tag" : "Frog,Animal",
+      "tag" : "Animal",
       "name" : "Frogger and the Rumbling Ruins"
     },
     {
@@ -8537,7 +8537,7 @@
       "developer" : "Konami Digital Entertainment",
       "link" : "https:\/\/www.konami.com\/games\/frogger\/tt\/",
       "icon_url" : "https:\/\/i.postimg.cc\/KYNQLBBQ\/Frogger-in-Toy-Town.png",
-      "tag" : "Rectangle,Frog,Animal",
+      "tag" : "Rectangle,Animal",
       "name" : "Frogger in Toy Town"
     },
     {
@@ -10107,7 +10107,7 @@
       "developer" : "iSraa Dorgham",
       "link" : "http:\/\/www.reetajapps.com\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147363605-aa9d38ee-ce8c-413e-a735-3a2860594236.png",
-      "tag" : "Frame,Photo",
+      "tag" : "Photo",
       "name" : "iCollage"
     },
     {
@@ -11587,7 +11587,7 @@
       "developer" : "Ironhide Game Studio",
       "link" : "https:\/\/www.ironhidegames.com\/Games\/kingdom-rush-origins",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/147363564-eb592a8f-5971-4f44-a356-66836564afcd.png",
-      "tag" : "Bow,Person,Rectangle",
+      "tag" : "Character,Rectangle",
       "name" : "Kingdom Rush - Origins TD"
     },
     {
@@ -11707,7 +11707,7 @@
       "developer" : "Ivan Sapozhnik",
       "link" : "https:\/\/thelasso.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/232052037-e1435b3d-2afa-4d2d-a363-c8ec59c6e5b9.png",
-      "tag" : "Rectangle,Rope,Window",
+      "tag" : "Rectangle,Window",
       "name" : "Lasso"
     },
     {
@@ -12187,7 +12187,7 @@
       "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/logoist",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574831-28b0aee8-73b4-11e8-8c0a-1376ce554c38.png",
-      "tag" : "Compass,Rectangle,Stationery,Tilt",
+      "tag" : "Compass,Rectangle,Tilt",
       "name" : "Logoist 3"
     },
     {
@@ -12197,7 +12197,7 @@
       "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/logoist",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836898-aa0ed600-9576-11ea-9010-c78a3c3f2d07.png",
-      "tag" : "Ruler,Rectangle,Stationery,Tilt,Pencil",
+      "tag" : "Ruler,Rectangle,Tilt,Pencil",
       "name" : "Logoist 4"
     },
     {
@@ -12207,7 +12207,7 @@
       "developer" : "Synium Software",
       "link" : "http:\/\/www.syniumsoftware.com\/logoist",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99222063-ba04bc80-281c-11eb-8c85-4989afdf3bbb.png",
-      "tag" : "Rectangle,Stationery,Pencil,Ruler",
+      "tag" : "Rectangle,Pencil,Ruler",
       "name" : "Logoist 4.1"
     },
     {
@@ -12367,7 +12367,7 @@
       "developer" : "Alin Panaitiu",
       "link" : "https:\/\/lunar.fyi",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/120666610-4e83f300-c4bf-11eb-84ea-7b226e701979.png",
-      "tag" : "Rectangle,Moom",
+      "tag" : "Rectangle,Moon",
       "name" : "Lunar 4"
     },
     {
@@ -15811,6 +15811,16 @@
       "name" : "PastePal"
     },
     {
+      "category" : "Productivity",
+      "color" : "purple,white",
+      "created_at" : "2024-05-14 19:19:49",
+      "developer" : "Ivan Sapozhnik",
+      "link" : "https:\/\/apps.apple.com\/app\/id1544620654",
+      "icon_url" : "https:\/\/i.postimg.cc\/L8ffJCD9\/Pasty.png",
+      "tag" : "Rectangle,File",
+      "name" : "Pasty"
+    },
+    {
       "category" : "Utilities",
       "color" : "blue,white,black",
       "created_at" : "2019-09-11 18:00:02",
@@ -16657,7 +16667,7 @@
       "developer" : "Sindre Sorhus",
       "link" : "https:\/\/sindresorhus.com\/plash",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/133915814-4c432da3-b121-46dd-8076-3c7092837760.png",
-      "tag" : "Drop,Rectangle",
+      "tag" : "Water,Rectangle",
       "name" : "Plash"
     },
     {
@@ -17757,7 +17767,7 @@
       "developer" : "Raycast Technologies Ltd.",
       "link" : "https:\/\/www.raycast.com\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373886-34b7e1ed-f32d-4ae7-ad46-c21d7bb4908a.png",
-      "tag" : "Rectangle,Fan",
+      "tag" : "Rectangle",
       "name" : "Raycast"
     },
     {
@@ -19337,7 +19347,7 @@
       "developer" : "Shiira Project",
       "link" : "https:\/\/en.wikipedia.org\/wiki\/Shiira",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575142-81e3b276-73b4-11e8-8692-e10f000eb3ea.png",
-      "tag" : "Animal,Fish",
+      "tag" : "Animal",
       "name" : "Shiira"
     },
     {
@@ -20147,7 +20157,7 @@
       "developer" : "Groove Vibes",
       "link" : "https:\/\/apps.apple.com\/app\/id1455813761",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303118-a9a21d00-b4dc-11ea-806c-6345b665f572.png",
-      "tag" : "Music,Device",
+      "tag" : "Device",
       "name" : "Sound Tape Recorder"
     },
     {
@@ -20727,7 +20737,7 @@
       "developer" : "New Technologies",
       "link" : "http:\/\/newtech-ltd.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914241-d7e00480-fd38-11ea-8854-a32f0d23518f.png",
-      "tag" : "Stock",
+      "tag" : "Chart",
       "name" : "Stock Market - Rates Tracker"
     },
     {
@@ -21557,7 +21567,7 @@
       "developer" : "Edgenius",
       "link" : "http:\/\/www.textnutwriter.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575253-a05e243e-73b4-11e8-982c-49ef8c980b6f.png",
-      "tag" : "Coconut,Feather",
+      "tag" : "Fruit",
       "name" : "TextNut"
     },
     {
@@ -21779,6 +21789,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575262-a4066286-73b4-11e8-852c-0e97612c8805.png",
       "tag" : "Check,Todo,Tick",
       "name" : "Things 3"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "green",
+      "created_at" : "2024-05-14 21:28:50",
+      "developer" : "Abdusodiq Saidov",
+      "link" : "https:\/\/apps.apple.com\/app\/id1275071331",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99810428-a93aaa80-2b7e-11eb-9cfd-e4da2da6c6ad.png",
+      "tag" : "Rectangle",
+      "name" : "Things for Work - Templates"
     },
     {
       "category" : "Games",
@@ -23707,7 +23727,7 @@
       "developer" : "Groove Vibes",
       "link" : "https:\/\/apps.apple.com\/app\/id1050950549",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303129-ac9d0d80-b4dc-11ea-8798-c09d7795493b.png",
-      "tag" : "Key,Music,Device",
+      "tag" : "Key,Device,Instrument",
       "name" : "Virtual Mix Studio"
     },
     {
@@ -24037,7 +24057,7 @@
       "developer" : "Andres Canella",
       "link" : "https:\/\/wakeout.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/132548904-a278d4bd-a478-4e02-9944-5991dfb229c3.png",
-      "tag" : "Bear",
+      "tag" : "Animal",
       "name" : "Wakeout"
     },
     {
@@ -25011,5 +25031,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-14 20:22:05 GMT+8"
+  "update_time" : "2024-05-14 21:40:20 GMT+8"
 }
