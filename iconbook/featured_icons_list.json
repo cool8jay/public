@@ -212,6 +212,16 @@
     },
     {
       "category" : "Utilities",
+      "color" : "green,blue,white",
+      "created_at" : "2024-05-13 23:20:05",
+      "developer" : "publicspace",
+      "link" : "http:\/\/www.publicspace.net\/ABetterFinderRename\/index.html",
+      "icon_url" : "https:\/\/i.postimg.cc\/Kz5Rp4TB\/A-Better-Finder-Rename-12.png",
+      "tag" : "Rectangle,Bolt",
+      "name" : "A Better Finder Rename 12"
+    },
+    {
+      "category" : "Utilities",
       "color" : "red,silver",
       "created_at" : "2019-11-05 19:32:07",
       "developer" : "AppYogi Software",
@@ -1042,6 +1052,16 @@
     },
     {
       "category" : "Games",
+      "color" : "red,blue,black",
+      "created_at" : "2024-01-11 22:01:41",
+      "developer" : "Rovio",
+      "link" : "https:\/\/www.rovio.com\/games\/angry-birds-reloaded",
+      "icon_url" : "https:\/\/i.postimg.cc\/XYDhFgDy\/Angry-Birds-Reloaded.png",
+      "tag" : "Rectangle",
+      "name" : "Angry Birds Reloaded"
+    },
+    {
+      "category" : "Games",
       "color" : "red,yellow",
       "created_at" : "2019-11-15 21:27:16",
       "developer" : "Rovio",
@@ -1379,6 +1399,16 @@
       "icon_url" : "https:\/\/i.postimg.cc\/2S6m3LtM\/Assemble-with-Care.png",
       "tag" : "Rectangle,Character",
       "name" : "Assemble with Care"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "white,purple",
+      "created_at" : "2024-05-13 23:28:50",
+      "developer" : "Matteo Spada",
+      "link" : "https:\/\/tryastro.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/Jn3kwPfy\/Astro.png",
+      "tag" : "Rectangle",
+      "name" : "Astro"
     },
     {
       "category" : "Graphics & Design",
@@ -15691,6 +15721,16 @@
       "name" : "Parental Controls"
     },
     {
+      "category" : "Games",
+      "color" : "red,white,black",
+      "created_at" : "2024-05-14 22:12:35",
+      "developer" : "MotivApp GmbH.",
+      "link" : "https:\/\/apps.apple.com\/app\/id1065432821",
+      "icon_url" : "https:\/\/i.postimg.cc\/mknSj27B\/Parkour-Simulator-3-D.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Parkour Simulator 3D"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "red,yellow,blue",
       "created_at" : "2018-10-30 11:02:35",
@@ -16489,6 +16529,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/140521855-8bedffb3-8da0-425d-8da5-c2991e7b4048.png",
       "tag" : "Rectangle",
       "name" : "Pitch 1.51"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,silver",
+      "created_at" : "2024-05-15 18:55:17",
+      "developer" : "Pitch Software GmbH",
+      "link" : "https:\/\/pitch.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/02XJq6BC\/Pitch-2.png",
+      "tag" : "Rectangle",
+      "name" : "Pitch 2"
     },
     {
       "category" : "Productivity",
@@ -19602,6 +19652,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2024-05-14 21:49:09",
+      "developer" : "Olá Brothers LDA",
+      "link" : "https:\/\/sipapp.io",
+      "icon_url" : "https:\/\/i.postimg.cc\/WpYSTSCC\/Sip-3.png",
+      "tag" : "Rectangle",
+      "name" : "Sip 3"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "blue",
       "created_at" : "2018-10-30 11:01:13",
       "developer" : "Olá Brothers LDA",
@@ -19826,9 +19886,9 @@
       "created_at" : "2024-05-06 18:50:46",
       "developer" : "Big Green Pillow",
       "link" : "https:\/\/slashquest.com\/",
-      "icon_url" : "https:\/\/i.postimg.cc\/rsbfsTxk\/Slash-Quest-2.png",
+      "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/154836128-47a3a65d-4d2f-4638-88c0-a0f04b78d2f5.png",
       "tag" : "Rectangle,Character",
-      "name" : "SlashQuest 2"
+      "name" : "Slash Quest!"
     },
     {
       "category" : "Health & Fitness",
@@ -20949,6 +21009,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575226-97a828bc-73b4-11e8-9705-35120982e9b7.png",
       "tag" : "Submarine",
       "name" : "SubsMarine"
+    },
+    {
+      "category" : "Games",
+      "color" : "orange,blue,purple,brown",
+      "created_at" : "2024-05-14 21:26:33",
+      "developer" : "SYBO",
+      "link" : "https:\/\/sybogames.com\/subway-surfers",
+      "icon_url" : "https:\/\/i.postimg.cc\/m2KC2fQp\/Things-for-Work-Templates.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Subway Surfers Tag 1.4"
     },
     {
       "category" : "Games",
@@ -25101,5 +25171,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-05-14 22:00:48 GMT+8"
+  "update_time" : "2024-05-15 19:12:19 GMT+8"
 }
