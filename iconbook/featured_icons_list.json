@@ -1561,6 +1561,16 @@
       "name" : "AV Recorder & Screen Capture"
     },
     {
+      "category" : "Social Networking",
+      "color" : "blue,white",
+      "created_at" : "2024-05-13 23:31:08",
+      "developer" : "Shihab Mehboob",
+      "link" : "https:\/\/www.pnguin.app\/aviary",
+      "icon_url" : "https:\/\/i.postimg.cc\/2SWBNgjN\/Aviary-2.png",
+      "tag" : "Rectangle,Bird,Animal",
+      "name" : "Aviary 2"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "green,blue,purple,white",
       "created_at" : "2021-04-14 19:40:27",
@@ -19053,6 +19063,16 @@
     {
       "category" : "Utilities",
       "color" : "blue,silver",
+      "created_at" : "2020-12-18 22:08:33",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/KYdqv6B7\/Screen-Time-Big-Sur.png",
+      "tag" : "Sandglass",
+      "name" : "Screen Time Big Sur"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,silver",
       "created_at" : "2021-02-26 22:08:33",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
@@ -21719,6 +21739,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575242-9ce0922e-73b4-11e8-81fb-6591de64a194.png",
       "tag" : "Tape",
       "name" : "TapeDeck"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,purple,silver,black",
+      "created_at" : "2024-05-16 19:24:36",
+      "developer" : "Made by Windmill, LLC.",
+      "link" : "https:\/\/madebywindmill.com\/taska",
+      "icon_url" : "https:\/\/i.postimg.cc\/MpprsbzB\/Taska.png",
+      "tag" : "Rectangle,Pen",
+      "name" : "Taska"
     },
     {
       "category" : "Productivity",
@@ -25451,5 +25481,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-07-12 18:47:58 GMT+8"
+  "update_time" : "2024-07-12 19:37:13 GMT+8"
 }
