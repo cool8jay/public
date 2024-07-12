@@ -16611,6 +16611,16 @@
       "name" : "Pictogram"
     },
     {
+      "category" : "Photo & Video",
+      "color" : "red,purple,black",
+      "created_at" : "2024-05-16 19:23:58",
+      "developer" : "A&J",
+      "link" : "https:\/\/www.suyai.ch\/apps\/pictura-video\/contact",
+      "icon_url" : "https:\/\/i.postimg.cc\/y8hkNPqr\/Pictura-Video.png",
+      "tag" : "Rectangle,Butterfly,Animal",
+      "name" : "Pictura Video"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "blue,purple",
       "created_at" : "2024-05-17 20:29:58",
@@ -19063,7 +19073,7 @@
     {
       "category" : "Utilities",
       "color" : "blue,silver",
-      "created_at" : "2020-12-18 22:08:33",
+      "created_at" : "2021-02-26 22:08:33",
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/i.postimg.cc\/KYdqv6B7\/Screen-Time-Big-Sur.png",
@@ -25481,5 +25491,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-07-12 19:37:13 GMT+8"
+  "update_time" : "2024-07-12 19:41:40 GMT+8"
 }
