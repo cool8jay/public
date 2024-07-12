@@ -1052,6 +1052,16 @@
     },
     {
       "category" : "Games",
+      "color" : "red,blue",
+      "created_at" : "2024-07-01 23:51:29",
+      "developer" : "Rovio",
+      "link" : "https:\/\/www.rovio.com\/games\/angry-birds-reloaded",
+      "icon_url" : "https:\/\/i.postimg.cc\/sgsV6LL2\/Angry-Birds-Reloaded-3.png",
+      "tag" : "Rectangle",
+      "name" : "Angry Birds Reloaded 3"
+    },
+    {
+      "category" : "Games",
       "color" : "red,blue,black",
       "created_at" : "2024-01-11 22:01:41",
       "developer" : "Rovio",
@@ -4749,6 +4759,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574499-da0cbcb4-73b3-11e8-9656-173c48121fc2.png",
       "tag" : "Character,Round",
       "name" : "Creo"
+    },
+    {
+      "category" : "Lifestyle",
+      "color" : "white,silver",
+      "created_at" : "2024-06-12 19:08:30",
+      "developer" : "Devin Davies",
+      "link" : "https:\/\/crouton.app\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/P5ydB4GQ\/Crouton.png",
+      "tag" : "Rectangle,Card",
+      "name" : "Crouton"
     },
     {
       "category" : "Utilities",
@@ -9622,6 +9642,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2024-07-10 21:36:17",
+      "developer" : "Modum B.V.",
+      "link" : "https:\/\/helm-app.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/LXw9x8dd\/Helm.png",
+      "tag" : "Rectangle",
+      "name" : "Helm"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "white,black",
       "created_at" : "2022-06-18 21:53:35",
       "developer" : "ridiculous_fish",
@@ -12369,6 +12399,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/66798913-f7c05300-ef41-11e9-906f-3572829524be.png",
       "tag" : "Animal,Glasses",
       "name" : "Lookin"
+    },
+    {
+      "category" : "Weather",
+      "color" : "blue",
+      "created_at" : "2024-07-10 21:36:17",
+      "developer" : "Thinkbitz Software Studio",
+      "link" : "https:\/\/lookslikerain.app\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/rs4832cD\/Looks-Like-Rain.png",
+      "tag" : "Rectangle,Umbrella",
+      "name" : "Looks Like Rain"
     },
     {
       "category" : "Music",
@@ -17571,6 +17611,16 @@
       "name" : "Pulp"
     },
     {
+      "category" : "Games",
+      "color" : "green,purple",
+      "created_at" : "2024-07-09 21:52:50",
+      "developer" : "Sega",
+      "link" : "https:\/\/puyo.sega.com\/puzzlepop\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/ryRFKxWq\/Puyo-Puyo-Puzzle-Pop.png",
+      "tag" : "Character,Rectangle",
+      "name" : "Puyo Puyo Puzzle Pop"
+    },
+    {
       "category" : "Developer Tools",
       "color" : "blue,purple,black",
       "created_at" : "2018-10-30 11:11:57",
@@ -18789,6 +18839,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/81836894-a8451280-9576-11ea-96df-db7154ede2e3.png",
       "tag" : "Folder,Magnifier",
       "name" : "Salmon"
+    },
+    {
+      "category" : "Games",
+      "color" : "black,white,brown,blue,green",
+      "created_at" : "2024-07-09 23:07:51",
+      "developer" : "Sega",
+      "link" : "https:\/\/sambadeamigo.sega.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/Qxp8qD0P\/Samba-de-Amigo.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Samba de Amigo"
     },
     {
       "category" : "Games",
@@ -21009,6 +21069,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575218-94b9b4c2-73b4-11e8-99ec-366dfc4d48b1.png",
       "tag" : "Brain",
       "name" : "StickyBrain"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,blue,black",
+      "created_at" : "2024-07-10 21:32:30",
+      "developer" : "Lykkegaard Europoe Lykkegaard Europoe Limited",
+      "link" : "https:\/\/www.lykkestudios.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/gk9cRjq8\/Stitch-1-23.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Stitch 1.23"
     },
     {
       "category" : "Games",
@@ -25381,5 +25451,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2024-06-12 19:06:34 GMT+8"
+  "update_time" : "2024-07-12 18:47:58 GMT+8"
 }
