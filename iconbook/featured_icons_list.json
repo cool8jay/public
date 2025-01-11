@@ -941,6 +941,26 @@
       "name" : "Alto's Odyssey"
     },
     {
+      "category" : "Finance",
+      "color" : "white,black",
+      "created_at" : "2025-05-30 19:12:26",
+      "developer" : "Alexandr Shirokov",
+      "link" : "https:\/\/www.alzex.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/DfxCsPyn\/Alzex-Finance-Pro.png",
+      "tag" : "Rectangle",
+      "name" : "Alzex Finance Pro"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "white,brown",
+      "created_at" : "2025-05-30 19:12:26",
+      "developer" : "Alexandr Shirokov",
+      "link" : "https:\/\/www.alzex.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/3JWtZ0dp\/Alzex-Finance.png",
+      "tag" : "Rectangle",
+      "name" : "Alzex Finance"
+    },
+    {
       "category" : "Music",
       "color" : "purple,silver",
       "created_at" : "2023-07-03 19:14:39",
@@ -1601,6 +1621,16 @@
       "name" : "Axure RP 10"
     },
     {
+      "category" : "Utilities",
+      "color" : "black,orange",
+      "created_at" : "2025-05-30 19:11:47",
+      "developer" : "Andrea Schroeter",
+      "link" : "https:\/\/b4ha.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/8P3tXk6Y\/b4ha.png",
+      "tag" : "Rectangle",
+      "name" : "b4ha"
+    },
+    {
       "category" : "Productivity",
       "color" : "white,black",
       "created_at" : "2022-12-27 21:19:07",
@@ -2099,6 +2129,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/86505540-80e12800-bdf8-11ea-953b-1d9958639763.png",
       "tag" : "Document,Rectangle",
       "name" : "Black Out"
+    },
+    {
+      "category" : "Health & Fitness",
+      "color" : "yellow,white",
+      "created_at" : "2025-05-30 19:09:17",
+      "developer" : "Cody Bromley",
+      "link" : "https:\/\/blankie.rest",
+      "icon_url" : "https:\/\/i.postimg.cc\/q7HQ0mQX\/Blankie.png",
+      "tag" : "",
+      "name" : "Blankie"
     },
     {
       "category" : "Games",
@@ -4711,6 +4751,16 @@
       "name" : "CotEditor 4"
     },
     {
+      "category" : "Lifestyle",
+      "color" : "purple,white,black",
+      "created_at" : "2025-02-03 22:39:45",
+      "developer" : "Metromedya",
+      "link" : "https:\/\/countdown.tr",
+      "icon_url" : "https:\/\/i.postimg.cc\/YCW85cNC\/Count-Down-Pro.png",
+      "tag" : "Rectangle,Clock",
+      "name" : "CountDownPro"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,white",
       "created_at" : "2020-11-24 14:37:04",
@@ -6199,6 +6249,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/100414916-decb2080-30b5-11eb-9414-7b123fa46392.png",
       "tag" : "Brush,Drive",
       "name" : "DMG Canvas 3"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,blue,white",
+      "created_at" : "2025-05-30 19:10:24",
+      "developer" : "Araelium",
+      "link" : "https:\/\/www.araelium.com\/dmgcanvas",
+      "icon_url" : "https:\/\/i.postimg.cc\/PqbyqmRG\/DMG-Canvas-4.png",
+      "tag" : "Rectangle",
+      "name" : "DMG Canvas 4"
     },
     {
       "category" : "Developer Tools",
@@ -8709,6 +8769,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/210373898-5b03b3ca-9d36-4021-a987-54b8ddbd85ec.png",
       "tag" : "Rectangle,Device",
       "name" : "Franz"
+    },
+    {
+      "category" : "Games",
+      "color" : "red,orange,blue,purple",
+      "created_at" : "2025-05-30 19:00:03",
+      "developer" : "Team Fray",
+      "link" : "https:\/\/www.fraymakers.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/RFMRJNkW\/Fraymakers.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Fraymakers"
     },
     {
       "category" : "Business",
@@ -22331,6 +22401,16 @@
       "name" : "Terra Nil"
     },
     {
+      "category" : "Utilities",
+      "color" : "blue,white,brown",
+      "created_at" : "2025-05-30 19:02:53",
+      "developer" : "DoubleDog Software",
+      "link" : "https:\/\/gettes.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/rmQ91qTQ\/Tes.png",
+      "tag" : "Rectangle,Animal",
+      "name" : "Tes"
+    },
+    {
       "category" : "Productivity",
       "color" : "green,white,silver",
       "created_at" : "2020-11-19 14:08:01",
@@ -26001,5 +26081,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2025-05-30 18:55:43 GMT+8"
+  "update_time" : "2025-05-30 19:19:50 GMT+8"
 }
