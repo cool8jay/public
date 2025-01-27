@@ -1381,6 +1381,16 @@
       "name" : "ArtRage 5"
     },
     {
+      "category" : "News",
+      "color" : "white,black,silver",
+      "created_at" : "2025-06-16 19:50:03",
+      "developer" : "Mikalaj Karhin",
+      "link" : "https:\/\/artykul.org",
+      "icon_url" : "https:\/\/i.postimg.cc\/LXGMZG63\/Artykul.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Artykul"
+    },
+    {
       "category" : "Graphics & Design",
       "color" : "silver,black",
       "created_at" : "2020-11-20 13:44:25",
@@ -2181,7 +2191,17 @@
       "name" : "Blu-ray Player"
     },
     {
-      "category" : "Utilities",
+      "category" : "Productivity",
+      "color" : "yellow,blue,black",
+      "created_at" : "2025-05-29 22:36:30",
+      "developer" : "Cub & Pup",
+      "link" : "https:\/\/bluebird.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/NjbqxKjM\/Bluebird-Focus-Timer-3.png",
+      "tag" : "Rectangle,Bird",
+      "name" : "Bluebird Focus Timer 3"
+    },
+    {
+      "category" : "Productivity",
       "color" : "blue,brown,black",
       "created_at" : "2022-09-22 18:25:02",
       "developer" : "Cub & Pup",
@@ -2487,7 +2507,7 @@
       "developer" : "Panini House",
       "link" : "https:\/\/panini.house\/brewer",
       "icon_url" : "https:\/\/i.postimg.cc\/cHCHXGvV\/Brewer-X.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Blueprint",
       "name" : "Brewer X"
     },
     {
@@ -2567,7 +2587,7 @@
       "developer" : "Lickability",
       "link" : "https:\/\/buildwatch.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/112626468-3498b500-8e6b-11eb-9a3d-426067fa9488.png",
-      "tag" : "Rectangle,Watch",
+      "tag" : "Rectangle,Watch,Blueprint",
       "name" : "Buildwatch"
     },
     {
@@ -2687,7 +2707,7 @@
       "developer" : "Lemke Software GmbH",
       "link" : "https:\/\/www.lemkesoft.de\/en\/products\/cadintosh",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574409-c5033348-73b3-11e8-83bb-769a6f119493.png",
-      "tag" : "Ruler,Tilt",
+      "tag" : "Ruler,Tilt,Blueprint",
       "name" : "CADintosh X"
     },
     {
@@ -4597,7 +4617,7 @@
       "developer" : "Christian Kienle",
       "link" : "https:\/\/github.com\/ChristianKienle\/Core-Data-Editor",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43036824-32c7a798-8d3a-11e8-8fb7-87bb31676cba.png",
-      "tag" : "Document,Ruler,Tilt",
+      "tag" : "Document,Ruler,Tilt,Blueprint",
       "name" : "Core Data Editor 4"
     },
     {
@@ -4657,7 +4677,7 @@
       "developer" : "Mineko IMANISHI",
       "link" : "https:\/\/coteditor.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574496-d8e917f6-73b3-11e8-8a34-cf9a1d86adc1.png",
-      "tag" : "Pen,Tilt",
+      "tag" : "Pen,Tilt,Code",
       "name" : "CotEditor 1"
     },
     {
@@ -5447,7 +5467,7 @@
       "developer" : "Alexandre Colucci",
       "link" : "https:\/\/dependencies.app",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/110124999-c6c61400-7dfd-11eb-813e-d60e1593cf08.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Blueprint",
       "name" : "Dependencies"
     },
     {
@@ -5617,7 +5637,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914260-ddd5e580-fd38-11ea-919b-f594938bc6bc.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Blueprint",
       "name" : "Developer 8"
     },
     {
@@ -5627,7 +5647,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/85303141-af97fe00-b4dc-11ea-8808-f601859a3152.png",
-      "tag" : "Round",
+      "tag" : "Round,Blueprint",
       "name" : "Developer"
     },
     {
@@ -7319,6 +7339,26 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/103400149-03b42700-4b7f-11eb-8a60-b5d1fccab3b0.png",
       "tag" : "Tool",
       "name" : "Expansion Slot Utility Big Sur"
+    },
+    {
+      "category" : "Finance",
+      "color" : "blue,white",
+      "created_at" : "2025-06-16 19:52:09",
+      "developer" : "DesignTech SIA",
+      "link" : "https:\/\/www.designtech.so",
+      "icon_url" : "https:\/\/i.postimg.cc\/vB4sTGMm\/Expense-Tracker-Accountit.png",
+      "tag" : "Rectangle",
+      "name" : "Expense Tracker - Accountit"
+    },
+    {
+      "category" : "Finance",
+      "color" : "purple,white",
+      "created_at" : "2025-06-16 19:51:18",
+      "developer" : "Blue Comet Labs LLC",
+      "link" : "https:\/\/getexpenses.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/CMf0VMmP\/Expenses-Spending-Tracker.png",
+      "tag" : "Rectangle",
+      "name" : "Expenses - Spending Tracker"
     },
     {
       "category" : "Finance",
@@ -9154,7 +9194,7 @@
       "category" : "Developer Tools",
       "color" : "green,white,black",
       "created_at" : "2020-09-21 01:19:46",
-      "developer" : "ChouTi.io",
+      "developer" : "Honghao Zhang",
       "link" : "http:\/\/git-streaks.chouti.io",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93717501-d089f100-fba8-11ea-9d6c-7d63406a4dc7.png",
       "tag" : "Round,Octopus",
@@ -9571,6 +9611,16 @@
       "name" : "Gyroflow Toolbox"
     },
     {
+      "category" : "Health & Fitness",
+      "color" : "red,orange,yellow,blue",
+      "created_at" : "2025-06-16 19:49:17",
+      "developer" : "Metronome Software Pty Ltd",
+      "link" : "http:\/\/horizonhabit.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/hvxR8MXW\/Habit-Tracker-Horizon.png",
+      "tag" : "Rectangle,Sun",
+      "name" : "Habit Tracker - Horizon"
+    },
+    {
       "category" : "Productivity",
       "color" : "blue,white,silver",
       "created_at" : "2018-10-30 10:58:14",
@@ -9767,7 +9817,7 @@
       "developer" : "Modum B.V.",
       "link" : "https:\/\/helm-app.com",
       "icon_url" : "https:\/\/i.postimg.cc\/LXw9x8dd\/Helm.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Blueprint",
       "name" : "Helm"
     },
     {
@@ -10387,7 +10437,7 @@
       "developer" : "Mediaware",
       "link" : "http:\/\/mediaware.sk\/ware\/?page_id=489",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574738-10219d6a-73b4-11e8-9eb5-d3611c0192e4.png",
-      "tag" : "Document,Tilt",
+      "tag" : "Document,Tilt,Blueprint",
       "name" : "Icon Creator"
     },
     {
@@ -10877,7 +10927,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/www.apple.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99486313-fb24da00-299e-11eb-929c-ead69189c202.png",
-      "tag" : "Rectangle,Disk",
+      "tag" : "Rectangle,Disk,Blueprint",
       "name" : "Install Command Line Developer Tools Big Sur"
     },
     {
@@ -11397,7 +11447,7 @@
       "developer" : "Irradiated Software",
       "link" : "https:\/\/www.irradiatedsoftware.com\/labs\/#jazzup",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41574781-1c0e514a-73b4-11e8-9d69-f1a759096343.png",
-      "tag" : "Flask",
+      "tag" : "Flask,Blueprint",
       "name" : "JazzUp"
     },
     {
@@ -12202,6 +12252,16 @@
     },
     {
       "category" : "Lifestyle",
+      "color" : "orange,blue,black",
+      "created_at" : "2025-04-14 00:36:05",
+      "developer" : "Honghao Zhang",
+      "link" : "https:\/\/apps.apple.com\/us\/app\/lickable-menu-bar\/id6444217677",
+      "icon_url" : "https:\/\/i.postimg.cc\/02dL8zmf\/Lickable-Menu-Bar.png",
+      "tag" : "Rectangle",
+      "name" : "Lickable Menu Bar"
+    },
+    {
+      "category" : "Lifestyle",
       "color" : "orange,yellow,brown",
       "created_at" : "2019-09-25 00:14:07",
       "developer" : "MacAppStudio",
@@ -12429,6 +12489,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/109313598-59593700-7883-11eb-8576-387c7dbd7293.png",
       "tag" : "Flag",
       "name" : "Localization & Region Big Sur"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2025-05-09 21:59:55",
+      "developer" : "Sarun Wongpatcharapakorn",
+      "link" : "https:\/\/localizationbuddy.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/SxSHjmfp\/Localization-Buddy.png",
+      "tag" : "Rectangle,Book,Blueprint",
+      "name" : "Localization Buddy"
     },
     {
       "category" : "Utilities",
@@ -13357,7 +13427,7 @@
       "developer" : "Any Case Solutions",
       "link" : "https:\/\/anycasesolutions.com",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99869942-00d22800-2c0a-11eb-8b55-41d8e75e5933.png",
-      "tag" : "Rectangle,Pen",
+      "tag" : "Rectangle,Pen,Blueprint",
       "name" : "Make My App - Mockup Designer"
     },
     {
@@ -16692,6 +16762,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "red,green,blue,white",
+      "created_at" : "2025-05-29 22:45:30",
+      "developer" : "Pixelmator Team",
+      "link" : "https:\/\/www.pixelmator.com\/photomator\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/kXd03QVG\/Photomator.png",
+      "tag" : "Rectangle",
+      "name" : "Photomator"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "brown",
       "created_at" : "2018-10-30 10:28:32",
       "developer" : "Overmacs Team",
@@ -17422,6 +17502,16 @@
     },
     {
       "category" : "Photo & Video",
+      "color" : "red,blue,white",
+      "created_at" : "2025-05-29 22:46:53",
+      "developer" : "Zykloid Software",
+      "link" : "https:\/\/www.zykloid.com\/posterino",
+      "icon_url" : "https:\/\/i.postimg.cc\/ZqRksJWL\/Posterino-5.png",
+      "tag" : "Photo,Rectangle",
+      "name" : "Posterino 5"
+    },
+    {
+      "category" : "Photo & Video",
       "color" : "red,blue",
       "created_at" : "2019-09-12 03:12:24",
       "developer" : "Zykloid Software",
@@ -17499,6 +17589,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/68129151-08b62000-ff54-11e9-9138-bb68a3710ce2.png",
       "tag" : "Magnifier,Robot",
       "name" : "PowerSelect"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "purple,white,silver",
+      "created_at" : "2025-06-16 19:47:52",
+      "developer" : "Harry Shamansky",
+      "link" : "https:\/\/apps.apple.com\/us\/app\/precircuiter\/id1041643812",
+      "icon_url" : "https:\/\/i.postimg.cc\/xTD2jrZ0\/Precircuiter.png",
+      "tag" : "Rectangle,Pen",
+      "name" : "Precircuiter"
     },
     {
       "category" : "Developer Tools",
@@ -17607,7 +17707,7 @@
       "developer" : "Thomas Brandstaetter",
       "link" : "https:\/\/macpricetag.com",
       "icon_url" : "https:\/\/i.postimg.cc\/C1xZXfQr\/Pricetag.png",
-      "tag" : "Rectangle,Wand",
+      "tag" : "Rectangle,Wand,Blueprint",
       "name" : "Pricetag"
     },
     {
@@ -18469,6 +18569,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93717500-cbc53d00-fba8-11ea-95c7-15c0464346e2.png",
       "tag" : "Rectangle",
       "name" : "Recordia"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "red,white",
+      "created_at" : "2025-05-29 22:47:40",
+      "developer" : "Perpetio OU",
+      "link" : "https:\/\/www.recordr.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/y6RMbQ82\/Recordr.png",
+      "tag" : "Rectangle",
+      "name" : "Recordr"
     },
     {
       "category" : "Productivity",
@@ -19903,6 +20013,16 @@
     {
       "category" : "Music",
       "color" : "blue,white",
+      "created_at" : "2025-06-16 19:47:09",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/7Y3yfsvS\/Shazam-2.png",
+      "tag" : "Rectangle",
+      "name" : "Shazam 2"
+    },
+    {
+      "category" : "Music",
+      "color" : "blue,white",
       "created_at" : "2018-10-30 10:10:34",
       "developer" : "Shazam Entertainment Limited",
       "link" : "https:\/\/www.shazam.com",
@@ -20009,6 +20129,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575154-83e0a052-73b4-11e8-9580-0c64326d01a4.png",
       "tag" : "Rectangle,Tilt",
       "name" : "Shortcuts"
+    },
+    {
+      "category" : "Photo & Video",
+      "color" : "blue,white,black",
+      "created_at" : "2025-04-14 00:04:29",
+      "developer" : "Reel Apps Inc.",
+      "link" : "https:\/\/shotlister.com\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/FHT8LwTk\/Shot-Lister.png",
+      "tag" : "Rectangle,Check",
+      "name" : "Shot Lister"
     },
     {
       "category" : "Developer Tools",
@@ -20407,7 +20537,7 @@
       "developer" : "MartianCraft, LLC",
       "link" : "http:\/\/martiancraft.com\/products",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575176-88850ea4-73b4-11e8-8383-bff768e08d8d.png",
-      "tag" : "Document",
+      "tag" : "Document,Blueprint",
       "name" : "Slender"
     },
     {
@@ -22321,6 +22451,16 @@
       "name" : "TextWrangler"
     },
     {
+      "category" : "Games",
+      "color" : "red,yellow,blue,white",
+      "created_at" : "2025-05-29 22:20:03",
+      "developer" : "Coal Supper",
+      "link" : "https:\/\/thankgoodness.game\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/VNHx32MP\/Thank-Goodness-You-re-Here.png",
+      "tag" : "Rectangle,Character",
+      "name" : "Thank Goodness You're Here!"
+    },
+    {
       "category" : "Utilities",
       "color" : "brown,black",
       "created_at" : "2018-10-30 10:59:07",
@@ -23097,7 +23237,7 @@
       "developer" : "Elevenworks LLC",
       "link" : "http:\/\/elevenworks.com\/touchdraw\/mac",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/43037408-6fbf2590-8d3f-11e8-8700-7af3a6f6e21b.png",
-      "tag" : "Document,Pencil,Tilt",
+      "tag" : "Document,Pencil,Tilt,Blueprint",
       "name" : "TouchDraw"
     },
     {
@@ -23279,6 +23419,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/99025631-36409b00-25a4-11eb-8e74-4bb72bfe4c75.png",
       "tag" : "Rectangle,Truck",
       "name" : "Transmit 5.6.7"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
+      "created_at" : "2025-02-03 22:41:25",
+      "developer" : "Apple",
+      "link" : "https:\/\/www.apple.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/Sxmb86q3\/Transporter.png",
+      "tag" : "Rectangle",
+      "name" : "Transporter"
     },
     {
       "category" : "Utilities",
@@ -24292,6 +24442,16 @@
     },
     {
       "category" : "Developer Tools",
+      "color" : "blue,white",
+      "created_at" : "2025-05-29 22:51:07",
+      "developer" : "Wessley Roche",
+      "link" : "https:\/\/apps.apple.com\/us\/app\/verba-string-catalog-editor\/id6745963779",
+      "icon_url" : "https:\/\/i.postimg.cc\/cCfPtHzd\/Verba.png",
+      "tag" : "Rectangle",
+      "name" : "Verba"
+    },
+    {
+      "category" : "Developer Tools",
       "color" : "yellow,green,white",
       "created_at" : "2018-10-30 10:39:51",
       "developer" : "Letter Opener GmbH",
@@ -24437,8 +24597,18 @@
       "developer" : "Tae Won Ha",
       "link" : "http:\/\/vimr.org",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575344-be3e73fa-73b4-11e8-8b5e-3050a0ca58ea.png",
-      "tag" : "Tool,Tilt",
+      "tag" : "Tool,Tilt,Code",
       "name" : "VimR"
+    },
+    {
+      "category" : "Music",
+      "color" : "purple,black",
+      "created_at" : "2025-05-29 22:54:39",
+      "developer" : "兰裕涛",
+      "link" : "https:\/\/apps.apple.com\/us\/app\/vinylpod-music-widget\/id6443989711",
+      "icon_url" : "https:\/\/i.postimg.cc\/852qCWty\/VinylPod.png",
+      "tag" : "Rectangle",
+      "name" : "VinylPod"
     },
     {
       "category" : "Music",
@@ -25187,7 +25357,7 @@
       "developer" : "Irradiated Software",
       "link" : "https:\/\/www.irradiatedsoftware.com\/labs\/#winfo",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/41575379-cb21a60a-73b4-11e8-96f8-7726fdc7f64b.png",
-      "tag" : "Flask,Tilt",
+      "tag" : "Flask,Tilt,Blueprint",
       "name" : "Winfo"
     },
     {
@@ -25407,7 +25577,7 @@
       "developer" : "Apple",
       "link" : "https:\/\/developer.apple.com\/xcode\/",
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/93914242-d9113180-fd38-11ea-890b-df0823be744a.png",
-      "tag" : "Rectangle",
+      "tag" : "Rectangle,Blueprint",
       "name" : "Xcode 12"
     },
     {
@@ -25811,5 +25981,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2025-03-23 21:47:07 GMT+8"
+  "update_time" : "2025-05-29 23:17:34 GMT+8"
 }
