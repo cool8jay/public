@@ -8182,6 +8182,26 @@
     },
     {
       "category" : "Productivity",
+      "color" : "blue,silver,black",
+      "created_at" : "2025-03-19 21:33:46",
+      "developer" : "Median Tech, s.r.o.",
+      "link" : "https:\/\/focuslist.co\/",
+      "icon_url" : "https:\/\/i.postimg.cc\/brtLnWFy\/Focus-List.png",
+      "tag" : "Rectangle,Clock",
+      "name" : "FocusList"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white",
+      "created_at" : "2025-03-19 21:33:48",
+      "developer" : "Median Tech, s.r.o.",
+      "link" : "https:\/\/apps.apple.com\/us\/app\/focuslite-website-blocker\/id1515566936?mt=12",
+      "icon_url" : "https:\/\/i.postimg.cc\/LXhx9ntZ\/Focus-Lite.png",
+      "tag" : "Rectangle,Pointer",
+      "name" : "FocusLite"
+    },
+    {
+      "category" : "Productivity",
       "color" : "green,blue,purple,white",
       "created_at" : "2020-11-13 09:23:07",
       "developer" : "Andrea Gelati",
@@ -8619,6 +8639,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/123547616-13aa6d80-d794-11eb-8926-b2b68db042f0.png",
       "tag" : "Rectangle,Character",
       "name" : "Framer"
+    },
+    {
+      "category" : "Developer Tools",
+      "color" : "black,brown,silver,orange",
+      "created_at" : "2025-03-19 21:33:50",
+      "developer" : "Dark Noise LLC",
+      "link" : "https:\/\/framous.app",
+      "icon_url" : "https:\/\/i.postimg.cc\/pds0MDFH\/Framous.png",
+      "tag" : "Rectangle",
+      "name" : "Framous"
     },
     {
       "category" : "Developer Tools",
@@ -14059,6 +14089,16 @@
       "icon_url" : "https:\/\/user-images.githubusercontent.com\/55504\/67587264-15818980-f786-11e9-9743-ff86953ebbc3.png",
       "tag" : "Rectangle",
       "name" : "Mini Metro"
+    },
+    {
+      "category" : "Productivity",
+      "color" : "blue,white,brown",
+      "created_at" : "2025-03-19 21:33:52",
+      "developer" : "Median Tech, s.r.o.",
+      "link" : "https:\/\/apps.apple.com\/us\/app\/miniblocker-website-blocker\/id1588540184?mt=12",
+      "icon_url" : "https:\/\/i.postimg.cc\/fLFBJDCq\/Mini-Blocker.png",
+      "tag" : "Rectangle,Pointer",
+      "name" : "MiniBlocker"
     },
     {
       "category" : "Productivity",
@@ -25033,6 +25073,16 @@
     {
       "category" : "Utilities",
       "color" : "blue,white",
+      "created_at" : "2025-03-19 21:33:55",
+      "developer" : "Median Tech, s.r.o.",
+      "link" : "https:\/\/whispertype.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/FFdTwkFM\/Whisper-Type.png",
+      "tag" : "Rectangle,Wave",
+      "name" : "WhisperType"
+    },
+    {
+      "category" : "Utilities",
+      "color" : "blue,white",
       "created_at" : "2021-02-16 17:30:14",
       "developer" : "noidentity gmbh",
       "link" : "https:\/\/noidentity.ch\/widgeridoo",
@@ -25761,5 +25811,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2025-03-18 19:43:30 GMT+8"
+  "update_time" : "2025-03-19 21:41:23 GMT+8"
 }
