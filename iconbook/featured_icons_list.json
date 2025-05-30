@@ -2137,7 +2137,7 @@
       "developer" : "Cody Bromley",
       "link" : "https:\/\/blankie.rest",
       "icon_url" : "https:\/\/i.postimg.cc\/q7HQ0mQX\/Blankie.png",
-      "tag" : "",
+      "tag" : "Blanket",
       "name" : "Blankie"
     },
     {
@@ -21941,6 +21941,16 @@
       "name" : "Swift Publisher 5"
     },
     {
+      "category" : "Business",
+      "color" : "blue,white",
+      "created_at" : "2025-05-30 18:13:06",
+      "developer" : "Swiftly Workspace",
+      "link" : "https:\/\/www.swiftly-workspace.com",
+      "icon_url" : "https:\/\/i.postimg.cc\/PJYBfLYP\/Swiftly-Business-Workspace.png",
+      "tag" : "Rectangle,Blueprint",
+      "name" : "Swiftly - Business Workspace"
+    },
+    {
       "category" : "Utilities",
       "color" : "red,white,silver",
       "created_at" : "2019-08-31 06:09:54",
@@ -26081,5 +26091,5 @@
       "name" : "小章鱼"
     }
   ],
-  "update_time" : "2025-05-30 19:19:50 GMT+8"
+  "update_time" : "2025-05-30 19:22:58 GMT+8"
 }
