@@ -1,13 +1,26 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Feed: https://raw.githubusercontent.com/cool8jay/public/master/captin/appcast.xml
+     Zip naming: Captin.zip = latest; Captin{version}.zip = archive (Captin1.3.1.zip, Captin2.0.zip).
+     Publish: ./scripts/release.sh  →  ~/Documents/Projects/public/captin/ -->
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Captin</title>
+
+        <!-- macOS 11.5+: 2.0 launch uses link-only so 1.3.1 clients (old SUPublicEDKey) are not offered
+             a signed enclosure they cannot verify. Future 2.0.1+ items use enclosure + informationalUpdate. -->
         <item>
-            <title>Captin</title>
+            <title>Captin 2.0</title>
             <description>
                 <![CDATA[
+                    <h1>Version 2.0</h1>
+                    <ul>
+                    <li>Rewritten entirely in Swift.</li>
+                    <li>Various minor improvements.</li>
+                    </ul>
+                    <p>Requires macOS 11.5 (Big Sur) or later. If your Mac is on macOS 10.13&ndash;11.4, please stay on version 1.3.1 and do not upgrade to 2.0.</p>
+                    <hr>
                     <h1>Version 1.3.1</h1>
-                    <h2>Added: </h2>
+                    <h2>Added:</h2>
                     <ul>
                     <li>Support Apple CPU.</li>
                     </ul>
@@ -16,66 +29,150 @@
                     <li>User experience.</li>
                     </ul>
                     <hr>
-                <h1>Version 1.3</h1>
-                <h2>Added: </h2>
-                <ul>
-                <li>Restore default setting.</li>
-                </ul>
-                <h2>Improved:</h2>
-                <ul>
-                <li>Monitor information fetching.</li>
-                </ul>
-                
-                <hr>
-                <h1>Version 1.2.1</h1>
-                <h2>Fixed: </h2>
-                <ul>
-                <li>Compatibility issue on Mac Ventura.</li>
-                </ul>
-                <hr>
-                <h1>Version 1.2</h1>
-                <h2>Added: </h2>
-                <ul>
-                <li>New way to position HUD window.<p>Captin can position HUD window centered on screen in horizontal or vertical direction, Or, set an offset for HUD window in horizontal or vertical direction.</p></li>
-                </ul>
-                <h2>Improved:</h2>
-                <ul>
-                <li>Captin is now notarized by Apple.</li>
-                <li>HUD can be placed on any position on screen, including menu bar.</li>
-                </ul>
-                <h2>Fixed: </h2>
-                <ul>
-                <li>Compatibility issue on macOS Ventura.</li>
-                </ul>
-                <hr>
-                <h1>Version 1.1.7</h1>
-                <h2>Fixed: </h2>
-                <ul>
-                <li>Do not show input method change notification repeatedly.</li>
-                </ul>
-                <hr>
-                <h1>Version 1.1.6</h1>
-                <h2>Fixed: </h2>
-                <ul>
-                <li>Caps lock status is changed to off when the user switches to another input method.</li>
-                </ul>
-                <h2>Updated:</h2>
-                <ul>
-                <li>Display information for compatibility.</li>
-                </ul>
-                <hr>
-                <h1>Version 1.1.5</h1>
-                <h2>Fixed: </h2>
-                <ul>
-                <li>Issue on some models that can not get display preview info.</li>
-                </ul>
-                <hr>
-                <p2>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p2>
+                    <h1>Version 1.3</h1>
+                    <h2>Added:</h2>
+                    <ul>
+                    <li>Restore default setting.</li>
+                    </ul>
+                    <h2>Improved:</h2>
+                    <ul>
+                    <li>Monitor information fetching.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.2.1</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Compatibility issue on Mac Ventura.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.2</h1>
+                    <h2>Added:</h2>
+                    <ul>
+                    <li>New way to position HUD window.<p>Captin can position HUD window centered on screen in horizontal or vertical direction, or set an offset for HUD window in horizontal or vertical direction.</p></li>
+                    </ul>
+                    <h2>Improved:</h2>
+                    <ul>
+                    <li>Captin is now notarized by Apple.</li>
+                    <li>HUD can be placed on any position on screen, including menu bar.</li>
+                    </ul>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Compatibility issue on macOS Ventura.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.1.7</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Do not show input method change notification repeatedly.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.1.6</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Caps lock status is changed to off when the user switches to another input method.</li>
+                    </ul>
+                    <h2>Updated:</h2>
+                    <ul>
+                    <li>Display information for compatibility.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.1.5</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Issue on some models that can not get display preview info.</li>
+                    </ul>
+                    <hr>
+                    <p>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p>
+                ]]>
+            </description>
+            <pubDate>Tue, 07 Jul 2026 21:36:56 +0800</pubDate>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+            <link>https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip</link>
+        </item>
+
+        <!-- macOS 10.13–11.4: cap at 1.3.1 -->
+        <item>
+            <title>Captin 1.3.1</title>
+            <description>
+                <![CDATA[
+                    <h1>Version 1.3.1</h1>
+                    <h2>Added:</h2>
+                    <ul>
+                    <li>Support Apple CPU.</li>
+                    </ul>
+                    <h2>Improved:</h2>
+                    <ul>
+                    <li>User experience.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.3</h1>
+                    <h2>Added:</h2>
+                    <ul>
+                    <li>Restore default setting.</li>
+                    </ul>
+                    <h2>Improved:</h2>
+                    <ul>
+                    <li>Monitor information fetching.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.2.1</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Compatibility issue on Mac Ventura.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.2</h1>
+                    <h2>Added:</h2>
+                    <ul>
+                    <li>New way to position HUD window.<p>Captin can position HUD window centered on screen in horizontal or vertical direction, or set an offset for HUD window in horizontal or vertical direction.</p></li>
+                    </ul>
+                    <h2>Improved:</h2>
+                    <ul>
+                    <li>Captin is now notarized by Apple.</li>
+                    <li>HUD can be placed on any position on screen, including menu bar.</li>
+                    </ul>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Compatibility issue on macOS Ventura.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.1.7</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Do not show input method change notification repeatedly.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.1.6</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Caps lock status is changed to off when the user switches to another input method.</li>
+                    </ul>
+                    <h2>Updated:</h2>
+                    <ul>
+                    <li>Display information for compatibility.</li>
+                    </ul>
+                    <hr>
+                    <h1>Version 1.1.5</h1>
+                    <h2>Fixed:</h2>
+                    <ul>
+                    <li>Issue on some models that can not get display preview info.</li>
+                    </ul>
+                    <hr>
+                    <p>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p>
                 ]]>
             </description>
             <pubDate>Sun, 17 Sep 2023 11:25:09 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip" sparkle:version="179" sparkle:shortVersionString="1.3.1" length="1810081" type="application/octet-stream" sparkle:edSignature="yDFw2+fFRYiySt2ysys0M0shV1oh9s+JhxHdgPjyAUv9i7JNhxZoy/g/6m3k9WxswweJypvy0vFZoDX1X3R+BQ=="/>
+            <sparkle:maximumSystemVersion>11.4</sparkle:maximumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin1.3.1.zip"
+                       sparkle:version="179"
+                       sparkle:shortVersionString="1.3.1"
+                       length="1810081"
+                       type="application/octet-stream"
+                       sparkle:edSignature="yDFw2+fFRYiySt2ysys0M0shV1oh9s+JhxHdgPjyAUv9i7JNhxZoy/g/6m3k9WxswweJypvy0vFZoDX1X3R+BQ=="/>
         </item>
+
     </channel>
 </rss>
