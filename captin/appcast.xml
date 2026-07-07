@@ -12,15 +12,12 @@
             <title>Captin 2.0</title>
             <description>
                 <![CDATA[
-                    <p><strong>How to upgrade to Captin 2.0:</strong> click the <strong>Learn More…</strong> button below. Your browser will download the latest <strong>Captin.zip</strong>. Open the zip, then drag Captin to Applications to replace version 1.3.1.</p>
-                    <p><strong>如何升级到 Captin 2.0：</strong>请点击下方 <strong>Learn More…</strong> 按钮，浏览器会下载最新的 <strong>Captin.zip</strong>。解压后将 Captin 拖入「应用程序」文件夹，替换 1.3.1 版本。</p>
-                    <hr>
                     <h1>Version 2.0</h1>
                     <ul>
                     <li>Rewritten entirely in Swift.</li>
                     <li>Various minor improvements.</li>
                     </ul>
-                    <p>Requires macOS 11.5 (Big Sur) or later. If your Mac is on macOS 10.13&ndash;11.4, please stay on version 1.3.1 and do not upgrade to 2.0.</p>
+                    <p>Requires macOS 11.5 (Big Sur) or later. If your Mac is on macOS 10.13&ndash;11.4, please stay on version 1.3.1 and do not upgrade to 2.0. <strong>Click Learn More… to download.</strong></p>
                     <hr>
                     <h1>Version 1.3.1</h1>
                     <h2>Added:</h2>
