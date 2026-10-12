@@ -6,12 +6,17 @@
     <channel>
         <title>Captin</title>
 
-        <!-- macOS 11.5+: 2.0 → 2.0.1 in-app update (signed enclosure).
+        <!-- macOS 11.5+: 2.0.x in-app update (signed enclosure).
              Clients below build 200 (1.3.1, old SUPublicEDKey) see informational only. -->
         <item>
-            <title>Captin 2.0.1</title>
+            <title>Captin 2.0.2</title>
             <description>
                 <![CDATA[
+                    <h1>Version 2.0.2</h1>
+                    <ul>
+                    <li>HUD display position (X and Y) now persists correctly after restart.</li>
+                    </ul>
+                    <hr>
                     <h1>Version 2.0.1</h1>
                     <ul>
                     <li>Dock icon and menu bar icon preferences are saved correctly after restart.</li>
@@ -27,28 +32,33 @@
                     <p>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p>
                 ]]>
             </description>
-            <pubDate>Tue, 14 Jul 2026 00:43:49 +0800</pubDate>
-            <sparkle:version>203</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <pubDate>Mon, 12 Oct 2026 22:25:04 +0800</pubDate>
+            <sparkle:version>205</sparkle:version>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
             <link>https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip</link>
             <sparkle:informationalUpdate>
                 <sparkle:belowVersion>200</sparkle:belowVersion>
             </sparkle:informationalUpdate>
             <enclosure url="https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip"
-                       sparkle:version="203"
-                       sparkle:shortVersionString="2.0.1"
-                       length="2166439"
+                       sparkle:version="205"
+                       sparkle:shortVersionString="2.0.2"
+                       length="2209377"
                        type="application/octet-stream"
-                       sparkle:edSignature="o2VcVU0qlXdsKYRepGg+FHJusc5NKcgNT4YOyAANdCTIflYuR/jT30+96ZO7RXZaeDLij1GkRoOKhOgtmzw3Dw=="/>
+                       sparkle:edSignature="fjUN5R83csyHNXF2ddK6yb37dI1eT94b5cWSV+6V9d79OZydsjxNevtakVlCAqapb3xgw1fkWIC9n7+ecXmJCQ=="/>
         </item>
 
-        <!-- Pre-2.0 (e.g. 1.3.1): link-only Learn More → download Captin 2.0.1 externally.
+        <!-- Pre-2.0 (e.g. 1.3.1): link-only Learn More → download Captin 2.0.2 externally.
              No enclosure — old clients cannot verify the new Sparkle public key. -->
         <item>
-            <title>Captin 2.0.1</title>
+            <title>Captin 2.0.2</title>
             <description>
                 <![CDATA[
+                    <h1>Version 2.0.2</h1>
+                    <ul>
+                    <li>HUD display position (X and Y) now persists correctly after restart.</li>
+                    </ul>
+                    <hr>
                     <h1>Version 2.0.1</h1>
                     <ul>
                     <li>Dock icon and menu bar icon preferences are saved correctly after restart.</li>
@@ -59,7 +69,7 @@
                     <li>Rewritten entirely in Swift.</li>
                     <li>Various minor improvements.</li>
                     </ul>
-                    <p>Requires macOS 11.5 (Big Sur) or later. If your Mac is on macOS 10.13&ndash;11.4, please stay on version 1.3.1 and do not upgrade. <strong>Click Learn More… to download Captin 2.0.1.</strong></p>
+                    <p>Requires macOS 11.5 (Big Sur) or later. If your Mac is on macOS 10.13&ndash;11.4, please stay on version 1.3.1 and do not upgrade. <strong>Click Learn More… to download Captin 2.0.2.</strong></p>
                     <hr>
                     <h1>Version 1.3.1</h1>
                     <h2>Added:</h2>
@@ -127,9 +137,9 @@
                     <p>For issue or question about our app, please mail us: <a href="mailto:support@100hps.com">support@100hps.com</a></p>
                 ]]>
             </description>
-            <pubDate>Tue, 14 Jul 2026 00:43:49 +0800</pubDate>
-            <sparkle:version>203</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <pubDate>Mon, 12 Oct 2026 22:25:04 +0800</pubDate>
+            <sparkle:version>205</sparkle:version>
+            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
             <link>https://raw.githubusercontent.com/cool8jay/public/master/captin/Captin.zip</link>
         </item>
